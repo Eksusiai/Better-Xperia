@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="reminder_methods_labels">
+    <item msgid="5172236776878811487">"通知"</item>
+    <item msgid="1751151680520784746">"電子郵件"</item>
+    <item msgid="2658001219380695677">"簡訊"</item>
+    <item msgid="7926918288165444873">"鬧鐘"</item>
+  </string-array>
+  <string-array name="availability">
+    <item msgid="454869065893453189">"忙碌"</item>
+    <item msgid="6228387173725732140">"有空"</item>
+    <item msgid="2064426942462573474">"未定"</item>
+  </string-array>
+  <string-array name="response_labels1">
+    <item msgid="5605392595848194997">"沒有回應"</item>
+    <item msgid="3724434080904437698">"是"</item>
+    <item msgid="8854145743148992583">"不確定"</item>
+    <item msgid="6174292185978948873">"否"</item>
+  </string-array>
+  <string-array name="delete_repeating_labels">
+    <item msgid="4208432367651646938">"僅限此活動"</item>
+    <item msgid="1536401639805370405">"這項活動及未來活動"</item>
+    <item msgid="7833229563617435430">"所有活動"</item>
+  </string-array>
+  <string-array name="change_response_labels">
+    <item msgid="3466644709343519437">"僅限這項活動"</item>
+    <item msgid="140670561403965380">"所有後續活動"</item>
+  </string-array>
+  <string-array name="buttons_list">
+    <item msgid="5917946202321434335">"天"</item>
+    <item msgid="6248480754959562740">"週"</item>
+    <item msgid="4298472806133153766">"月"</item>
+    <item msgid="5033084974413793845">"待辦事項"</item>
+  </string-array>
+  <string-array name="preferences_skip_reminders_labels">
+    <item msgid="2285927842308686988">"僅限拒絕時"</item>
+    <item msgid="6367412240524984286">"拒絕或未回應時"</item>
+  </string-array>
+  <string-array name="recurrence_freq">
+    <item msgid="3388478383574917007">"每天重複"</item>
+    <item msgid="6300824484048337842">"每週重複"</item>
+    <item msgid="189361731610816256">"每月重複"</item>
+    <item msgid="8714177874112569158">"每年重複"</item>
+  </string-array>
+  <string-array name="repeat_by_nth_sun">
+    <item msgid="143841313172233420">"每月第一個週日"</item>
+    <item msgid="2557379346106451363">"每月第二個週日"</item>
+    <item msgid="7622144489915654132">"每月第三個週日"</item>
+    <item msgid="527152448137686021">"每月第四個週日"</item>
+    <item msgid="5057483608824759350">"每月最後一個週日"</item>
+  </string-array>
+  <string-array name="repeat_by_nth_mon">
+    <item msgid="7539974918997689048">"每月第一個週一"</item>
+    <item msgid="4484275849072423978">"每月第二個週一"</item>
+    <item msgid="8956169860824371383">"每月第三個週一"</item>
+    <item msgid="6924403357659569326">"每月第四個週一"</item>
+    <item msgid="1379608815263472161">"每月最後一個週一"</item>
+  </string-array>
+  <string-array name="repeat_by_nth_tues">
+    <item msgid="8690802834039790777">"每月第一個週二"</item>
+    <item msgid="9063613547307760928">"每月第二個週二"</item>
+    <item msgid="6688603328729208168">"每月第三個週二"</item>
+    <item msgid="6695206006961533357">"每月第四個週二"</item>
+    <item msgid="8619069174889809914">"每月最後一個週二"</item>
+  </string-array>
+  <string-array name="repeat_by_nth_wed">
+    <item msgid="3233850232075584386">"每月第一個週三"</item>
+    <item msgid="5059722045367799217">"每月第二個週三"</item>
+    <item msgid="7986246648229272275">"每月第三個週三"</item>
+    <item msgid="9068566169348980801">"每月第四個週三"</item>
+    <item msgid="7976866743069062134">"每月最後一個週三"</item>
+  </string-array>
+  <string-array name="repeat_by_nth_thurs">
+    <item msgid="920673677566009313">"每月第一個週四"</item>
+    <item msgid="4857419136007543270">"每月第二個週四"</item>
+    <item msgid="222044587450564839">"每月第三個週四"</item>
+    <item msgid="6197927556533030945">"每月第四個週四"</item>
+    <item msgid="1023326923033436905">"每月最後一個週四"</item>
+  </string-array>
+  <string-array name="repeat_by_nth_fri">
+    <item msgid="6534500380525126157">"每月第一個週五"</item>
+    <item msgid="1935608297230506940">"每月第二個週五"</item>
+    <item msgid="4061877662049317599">"每月第三個週五"</item>
+    <item msgid="6856646749131820614">"每月第四個週五"</item>
+    <item msgid="6533513913914859794">"每月最後一個週五"</item>
+  </string-array>
+  <string-array name="repeat_by_nth_sat">
+    <item msgid="3556369572649948699">"每月第一個週六"</item>
+    <item msgid="9130198690512925355">"每月第二個週六"</item>
+    <item msgid="4525736070844032405">"每月第三個週六"</item>
+    <item msgid="422053689531707709">"每月第四個週六"</item>
+    <item msgid="5499975799312474425">"每月最後一個週六"</item>
+  </string-array>
+
+  <string-array name="timezone_rename_labels">
+    <item msgid="4609638052107641231">"澳洲中部時間 - 北領地"</item>
+    <item msgid="4345275500159159867">"澳洲中部時間 - 南澳"</item>
+    <item msgid="6771274300523132094">"澳洲東部時間 - 昆士蘭"</item>
+    <item msgid="4685547681424666687">"澳洲東部時間 - 新南威爾斯"</item>
+    <item msgid="5259393186526893961">"山區標準時間 - 道森克里克"</item>
+    <item msgid="5984634754870859705">"中部標準時間 - 薩克斯其萬"</item>
+    <item msgid="5340374311583423836">"東部標準時間 - 阿蒂科肯"</item>
+    <item msgid="8922086438245451625">"大西洋標準時間 - 魁北克"</item>
+    <item msgid="8353677384517034413">"夏威夷-阿留申時間 - 夏威夷"</item>
+    <item msgid="6426791761018806420">"夏威夷-阿留申時間 - 阿拉斯加"</item>
+    <item msgid="7076353182411415610">"太平洋標準時間 - 梅特拉卡特拉"</item>
+    <item msgid="373990592918179890">"山區標準時間 - 亞利桑那"</item>
+    <item msgid="353899326999279114">"太平洋時間 - 下加利福尼亞"</item>
+    <item msgid="6432134534714673873">"山區時間 - 奇瓦瓦"</item>
+    <item msgid="7629345735485663968">"中部時間 - 塔茅利巴斯"</item>
+    <item msgid="3874729044260979505">"山區時間 - 索諾拉"</item>
+    <item msgid="1106209575683600471">"東非時間"</item>
+    <item msgid="6538017087072480128">"大西洋標準時間"</item>
+    <item msgid="6758957851822881177">"大西洋標準時間"</item>
+    <item msgid="2477556470536619081">"東歐時間"</item>
+    <item msgid="7328461310893621937">"加里寧格勒時間"</item>
+    <item msgid="4212642599758736931">"亞馬遜 - 朗多尼亞"</item>
+    <item msgid="2370319280810537375">"巴西利亞 - 帕拉"</item>
+  </string-array>
+  <string-array name="backup_country_names">
+    <item msgid="9141777876082196578">"聖馬丁"</item>
+    <item msgid="5330962017221568054">"荷蘭加勒比海屬地"</item>
+    <item msgid="1465164631761814300">"庫拉索"</item>
+    <item msgid="8972081011408691260">"南蘇丹"</item>
+  </string-array>
+</resources>

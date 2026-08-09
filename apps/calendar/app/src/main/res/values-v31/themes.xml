@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--System palette (Android 12+)-->
+    <style name="CalendarAppThemeLightMonet" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@android:color/system_accent1_500</item>
+        <item name="colorPrimaryDark">@android:color/system_accent1_800</item>
+        <item name="colorAccent">@android:color/system_accent2_500</item>
+        <item name="android:windowBackground">@android:color/system_neutral1_10</item>
+        <item name="android:itemBackground">@android:color/system_neutral1_10</item>
+        <item name="autoCompleteTextViewStyle">@style/actionbar_cursor</item>
+       <item name="calendarSpinnerDisabledTextColor">@color/calendar_item_disabled</item>
+    </style>
+    <style name="CalendarAppThemeDarkMonet" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@android:color/system_accent1_500</item>
+        <item name="colorPrimaryDark">@android:color/system_accent1_900</item>
+        <item name="colorAccent">@android:color/system_accent2_400</item>
+        <item name="android:windowBackground">@android:color/system_neutral1_800</item>
+        <item name="android:itemBackground">@android:color/system_neutral1_800</item>
+        <item name="actionBarPopupTheme">@style/ThemeOverlay.AppCompat.Dark</item>
+    </style>
+    <style name="CalendarAppThemeBlackMonet" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@android:color/system_accent1_500</item>
+        <item name="colorPrimaryDark">@color/bg_black</item>
+        <item name="colorAccent">@android:color/system_accent2_400</item>
+        <item name="android:windowBackground">@color/bg_black</item>
+        <item name="actionBarPopupTheme">@style/ThemeOverlay.AppCompat.Dark</item>
+        <item name="android:itemBackground">@color/bg_black</item>
+        <item name="calendarSpinnerDisabledTextColor">@color/calendar_item_disabled_black</item>
+    </style>
+</resources>
