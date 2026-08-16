@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: fr (French)
+ * Region: FR (France)
+ *********************************************************************
+--><calendar language="fr" region="FR" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Jour de l'An</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">Lundi de Pâques</holiday>
+        <!--[Labour Day] - [labor_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Fête du travail</holiday>
+        <!--[Victory Day (Armistice 1945)] - [victory_day__armistice_1945_]-->
+        <holiday endDate="2017-05-08" startDate="2017-05-08" workingday="false">Fête de la Victoire</holiday>
+        <!--[Ascension Day] - [ascension_day]-->
+        <holiday endDate="2017-05-25" startDate="2017-05-25" workingday="false">Ascension</holiday>
+        <!--[Whit Monday] - [whit_monday]-->
+        <holiday endDate="2017-06-05" startDate="2017-06-05" workingday="false">Lundi de Pentecôte</holiday>
+        <!--[Quatorze Juillet (National Day)] - [quatorze_juillet__national_day_]-->
+        <holiday endDate="2017-07-14" startDate="2017-07-14" workingday="false">Fête Nationale</holiday>
+        <!--[Assumption Day] - [assumption_day]-->
+        <holiday endDate="2017-08-15" startDate="2017-08-15" workingday="false">Assomption</holiday>
+        <!--[All Saints' Day] - [all_saints__day]-->
+        <holiday endDate="2017-11-01" startDate="2017-11-01" workingday="false">Toussaint</holiday>
+        <!--[Armistice Day] - [armistice_day]-->
+        <holiday endDate="2017-11-11" startDate="2017-11-11" workingday="false">Armistice</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Noël</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Jour de l'An</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2016-03-28" startDate="2016-03-28" workingday="false">Lundi de Pâques</holiday>
+        <!--[Labour Day] - [labor_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Fête du travail</holiday>
+        <!--[Ascension Day] - [ascension_day]-->
+        <holiday endDate="2016-05-05" startDate="2016-05-05" workingday="false">Ascension</holiday>
+        <!--[Victory Day (Armistice 1945)] - [victory_day__armistice_1945_]-->
+        <holiday endDate="2016-05-08" startDate="2016-05-08" workingday="false">Fête de la Victoire</holiday>
+        <!--[Whit Monday] - [whit_monday]-->
+        <holiday endDate="2016-05-16" startDate="2016-05-16" workingday="false">Lundi de Pentecôte</holiday>
+        <!--[Quatorze Juillet (National Day)] - [quatorze_juillet__national_day_]-->
+        <holiday endDate="2016-07-14" startDate="2016-07-14" workingday="false">Fête Nationale</holiday>
+        <!--[Assumption Day] - [assumption_day]-->
+        <holiday endDate="2016-08-15" startDate="2016-08-15" workingday="false">Assomption</holiday>
+        <!--[All Saints' Day] - [all_saints__day]-->
+        <holiday endDate="2016-11-01" startDate="2016-11-01" workingday="false">Toussaint</holiday>
+        <!--[Armistice Day] - [armistice_day]-->
+        <holiday endDate="2016-11-11" startDate="2016-11-11" workingday="false">Armistice</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Noël</holiday>
+    </holidays>
+</calendar>
+

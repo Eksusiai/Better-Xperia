@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tasksListFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    style="@style/default_background_style">
+    <include layout="@layout/sync_progress_banner"/>
+    <include layout="@layout/no_task_alert_view"/>
+    <ExpandableListView
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:choiceMode="singleChoice"/>
+    <com.sonymobile.calendar.FABFrameLayout
+        android:id="@+id/fab_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"/>
+</RelativeLayout>

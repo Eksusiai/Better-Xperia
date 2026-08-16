@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="accepted_items">
+        <item>پذیرفته شده</item>
+        <item>حضور احتمالی</item>
+        <item>رد شده</item>
+    </array>
+    <array name="accessibility_event_color_picker_colors">
+        <item>زرد</item>
+        <item>نارنجی</item>
+        <item>قرمز</item>
+        <item>ارغوانی</item>
+        <item>صورتی</item>
+        <item>بنفش</item>
+        <item>قهوه ای</item>
+        <item>سبز روشن</item>
+        <item>سبز</item>
+        <item>فیروزه ای</item>
+        <item>آبی روشن</item>
+        <item>آبی</item>
+    </array>
+    <array name="availability">
+        <item>مشغول</item>
+        <item>در دسترس</item>
+        <item>حضور احتمالی</item>
+    </array>
+    <array name="change_response_labels">
+        <item>فقط این بار</item>
+        <item>کلیه رویدادهای این سری</item>
+    </array>
+    <array name="month_view_day_labels">
+        <item>دوشنبه</item>
+        <item>سه شنبه</item>
+        <item>چهارشنبه</item>
+        <item>پنجشنبه</item>
+        <item>جمعه</item>
+        <item>شنبه</item>
+        <item>یکشنبه</item>
+    </array>
+    <array name="ordinal_labels">
+        <item>اولین</item>
+        <item>دوم</item>
+        <item>سوم</item>
+        <item>چهارم</item>
+        <item>آخر</item>
+    </array>
+    <array name="prefEntries_alerts_vibrateWhen">
+        <item>هميشه</item>
+        <item>فقط در حالت مزاحم نشوید</item>
+        <item>هرگز</item>
+    </array>
+    <array name="preferences_alert_type_labels">
+        <item>هشدار</item>
+        <item>اعلان نوار وضعیت</item>
+        <item>خاموش</item>
+    </array>
+    <array name="preferences_default_reminder_labels">
+        <item>هیچکدام</item>
+        <item>5 دقیقه</item>
+        <item>10 دقیقه</item>
+        <item>15 دقیقه</item>
+        <item>20 دقیقه</item>
+        <item>25 دقیقه</item>
+        <item>30 دقیقه</item>
+        <item>45 دقیقه</item>
+        <item>1 ساعت</item>
+        <item>2 ساعت</item>
+        <item>3 ساعت</item>
+        <item>12 ساعت</item>
+        <item>24 ساعت</item>
+        <item>2 روز</item>
+        <item>1 هفته</item>
+    </array>
+    <array name="preferences_week_days_labels">
+        <item>فقط روزهای کاری</item>
+        <item>7 روز</item>
+    </array>
+    <array name="quick_response_defaults">
+        <item>تنها چند دقیقه دیرتر می رسم</item>
+        <item>حدوداً 10 دقیقه دیگر آنجا باش.</item>
+        <item>ادامه دهید و بدون من شروع کنید.</item>
+        <item>متأسفم، نمی توانم سر قرار بیایم. ما باید مجدداً برنامه ریزی کنیم.</item>
+    </array>
+    <array name="reminder_minutes_labels">
+        <item>5 دقيقه</item>
+        <item>10 دقيقه</item>
+        <item>15 دقيقه</item>
+        <item>20 دقيقه</item>
+        <item>25 دقيقه</item>
+        <item>30 دقيقه</item>
+        <item>45 دقيقه</item>
+        <item>1 ساعت</item>
+        <item>2 ساعت</item>
+        <item>3 ساعت</item>
+        <item>12 ساعت</item>
+        <item>24 ساعت</item>
+        <item>2 روز</item>
+        <item>1 هفته</item>
+    </array>
+    <array name="repeats_pattern">
+        <item>روزانه</item>
+        <item>هفتگی</item>
+        <item>ماهانه</item>
+        <item>سالانه</item>
+    </array>
+    <array name="repeats_weekdays_no">
+        <item>اولین</item>
+        <item>دومین</item>
+        <item>سومین</item>
+        <item>چهارمین</item>
+        <item>پنجمین</item>
+    </array>
+    <array name="reply_items">
+        <item>پاسخ</item>
+        <item>پاسخ به همه</item>
+        <item>هدایت</item>
+    </array>
+    <array name="response_labels1">
+        <item>(بدون پاسخ)</item>
+        <item>بله</item>
+        <item>شاید</item>
+        <item>خیر</item>
+    </array>
+    <array name="response_labels2">
+        <item>بله</item>
+        <item>شايد</item>
+        <item>خير</item>
+    </array>
+    <array name="timezone_labels">
+        <item>جزاير مارشال</item>
+        <item>جزيره ميدوي</item>
+        <item>هاوايي</item>
+        <item>آلاسكا</item>
+        <item>زمان اقيانوس آرام</item>
+        <item>تیهوانا</item>
+        <item>آريزونا</item>
+        <item>چي هواهوا</item>
+        <item>زمان كوهستان</item>
+        <item>آمريكای مركزی</item>
+        <item>زمان مركزي</item>
+        <item>مكزيكوسيتي</item>
+        <item>ساسكاچوان</item>
+        <item>بوگوتا</item>
+        <item>زمان شرقي</item>
+        <item>ونزوئلا</item>
+        <item>زمان آتلانتيك</item>
+        <item>مانائوس</item>
+        <item>سانتياگو</item>
+        <item>نيوفاندلند</item>
+        <item>برازيليا</item>
+        <item>بوئنس آيرس</item>
+        <item>گرينلند</item>
+        <item>مونته ويدئو</item>
+        <item>اطلس مياني</item>
+        <item>آزورس</item>
+        <item>جزاير كيپ ورد</item>
+        <item>كازابلانكا</item>
+        <item>لندن، دوبلين</item>
+        <item>آمستردام، برلين</item>
+        <item>بلگراد</item>
+        <item>بروكسل</item>
+        <item>سارايوو</item>
+        <item>ویندهوک</item>
+        <item>زمان آفريقای شرقي</item>
+        <item>عمان، اردن</item>
+        <item>آتن، استانبول</item>
+        <item>بيروت، لبنان</item>
+        <item>قاهره</item>
+        <item>هلسينكي</item>
+        <item>بيت المقدس</item>
+        <item>مينسك</item>
+        <item>هراره</item>
+        <item>بغداد</item>
+        <item>مسكو</item>
+        <item>كويت</item>
+        <item>نايروبي</item>
+        <item>تهران</item>
+        <item>باكو</item>
+        <item>تفليس</item>
+        <item>ايروان</item>
+        <item>دوبي</item>
+        <item>كابل</item>
+        <item>اسلام آباد، كراچي</item>
+        <item>اورالسک</item>
+        <item>ايكاترينبرگ</item>
+        <item>كلكته</item>
+        <item>سريلانكا</item>
+        <item>كتماندو</item>
+        <item>آستانه</item>
+        <item>يانگون</item>
+        <item>کراسنویارسک</item>
+        <item>بانكوك</item>
+        <item>پكن</item>
+        <item>هنگ كنگ</item>
+        <item>ايركوتسك</item>
+        <item>كوالالامپور</item>
+        <item>پرث</item>
+        <item>تايپه</item>
+        <item>سئول</item>
+        <item>توكيو، اوساكا</item>
+        <item>ياكوتسك</item>
+        <item>آدلايد</item>
+        <item>داروين</item>
+        <item>بريسبان</item>
+        <item>هوبارت</item>
+        <item>سيدني، كانبرا</item>
+        <item>ولاديوستوک</item>
+        <item>گوام</item>
+        <item>ماگادان</item>
+        <item>اوكلند</item>
+        <item>فيجي</item>
+        <item>تونگا</item>
+    </array>
+    <array name="visibility">
+        <item>پيش فرض</item>
+        <item>خصوصی</item>
+        <item>عمومی</item>
+    </array>
+</resources>

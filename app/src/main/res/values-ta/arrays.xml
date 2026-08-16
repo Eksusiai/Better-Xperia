@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="accepted_items">
+        <item>ஏற்றுக்கொள்ளப்பட்டது</item>
+        <item>உத்தேசமானது</item>
+        <item>மறுக்கப்பட்டது</item>
+    </array>
+    <array name="accessibility_event_color_picker_colors">
+        <item>மஞ்சள்</item>
+        <item>ஆரஞ்சு</item>
+        <item>சிவப்பு</item>
+        <item>பர்கண்டி</item>
+        <item>பிங்க்</item>
+        <item>ஊதா</item>
+        <item>பழுப்பு</item>
+        <item>இளம் பச்சை</item>
+        <item>பச்சை</item>
+        <item>நீலப்பச்சை</item>
+        <item>வெளிர் நீலம்</item>
+        <item>நீலம்</item>
+    </array>
+    <array name="availability">
+        <item>பணிமிகுதி</item>
+        <item>கிடைக்கிறது</item>
+        <item>தற்காலிக</item>
+    </array>
+    <array name="change_response_labels">
+        <item>இந்த நேர்வு மட்டும்</item>
+        <item>வரிசையில் உள்ள எ. நிகழ்.</item>
+    </array>
+    <array name="month_view_day_labels">
+        <item>தி</item>
+        <item>செ</item>
+        <item>பு</item>
+        <item>வி</item>
+        <item>வெ</item>
+        <item>ச</item>
+        <item>ஞா</item>
+    </array>
+    <array name="ordinal_labels">
+        <item>முதல்</item>
+        <item>இரண்டாவது</item>
+        <item>மூன்றாவது</item>
+        <item>நான்காவது</item>
+        <item>கடைசி</item>
+    </array>
+    <array name="prefEntries_alerts_vibrateWhen">
+        <item>எப்போதும்</item>
+        <item>தொந். செய். பயன். மட்.</item>
+        <item>ஒருபோதும் வேண்டாம்</item>
+    </array>
+    <array name="preferences_alert_type_labels">
+        <item>விழிப்பூட்டல்</item>
+        <item>நிலைப் பட்டி அறிவிப்பு</item>
+        <item>அணை</item>
+    </array>
+    <array name="preferences_default_reminder_labels">
+        <item>ஏதுமில்லை</item>
+        <item>5 நிமிடங்கள்</item>
+        <item>10 நிமிடங்கள்</item>
+        <item>15 நிமிடங்கள்</item>
+        <item>20 நிமிடங்கள்</item>
+        <item>25 நிமிடங்கள்</item>
+        <item>30 நிமிடங்கள்</item>
+        <item>45 நிமிடங்கள்</item>
+        <item>1 மணிநேரம்</item>
+        <item>2 மணிநேரம்</item>
+        <item>3 மணிநேரம்</item>
+        <item>12 மணிநேரம்</item>
+        <item>24 மணிநேரம்</item>
+        <item>2 நாட்கள்</item>
+        <item>1 வாரம்</item>
+    </array>
+    <array name="preferences_week_days_labels">
+        <item>பணி நாட்கள் மட்டும்</item>
+        <item>7 நாட்கள்</item>
+    </array>
+    <array name="quick_response_defaults">
+        <item>வெறும் இரண்டு நிமிடங்கள் தாமதமாக இயங்குகிறது.</item>
+        <item>சுமார் 10 நிமிடங்களில் அங்கு இருக்கவும்.</item>
+        <item>நான் இல்லாமல் தொடர்ந்து சென்று, தொடங்கவும்.</item>
+        <item>இதை செய்ய முடியவில்லை. மீண். திட்டமிட. வேண்டும்.</item>
+    </array>
+    <array name="reminder_minutes_labels">
+        <item>5 நிமிடங்கள்</item>
+        <item>10 நிமிடங்கள்</item>
+        <item>15 நிமிடங்கள்</item>
+        <item>20 நிமிடங்கள்</item>
+        <item>25 நிமிடங்கள்</item>
+        <item>30 நிமிடங்கள்</item>
+        <item>45 நிமிடங்கள்</item>
+        <item>1 மணிநேரம்</item>
+        <item>2 மணிநேரம்</item>
+        <item>3 மணிநேரம்</item>
+        <item>12 மணிநேரம்</item>
+        <item>24 மணிநேரம்</item>
+        <item>2 நாட்கள்</item>
+        <item>1 வாரம்</item>
+    </array>
+    <array name="repeats_pattern">
+        <item>தினமும்</item>
+        <item>வாரந்தோறும்</item>
+        <item>மாதந்தோறும்</item>
+        <item>ஆண்டுதோறும்</item>
+    </array>
+    <array name="repeats_weekdays_no">
+        <item>முதல்</item>
+        <item>இரண்டாவது</item>
+        <item>மூன்றாவது</item>
+        <item>நான்காவது</item>
+        <item>ஐந்தாவது</item>
+    </array>
+    <array name="reply_items">
+        <item>பதில்</item>
+        <item>அனைவருக்கும் பதிலளி</item>
+        <item>பகிர்</item>
+    </array>
+    <array name="response_labels1">
+        <item>(பதில் இல்லை)</item>
+        <item>ஆம்</item>
+        <item>ஒருவேளை</item>
+        <item>இல்லை</item>
+    </array>
+    <array name="response_labels2">
+        <item>ஆம்</item>
+        <item>ஒருவேளை</item>
+        <item>இல்லை</item>
+    </array>
+    <array name="timezone_labels">
+        <item>மார்ஷல் தீவுகள்</item>
+        <item>மிட்வே தீவு</item>
+        <item>ஹவாய்</item>
+        <item>அலாஸ்கா</item>
+        <item>பசிஃபிக் நேரம்</item>
+        <item>டிஜுவானா</item>
+        <item>அரிசோனா</item>
+        <item>சிஹுவா</item>
+        <item>மவுண்ட்டெய்ன் நேரம்</item>
+        <item>மத்திய அமெரிக்கா</item>
+        <item>சென்ட்ரல் டைம்</item>
+        <item>மெக்ஸிகோ நகரம்</item>
+        <item>சஸ்கட்சேவன்</item>
+        <item>பகோட்டா</item>
+        <item>கிழக்கத்திய நேரம்</item>
+        <item>வெனஜுவேலா</item>
+        <item>அட்லாண்டிக் நேரம்</item>
+        <item>மனுவாஸ்</item>
+        <item>சாண்டியாகோ</item>
+        <item>நியுபவுண்ட்லாந்து</item>
+        <item>பிரேசிலியா</item>
+        <item>புய்னோஸ் ஏர்ஸ்</item>
+        <item>கிரீன்லாந்து</item>
+        <item>மான்டே வீடியோ</item>
+        <item>மிட்-அட்லாண்டிக்</item>
+        <item>அஷோர்ஸ்</item>
+        <item>கேப் வெர்டே தீவுகள்</item>
+        <item>கஸபிளாங்கா</item>
+        <item>லண்டன், டப்ளின்</item>
+        <item>ஆம்ஸ்டர்டாம், பெர்லி.</item>
+        <item>பெல்கிரேடு</item>
+        <item>புருசெல்ஸ்</item>
+        <item>சரஜீவோ</item>
+        <item>வைண்ட்ஹோக்</item>
+        <item>மே. ஆப்பிரிக்க நேரம்</item>
+        <item>அம்மான், ஜோர்தான்</item>
+        <item>ஏதென்ஸ், இஸ்தான்.</item>
+        <item>பெய்ரூத், லெபனான்</item>
+        <item>கெய்ரோ</item>
+        <item>ஹெல்சிங்கி</item>
+        <item>ஜெருசலேம்</item>
+        <item>மின்ஸ்க்</item>
+        <item>ஹராரே</item>
+        <item>பாக்தாத்</item>
+        <item>மாஸ்கோ</item>
+        <item>குவைத்</item>
+        <item>நைரோபி</item>
+        <item>டெஹ்ரான்</item>
+        <item>பகு</item>
+        <item>த்பிலிசி</item>
+        <item>யரெவன்</item>
+        <item>துபாய்</item>
+        <item>கபுல்</item>
+        <item>இஸ்லாமாபா., கராச்சி</item>
+        <item>உரல்ஸ்க்</item>
+        <item>யகெட்டிரின்பர்க்</item>
+        <item>கொல்கத்தா</item>
+        <item>இலங்கை</item>
+        <item>காத்மாண்டு</item>
+        <item>அஸ்தானா</item>
+        <item>யங்கோன்</item>
+        <item>க்ராஸ்னோயார்ஸ்க்</item>
+        <item>பாங்காக்</item>
+        <item>பெய்ஜிங்</item>
+        <item>ஹாங்காங்</item>
+        <item>இர்குட்ஸ்க்</item>
+        <item>கோலாலம்பூர்</item>
+        <item>பெர்த்</item>
+        <item>தைபே</item>
+        <item>சியோல்</item>
+        <item>டோக்கியோ, ஒசாகா</item>
+        <item>யாகுட்ஸ்க்</item>
+        <item>அடிலெய்ட்</item>
+        <item>டார்வின்</item>
+        <item>பிரிஸ்பேன்</item>
+        <item>ஹோபர்ட்</item>
+        <item>சிட்னி, கேன்பரா</item>
+        <item>விலாடிவோஸ்டாக்</item>
+        <item>குவாம்</item>
+        <item>மகதான்</item>
+        <item>ஆக்லாந்து</item>
+        <item>ஃபிஜி</item>
+        <item>டோங்கா</item>
+    </array>
+    <array name="visibility">
+        <item>இயல்புநிலை</item>
+        <item>தனிப்பட்டது</item>
+        <item>பொது</item>
+    </array>
+</resources>

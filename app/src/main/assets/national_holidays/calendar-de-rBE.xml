@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: de (German)
+ * Region: BE (Belgium)
+ *********************************************************************
+--><calendar language="de" region="BE" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Neujahr</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">Ostermontag</holiday>
+        <!--[May Day] - [may_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Maifeiertag</holiday>
+        <!--[Ascension Day] - [ascension_day]-->
+        <holiday endDate="2017-05-25" startDate="2017-05-25" workingday="false">Christi Himmelfahrt</holiday>
+        <!--[Whit Monday] - [whit_monday]-->
+        <holiday endDate="2017-06-05" startDate="2017-06-05" workingday="false">Pfingstmontag</holiday>
+        <!--[National Day] - [national_day]-->
+        <holiday endDate="2017-07-21" startDate="2017-07-21" workingday="false">Nationalfeiertag</holiday>
+        <!--[Assumption Day] - [assumption_day]-->
+        <holiday endDate="2017-08-15" startDate="2017-08-15" workingday="false">Mariä Himmelfahrt</holiday>
+        <!--[All Saints' Day] - [all_saints__day]-->
+        <holiday endDate="2017-11-01" startDate="2017-11-01" workingday="false">Allerheiligen</holiday>
+        <!--[Armistice Day] - [armistice_day]-->
+        <holiday endDate="2017-11-11" startDate="2017-11-11" workingday="false">Tag des Waffenstillstands</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">1. Weihnachtsfeiertag</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Neujahr</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2016-03-28" startDate="2016-03-28" workingday="false">Ostermontag</holiday>
+        <!--[May Day] - [may_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Maifeiertag</holiday>
+        <!--[Ascension Day] - [ascension_day]-->
+        <holiday endDate="2016-05-05" startDate="2016-05-05" workingday="false">Christi Himmelfahrt</holiday>
+        <!--[Whit Monday] - [whit_monday]-->
+        <holiday endDate="2016-05-16" startDate="2016-05-16" workingday="false">Pfingstmontag</holiday>
+        <!--[National Day] - [national_day]-->
+        <holiday endDate="2016-07-21" startDate="2016-07-21" workingday="false">Nationalfeiertag</holiday>
+        <!--[Assumption Day] - [assumption_day]-->
+        <holiday endDate="2016-08-15" startDate="2016-08-15" workingday="false">Mariä Himmelfahrt</holiday>
+        <!--[All Saints' Day] - [all_saints__day]-->
+        <holiday endDate="2016-11-01" startDate="2016-11-01" workingday="false">Allerheiligen</holiday>
+        <!--[Armistice Day] - [armistice_day]-->
+        <holiday endDate="2016-11-11" startDate="2016-11-11" workingday="false">Tag des Waffenstillstands</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">1. Weihnachtsfeiertag</holiday>
+    </holidays>
+</calendar>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:textColor="@color/calendar_primary_text_color"
+    android:paddingTop="@dimen/actionbar_today_vertical_padding"
+    android:paddingBottom="@dimen/actionbar_today_vertical_padding"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fontFamily="@string/roboto_font"
+    android:paddingStart="@dimen/actionbar_switch_padding"
+    android:paddingEnd="@dimen/actionbar_switch_padding"/>

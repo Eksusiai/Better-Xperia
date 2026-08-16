@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="accepted_items">
+        <item>ยอมรับ</item>
+        <item>ไม่แน่นอน</item>
+        <item>ปฏิเสธ</item>
+    </array>
+    <array name="accessibility_event_color_picker_colors">
+        <item>สีเหลือง</item>
+        <item>สีส้ม</item>
+        <item>สีแดง</item>
+        <item>ม่วงแดง</item>
+        <item>สีชมพู</item>
+        <item>สีม่วง</item>
+        <item>น้ำตาล</item>
+        <item>เขียวอ่อน</item>
+        <item>สีเขียว</item>
+        <item>สีเทอร์ควอยซ์</item>
+        <item>ฟ้า</item>
+        <item>น้ำเงิน</item>
+    </array>
+    <array name="availability">
+        <item>ไม่ว่าง</item>
+        <item>ว่าง</item>
+        <item>ไม่แน่นอน</item>
+    </array>
+    <array name="change_response_labels">
+        <item>อินสแตนซ์นี้เท่านั้น</item>
+        <item>ทุกเหตุการณ์ในชุดข้อมูล</item>
+    </array>
+    <array name="month_view_day_labels">
+        <item>จ</item>
+        <item>อ</item>
+        <item>พ</item>
+        <item>พฤ</item>
+        <item>ศ</item>
+        <item>ส</item>
+        <item>อา</item>
+    </array>
+    <array name="ordinal_labels">
+        <item>ที่หนึ่ง</item>
+        <item>ที่สอง</item>
+        <item>ที่สาม</item>
+        <item>ที่สี่</item>
+        <item>สุดท้าย</item>
+    </array>
+    <array name="prefEntries_alerts_vibrateWhen">
+        <item>ทุกครั้ง</item>
+        <item>ในโหมดห้ามรบกวนเท่านั้น</item>
+        <item>ปิด</item>
+    </array>
+    <array name="preferences_alert_type_labels">
+        <item>การเตือน</item>
+        <item>การแจ้งแถบสถานะ</item>
+        <item>ปิด</item>
+    </array>
+    <array name="preferences_default_reminder_labels">
+        <item>ไม่มี</item>
+        <item>5 นาที</item>
+        <item>10 นาที</item>
+        <item>15 นาที</item>
+        <item>20 นาที</item>
+        <item>25 นาที</item>
+        <item>30 นาที</item>
+        <item>45 นาที</item>
+        <item>1 ชั่วโมง</item>
+        <item>2 ชั่วโมง</item>
+        <item>3 ชั่วโมง</item>
+        <item>12 ชั่วโมง</item>
+        <item>24 ชั่วโมง</item>
+        <item>2 วัน</item>
+        <item>1 สัปดาห์</item>
+    </array>
+    <array name="preferences_week_days_labels">
+        <item>เฉพาะวันทำงาน</item>
+        <item>7 วัน</item>
+    </array>
+    <array name="quick_response_defaults">
+        <item>กำลังรีบไป คงถึงสายสักสองสามนาที</item>
+        <item>จะถึงที่นั่นในอีกประมาณ 10 นาที</item>
+        <item>เริ่มกันได้เลย ไม่ต้องรอฉัน</item>
+        <item>ขอโทษด้วย ฉันทำไม่ได้แล้ว เราคงจะต้องกำหนดเวลากันใหม่</item>
+    </array>
+    <array name="reminder_minutes_labels">
+        <item>5 นาที</item>
+        <item>10 นาที</item>
+        <item>15 นาที</item>
+        <item>20 นาที</item>
+        <item>25 นาที</item>
+        <item>30 นาที</item>
+        <item>45 นาที</item>
+        <item>1 ชั่วโมง</item>
+        <item>2 ชั่วโมง</item>
+        <item>3 ชั่วโมง</item>
+        <item>12 ชั่วโมง</item>
+        <item>24 ชั่วโมง</item>
+        <item>2 วัน</item>
+        <item>1 สัปดาห์</item>
+    </array>
+    <array name="repeats_pattern">
+        <item>ทุกวัน</item>
+        <item>ทุกสัปดาห์</item>
+        <item>ทุกเดือน</item>
+        <item>ทุกปี</item>
+    </array>
+    <array name="repeats_weekdays_no">
+        <item>ที่หนึ่ง</item>
+        <item>ที่สอง</item>
+        <item>ที่สาม</item>
+        <item>ที่สี่</item>
+        <item>ที่ห้า</item>
+    </array>
+    <array name="reply_items">
+        <item>ตอบ</item>
+        <item>ตอบทั้งหมด</item>
+        <item>ส่งต่อ</item>
+    </array>
+    <array name="response_labels1">
+        <item>(ไม่มีการตอบรับ)</item>
+        <item>ใช่</item>
+        <item>อาจจะ</item>
+        <item>ไม่</item>
+    </array>
+    <array name="response_labels2">
+        <item>ใช่</item>
+        <item>อาจจะ</item>
+        <item>ไม่</item>
+    </array>
+    <array name="timezone_labels">
+        <item>เกาะมาร์แชล</item>
+        <item>เกาะมิดเวย์</item>
+        <item>ฮาวาย</item>
+        <item>อะแลสกา</item>
+        <item>เวลาเขตแปซิฟิก</item>
+        <item>ทิจัวนา</item>
+        <item>แอริโซนา</item>
+        <item>ชีวาวา</item>
+        <item>เวลาเขตภูเขา</item>
+        <item>อเมริกากลาง</item>
+        <item>เวลาตอนกลาง</item>
+        <item>เม็กซิโกซิตี</item>
+        <item>ซัสแคตเชวัน</item>
+        <item>โบโกตา</item>
+        <item>เวลาตะวันออก</item>
+        <item>เวเนซูเอลา</item>
+        <item>เวลาแอตแลนติก</item>
+        <item>มาเนาส์</item>
+        <item>ซันติอาโก</item>
+        <item>นิวฟาวด์แลนด์</item>
+        <item>บราซิลเลีย</item>
+        <item>บัวโนสไอเรส</item>
+        <item>กรีนแลนด์</item>
+        <item>มอนเตวิเดโอ</item>
+        <item>แอตแลนติกกลาง</item>
+        <item>อาโซเรช</item>
+        <item>เกาะเคปเวิร์ด</item>
+        <item>กาซาบลังกา</item>
+        <item>ลอนดอน ดับลิน</item>
+        <item>อัมสเตอร์ดัม เบอร์ลิน</item>
+        <item>เบลเกรด</item>
+        <item>บรัสเซลส์</item>
+        <item>ซาราเยโว</item>
+        <item>วินด์ฮุก</item>
+        <item>เวลาแอฟริกาตะวันตก</item>
+        <item>อัมมาน จอร์แดน</item>
+        <item>เอเธนส์ อิสตันบูล</item>
+        <item>เบรุต เลบานอน</item>
+        <item>ไคโร</item>
+        <item>เฮลซิงกิ</item>
+        <item>เยรูซาเล็ม</item>
+        <item>มินสก์</item>
+        <item>ฮาราเร</item>
+        <item>แบกแดด</item>
+        <item>มอสโก</item>
+        <item>คูเวต</item>
+        <item>ไนโรบี</item>
+        <item>เตหะราน</item>
+        <item>บากู</item>
+        <item>ทบิลิซิ</item>
+        <item>เยเรวาน</item>
+        <item>ดูไบ</item>
+        <item>คาบูล</item>
+        <item>อิสลามาบัด การาจี</item>
+        <item>อูรัลสก์</item>
+        <item>เยคาเทรินบูร์ก</item>
+        <item>โกลกาตา</item>
+        <item>ศรีลังกา</item>
+        <item>กาฎมัณฑุ</item>
+        <item>อัสตานา</item>
+        <item>ย่างกุ้ง</item>
+        <item>ครัสโนยาสค์</item>
+        <item>กรุงเทพ</item>
+        <item>ปักกิ่ง</item>
+        <item>ฮ่องกง</item>
+        <item>เออคุตสค์</item>
+        <item>กัวลาลัมเปอร์</item>
+        <item>เพิร์ธ</item>
+        <item>ไทเป</item>
+        <item>โซล</item>
+        <item>โตเกียว โอซากา</item>
+        <item>ยาคัทสก์</item>
+        <item>แอดิเลด</item>
+        <item>ดาร์วิน</item>
+        <item>บริสเบน</item>
+        <item>โฮบาร์ต</item>
+        <item>ซิดนีย์ แคนเบอร์รา</item>
+        <item>วลาดิวอสตอค</item>
+        <item>กวม</item>
+        <item>มากาดาน</item>
+        <item>ออคแลนด์</item>
+        <item>ฟิจิ</item>
+        <item>ตองกา</item>
+    </array>
+    <array name="visibility">
+        <item>ค่าเริ่มต้น</item>
+        <item>ส่วนตัว</item>
+        <item>สาธารณะ</item>
+    </array>
+</resources>

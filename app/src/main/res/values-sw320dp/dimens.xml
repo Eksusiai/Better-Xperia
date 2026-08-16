@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="agenda_mode_split_position">0.86</dimen>
+    <dimen name="date_picker_component_width">240dp</dimen>
+    <dimen name="date_picker_header_height">26.67dp</dimen>
+    <dimen name="day_number_select_circle_radius">12dp</dimen>
+    <dimen name="hour_height">70dp</dimen>
+    <dimen name="weather_temperature_text_size">14dp</dimen>
+    <dimen name="week_view_event_location_text_size">12dp</dimen>
+</resources>

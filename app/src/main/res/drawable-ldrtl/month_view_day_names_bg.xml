@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/calendar_grid_line"/>
+        </shape>
+    </item>
+    <item android:left="@dimen/month_view_grid_frame_width">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/calendar_grid_area_background"/>
+        </shape>
+    </item>
+</layer-list>

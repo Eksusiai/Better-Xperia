@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: fa (Persian (Farsi))
+ * Region: IR (Iran, Islamic Republic of)
+ *********************************************************************
+--><calendar language="fa" region="IR" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[Anniversary of the Islamic Revolution] - [anniversary_of_the_islamic_revolution]-->
+        <holiday endDate="2017-02-10" startDate="2017-02-10" workingday="false">سالگرد انقلاب اسلامی</holiday>
+        <!--[Martyrdom of Hazrat Fatemeh] - [martyrdom_of_hazrat_fatemeh]-->
+        <holiday endDate="2017-03-02" startDate="2017-03-02" workingday="false">شهادت حضرت فاطمه</holiday>
+        <!--[Oil Nationalization Day] - [oil_nationalization_day]-->
+        <holiday endDate="2017-03-19" startDate="2017-03-19" workingday="false">روز ملی شدن صنعت نفت</holiday>
+        <!--[Norooz (Persian New Year)] - [norooz__persian_new_year_]-->
+        <holiday endDate="2017-03-21" startDate="2017-03-21" workingday="false">نوروز</holiday>
+        <!--[Norooz Holiday] - [norooz_holiday]-->
+        <holiday endDate="2017-03-22" startDate="2017-03-22" workingday="false">تعطیلات نوروز</holiday>
+        <!--[Norooz Holiday] - [norooz_holiday]-->
+        <holiday endDate="2017-03-23" startDate="2017-03-23" workingday="false">تعطیلات نوروز</holiday>
+        <!--[Norooz Holiday] - [norooz_holiday]-->
+        <holiday endDate="2017-03-24" startDate="2017-03-24" workingday="false">تعطیلات نوروز</holiday>
+        <!--[Islamic Republic Day] - [islamic_republic_day]-->
+        <holiday endDate="2017-04-01" startDate="2017-04-01" workingday="false">روز جمهوری اسلامی</holiday>
+        <!--[Sizdehbedar (Nature Day)] - [sizdehbedar__nature_day_]-->
+        <holiday endDate="2017-04-02" startDate="2017-04-02" workingday="false">سیزده بدر</holiday>
+        <!--[Imam Ali's Birthday] - [imam_ali_s_birthday]-->
+        <holiday endDate="2017-04-11" startDate="2017-04-11" workingday="false">تولد امام علی</holiday>
+        <!--[The Prophet's Ascension (Mabaath)] - [the_prophet_s_ascension__mabaath_]-->
+        <holiday endDate="2017-04-25" startDate="2017-04-25" workingday="false">مبعث حضرت رسول</holiday>
+        <!--[Imam Mahdi's Birthday] - [imam_mahdi_s_birthday]-->
+        <holiday endDate="2017-05-12" startDate="2017-05-12" workingday="false">تولد امام مهدی</holiday>
+        <!--[Demise of Imam Khomeini] - [demise_of_imam_khomeini]-->
+        <holiday endDate="2017-06-04" startDate="2017-06-04" workingday="false">وفات امام خمینی</holiday>
+        <!--[15th Khordad National Uprising (1963)] - [a5th_khordad_national_uprising__1963_]-->
+        <holiday endDate="2017-06-05" startDate="2017-06-05" workingday="false">قیام ملی ۱۵ خرداد (۱۳۴۲)</holiday>
+        <!--[Martyrdom of Imam Ali] - [martyrdom_of_imam_ali]-->
+        <holiday endDate="2017-06-16" startDate="2017-06-16" workingday="false">شهادت امام علی</holiday>
+        <!--[Eid-e-Fitr (End of Ramadan)] - [end_of_ramadan]-->
+        <holiday endDate="2017-06-26" startDate="2017-06-26" workingday="false">عید فطر</holiday>
+        <!--[The day after Eid-e-Fitr] - [the_day_after_eid_e_fitr]-->
+        <holiday endDate="2017-06-27" startDate="2017-06-27" workingday="false">روز پس از عید فطر</holiday>
+        <!--[Martyrdom of Imam Sadeq] - [martyrdom_of_imam_sadeq]-->
+        <holiday endDate="2017-07-20" startDate="2017-07-20" workingday="false">شهادت امام صادق</holiday>
+        <!--[Eid-e-Qorban (Feast of Sacrifice)] - [feast_of_sacrifice]-->
+        <holiday endDate="2017-09-01" startDate="2017-09-01" workingday="false">عید قربان</holiday>
+        <!--[Eid-e-Ghadir] - [eid_e_ghadir]-->
+        <holiday endDate="2017-09-09" startDate="2017-09-09" workingday="false">عید غدیر</holiday>
+        <!--[Tasua] - [tasua]-->
+        <holiday endDate="2017-09-30" startDate="2017-09-30" workingday="false">تاسوعا</holiday>
+        <!--[Ashura (Martyrdom of Imam Hussein)] - [ashura__martyrdom_of_imam_hussein_]-->
+        <holiday endDate="2017-10-01" startDate="2017-10-01" workingday="false">عاشورا (شهادت امام حسین)</holiday>
+        <!--[Arba'in-e Hosseini (40th day after Ashura)] - [arba_in_e_hosseini__40th_day_after_ashura_]-->
+        <holiday endDate="2017-11-09" startDate="2017-11-09" workingday="false">اربعین حسینی</holiday>
+        <!--[Death of Prophet Mohammad / Martyrdom of Imam Hasan] - [death_of_prophet_mohammad___martyrdom_of_imam_hasan]-->
+        <holiday endDate="2017-11-17" startDate="2017-11-17" workingday="false">وفات حضرت محمد / شهادت امام حسن</holiday>
+        <!--[Martyrdom of Imam Reza] - [martyrdom_of_imam_reza]-->
+        <holiday endDate="2017-11-19" startDate="2017-11-19" workingday="false">شهادت امام رضا</holiday>
+        <!--[Birth of Prophet Mohammad and of Imam Sadegh] - [birth_of_prophet_mohammad_and_of_imam_sadegh]-->
+        <holiday endDate="2017-12-06" startDate="2017-12-06" workingday="false">تولد حضرت محمد و امام صادق</holiday>
+        <!--[Anniversary of the Islamic Revolution] - [anniversary_of_the_islamic_revolution]-->
+        <holiday endDate="2016-02-11" startDate="2016-02-11" workingday="false">سالگرد انقلاب اسلامی</holiday>
+        <!--[Martyrdom of Hazrat Fatemeh] - [martyrdom_of_hazrat_fatemeh]-->
+        <holiday endDate="2016-03-13" startDate="2016-03-13" workingday="false">شهادت حضرت فاطمه</holiday>
+        <!--[Oil Nationalization Day] - [oil_nationalization_day]-->
+        <holiday endDate="2016-03-19" startDate="2016-03-19" workingday="false">روز ملی شدن صنعت نفت</holiday>
+        <!--[Norooz (Persian New Year)] - [norooz__persian_new_year_]-->
+        <holiday endDate="2016-03-20" startDate="2016-03-20" workingday="false">نوروز</holiday>
+        <!--[Norooz Holiday] - [norooz_holiday]-->
+        <holiday endDate="2016-03-21" startDate="2016-03-21" workingday="false">تعطیلات نوروز</holiday>
+        <!--[Norooz Holiday] - [norooz_holiday]-->
+        <holiday endDate="2016-03-22" startDate="2016-03-22" workingday="false">تعطیلات نوروز</holiday>
+        <!--[Norooz Holiday] - [norooz_holiday]-->
+        <holiday endDate="2016-03-23" startDate="2016-03-23" workingday="false">تعطیلات نوروز</holiday>
+        <!--[Islamic Republic Day] - [islamic_republic_day]-->
+        <holiday endDate="2016-03-31" startDate="2016-03-31" workingday="false">روز جمهوری اسلامی</holiday>
+        <!--[Sizdehbedar (Nature Day)] - [sizdehbedar__nature_day_]-->
+        <holiday endDate="2016-04-01" startDate="2016-04-01" workingday="false">سیزده بدر</holiday>
+        <!--[Imam Ali's Birthday] - [imam_ali_s_birthday]-->
+        <holiday endDate="2016-04-21" startDate="2016-04-21" workingday="false">تولد امام علی</holiday>
+        <!--[The Prophet's Ascension (Mabaath)] - [the_prophet_s_ascension__mabaath_]-->
+        <holiday endDate="2016-05-05" startDate="2016-05-05" workingday="false">مبعث حضرت رسول</holiday>
+        <!--[Imam Mahdi's Birthday] - [imam_mahdi_s_birthday]-->
+        <holiday endDate="2016-05-22" startDate="2016-05-22" workingday="false">تولد امام مهدی</holiday>
+        <!--[Demise of Imam Khomeini] - [demise_of_imam_khomeini]-->
+        <holiday endDate="2016-06-03" startDate="2016-06-03" workingday="false">وفات امام خمینی</holiday>
+        <!--[15th Khordad National Uprising (1963)] - [a5th_khordad_national_uprising__1963_]-->
+        <holiday endDate="2016-06-04" startDate="2016-06-04" workingday="false">قیام ملی ۱۵ خرداد (۱۳۴۲)</holiday>
+        <!--[Martyrdom of Imam Ali] - [martyrdom_of_imam_ali]-->
+        <holiday endDate="2016-06-27" startDate="2016-06-27" workingday="false">شهادت امام علی</holiday>
+        <!--[Eid-e-Fitr (End of Ramadan)] - [end_of_ramadan]-->
+        <holiday endDate="2016-07-06" startDate="2016-07-06" workingday="false">عید فطر</holiday>
+        <!--[The day after Eid-e-Fitr] - [the_day_after_eid_e_fitr]-->
+        <holiday endDate="2016-07-07" startDate="2016-07-07" workingday="false">روز پس از عید فطر</holiday>
+        <!--[Martyrdom of Imam Sadeq] - [martyrdom_of_imam_sadeq]-->
+        <holiday endDate="2016-07-30" startDate="2016-07-30" workingday="false">شهادت امام صادق</holiday>
+        <!--[Eid-e-Qorban (Feast of Sacrifice)] - [feast_of_sacrifice]-->
+        <holiday endDate="2016-09-12" startDate="2016-09-12" workingday="false">عید قربان</holiday>
+        <!--[Eid-e-Ghadir] - [eid_e_ghadir]-->
+        <holiday endDate="2016-09-20" startDate="2016-09-20" workingday="false">عید غدیر</holiday>
+        <!--[Tasua] - [tasua]-->
+        <holiday endDate="2016-10-11" startDate="2016-10-11" workingday="false">تاسوعا</holiday>
+        <!--[Ashura (Martyrdom of Imam Hussein)] - [ashura__martyrdom_of_imam_hussein_]-->
+        <holiday endDate="2016-10-12" startDate="2016-10-12" workingday="false">عاشورا (شهادت امام حسین)</holiday>
+        <!--[Arba'in-e Hosseini (40th day after Ashura)] - [arba_in_e_hosseini__40th_day_after_ashura_]-->
+        <holiday endDate="2016-11-20" startDate="2016-11-20" workingday="false">اربعین حسینی</holiday>
+        <!--[Death of Prophet Mohammad / Martyrdom of Imam Hasan] - [death_of_prophet_mohammad___martyrdom_of_imam_hasan]-->
+        <holiday endDate="2016-11-28" startDate="2016-11-28" workingday="false">وفات حضرت محمد / شهادت امام حسن</holiday>
+        <!--[Martyrdom of Imam Reza] - [martyrdom_of_imam_reza]-->
+        <holiday endDate="2016-11-30" startDate="2016-11-30" workingday="false">شهادت امام رضا</holiday>
+        <!--[Birth of Prophet Mohammad and of Imam Sadegh] - [birth_of_prophet_mohammad_and_of_imam_sadegh]-->
+        <holiday endDate="2016-12-17" startDate="2016-12-17" workingday="false">تولد حضرت محمد و امام صادق</holiday>
+    </holidays>
+</calendar>
+

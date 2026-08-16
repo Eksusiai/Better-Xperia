@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 дзень</item>
+        <item quantity="other">%d дзён</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 падзея</item>
+        <item quantity="other">%d падзей</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 гадзіна</item>
+        <item quantity="other">%d гадзін</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 хв.</item>
+        <item quantity="other">%d хвілін</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 хвіліна</item>
+        <item quantity="other">%d хвілін</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">градус</item>
+        <item quantity="other">градусаў</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d год</item>
+        <item quantity="other">%d гадоў</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 задача</item>
+        <item quantity="other">%d задач(ы)</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">падзея</item>
+        <item quantity="other">падзеі</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">Падзея дадазена</item>
+        <item quantity="other">Падзеі дададзены</item>
+    </plurals>
+</resources>

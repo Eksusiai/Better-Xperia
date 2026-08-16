@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: th (Thai)
+ * Region: TH (Thailand)
+ *********************************************************************
+--><calendar language="th" region="TH" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day (celebration)] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">วันขึ้นปีใหม่</holiday>
+        <!--[New Year Holiday (day in lieu)] - [new_year_holiday__day_in_lieu_]-->
+        <holiday endDate="2017-01-02" startDate="2017-01-02" workingday="false">วันหยุดปีใหม่ (ชดเชย)</holiday>
+        <!--[Makha Bucha Day (celebration)] - [makha_bucha_day__celebration_]-->
+        <holiday endDate="2017-02-11" startDate="2017-02-11" workingday="false">วันมาฆบูชา (วันหยุด)</holiday>
+        <!--[Makha Bucha Holiday (day in lieu)] - [makha_bucha_holiday__day_in_lieu_]-->
+        <holiday endDate="2017-02-13" startDate="2017-02-13" workingday="false">วันมาฆบูชา (วันชดเชย)</holiday>
+        <!--[King Rama I Memorial and Chakri Day] - [king_rama_i_memorial_and_chakri_day]-->
+        <holiday endDate="2017-04-06" startDate="2017-04-06" workingday="false">วันจักรี</holiday>
+        <!--[Songkran (Thai New Year)] - [songkran__thai_new_year_]-->
+        <holiday endDate="2017-04-13" startDate="2017-04-13" workingday="false">วันสงกรานต์</holiday>
+        <!--[Songkran Holiday] - [songkran_holiday]-->
+        <holiday endDate="2017-04-14" startDate="2017-04-14" workingday="false">วันหยุดสงกรานต์</holiday>
+        <!--[Songkran Holiday] - [songkran_holiday]-->
+        <holiday endDate="2017-04-15" startDate="2017-04-15" workingday="false">วันหยุดสงกรานต์</holiday>
+        <!--[Songkran Holiday] - [songkran_holiday]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">วันหยุดสงกรานต์</holiday>
+        <!--[Coronation Day] - [coronation_day]-->
+        <holiday endDate="2017-05-05" startDate="2017-05-05" workingday="false">วันฉัตรมงคล</holiday>
+        <!--[Visakha Bucha Day (Buddha Day)] - [visakha_bucha_day__buddha_day_]-->
+        <holiday endDate="2017-05-10" startDate="2017-05-10" workingday="false">วันวิสาขบูชา</holiday>
+        <!--[HM the Queen's Birthday (celebration)] - [queen_s_birthday]-->
+        <holiday endDate="2017-08-12" startDate="2017-08-12" workingday="false">วันแม่แห่งชาติ</holiday>
+        <!--[Holiday for HM the Queen's Birthday (day in lieu)] - [queen_s_birthday]-->
+        <holiday endDate="2017-08-14" startDate="2017-08-14" workingday="false">วันแม่แห่งชาติ</holiday>
+        <!--[Chulalongkorn Day (Rama V Day)] - [chulalongkorn_day__rama_v_day_]-->
+        <holiday endDate="2017-10-23" startDate="2017-10-23" workingday="false">วันปิยมหาราช</holiday>
+        <!--[HM the King's Birthday] - [king_s_birthday]-->
+        <holiday endDate="2017-12-05" startDate="2017-12-05" workingday="false">วันพ่อแห่งชาติ</holiday>
+        <!--[Constitution Day (celebration)] - [constitution_day__celebration_]-->
+        <holiday endDate="2017-12-10" startDate="2017-12-10" workingday="false">วันรัฐธรรมนูญ (วันเฉลิมฉลอง)</holiday>
+        <!--[Constitution Day Holiday (day in lieu)] - [constitution_day_holiday__day_in_lieu_]-->
+        <holiday endDate="2017-12-11" startDate="2017-12-11" workingday="false">วันรัฐธรรมนูญ (วันหยุดชดเชย)</holiday>
+        <!--[New Year's Eve (celebration)] - [new_year_s_eve__celebration_]-->
+        <holiday endDate="2017-12-31" startDate="2017-12-31" workingday="false">วันส่งท้ายปีเก่า (วันหยุด)</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">วันขึ้นปีใหม่</holiday>
+        <!--[Makha Bucha Day] - [makha_bucha_day]-->
+        <holiday endDate="2016-02-22" startDate="2016-02-22" workingday="false">วันมาฆบูชา</holiday>
+        <!--[King Rama I Memorial and Chakri Day] - [king_rama_i_memorial_and_chakri_day]-->
+        <holiday endDate="2016-04-06" startDate="2016-04-06" workingday="false">วันจักรี</holiday>
+        <!--[Songkran (Thai New Year)] - [songkran__thai_new_year_]-->
+        <holiday endDate="2016-04-13" startDate="2016-04-13" workingday="false">วันสงกรานต์</holiday>
+        <!--[Songkran Holiday] - [songkran_holiday]-->
+        <holiday endDate="2016-04-14" startDate="2016-04-14" workingday="false">วันหยุดสงกรานต์</holiday>
+        <!--[Songkran Holiday] - [songkran_holiday]-->
+        <holiday endDate="2016-04-15" startDate="2016-04-15" workingday="false">วันหยุดสงกรานต์</holiday>
+        <!--[Coronation Day] - [coronation_day]-->
+        <holiday endDate="2016-05-05" startDate="2016-05-05" workingday="false">วันฉัตรมงคล</holiday>
+        <!--[Public Holiday] - [public_holiday]-->
+        <holiday endDate="2016-05-06" startDate="2016-05-06" workingday="false">วันหยุดนักขัตฤกษ์</holiday>
+        <!--[Visakha Bucha Day (Buddha Day)] - [visakha_bucha_day__buddha_day_]-->
+        <holiday endDate="2016-05-20" startDate="2016-05-20" workingday="false">วันวิสาขบูชา</holiday>
+        <!--[Public Holiday] - [public_holiday]-->
+        <holiday endDate="2016-07-18" startDate="2016-07-18" workingday="false">วันหยุดนักขัตฤกษ์</holiday>
+        <!--[Asarnha Bucha Day] - [asarnha_bucha_day]-->
+        <holiday endDate="2016-07-19" startDate="2016-07-19" workingday="false">วันอาสาฬหบูชา</holiday>
+        <!--[HM the Queen's Birthday] - [queen_s_birthday]-->
+        <holiday endDate="2016-08-12" startDate="2016-08-12" workingday="false">วันแม่แห่งชาติ</holiday>
+        <!--[Chulalongkorn Day (Rama V Day) (celebration)] - [chulalongkorn_day__rama_v_day___celebration_]-->
+        <holiday endDate="2016-10-23" startDate="2016-10-23" workingday="false">วันปิยมหาราช (รัชกาลที่ 5) (วันเฉลิมฉลอง)</holiday>
+        <!--[Chulalongkorn Holiday (day in lieu)] - [chulalongkorn_holiday__day_in_lieu_]-->
+        <holiday endDate="2016-10-24" startDate="2016-10-24" workingday="false">วันปิยมหาราช (วันหยุดชดเชย)</holiday>
+        <!--[HM the King's Birthday] - [king_s_birthday]-->
+        <holiday endDate="2016-12-05" startDate="2016-12-05" workingday="false">วันพ่อแห่งชาติ</holiday>
+        <!--[Constitution Day (celebration)] - [constitution_day__celebration_]-->
+        <holiday endDate="2016-12-10" startDate="2016-12-10" workingday="false">วันรัฐธรรมนูญ (วันเฉลิมฉลอง)</holiday>
+        <!--[Constitution Day Holiday (day in lieu)] - [constitution_day_holiday__day_in_lieu_]-->
+        <holiday endDate="2016-12-12" startDate="2016-12-12" workingday="false">วันรัฐธรรมนูญ (วันหยุดชดเชย)</holiday>
+        <!--[New Year's Eve] - [new_year_s_eve]-->
+        <holiday endDate="2016-12-31" startDate="2016-12-31" workingday="false">วันส่งท้ายปีเก่า</holiday>
+    </holidays>
+</calendar>
+

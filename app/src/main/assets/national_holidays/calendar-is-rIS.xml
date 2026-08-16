@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: is (Icelandic)
+ * Region: IS (Iceland)
+ *********************************************************************
+--><calendar language="is" region="IS" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Nýársdagur</holiday>
+        <!--[Maundy Thursday] - [maundy_thursday]-->
+        <holiday endDate="2017-04-13" startDate="2017-04-13" workingday="false">Skírdagur</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2017-04-14" startDate="2017-04-14" workingday="false">Föstudagurinn langi</holiday>
+        <!--[Easter] - [easter]-->
+        <holiday endDate="2017-04-16" startDate="2017-04-16" workingday="false">Páskar</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">Annar í páskum</holiday>
+        <!--[Sumardagurinn fyrsti (First Day of Summer)] - [sumardagurinn_fyrsti__first_day_of_summer_]-->
+        <holiday endDate="2017-04-20" startDate="2017-04-20" workingday="false">Sumardagurinn fyrsti</holiday>
+        <!--[May Day] - [may_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">1. maí</holiday>
+        <!--[Ascension Day] - [ascension_day]-->
+        <holiday endDate="2017-05-25" startDate="2017-05-25" workingday="false">Uppstigningardagur</holiday>
+        <!--[Whit Sunday (Pentecost)] - [whit_sunday__pentecost_]-->
+        <holiday endDate="2017-06-04" startDate="2017-06-04" workingday="false">Hvítasunnudagur</holiday>
+        <!--[Whit Monday] - [whit_monday]-->
+        <holiday endDate="2017-06-05" startDate="2017-06-05" workingday="false">Annar í hvítasunnu</holiday>
+        <!--[Independence Day (National Day)] - [independence_day]-->
+        <holiday endDate="2017-06-17" startDate="2017-06-17" workingday="false">Þjóðhátíðardagur</holiday>
+        <!--[Frídagur verslunarmanna (Commerce Day)] - [fr_dagur_verslunarmanna__commerce_day_]-->
+        <holiday endDate="2017-08-07" startDate="2017-08-07" workingday="false">Frídagur verslunarmanna</holiday>
+        <!--[Christmas Eve] - [christmas_eve]-->
+        <holiday endDate="2017-12-24" startDate="2017-12-24" workingday="false">Aðfangadagur</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Jóladagur</holiday>
+        <!--[Second Day of Christmas] - [second_day_of_christmas]-->
+        <holiday endDate="2017-12-26" startDate="2017-12-26" workingday="false">Annar í jólum</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Nýársdagur</holiday>
+        <!--[Maundy Thursday] - [maundy_thursday]-->
+        <holiday endDate="2016-03-24" startDate="2016-03-24" workingday="false">Skírdagur</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2016-03-25" startDate="2016-03-25" workingday="false">Föstudagurinn langi</holiday>
+        <!--[Easter] - [easter]-->
+        <holiday endDate="2016-03-27" startDate="2016-03-27" workingday="false">Páskar</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2016-03-28" startDate="2016-03-28" workingday="false">Annar í páskum</holiday>
+        <!--[Sumardagurinn fyrsti (First Day of Summer)] - [sumardagurinn_fyrsti__first_day_of_summer_]-->
+        <holiday endDate="2016-04-21" startDate="2016-04-21" workingday="false">Sumardagurinn fyrsti</holiday>
+        <!--[May Day] - [may_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">1. maí</holiday>
+        <!--[Ascension Day] - [ascension_day]-->
+        <holiday endDate="2016-05-05" startDate="2016-05-05" workingday="false">Uppstigningardagur</holiday>
+        <!--[Whit Sunday (Pentecost)] - [whit_sunday__pentecost_]-->
+        <holiday endDate="2016-05-15" startDate="2016-05-15" workingday="false">Hvítasunnudagur</holiday>
+        <!--[Whit Monday] - [whit_monday]-->
+        <holiday endDate="2016-05-16" startDate="2016-05-16" workingday="false">Annar í hvítasunnu</holiday>
+        <!--[Independence Day (National Day)] - [independence_day]-->
+        <holiday endDate="2016-06-17" startDate="2016-06-17" workingday="false">Þjóðhátíðardagur</holiday>
+        <!--[Frídagur verslunarmanna (Commerce Day)] - [fr_dagur_verslunarmanna__commerce_day_]-->
+        <holiday endDate="2016-08-01" startDate="2016-08-01" workingday="false">Frídagur verslunarmanna</holiday>
+        <!--[Christmas Eve] - [christmas_eve]-->
+        <holiday endDate="2016-12-24" startDate="2016-12-24" workingday="false">Aðfangadagur</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Jóladagur</holiday>
+        <!--[Second Day of Christmas] - [second_day_of_christmas]-->
+        <holiday endDate="2016-12-26" startDate="2016-12-26" workingday="false">Annar í jólum</holiday>
+    </holidays>
+</calendar>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center_vertical"
+    android:layout_gravity="start"
+    android:orientation="vertical"
+    android:id="@+id/actionbar_title_layout"
+    android:focusable="false"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent">
+    <com.sonymobile.calendar.tablet.TitleHeader
+        android:textColor="@color/done_text_color_normal"
+        android:id="@+id/toolbar_title_text"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:layout_marginStart="40dp"
+        style="@style/ActionBarTextStyle"/>
+</LinearLayout>

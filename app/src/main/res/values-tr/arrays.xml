@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="accepted_items">
+        <item>Kabul etti</item>
+        <item>Belirsiz</item>
+        <item>Reddetti</item>
+    </array>
+    <array name="accessibility_event_color_picker_colors">
+        <item>Sarı</item>
+        <item>Turuncu</item>
+        <item>Kırmızı</item>
+        <item>Şarap rengi</item>
+        <item>Pembe</item>
+        <item>Mor</item>
+        <item>Kahverengi</item>
+        <item>Açık yeşil</item>
+        <item>Yeşil</item>
+        <item>Turkuaz</item>
+        <item>Açık mavi</item>
+        <item>Mavi</item>
+    </array>
+    <array name="availability">
+        <item>Meşgul</item>
+        <item>Müsait</item>
+        <item>Kesin değil</item>
+    </array>
+    <array name="change_response_labels">
+        <item>Yalnızca bu örnek</item>
+        <item>Serideki tüm etkinlikler</item>
+    </array>
+    <array name="month_view_day_labels">
+        <item>P</item>
+        <item>S</item>
+        <item>Ç</item>
+        <item>P</item>
+        <item>C</item>
+        <item>C</item>
+        <item>P</item>
+    </array>
+    <array name="ordinal_labels">
+        <item>ilk</item>
+        <item>ikinci</item>
+        <item>üçüncü</item>
+        <item>dördüncü</item>
+        <item>son</item>
+    </array>
+    <array name="prefEntries_alerts_vibrateWhen">
+        <item>Her zaman</item>
+        <item>Sdce Rhtsz etmyn modunda</item>
+        <item>Hiçbir zaman</item>
+    </array>
+    <array name="preferences_alert_type_labels">
+        <item>Uyarı</item>
+        <item>Durum çubuğu bildirimi</item>
+        <item>Kapalı</item>
+    </array>
+    <array name="preferences_default_reminder_labels">
+        <item>Yok</item>
+        <item>5 dakika</item>
+        <item>10 dakika</item>
+        <item>15 dakika</item>
+        <item>20 dakika</item>
+        <item>25 dakika</item>
+        <item>30 dakika</item>
+        <item>45 dakika</item>
+        <item>1 saat</item>
+        <item>2 saat</item>
+        <item>3 saat</item>
+        <item>12 saat</item>
+        <item>24 saat</item>
+        <item>2 gün</item>
+        <item>1 hafta</item>
+    </array>
+    <array name="preferences_week_days_labels">
+        <item>Yalnızca çalışma günleri</item>
+        <item>7 gün</item>
+    </array>
+    <array name="quick_response_defaults">
+        <item>Birkaç dakika gecikeceğim.</item>
+        <item>10 dakika içinde oradayım.</item>
+        <item>Siz bensiz başlayın.</item>
+        <item>Üzgünüm, gelemiyorum. Başka zaman ayarlamamız gerek.</item>
+    </array>
+    <array name="reminder_minutes_labels">
+        <item>5 dakika</item>
+        <item>10 dakika</item>
+        <item>15 dakika</item>
+        <item>20 dakika</item>
+        <item>25 dakika</item>
+        <item>30 dakika</item>
+        <item>45 dakika</item>
+        <item>1 saat</item>
+        <item>2 saat</item>
+        <item>3 saat</item>
+        <item>12 saat</item>
+        <item>24 saat</item>
+        <item>2 gün</item>
+        <item>1 hafta</item>
+    </array>
+    <array name="repeats_pattern">
+        <item>Günlük</item>
+        <item>Haftalık</item>
+        <item>Aylık</item>
+        <item>Yıllık</item>
+    </array>
+    <array name="repeats_weekdays_no">
+        <item>İlk</item>
+        <item>İkinci</item>
+        <item>Üçüncü</item>
+        <item>Dördüncü</item>
+        <item>Beşinci</item>
+    </array>
+    <array name="reply_items">
+        <item>Yanıtla</item>
+        <item>Tümünü yanıtla</item>
+        <item>İlet</item>
+    </array>
+    <array name="response_labels1">
+        <item>(Yanıt yok)</item>
+        <item>Evet</item>
+        <item>Belki</item>
+        <item>Hayır</item>
+    </array>
+    <array name="response_labels2">
+        <item>Evet</item>
+        <item>Belki</item>
+        <item>Hayır</item>
+    </array>
+    <array name="timezone_labels">
+        <item>Marshall Adaları</item>
+        <item>Midway Adası</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Pasifik Saati</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Dağ Zaman Dilimi</item>
+        <item>Orta Amerika</item>
+        <item>Merkezi Saat</item>
+        <item>Mexico City</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>Doğu Saati</item>
+        <item>Venezuela</item>
+        <item>Atlantik Saati</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Newfoundland</item>
+        <item>Brezilya</item>
+        <item>Buenos Aires</item>
+        <item>Grönland</item>
+        <item>Montevideo</item>
+        <item>Orta Atlantik</item>
+        <item>Asor Adaları</item>
+        <item>Cape Verde Adaları</item>
+        <item>Kasablanka</item>
+        <item>Londra, Dublin</item>
+        <item>Amsterdam, Berlin</item>
+        <item>Belgrad</item>
+        <item>Brüksel</item>
+        <item>Saraybosna</item>
+        <item>Windhoek</item>
+        <item>B. Afrika Saati</item>
+        <item>Amman, Ürdün</item>
+        <item>Atina, İstanbul</item>
+        <item>Beyrut, Lübnan</item>
+        <item>Kahire</item>
+        <item>Helsinki</item>
+        <item>Kudüs</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bağdat</item>
+        <item>Moskova</item>
+        <item>Kuveyt</item>
+        <item>Nairobi</item>
+        <item>Tahran</item>
+        <item>Bakü</item>
+        <item>Tiflis</item>
+        <item>Erivan</item>
+        <item>Dubai</item>
+        <item>Kabil</item>
+        <item>İslamabat, Karaçi</item>
+        <item>Uralsk</item>
+        <item>Yekaterinburg</item>
+        <item>Kolkata</item>
+        <item>Sri Lanka</item>
+        <item>Katmandu</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Pekin</item>
+        <item>Hong Kong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Seul</item>
+        <item>Tokyo, Osaka</item>
+        <item>Yakutsk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney, Canberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Tonga</item>
+    </array>
+    <array name="visibility">
+        <item>Varsayılan</item>
+        <item>Gizli</item>
+        <item>Halka Açık</item>
+    </array>
+</resources>

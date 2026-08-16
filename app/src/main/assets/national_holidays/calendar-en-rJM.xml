@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: en (English)
+ * Region: JM (Jamaica)
+ *********************************************************************
+--><calendar language="en" region="JM" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day (celebration)] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">New Year's Day</holiday>
+        <!--[New Year Holiday (day in lieu)] - [new_year_holiday__day_in_lieu_]-->
+        <holiday endDate="2017-01-02" startDate="2017-01-02" workingday="false">New Year Holiday (day in lieu)</holiday>
+        <!--[Ash Wednesday] - [ash_wednesday]-->
+        <holiday endDate="2017-03-01" startDate="2017-03-01" workingday="false">Ash Wednesday</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2017-04-14" startDate="2017-04-14" workingday="false">Good Friday</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">Easter Monday</holiday>
+        <!--[National Labour Day] - [national_labour_day]-->
+        <holiday endDate="2017-05-23" startDate="2017-05-23" workingday="false">National Labour Day</holiday>
+        <!--[Emancipation Day] - [emancipation_day]-->
+        <holiday endDate="2017-08-01" startDate="2017-08-01" workingday="false">Emancipation Day</holiday>
+        <!--[Independence Day (celebration)] - [independence_day]-->
+        <holiday endDate="2017-08-06" startDate="2017-08-06" workingday="false">Independence Day</holiday>
+        <!--[Independence Day Holiday (day in lieu)] - [independence_day]-->
+        <holiday endDate="2017-08-07" startDate="2017-08-07" workingday="false">Independence Day</holiday>
+        <!--[National Heroes' Day] - [national_heroes__day]-->
+        <holiday endDate="2017-10-16" startDate="2017-10-16" workingday="false">National Heroes' Day</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Christmas Day</holiday>
+        <!--[Boxing Day] - [boxing_day]-->
+        <holiday endDate="2017-12-26" startDate="2017-12-26" workingday="false">Boxing Day</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">New Year's Day</holiday>
+        <!--[Ash Wednesday] - [ash_wednesday]-->
+        <holiday endDate="2016-02-10" startDate="2016-02-10" workingday="false">Ash Wednesday</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2016-03-25" startDate="2016-03-25" workingday="false">Good Friday</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2016-03-28" startDate="2016-03-28" workingday="false">Easter Monday</holiday>
+        <!--[National Labour Day] - [national_labour_day]-->
+        <holiday endDate="2016-05-23" startDate="2016-05-23" workingday="false">National Labour Day</holiday>
+        <!--[Emancipation Day] - [emancipation_day]-->
+        <holiday endDate="2016-08-01" startDate="2016-08-01" workingday="false">Emancipation Day</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2016-08-06" startDate="2016-08-06" workingday="false">Independence Day</holiday>
+        <!--[National Heroes' Day] - [national_heroes__day]-->
+        <holiday endDate="2016-10-17" startDate="2016-10-17" workingday="false">National Heroes' Day</holiday>
+        <!--[Christmas Day (celebration)] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Christmas Day</holiday>
+        <!--[Boxing Day] - [boxing_day]-->
+        <holiday endDate="2016-12-26" startDate="2016-12-26" workingday="false">Boxing Day</holiday>
+        <!--[Christmas Holiday (day in lieu)] - [christmas_holiday__day_in_lieu_]-->
+        <holiday endDate="2016-12-27" startDate="2016-12-27" workingday="false">Christmas Holiday (day in lieu)</holiday>
+    </holidays>
+</calendar>
+

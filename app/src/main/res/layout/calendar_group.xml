@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center"
+    android:id="@+id/calendar_group"
+    android:background="@color/month_view_background_color"
+    android:paddingTop="@dimen/edit_event_calendars_spinner_padding"
+    android:paddingBottom="@dimen/edit_event_calendars_spinner_padding"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingStart="@dimen/edit_event_calendar_group_start_padding"
+    android:paddingEnd="15dp">
+    <Spinner
+        android:id="@+id/calendars"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:descendantFocusability="beforeDescendants"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:prompt="@string/edit_event_calendar_label"
+        android:spinnerMode="dialog"/>
+</LinearLayout>

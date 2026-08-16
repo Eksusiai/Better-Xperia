@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: en (English)
+ * Region: HK (Hong Kong)
+ *********************************************************************
+--><calendar language="en" region="HK" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[The first day of January (celebration)] - [the_first_day_of_january__celebration_]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">The first day of January (celebration)</holiday>
+        <!--[The first weekday in January (day in lieu)] - [the_first_weekday_in_january__day_in_lieu_]-->
+        <holiday endDate="2017-01-02" startDate="2017-01-02" workingday="false">The first weekday in January (day in lieu)</holiday>
+        <!--[Lunar New Year's Day] - [lunar_new_year_s_day]-->
+        <holiday endDate="2017-01-28" startDate="2017-01-28" workingday="false">Lunar New Year's Day</holiday>
+        <!--[The second day of the Lunar New Year] - [the_second_day_of_the_lunar_new_year]-->
+        <holiday endDate="2017-01-29" startDate="2017-01-29" workingday="false">The second day of the Lunar New Year</holiday>
+        <!--[The third day of the Lunar New Year] - [the_third_day_of_the_lunar_new_year]-->
+        <holiday endDate="2017-01-30" startDate="2017-01-30" workingday="false">The third day of the Lunar New Year</holiday>
+        <!--[The fourth day of the Lunar New Year] - [the_fourth_day_of_the_lunar_new_year]-->
+        <holiday endDate="2017-01-31" startDate="2017-01-31" workingday="false">The fourth day of the Lunar New Year</holiday>
+        <!--[Ching Ming (Tomb Sweeping Day)] - [ching_ming__tomb_sweeping_day_]-->
+        <holiday endDate="2017-04-04" startDate="2017-04-04" workingday="false">Ching Ming (Tomb Sweeping Day)</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2017-04-14" startDate="2017-04-14" workingday="false">Good Friday</holiday>
+        <!--[The day after Good Friday (Holy Saturday)] - [the_day_after_good_friday__holy_saturday_]-->
+        <holiday endDate="2017-04-15" startDate="2017-04-15" workingday="false">The day after Good Friday (Holy Saturday)</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">Easter Monday</holiday>
+        <!--[Labour Day] - [labor_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Labor Day</holiday>
+        <!--[Buddha's Birthday] - [buddha_s_birthday]-->
+        <holiday endDate="2017-05-03" startDate="2017-05-03" workingday="false">Buddha's Birthday</holiday>
+        <!--[Tuen Ng (Dragon Boat Festival)] - [tuen_ng__dragon_boat_festival_]-->
+        <holiday endDate="2017-05-30" startDate="2017-05-30" workingday="false">Tuen Ng (Dragon Boat Festival)</holiday>
+        <!--[HKSAR Establishment Day] - [hksar_establishment_day]-->
+        <holiday endDate="2017-07-01" startDate="2017-07-01" workingday="false">HKSAR Establishment Day</holiday>
+        <!--[National Day (celebration)] - [national_day__celebration_]-->
+        <holiday endDate="2017-10-01" startDate="2017-10-01" workingday="false">National Day (celebration)</holiday>
+        <!--[The day following National Day (day in lieu)] - [the_day_following_national_day__day_in_lieu_]-->
+        <holiday endDate="2017-10-02" startDate="2017-10-02" workingday="false">The day following National Day (day in lieu)</holiday>
+        <!--[The day following the Mid-Autumn Festival] - [the_day_following_the_mid_autumn_festival]-->
+        <holiday endDate="2017-10-05" startDate="2017-10-05" workingday="false">The day following the Mid-Autumn Festival</holiday>
+        <!--[Chung Yeung Festival] - [chung_yeung_festival]-->
+        <holiday endDate="2017-10-28" startDate="2017-10-28" workingday="false">Chung Yeung Festival</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Christmas Day</holiday>
+        <!--[The first weekday following Christmas Day (Boxing Day)] - [the_first_weekday_following_christmas_day__boxing_day_]-->
+        <holiday endDate="2017-12-26" startDate="2017-12-26" workingday="false">The first weekday following Christmas Day (Boxing Day)</holiday>
+        <!--[The first day of January] - [the_first_day_of_january]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">The first day of January</holiday>
+        <!--[Lunar New Year's Day] - [lunar_new_year_s_day]-->
+        <holiday endDate="2016-02-08" startDate="2016-02-08" workingday="false">Lunar New Year's Day</holiday>
+        <!--[The second day of the Lunar New Year] - [the_second_day_of_the_lunar_new_year]-->
+        <holiday endDate="2016-02-09" startDate="2016-02-09" workingday="false">The second day of the Lunar New Year</holiday>
+        <!--[The third day of the Lunar New Year] - [the_third_day_of_the_lunar_new_year]-->
+        <holiday endDate="2016-02-10" startDate="2016-02-10" workingday="false">The third day of the Lunar New Year</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2016-03-25" startDate="2016-03-25" workingday="false">Good Friday</holiday>
+        <!--[The day after Good Friday (Holy Saturday)] - [the_day_after_good_friday__holy_saturday_]-->
+        <holiday endDate="2016-03-26" startDate="2016-03-26" workingday="false">The day after Good Friday (Holy Saturday)</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2016-03-28" startDate="2016-03-28" workingday="false">Easter Monday</holiday>
+        <!--[Ching Ming (Tomb Sweeping Day)] - [ching_ming__tomb_sweeping_day_]-->
+        <holiday endDate="2016-04-04" startDate="2016-04-04" workingday="false">Ching Ming (Tomb Sweeping Day)</holiday>
+        <!--[Labour Day (celebration)] - [labor_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Labor Day</holiday>
+        <!--[The day following Labour Day (day in lieu)] - [the_day_following_labour_day__day_in_lieu_]-->
+        <holiday endDate="2016-05-02" startDate="2016-05-02" workingday="false">The day following Labour Day (day in lieu)</holiday>
+        <!--[Buddha's Birthday] - [buddha_s_birthday]-->
+        <holiday endDate="2016-05-14" startDate="2016-05-14" workingday="false">Buddha's Birthday</holiday>
+        <!--[Tuen Ng (Dragon Boat Festival)] - [tuen_ng__dragon_boat_festival_]-->
+        <holiday endDate="2016-06-09" startDate="2016-06-09" workingday="false">Tuen Ng (Dragon Boat Festival)</holiday>
+        <!--[HKSAR Establishment Day] - [hksar_establishment_day]-->
+        <holiday endDate="2016-07-01" startDate="2016-07-01" workingday="false">HKSAR Establishment Day</holiday>
+        <!--[The day following the Mid-Autumn Festival] - [the_day_following_the_mid_autumn_festival]-->
+        <holiday endDate="2016-09-16" startDate="2016-09-16" workingday="false">The day following the Mid-Autumn Festival</holiday>
+        <!--[National Day] - [national_day]-->
+        <holiday endDate="2016-10-01" startDate="2016-10-01" workingday="false">National Day</holiday>
+        <!--[Chung Yeung Festival (celebration)] - [chung_yeung_festival__celebration_]-->
+        <holiday endDate="2016-10-09" startDate="2016-10-09" workingday="false">Chung Yeung Festival (celebration)</holiday>
+        <!--[The day following the Chung Yeung Festival (day in lieu)] - [the_day_following_the_chung_yeung_festival__day_in_lieu_]-->
+        <holiday endDate="2016-10-10" startDate="2016-10-10" workingday="false">The day following the Chung Yeung Festival (day in lieu)</holiday>
+        <!--[Christmas Day (celebration)] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Christmas Day</holiday>
+        <!--[The first weekday following Christmas Day (Boxing Day)] - [the_first_weekday_following_christmas_day__boxing_day_]-->
+        <holiday endDate="2016-12-26" startDate="2016-12-26" workingday="false">The first weekday following Christmas Day (Boxing Day)</holiday>
+        <!--[The second weekday following Christmas Day (day in lieu)] - [the_second_weekday_following_christmas_day__day_in_lieu_]-->
+        <holiday endDate="2016-12-27" startDate="2016-12-27" workingday="false">The second weekday following Christmas Day (day in lieu)</holiday>
+    </holidays>
+</calendar>
+

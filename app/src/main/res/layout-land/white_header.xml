@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:id="@+id/white_header_parent"
+    android:background="@drawable/day_navigator_day_selector"
+    android:focusable="true"
+    android:nextFocusRight="@+id/weatherIcon"
+    android:nextFocusDown="@+id/splitscreen_agenda"
+    android:descendantFocusability="beforeDescendants"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/white_header_height">
+    <com.sonymobile.calendar.weather.WeatherIcon xmlns:this="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/weatherIcon"
+        android:visibility="gone"
+        android:layout_centerVertical="true"
+        android:layout_alignParentEnd="true"
+        this:dark_background="true"
+        style="@style/WhiteHeaderWeatherIcon"/>
+    <TextView
+        android:textColor="@color/calendar_primary_text_color"
+        android:id="@+id/title"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="@dimen/white_header_title_text_margin_start"
+        android:layout_marginEnd="@dimen/white_header_title_text_margin_end"
+        android:layout_toStartOf="@+id/weatherIcon"
+        android:layout_alignParentStart="true"
+        style="@style/SubheadTextStyle"/>
+</RelativeLayout>

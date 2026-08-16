@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: en (English)
+ * Region: IN (India)
+ *********************************************************************
+--><calendar language="en" region="IN" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[Republic Day (National Day)] - [republic_day__national_day_]-->
+        <holiday endDate="2017-01-26" startDate="2017-01-26" workingday="false">Republic Day (National Day)</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2017-08-15" startDate="2017-08-15" workingday="false">Independence Day</holiday>
+        <!--[Mahatma Gandhi's Birthday] - [mahatma_gandhi_s_birthday]-->
+        <holiday endDate="2017-10-02" startDate="2017-10-02" workingday="false">Mahatma Gandhi's Birthday</holiday>
+        <!--[Republic Day (National Day)] - [republic_day__national_day_]-->
+        <holiday endDate="2016-01-26" startDate="2016-01-26" workingday="false">Republic Day (National Day)</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2016-08-15" startDate="2016-08-15" workingday="false">Independence Day</holiday>
+        <!--[Mahatma Gandhi's Birthday] - [mahatma_gandhi_s_birthday]-->
+        <holiday endDate="2016-10-02" startDate="2016-10-02" workingday="false">Mahatma Gandhi's Birthday</holiday>
+    </holidays>
+</calendar>
+

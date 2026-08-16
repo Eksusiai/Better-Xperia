@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="accepted_items">
+        <item>Прийнято</item>
+        <item>Сумнівно</item>
+        <item>Відхилено</item>
+    </array>
+    <array name="accessibility_event_color_picker_colors">
+        <item>Жовтий</item>
+        <item>Помаранчевий</item>
+        <item>Червоний</item>
+        <item>Вишневий</item>
+        <item>Рожевий</item>
+        <item>Пурпуровий</item>
+        <item>Коричневий</item>
+        <item>Світло-зелений</item>
+        <item>Зелений</item>
+        <item>Бірюзовий</item>
+        <item>Світло-синій</item>
+        <item>Синій</item>
+    </array>
+    <array name="availability">
+        <item>Зайнятий</item>
+        <item>Вільний</item>
+        <item>Сумнівно</item>
+    </array>
+    <array name="change_response_labels">
+        <item>Лише в цьому випадку</item>
+        <item>Усі події цієї серії</item>
+    </array>
+    <array name="month_view_day_labels">
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+        <item>Нд</item>
+    </array>
+    <array name="ordinal_labels">
+        <item>перш.</item>
+        <item>друг.</item>
+        <item>трет.</item>
+        <item>четверт.</item>
+        <item>останн.</item>
+    </array>
+    <array name="prefEntries_alerts_vibrateWhen">
+        <item>Завжди</item>
+        <item>У режимі «Не турбувати»</item>
+        <item>Ніколи</item>
+    </array>
+    <array name="preferences_alert_type_labels">
+        <item>Попередження</item>
+        <item>Сповіщення панелі стану</item>
+        <item>Вимк.</item>
+    </array>
+    <array name="preferences_default_reminder_labels">
+        <item>Не вказано</item>
+        <item>5 хвилин</item>
+        <item>10 хвилин</item>
+        <item>15 хвилин</item>
+        <item>20 хвилин</item>
+        <item>25 хвилин</item>
+        <item>30 хвилин</item>
+        <item>45 хвилин</item>
+        <item>1 година</item>
+        <item>2 години</item>
+        <item>3 години</item>
+        <item>12 годин</item>
+        <item>24 години</item>
+        <item>2 дні</item>
+        <item>1 тиждень</item>
+    </array>
+    <array name="preferences_week_days_labels">
+        <item>Лише робочі дні</item>
+        <item>7 днів</item>
+    </array>
+    <array name="quick_response_defaults">
+        <item>Запізнююся на кілька хвилин.</item>
+        <item>Буду за 10 хвилин.</item>
+        <item>Починайте без мене.</item>
+        <item>Вибачте, я не зможу. Доведеться перенести зустріч.</item>
+    </array>
+    <array name="reminder_minutes_labels">
+        <item>5 хвилин</item>
+        <item>10 хвилин</item>
+        <item>15 хвилин</item>
+        <item>20 хвилин</item>
+        <item>25 хвилин</item>
+        <item>30 хвилин</item>
+        <item>45 хвилин</item>
+        <item>1 година</item>
+        <item>2 години</item>
+        <item>3 години</item>
+        <item>12 годин</item>
+        <item>24 години</item>
+        <item>2 дні</item>
+        <item>1 тиждень</item>
+    </array>
+    <array name="repeats_pattern">
+        <item>Щоденно</item>
+        <item>Щотижня</item>
+        <item>Щомісяця</item>
+        <item>Щороку</item>
+    </array>
+    <array name="repeats_weekdays_no">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </array>
+    <array name="reply_items">
+        <item>Відповісти</item>
+        <item>Відповісти всім</item>
+        <item>Переслати</item>
+    </array>
+    <array name="response_labels1">
+        <item>(Без відповіді)</item>
+        <item>Так</item>
+        <item>Можливо</item>
+        <item>Ні</item>
+    </array>
+    <array name="response_labels2">
+        <item>Так</item>
+        <item>Можливо</item>
+        <item>Ні</item>
+    </array>
+    <array name="timezone_labels">
+        <item>Маршаллові острови</item>
+        <item>Острів Мідвей</item>
+        <item>Гаваї</item>
+        <item>Аляска</item>
+        <item>Тихоокеанський час</item>
+        <item>Тіхуана</item>
+        <item>Аризона</item>
+        <item>Чіуауа</item>
+        <item>Зимовий час</item>
+        <item>Центральна Америка</item>
+        <item>Центральний час</item>
+        <item>Мехіко</item>
+        <item>Саскачеван</item>
+        <item>Богота</item>
+        <item>Східний час</item>
+        <item>Венесуела</item>
+        <item>Атлантичний час</item>
+        <item>Манаус</item>
+        <item>Сантьяго</item>
+        <item>Ньюфаундленд</item>
+        <item>Бразилія</item>
+        <item>Буенос-Айрес</item>
+        <item>Гренландія</item>
+        <item>Монтевідео</item>
+        <item>Середньоатлантичний</item>
+        <item>Азорські острови</item>
+        <item>Острови Кабо-Верде</item>
+        <item>Касабланка</item>
+        <item>Лондон, Дублін</item>
+        <item>Амстердам, Берлін</item>
+        <item>Белград</item>
+        <item>Брюссель</item>
+        <item>Сараєво</item>
+        <item>Віндгук</item>
+        <item>Західноафр. час</item>
+        <item>Амман, Йорданія</item>
+        <item>Афіни, Стамбул</item>
+        <item>Бейрут, Ліван</item>
+        <item>Каїр</item>
+        <item>Гельсінкі</item>
+        <item>Єрусалим</item>
+        <item>Мінськ</item>
+        <item>Хараре</item>
+        <item>Багдад</item>
+        <item>Москва</item>
+        <item>Кувейт</item>
+        <item>Найробі</item>
+        <item>Тегеран</item>
+        <item>Баку</item>
+        <item>Тбілісі</item>
+        <item>Єреван</item>
+        <item>Дубаї</item>
+        <item>Кабул</item>
+        <item>Ісламабад, Карачі</item>
+        <item>Уральськ</item>
+        <item>Єкатеринбург</item>
+        <item>Колката</item>
+        <item>Шрі-Ланка</item>
+        <item>Катманду</item>
+        <item>Астана</item>
+        <item>Янгон</item>
+        <item>Красноярськ</item>
+        <item>Бангкок</item>
+        <item>Пекін</item>
+        <item>Гонконг</item>
+        <item>Іркутськ</item>
+        <item>Куала-Лумпур</item>
+        <item>Перт</item>
+        <item>Тайбей</item>
+        <item>Сеул</item>
+        <item>Токіо, Осака</item>
+        <item>Якутськ</item>
+        <item>Аделаїда</item>
+        <item>Дарвін</item>
+        <item>Брісбейн</item>
+        <item>Хобарт</item>
+        <item>Сідней, Канберра</item>
+        <item>Владивосток</item>
+        <item>Гуам</item>
+        <item>Магадан</item>
+        <item>Окленд</item>
+        <item>Фіджі</item>
+        <item>Тонга</item>
+    </array>
+    <array name="visibility">
+        <item>Стандартний</item>
+        <item>Особистий</item>
+        <item>Загальний</item>
+    </array>
+</resources>

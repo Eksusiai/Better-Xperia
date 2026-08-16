@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 நாள்</item>
+        <item quantity="other">%d நாட்கள்</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 நிகழ்வு</item>
+        <item quantity="other">%d நிகழ்வுகள்</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 மணிநேரம்</item>
+        <item quantity="other">%d மணிநேரங்கள்</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 நிமி.</item>
+        <item quantity="other">%d நிமிடங்கள்</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 நிமிடம்</item>
+        <item quantity="other">%d நிமிடங்கள்</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">டிகிரி</item>
+        <item quantity="other">டிகிரிகள்</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d வயது</item>
+        <item quantity="other">%d வயது</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 பணி</item>
+        <item quantity="other">%d பணிகள்</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">நிகழ்வு</item>
+        <item quantity="other">நிகழ்வுகள்</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">நிகழ்வு சேர்க்கப்பட்டது</item>
+        <item quantity="other">நிகழ்வுகள் சேர்க்கப்பட்டது</item>
+    </plurals>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="modify_all">Cambiar todos los eventos en serie</string>
+    <string name="modify_all_following">Cambiar este y eventos futuros</string>
+    <string name="preference_title_weather_forecast">Previsión meteorológica</string>
+</resources>

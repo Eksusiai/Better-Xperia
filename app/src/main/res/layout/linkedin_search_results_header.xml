@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/linkedin_search_results_header_color"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:textSize="12sp"
+        android:textColor="?android:attr/textColorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:text="@string/select_linkedin_contact_explanation_message"
+        android:singleLine="false"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        style="@style/TextAppearance.AppCompat.Caption"/>
+    <TextView
+        android:textSize="12sp"
+        android:textColor="?android:attr/textColorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="4dp"
+        android:text="@string/tap_to_send_request_explanation_message"
+        android:singleLine="false"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        style="@style/TextAppearance.AppCompat.Caption"/>
+</LinearLayout>

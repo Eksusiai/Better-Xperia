@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/transparent_black"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <FrameLayout
+        android:id="@+id/event_info_activity_container"
+        android:background="@color/drawer_background_color"
+        android:layout_width="@dimen/event_info_dialog_width"
+        android:layout_height="@dimen/event_info_dialog_height"
+        android:layout_centerInParent="true"
+        android:elevation="5dp"/>
+</RelativeLayout>

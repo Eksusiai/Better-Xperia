@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="accepted_items">
+        <item>Принято</item>
+        <item>Предварительно</item>
+        <item>Отклонено</item>
+    </array>
+    <array name="accessibility_event_color_picker_colors">
+        <item>Желтый</item>
+        <item>Оранжевый</item>
+        <item>Красный</item>
+        <item>Бордовый</item>
+        <item>Розовый</item>
+        <item>Фиолетовый</item>
+        <item>Коричневый</item>
+        <item>Светло-зеленый</item>
+        <item>Зеленый</item>
+        <item>Бирюзовый</item>
+        <item>Голубой</item>
+        <item>Синий</item>
+    </array>
+    <array name="availability">
+        <item>Занят</item>
+        <item>Доступен</item>
+        <item>Возможно</item>
+    </array>
+    <array name="change_response_labels">
+        <item>Только в этот раз</item>
+        <item>Все мероприятия в серии</item>
+    </array>
+    <array name="month_view_day_labels">
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+        <item>Вс</item>
+    </array>
+    <array name="ordinal_labels">
+        <item>первый</item>
+        <item>второй</item>
+        <item>третий</item>
+        <item>четвертый</item>
+        <item>последний</item>
+    </array>
+    <array name="prefEntries_alerts_vibrateWhen">
+        <item>Всегда</item>
+        <item>Только в реж. \"Не бесп.\"</item>
+        <item>Никогда</item>
+    </array>
+    <array name="preferences_alert_type_labels">
+        <item>Оповещение</item>
+        <item>Уведомления в строке состояния</item>
+        <item>Выключить</item>
+    </array>
+    <array name="preferences_default_reminder_labels">
+        <item>Нет</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
+        <item>45 минут</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
+        <item>12 часов</item>
+        <item>24 часа</item>
+        <item>2 дня</item>
+        <item>1 неделя</item>
+    </array>
+    <array name="preferences_week_days_labels">
+        <item>Только будние дни</item>
+        <item>7 дней</item>
+    </array>
+    <array name="quick_response_defaults">
+        <item>Опаздываю всего на пару минут.</item>
+        <item>Буду примерно через 10 минут.</item>
+        <item>Начинайте без меня.</item>
+        <item>Не успеваю. Придется изменить время.</item>
+    </array>
+    <array name="reminder_minutes_labels">
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
+        <item>45 минут</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
+        <item>12 часов</item>
+        <item>24 часа</item>
+        <item>2 дня</item>
+        <item>1 неделя</item>
+    </array>
+    <array name="repeats_pattern">
+        <item>Ежедневно</item>
+        <item>Еженедельно</item>
+        <item>Ежемесячно</item>
+        <item>Ежегодно</item>
+    </array>
+    <array name="repeats_weekdays_no">
+        <item>Первый</item>
+        <item>Второй</item>
+        <item>Третий</item>
+        <item>Четвертый</item>
+        <item>Пятый</item>
+    </array>
+    <array name="reply_items">
+        <item>Ответить</item>
+        <item>Ответить всем</item>
+        <item>Переадресовать</item>
+    </array>
+    <array name="response_labels1">
+        <item>(Нет ответа)</item>
+        <item>Да</item>
+        <item>Может быть</item>
+        <item>Нет</item>
+    </array>
+    <array name="response_labels2">
+        <item>Да</item>
+        <item>Может быть</item>
+        <item>Нет</item>
+    </array>
+    <array name="timezone_labels">
+        <item>Маршалловы о-ва</item>
+        <item>Остров Мидуэй</item>
+        <item>Гавайи</item>
+        <item>Аляска</item>
+        <item>Тихоокеан. время</item>
+        <item>Тихуана</item>
+        <item>Аризона</item>
+        <item>Чиуауа</item>
+        <item>Горное время</item>
+        <item>Центральная Америка</item>
+        <item>Центральное время</item>
+        <item>Мехико</item>
+        <item>Саскачеван</item>
+        <item>Богота</item>
+        <item>Восточное время</item>
+        <item>Венесуэла</item>
+        <item>Атлантическое время</item>
+        <item>Манаус</item>
+        <item>Сантьяго</item>
+        <item>Ньюфаундленд</item>
+        <item>Бразилия</item>
+        <item>Буэнос-Айрес</item>
+        <item>Гренландия</item>
+        <item>Монтевидео</item>
+        <item>Центр. Атлантика</item>
+        <item>Азорские о-ва</item>
+        <item>О-ва Кабо-Верде</item>
+        <item>Касабланка</item>
+        <item>Лондон, Дублин</item>
+        <item>Амстердам, Берлин</item>
+        <item>Белград</item>
+        <item>Брюссель</item>
+        <item>Сараево</item>
+        <item>Виндхук</item>
+        <item>Зап.-афр. время</item>
+        <item>Амман, Иордания</item>
+        <item>Афины, Стамбул</item>
+        <item>Бейрут, Ливан</item>
+        <item>Каир</item>
+        <item>Хельсинки</item>
+        <item>Иерусалим</item>
+        <item>Минск</item>
+        <item>Хараре</item>
+        <item>Багдад</item>
+        <item>Москва</item>
+        <item>Кувейт</item>
+        <item>Найроби</item>
+        <item>Тегеран</item>
+        <item>Баку</item>
+        <item>Тбилиси</item>
+        <item>Ереван</item>
+        <item>Дубай</item>
+        <item>Кабул</item>
+        <item>Исламабад, Карачи</item>
+        <item>Уральск</item>
+        <item>Екатеринбург</item>
+        <item>Калькутта</item>
+        <item>Шри-Ланка</item>
+        <item>Катманду</item>
+        <item>Астана</item>
+        <item>Янгон</item>
+        <item>Красноярск</item>
+        <item>Бангкок</item>
+        <item>Пекин</item>
+        <item>Гонконг</item>
+        <item>Иркутск</item>
+        <item>Куала-Лумпур</item>
+        <item>Перт</item>
+        <item>Тайбэй</item>
+        <item>Сеул</item>
+        <item>Токио, Осака</item>
+        <item>Якутск</item>
+        <item>Аделаида</item>
+        <item>Дарвин</item>
+        <item>Брисбен</item>
+        <item>Хобарт</item>
+        <item>Сидней, Канберра</item>
+        <item>Владивосток</item>
+        <item>Гуам</item>
+        <item>Магадан</item>
+        <item>Окленд</item>
+        <item>Фиджи</item>
+        <item>Тонга</item>
+    </array>
+    <array name="visibility">
+        <item>По умолчанию</item>
+        <item>Закрытое</item>
+        <item>Для всех</item>
+    </array>
+</resources>

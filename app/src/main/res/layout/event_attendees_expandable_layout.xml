@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/event_info_divider"/>
+    <TextView
+        android:ellipsize="end"
+        android:gravity="start|center_vertical"
+        android:id="@+id/attendees_single_line"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/event_detail_item_height"
+        android:text="@string/view_event_participant_header_label"
+        android:singleLine="true"
+        android:drawablePadding="@dimen/event_detail_item_drawable_padding"
+        android:drawableStart="@drawable/ic_contact"
+        android:paddingStart="@dimen/event_detail_item_margin_start"
+        android:paddingEnd="@dimen/event_detail_item_margin_end"
+        style="@style/EventDetailViewStyle.Body.Regular"/>
+    <HorizontalScrollView style="@style/FillWidth">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:id="@+id/attendee_horizontal_list"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:paddingStart="8dp"/>
+    </HorizontalScrollView>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:id="@+id/reply_buttons"
+        android:layout_width="@dimen/event_reply_buttons_width"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/event_reply_buttons_margin_bottom"
+        android:layout_marginStart="@dimen/event_detail_item_margin_start">
+        <Button
+            android:theme="@style/WhiteButton"
+            android:id="@+id/reply_to_organizer"
+            style="@style/EventInfoReplyButton"/>
+        <Button
+            android:theme="@style/WhiteButton"
+            android:id="@+id/reply_to_all"
+            android:text="@string/event_reply_to_everyone"
+            style="@style/EventInfoReplyButton"/>
+    </LinearLayout>
+</merge>

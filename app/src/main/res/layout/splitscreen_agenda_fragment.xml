@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    style="@style/default_background_style">
+    <com.sonymobile.calendar.widget.WhiteHeader
+        android:id="@+id/white_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <com.sonymobile.calendar.AgendaListView
+        android:id="@+id/splitscreen_agenda"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    <include
+        android:layout_gravity="center"
+        android:id="@+id/split_agenda_no_events"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        layout="@layout/agenda_no_events_header"/>
+</LinearLayout>

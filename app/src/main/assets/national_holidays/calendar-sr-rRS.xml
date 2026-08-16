@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: sr (Serbian)
+ * Region: RS (Serbia)
+ *********************************************************************
+--><calendar language="sr" region="RS" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day (celebration)] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Nova Godina</holiday>
+        <!--[New Year Holiday] - [new_year_holiday]-->
+        <holiday endDate="2017-01-02" startDate="2017-01-02" workingday="false">Novogodišnji praznici</holiday>
+        <!--[New Year Holiday (day in lieu)] - [new_year_holiday__day_in_lieu_]-->
+        <holiday endDate="2017-01-03" startDate="2017-01-03" workingday="false">Novogodišnji praznik (alternativni praznik)</holiday>
+        <!--[Orthodox Christmas Day (Bozic)] - [orthodox_christmas_day__bozic_]-->
+        <holiday endDate="2017-01-07" startDate="2017-01-07" workingday="false">Pravoslavni Božić</holiday>
+        <!--[National Day (Sretenje)] - [national_day__sretenje_]-->
+        <holiday endDate="2017-02-15" startDate="2017-02-15" workingday="false">Sretenje</holiday>
+        <!--[National Day Holiday] - [national_day_holiday]-->
+        <holiday endDate="2017-02-16" startDate="2017-02-16" workingday="false">Nacionalni praznik</holiday>
+        <!--[Great Friday (Orthodox Good Friday)] - [great_friday__orthodox_good_friday_]-->
+        <holiday endDate="2017-04-14" startDate="2017-04-14" workingday="false">Pravoslavni Veliki petak</holiday>
+        <!--[Orthodox Easter Monday] - [orthodox_easter_monday]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">(Pravoslavni) Vaskrsni ponedeljak</holiday>
+        <!--[May Day (Praznik rada)] - [may_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Prvi maj</holiday>
+        <!--[May Day Holiday] - [may_day]-->
+        <holiday endDate="2017-05-02" startDate="2017-05-02" workingday="false">Prvi maj</holiday>
+        <!--[Armistice Day] - [armistice_day]-->
+        <holiday endDate="2017-11-11" startDate="2017-11-11" workingday="false">Dan primirja</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Nova Godina</holiday>
+        <!--[New Year Holiday] - [new_year_holiday]-->
+        <holiday endDate="2016-01-02" startDate="2016-01-02" workingday="false">Novogodišnji praznici</holiday>
+        <!--[Orthodox Christmas Day (Bozic)] - [orthodox_christmas_day__bozic_]-->
+        <holiday endDate="2016-01-07" startDate="2016-01-07" workingday="false">Pravoslavni Božić</holiday>
+        <!--[National Day (Sretenje)] - [national_day__sretenje_]-->
+        <holiday endDate="2016-02-15" startDate="2016-02-15" workingday="false">Sretenje</holiday>
+        <!--[National Day Holiday] - [national_day_holiday]-->
+        <holiday endDate="2016-02-16" startDate="2016-02-16" workingday="false">Nacionalni praznik</holiday>
+        <!--[Great Friday (Orthodox Good Friday)] - [great_friday__orthodox_good_friday_]-->
+        <holiday endDate="2016-04-29" startDate="2016-04-29" workingday="false">Pravoslavni Veliki petak</holiday>
+        <!--[May Day (Praznik rada) (celebration)] - [may_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Prvi maj</holiday>
+        <!--[May Day Holiday] - [may_day]-->
+        <holiday endDate="2016-05-02" startDate="2016-05-02" workingday="false">Prvi maj</holiday>
+        <!--[Orthodox Easter Monday] - [orthodox_easter_monday]-->
+        <holiday endDate="2016-05-02" startDate="2016-05-02" workingday="false">(Pravoslavni) Vaskrsni ponedeljak</holiday>
+        <!--[May Day Holiday (day in lieu)] - [may_day]-->
+        <holiday endDate="2016-05-03" startDate="2016-05-03" workingday="false">Prvi maj</holiday>
+        <!--[Armistice Day] - [armistice_day]-->
+        <holiday endDate="2016-11-11" startDate="2016-11-11" workingday="false">Dan primirja</holiday>
+    </holidays>
+</calendar>
+

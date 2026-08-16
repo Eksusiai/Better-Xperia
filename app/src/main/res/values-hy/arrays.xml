@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="accepted_items">
+        <item>Ընդունված</item>
+        <item>Պայմանական</item>
+        <item>Մերժված</item>
+    </array>
+    <array name="accessibility_event_color_picker_colors">
+        <item>Դեղին</item>
+        <item>նարնջագույն</item>
+        <item>Կարմիր</item>
+        <item>Բորդո</item>
+        <item>Վարդագույն</item>
+        <item>Մանուշակագույն</item>
+        <item>Շագանակ</item>
+        <item>Բաց կանաչ</item>
+        <item>Կանաչ</item>
+        <item>Փիրուզե</item>
+        <item>Բաց կապույտ</item>
+        <item>Կապույտ</item>
+    </array>
+    <array name="availability">
+        <item>Զբաղված է</item>
+        <item>Մատչելի</item>
+        <item>Նախնական</item>
+    </array>
+    <array name="change_response_labels">
+        <item>Միայն այս հրավերին</item>
+        <item>Շարքի բլր իրդրձ</item>
+    </array>
+    <array name="month_view_day_labels">
+        <item>M</item>
+        <item>T</item>
+        <item>W</item>
+        <item>T</item>
+        <item>F</item>
+        <item>S</item>
+        <item>S</item>
+    </array>
+    <array name="ordinal_labels">
+        <item>առաջին</item>
+        <item>երկրորդ</item>
+        <item>երրորդ</item>
+        <item>չորրորդ</item>
+        <item>վերջին</item>
+    </array>
+    <array name="prefEntries_alerts_vibrateWhen">
+        <item>Միշտ</item>
+        <item>Մյն Չնհնգստցնլ ռժմմ</item>
+        <item>Երբեք</item>
+    </array>
+    <array name="preferences_alert_type_labels">
+        <item>Զգուշացում</item>
+        <item>Վիճակի տողի ծանուցում</item>
+        <item>Անջատել</item>
+    </array>
+    <array name="preferences_default_reminder_labels">
+        <item>Ոչ մեկը</item>
+        <item>5 րոպե</item>
+        <item>10 րոպե</item>
+        <item>15 րոպե</item>
+        <item>20 րոպե</item>
+        <item>25 րոպե</item>
+        <item>30 րոպե</item>
+        <item>45 րոպե</item>
+        <item>1 ժամ</item>
+        <item>2 ժամ</item>
+        <item>3 ժամ</item>
+        <item>12 ժամ</item>
+        <item>24 ժամ</item>
+        <item>2 օր</item>
+        <item>1 շաբաթ</item>
+    </array>
+    <array name="preferences_week_days_labels">
+        <item>Մյն աշխտ օրրը</item>
+        <item>7 օր</item>
+    </array>
+    <array name="quick_response_defaults">
+        <item>Աշխատում է պարզապես մի քանի րոպե ուշ:</item>
+        <item>Եղեք այտեղ մոտավորապես 10 րպեից</item>
+        <item>Գնացեք և սկեք առանց ինձ:</item>
+        <item>Կներեք, ես չեմ կարող դա անել: Պետք է վերահերթագրեմ:</item>
+    </array>
+    <array name="reminder_minutes_labels">
+        <item>5 րոպե</item>
+        <item>10 րոպե</item>
+        <item>15 րոպե</item>
+        <item>20 րոպե</item>
+        <item>25 րոպե</item>
+        <item>30 րոպե</item>
+        <item>45 րոպե</item>
+        <item>1 ժամ</item>
+        <item>2 ժամ</item>
+        <item>3 ժամ</item>
+        <item>12 ժամ</item>
+        <item>24 ժամ</item>
+        <item>2 օր</item>
+        <item>1 շաբաթ</item>
+    </array>
+    <array name="repeats_pattern">
+        <item>Օրական</item>
+        <item>Շաբաթական</item>
+        <item>ամսեկան</item>
+        <item>Տարեկան</item>
+    </array>
+    <array name="repeats_weekdays_no">
+        <item>Առաջին</item>
+        <item>Երկրորդ</item>
+        <item>Երրորդ</item>
+        <item>Չորրորդ</item>
+        <item>Հինգերորդ</item>
+    </array>
+    <array name="reply_items">
+        <item>Պատասխանել</item>
+        <item>Պատասխանել բոլորին</item>
+        <item>Փոխանցել</item>
+    </array>
+    <array name="response_labels1">
+        <item>(Առանց պատասխանի)</item>
+        <item>Այո</item>
+        <item>Հնարավոր է</item>
+        <item>Ոչ</item>
+    </array>
+    <array name="response_labels2">
+        <item>Այո</item>
+        <item>Հնարավոր է</item>
+        <item>Ոչ</item>
+    </array>
+    <array name="timezone_labels">
+        <item>Մարշալյան կղզիներ</item>
+        <item>Միդուեյ կղզի</item>
+        <item>Հավայան կղզիներ</item>
+        <item>Ալյասկա</item>
+        <item>Հղղօվկ ժմնկ</item>
+        <item>Տիխուանա</item>
+        <item>Արիզոնա</item>
+        <item>Չիուաուա</item>
+        <item>Լեռնային ժամանակ</item>
+        <item>Կենտ. Ամերիկա</item>
+        <item>Կնտրնկն ժամանակ</item>
+        <item>Մեխիկո</item>
+        <item>Սասկաչևան</item>
+        <item>Բոգոտա</item>
+        <item>Արևելյան ժամանակ</item>
+        <item>Վենեսուելա</item>
+        <item>Ատլանտյան ժմնկ</item>
+        <item>Մանաուս</item>
+        <item>Սանտյագո</item>
+        <item>Նյուֆաունդլենդ</item>
+        <item>Բրազիլիա</item>
+        <item>Բուենոս Այրես</item>
+        <item>Գրենլանդիա</item>
+        <item>Մոնտևիդեո</item>
+        <item>Միջատլանտյան</item>
+        <item>Ազորյան կղզիներ</item>
+        <item>Կաբո Վերդե կղզիներ</item>
+        <item>Կասաբլանկա</item>
+        <item>Լոնդոն, Դուբլին</item>
+        <item>Ամստերդամ, Բեռլին</item>
+        <item>Բելգրադ</item>
+        <item>Բրյուսել</item>
+        <item>Սարաևո</item>
+        <item>Վինդհուկ</item>
+        <item>Արմտ Աֆրկ ժմնկ</item>
+        <item>Ամման, Հորդանան</item>
+        <item>Աթենք, Ստամբուլ</item>
+        <item>Բեյրութ, Լիբանան</item>
+        <item>Կահիրե</item>
+        <item>Հելսինկի</item>
+        <item>Երուսաղեմ</item>
+        <item>Մինսկ</item>
+        <item>Հարարե</item>
+        <item>Բաղդադ</item>
+        <item>Մոսկվա</item>
+        <item>Քուվեյթ</item>
+        <item>Նայրոբի</item>
+        <item>Թեհրան</item>
+        <item>Բաքու</item>
+        <item>Թբիլիսի</item>
+        <item>Երևան</item>
+        <item>Դուբայ</item>
+        <item>Քաբուլ</item>
+        <item>Իսլամաբադ, Կարաչի</item>
+        <item>Ուրալսկ</item>
+        <item>Եկատերինբուրգ</item>
+        <item>Կալկաթա</item>
+        <item>Շրի Լանկա</item>
+        <item>Կատմանդու</item>
+        <item>Աստանա</item>
+        <item>Յանգոն</item>
+        <item>Կրասնոյարսկ</item>
+        <item>Բանգկոկ</item>
+        <item>Պեկին</item>
+        <item>Հոնկոնգ</item>
+        <item>Իրկուտսկ</item>
+        <item>Կուալա Լումպուր</item>
+        <item>Պերտ</item>
+        <item>Թայպեյ</item>
+        <item>Սեուլ</item>
+        <item>Տոկիո, Օսակա</item>
+        <item>Յակուտսկ</item>
+        <item>Ադելաիդա</item>
+        <item>Դարվին</item>
+        <item>Բրիսբեյն</item>
+        <item>Հոբարտ</item>
+        <item>Սիդնեյ, Կանբերրա</item>
+        <item>Վլադիվոստոկ</item>
+        <item>Գուամ</item>
+        <item>Մագադան</item>
+        <item>Օկլենդ</item>
+        <item>Ֆիջի</item>
+        <item>Տոնգա</item>
+    </array>
+    <array name="visibility">
+        <item>Կանխադրված</item>
+        <item>Մասնավոր</item>
+        <item>Հանրային</item>
+    </array>
+</resources>

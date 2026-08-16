@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:textSize="@dimen/day_week_view_event_largest_text_size"
+        android:textColor="@color/white"
+        android:id="@+id/event_title_and_location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textDirection="locale"
+        android:paddingStart="@dimen/day_view_event_padding"
+        android:paddingEnd="@dimen/day_view_event_padding"
+        android:letterSpacing="-0.02"/>
+</merge>

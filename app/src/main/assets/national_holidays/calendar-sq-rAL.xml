@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: sq (Albanian)
+ * Region: AL (Albania)
+ *********************************************************************
+--><calendar language="sq" region="AL" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day (Dita e Vitit të Ri) (celebration)] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Dita e Vitit të Ri</holiday>
+        <!--[New Year Holiday] - [new_year_holiday]-->
+        <holiday endDate="2017-01-02" startDate="2017-01-02" workingday="false">Festat e Vitit të Ri</holiday>
+        <!--[New Year Holiday (day in lieu)] - [new_year_holiday__day_in_lieu_]-->
+        <holiday endDate="2017-01-03" startDate="2017-01-03" workingday="false">Festat e Vitit të Ri (ditë alternative)</holiday>
+        <!--[Summer Day (Dita e Verës)] - [summer_day__dita_e_ver_s_]-->
+        <holiday endDate="2017-03-14" startDate="2017-03-14" workingday="false">Dita e Verës</holiday>
+        <!--[Nevruz (Dita e Nevruzit)] - [nevruz__dita_e_nevruzit_]-->
+        <holiday endDate="2017-03-22" startDate="2017-03-22" workingday="false">Dita e Nevruzit</holiday>
+        <!--[Catholic Easter (Pashkës Katolike)] - [catholic_easter__pashk_s_katolike_]-->
+        <holiday endDate="2017-04-16" startDate="2017-04-16" workingday="false">Pashka Katolike</holiday>
+        <!--[Orthodox Easter (Pashkës Ortodokse)] - [orthodox_easter__pashk_s_ortodokse_]-->
+        <holiday endDate="2017-04-16" startDate="2017-04-16" workingday="false">Pashka Ortodokse</holiday>
+        <!--[Catholic Easter Monday] - [catholic_easter_monday]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">E hëna e Pashkës Katolike</holiday>
+        <!--[Orthodox Easter Monday] - [orthodox_easter_monday]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">E hëna e Pashkës Ortodokse</holiday>
+        <!--[International Labor Day (Dita Ndërkombëtare e Punës)] - [international_labor_day__dita_nd_rkomb_tare_e_pun_s_]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Dita Ndërkombëtare e Punës</holiday>
+        <!--[Lesser Bajram / End of Ramadan (Bajramit të Madh) (celebration)] - [end_of_ramadan]-->
+        <holiday endDate="2017-06-25" startDate="2017-06-25" workingday="false">Bajrami i Madh</holiday>
+        <!--[Lesser Bajram Holiday (day in lieu)] - [lesser_bajram_holiday__day_in_lieu_]-->
+        <holiday endDate="2017-06-26" startDate="2017-06-26" workingday="false">Bajrami i Vogël (dita e pushimit zëvendësohet)</holiday>
+        <!--[Greater Bajram / Feast of Sacrifice (Kurban Bajramit)] - [feast_of_sacrifice]-->
+        <holiday endDate="2017-09-01" startDate="2017-09-01" workingday="false">Bajrami i vogël</holiday>
+        <!--[Mother Theresa Day (Dita e Lumturimit të Nënë Terezës)] - [mother_theresa_day__dita_e_lumturimit_t__n_n__terez_s_]-->
+        <holiday endDate="2017-10-19" startDate="2017-10-19" workingday="false">Dita e Lumturimit të Nënë Terezës</holiday>
+        <!--[Independence Day (Dita e Pavarësisë)] - [independence_day]-->
+        <holiday endDate="2017-11-28" startDate="2017-11-28" workingday="false">Dita e Pavarësisë</holiday>
+        <!--[Liberation Day (Dita e Çlirimit)] - [liberation_day__dita_e__lirimit_]-->
+        <holiday endDate="2017-11-29" startDate="2017-11-29" workingday="false">Dita e Çlirimit</holiday>
+        <!--[National Youth Day (Dita Kombëtare e Rinisë)] - [national_youth_day__dita_komb_tare_e_rinis__]-->
+        <holiday endDate="2017-12-08" startDate="2017-12-08" workingday="false">Dita Kombëtare e Rinisë</holiday>
+        <!--[Christmas Day (Krishtlindja)] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Dita e Krishtlindjes</holiday>
+        <!--[New Year's Day (Dita e Vitit të Ri)] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Dita e Vitit të Ri</holiday>
+        <!--[New Year Holiday (celebration)] - [new_year_holiday__celebration_]-->
+        <holiday endDate="2016-01-02" startDate="2016-01-02" workingday="false">Festat e Vitit të Ri (festim)</holiday>
+        <!--[New Year Holiday (day in lieu)] - [new_year_holiday__day_in_lieu_]-->
+        <holiday endDate="2016-01-04" startDate="2016-01-04" workingday="false">Festat e Vitit të Ri (ditë alternative)</holiday>
+        <!--[Summer Day (Dita e Verës)] - [summer_day__dita_e_ver_s_]-->
+        <holiday endDate="2016-03-14" startDate="2016-03-14" workingday="false">Dita e Verës</holiday>
+        <!--[Nevruz (Dita e Nevruzit)] - [nevruz__dita_e_nevruzit_]-->
+        <holiday endDate="2016-03-22" startDate="2016-03-22" workingday="false">Dita e Nevruzit</holiday>
+        <!--[Catholic Easter (Pashkës Katolike)] - [catholic_easter__pashk_s_katolike_]-->
+        <holiday endDate="2016-03-27" startDate="2016-03-27" workingday="false">Pashka Katolike</holiday>
+        <!--[Catholic Easter Monday] - [catholic_easter_monday]-->
+        <holiday endDate="2016-03-28" startDate="2016-03-28" workingday="false">E hëna e Pashkës Katolike</holiday>
+        <!--[International Labor Day (Dita Ndërkombëtare e Punës) (celebration)] - [international_labor_day__dita_nd_rkomb_tare_e_pun_s___celebration_]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Dita Ndërkombëtare e Punës (festë)</holiday>
+        <!--[Orthodox Easter (Pashkës Ortodokse)] - [orthodox_easter__pashk_s_ortodokse_]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Pashka Ortodokse</holiday>
+        <!--[Labor Day Holiday (day in lieu)] - [labor_day]-->
+        <holiday endDate="2016-05-02" startDate="2016-05-02" workingday="false">Dita e Punonjësve</holiday>
+        <!--[Orthodox Easter Monday] - [orthodox_easter_monday]-->
+        <holiday endDate="2016-05-02" startDate="2016-05-02" workingday="false">E hëna e Pashkës Ortodokse</holiday>
+        <!--[Lesser Bajram / End of Ramadan (Bajramit të Madh)] - [end_of_ramadan]-->
+        <holiday endDate="2016-07-05" startDate="2016-07-05" workingday="false">Bajrami i Madh</holiday>
+        <!--[Greater Bajram / Feast of Sacrifice (Kurban Bajramit)] - [feast_of_sacrifice]-->
+        <holiday endDate="2016-09-12" startDate="2016-09-12" workingday="false">Bajrami i vogël</holiday>
+        <!--[Mother Theresa Day (Dita e Lumturimit të Nënë Terezës)] - [mother_theresa_day__dita_e_lumturimit_t__n_n__terez_s_]-->
+        <holiday endDate="2016-10-19" startDate="2016-10-19" workingday="false">Dita e Lumturimit të Nënë Terezës</holiday>
+        <!--[Independence Day (Dita e Pavarësisë)] - [independence_day]-->
+        <holiday endDate="2016-11-28" startDate="2016-11-28" workingday="false">Dita e Pavarësisë</holiday>
+        <!--[Liberation Day (Dita e Çlirimit)] - [liberation_day__dita_e__lirimit_]-->
+        <holiday endDate="2016-11-29" startDate="2016-11-29" workingday="false">Dita e Çlirimit</holiday>
+        <!--[National Youth Day (Dita Kombëtare e Rinisë)] - [national_youth_day__dita_komb_tare_e_rinis__]-->
+        <holiday endDate="2016-12-08" startDate="2016-12-08" workingday="false">Dita Kombëtare e Rinisë</holiday>
+        <!--[Christmas Day (Krishtlindja) (celebration)] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Dita e Krishtlindjes</holiday>
+        <!--[Christmas Holiday (day in lieu)] - [christmas_holiday__day_in_lieu_]-->
+        <holiday endDate="2016-12-26" startDate="2016-12-26" workingday="false">Festa e Krishtlindjeve (ditë alternative)</holiday>
+    </holidays>
+</calendar>
+

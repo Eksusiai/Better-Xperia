@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:icon="@drawable/ic_menu_search_holo_dark"
+        android:id="@+id/action_linkedin_search"
+        android:title="@string/clr_strings_search_txt"
+        android:alphabeticShortcut="s"
+        app:showAsAction="always"/>
+</menu>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 päivä</item>
+        <item quantity="other">%d päivää</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 tapahtuma</item>
+        <item quantity="other">%d tapahtumaa</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 tunti</item>
+        <item quantity="other">%d tuntia</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 min</item>
+        <item quantity="other">%d min</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 minuutti</item>
+        <item quantity="other">%d minuuttia</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">astetta</item>
+        <item quantity="other">astetta</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d-vuotias</item>
+        <item quantity="other">%d-vuotias</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 tehtävä</item>
+        <item quantity="other">%d tehtävää</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">tapahtuma</item>
+        <item quantity="other">tapahtumaa</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">Tapahtuma lisätty</item>
+        <item quantity="other">Tapahtumat lisätty</item>
+    </plurals>
+</resources>

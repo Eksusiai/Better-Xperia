@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 көн</item>
+        <item quantity="other">%d көн</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 вакыйга</item>
+        <item quantity="other">%d вакыйг</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 сәгать</item>
+        <item quantity="other">%d сәгать</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 мин</item>
+        <item quantity="other">%d мин</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 минут</item>
+        <item quantity="other">%d минут</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">дәрәҗә</item>
+        <item quantity="other">дәрәҗәләр</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d яшь</item>
+        <item quantity="other">%d яшь</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">Бер Мәсьәлә</item>
+        <item quantity="other">%dмәс-р</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">вакыйга</item>
+        <item quantity="other">вакыйгалар</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">Вакыйга өстәлде</item>
+        <item quantity="other">Вакыйгалар өстәлде</item>
+    </plurals>
+</resources>

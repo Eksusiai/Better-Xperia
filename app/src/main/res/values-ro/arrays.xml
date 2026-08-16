@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="accepted_items">
+        <item>Acceptată</item>
+        <item>Tentativă</item>
+        <item>Respinsă</item>
+    </array>
+    <array name="accessibility_event_color_picker_colors">
+        <item>Galben </item>
+        <item>Portocaliu</item>
+        <item>Roşu </item>
+        <item>Roşu burgund</item>
+        <item>Roz</item>
+        <item>Purpuriu</item>
+        <item>Maro</item>
+        <item>Verde deschis</item>
+        <item>Verde </item>
+        <item>Turcoaz</item>
+        <item>Albastru deschis</item>
+        <item>Albastru</item>
+    </array>
+    <array name="availability">
+        <item>Ocupat</item>
+        <item>Disponibil</item>
+        <item>Tentativă</item>
+    </array>
+    <array name="change_response_labels">
+        <item>Numai această instanţă</item>
+        <item>Toate evenim. din serie</item>
+    </array>
+    <array name="month_view_day_labels">
+        <item>Lu</item>
+        <item>Ma</item>
+        <item>Mi</item>
+        <item>Jo</item>
+        <item>Vi</item>
+        <item>Sâ</item>
+        <item>Du</item>
+    </array>
+    <array name="ordinal_labels">
+        <item>prima</item>
+        <item>a doua</item>
+        <item>a treia</item>
+        <item>a patra</item>
+        <item>ultima</item>
+    </array>
+    <array name="prefEntries_alerts_vibrateWhen">
+        <item>Întotdeauna</item>
+        <item>Numai în modul Nu deranja</item>
+        <item>Niciodată</item>
+    </array>
+    <array name="preferences_alert_type_labels">
+        <item>Alertă</item>
+        <item>Notificare din bara de stare</item>
+        <item>Dezactivată</item>
+    </array>
+    <array name="preferences_default_reminder_labels">
+        <item>Fără</item>
+        <item>5 minute</item>
+        <item>10 minute</item>
+        <item>15 minute</item>
+        <item>20 de minute</item>
+        <item>25 de minute</item>
+        <item>30 de minute</item>
+        <item>45 de minute</item>
+        <item>1 oră</item>
+        <item>2 ore</item>
+        <item>3 ore</item>
+        <item>12 ore</item>
+        <item>24 de ore</item>
+        <item>2 zile</item>
+        <item>1 săptămână</item>
+    </array>
+    <array name="preferences_week_days_labels">
+        <item>Numai zile lucrătoare</item>
+        <item>7 zile</item>
+    </array>
+    <array name="quick_response_defaults">
+        <item>Ajung cu câteva minute mai târziu.</item>
+        <item>Ajung în 10 minute.</item>
+        <item>Continuaţi şi începeţi fără mine.</item>
+        <item>Scuze, n-o să ajung. Va trebui să reprogramăm.</item>
+    </array>
+    <array name="reminder_minutes_labels">
+        <item>5 minute</item>
+        <item>10 minute</item>
+        <item>15 minute</item>
+        <item>20 de minute</item>
+        <item>25 de minute</item>
+        <item>30 de minute</item>
+        <item>45 de minute</item>
+        <item>1 oră</item>
+        <item>2 ore</item>
+        <item>3 ore</item>
+        <item>12 ore</item>
+        <item>24 de ore</item>
+        <item>2 zile</item>
+        <item>1 săptămână</item>
+    </array>
+    <array name="repeats_pattern">
+        <item>Zilnic</item>
+        <item>Săptămânal</item>
+        <item>Lunar</item>
+        <item>Anual</item>
+    </array>
+    <array name="repeats_weekdays_no">
+        <item>Prima</item>
+        <item>A doua</item>
+        <item>A treia</item>
+        <item>A patra</item>
+        <item>A cincea</item>
+    </array>
+    <array name="reply_items">
+        <item>Răspuns</item>
+        <item>Se răspunde tuturor</item>
+        <item>Redirecţionare</item>
+    </array>
+    <array name="response_labels1">
+        <item>(Niciun răspuns)</item>
+        <item>Da</item>
+        <item>Posibil</item>
+        <item>Nu</item>
+    </array>
+    <array name="response_labels2">
+        <item>Da</item>
+        <item>Posibil</item>
+        <item>Nu</item>
+    </array>
+    <array name="timezone_labels">
+        <item>Insulele Marshall</item>
+        <item>Atolul Midway</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Ora Pacificului</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Oră Rocky Mountains</item>
+        <item>America Centrală</item>
+        <item>Ora zonei centrale</item>
+        <item>Mexico City</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>Ora normală zona estică</item>
+        <item>Venezuela</item>
+        <item>Ora Atlanticului</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Newfoundland</item>
+        <item>Brasilia</item>
+        <item>Buenos Aires</item>
+        <item>Groenlanda</item>
+        <item>Montevideo</item>
+        <item>Mid-Atlantic</item>
+        <item>Azore</item>
+        <item>Insulele Capului Verde</item>
+        <item>Casablanca</item>
+        <item>Londra, Dublin</item>
+        <item>Amsterdam, Berlin</item>
+        <item>Belgrad</item>
+        <item>Bruxelles</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>Ora Africii de Vest</item>
+        <item>Amman, Iordania</item>
+        <item>Atena, Istanbul</item>
+        <item>Beirut, Liban</item>
+        <item>Cairo</item>
+        <item>Helsinki</item>
+        <item>Ierusalim</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moscova</item>
+        <item>Kuwait</item>
+        <item>Nairobi</item>
+        <item>Teheran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Erevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karachi</item>
+        <item>Uralsk</item>
+        <item>Ekaterinburg</item>
+        <item>Calcutta</item>
+        <item>Sri Lanka</item>
+        <item>Kathmandu</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnoiarsk</item>
+        <item>Bangkok</item>
+        <item>Beijing</item>
+        <item>Hong Kong</item>
+        <item>Irkuţk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Seul</item>
+        <item>Tokyo, Osaka</item>
+        <item>Iakuţk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney, Canberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Tonga</item>
+    </array>
+    <array name="visibility">
+        <item>Implicit</item>
+        <item>Privat</item>
+        <item>Public</item>
+    </array>
+</resources>

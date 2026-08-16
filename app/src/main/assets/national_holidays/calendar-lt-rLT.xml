@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: lt (Lithuanian)
+ * Region: LT (Lithuania)
+ *********************************************************************
+--><calendar language="lt" region="LT" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Naujieji metai</holiday>
+        <!--[Independence Day (National Day)] - [independence_day]-->
+        <holiday endDate="2017-02-16" startDate="2017-02-16" workingday="false">Nepriklausomybės diena</holiday>
+        <!--[Independence Restoration Day] - [independence_restoration_day]-->
+        <holiday endDate="2017-03-11" startDate="2017-03-11" workingday="false">Nepriklausomybės atkūrimo diena</holiday>
+        <!--[Easter] - [easter]-->
+        <holiday endDate="2017-04-16" startDate="2017-04-16" workingday="false">Velykos</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">Antroji Velykų diena</holiday>
+        <!--[Labour Day] - [labor_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Darbo diena</holiday>
+        <!--[Mothers' Day] - [mothers__day]-->
+        <holiday endDate="2017-05-07" startDate="2017-05-07" workingday="false">Motinos diena</holiday>
+        <!--[Fathers' Day] - [fathers__day]-->
+        <holiday endDate="2017-06-04" startDate="2017-06-04" workingday="false">Tėvo diena</holiday>
+        <!--[Jonines (Saint John's Day)] - [jonines__saint_john_s_day_]-->
+        <holiday endDate="2017-06-24" startDate="2017-06-24" workingday="false">Joninės</holiday>
+        <!--[King Mindaugas Day] - [king_mindaugas_day]-->
+        <holiday endDate="2017-07-06" startDate="2017-07-06" workingday="false">Karaliaus Mindaugo karūnavimo diena</holiday>
+        <!--[Zoline (Assumption)] - [zoline__assumption_]-->
+        <holiday endDate="2017-08-15" startDate="2017-08-15" workingday="false">Žolinė</holiday>
+        <!--[All Saints' Day] - [all_saints__day]-->
+        <holiday endDate="2017-11-01" startDate="2017-11-01" workingday="false">Visų Šventųjų diena</holiday>
+        <!--[Christmas Eve] - [christmas_eve]-->
+        <holiday endDate="2017-12-24" startDate="2017-12-24" workingday="false">Kūčios</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Kalėdos</holiday>
+        <!--[Second Day of Christmas] - [second_day_of_christmas]-->
+        <holiday endDate="2017-12-26" startDate="2017-12-26" workingday="false">Antroji Kalėdų diena</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Naujieji metai</holiday>
+        <!--[Independence Day (National Day)] - [independence_day]-->
+        <holiday endDate="2016-02-16" startDate="2016-02-16" workingday="false">Nepriklausomybės diena</holiday>
+        <!--[Independence Restoration Day] - [independence_restoration_day]-->
+        <holiday endDate="2016-03-11" startDate="2016-03-11" workingday="false">Nepriklausomybės atkūrimo diena</holiday>
+        <!--[Easter] - [easter]-->
+        <holiday endDate="2016-03-27" startDate="2016-03-27" workingday="false">Velykos</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2016-03-28" startDate="2016-03-28" workingday="false">Antroji Velykų diena</holiday>
+        <!--[Labour Day] - [labor_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Darbo diena</holiday>
+        <!--[Mothers' Day] - [mothers__day]-->
+        <holiday endDate="2016-05-08" startDate="2016-05-08" workingday="false">Motinos diena</holiday>
+        <!--[Fathers' Day] - [fathers__day]-->
+        <holiday endDate="2016-06-05" startDate="2016-06-05" workingday="false">Tėvo diena</holiday>
+        <!--[Jonines (Saint John's Day)] - [jonines__saint_john_s_day_]-->
+        <holiday endDate="2016-06-24" startDate="2016-06-24" workingday="false">Joninės</holiday>
+        <!--[King Mindaugas Day] - [king_mindaugas_day]-->
+        <holiday endDate="2016-07-06" startDate="2016-07-06" workingday="false">Karaliaus Mindaugo karūnavimo diena</holiday>
+        <!--[Zoline (Assumption)] - [zoline__assumption_]-->
+        <holiday endDate="2016-08-15" startDate="2016-08-15" workingday="false">Žolinė</holiday>
+        <!--[All Saints' Day] - [all_saints__day]-->
+        <holiday endDate="2016-11-01" startDate="2016-11-01" workingday="false">Visų Šventųjų diena</holiday>
+        <!--[Christmas Eve] - [christmas_eve]-->
+        <holiday endDate="2016-12-24" startDate="2016-12-24" workingday="false">Kūčios</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Kalėdos</holiday>
+        <!--[Second Day of Christmas] - [second_day_of_christmas]-->
+        <holiday endDate="2016-12-26" startDate="2016-12-26" workingday="false">Antroji Kalėdų diena</holiday>
+    </holidays>
+</calendar>
+

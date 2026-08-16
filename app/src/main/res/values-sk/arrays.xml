@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="accepted_items">
+        <item>Prijaté</item>
+        <item>Nezáväzne</item>
+        <item>Odmietnuté</item>
+    </array>
+    <array name="accessibility_event_color_picker_colors">
+        <item>Žltá</item>
+        <item>Oranžová</item>
+        <item>Červená</item>
+        <item>Tmavočervená</item>
+        <item>Ružová</item>
+        <item>Purpurová</item>
+        <item>Hnedá</item>
+        <item>Svetlozelená</item>
+        <item>Zelená</item>
+        <item>Tyrkysová</item>
+        <item>Svetlomodrá</item>
+        <item>Modrá</item>
+    </array>
+    <array name="availability">
+        <item>Obsadené</item>
+        <item>Dostupné</item>
+        <item>Nezáväzne</item>
+    </array>
+    <array name="change_response_labels">
+        <item>Len táto inštancia</item>
+        <item>Všetky udalosti v sérii</item>
+    </array>
+    <array name="month_view_day_labels">
+        <item>P</item>
+        <item>U</item>
+        <item>S</item>
+        <item>Š</item>
+        <item>P</item>
+        <item>S</item>
+        <item>N</item>
+    </array>
+    <array name="ordinal_labels">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>posledné</item>
+    </array>
+    <array name="prefEntries_alerts_vibrateWhen">
+        <item>Vždy</item>
+        <item>Len v režime Nerušiť</item>
+        <item>Nikdy</item>
+    </array>
+    <array name="preferences_alert_type_labels">
+        <item>Upozornenie</item>
+        <item>Upozornenie v stavovom riadku</item>
+        <item>Vypnúť</item>
+    </array>
+    <array name="preferences_default_reminder_labels">
+        <item>Žiadny</item>
+        <item>5 minút</item>
+        <item>10 minút</item>
+        <item>15 minút</item>
+        <item>20 minút</item>
+        <item>25 minút</item>
+        <item>30 minút</item>
+        <item>45 minút</item>
+        <item>1 hodina</item>
+        <item>2 hodiny</item>
+        <item>3 hodiny</item>
+        <item>12 hodín</item>
+        <item>24 hodín</item>
+        <item>2 dni</item>
+        <item>1 týždeň</item>
+    </array>
+    <array name="preferences_week_days_labels">
+        <item>Iba pracovné dni</item>
+        <item>7 dní</item>
+    </array>
+    <array name="quick_response_defaults">
+        <item>Budem pár minút meškať.</item>
+        <item>Prídem asi o 10 minút.</item>
+        <item>Pustite sa do toho a začnite bezo mňa. </item>
+        <item>Prepáčte, nestihnem to. Budeme musieť zmeniť plán. </item>
+    </array>
+    <array name="reminder_minutes_labels">
+        <item>5 minút</item>
+        <item>10 minút</item>
+        <item>15 minút</item>
+        <item>20 minút</item>
+        <item>25 minút</item>
+        <item>30 minút</item>
+        <item>45 minút</item>
+        <item>1 hodina</item>
+        <item>2 hodiny</item>
+        <item>3 hodiny</item>
+        <item>12 hodín</item>
+        <item>24 hodín</item>
+        <item>2 dni</item>
+        <item>1 týždeň</item>
+    </array>
+    <array name="repeats_pattern">
+        <item>Denne</item>
+        <item>Týždenne</item>
+        <item>Mesačne</item>
+        <item>Ročne</item>
+    </array>
+    <array name="repeats_weekdays_no">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>5.</item>
+    </array>
+    <array name="reply_items">
+        <item>Odpovedať</item>
+        <item>Odpovedať všetkým</item>
+        <item>Poslať ďalej</item>
+    </array>
+    <array name="response_labels1">
+        <item>(Bez odpovede)</item>
+        <item>Áno</item>
+        <item>Možno</item>
+        <item>Nie</item>
+    </array>
+    <array name="response_labels2">
+        <item>Áno</item>
+        <item>Možno</item>
+        <item>Nie</item>
+    </array>
+    <array name="timezone_labels">
+        <item>Marshallove ostrovy</item>
+        <item>Ostrov Midway</item>
+        <item>Havaj</item>
+        <item>Aljaška</item>
+        <item>Tichomorský čas</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Horský čas</item>
+        <item>Stredná Amerika</item>
+        <item>Centrálny čas</item>
+        <item>Mexiko City</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>Východný čas</item>
+        <item>Venezuela</item>
+        <item>Atlantický čas</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Newfoundland</item>
+        <item>Brazília</item>
+        <item>Buenos Aires</item>
+        <item>Grónsko</item>
+        <item>Montevideo</item>
+        <item>Stredný Atlantik</item>
+        <item>Azory</item>
+        <item>Kapverdy</item>
+        <item>Casablanca</item>
+        <item>Londýn, Dublin</item>
+        <item>Amsterdam, Berlín</item>
+        <item>Belehrad</item>
+        <item>Brusel</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>Západoafrický čas</item>
+        <item>Ammán, Jordánsko</item>
+        <item>Atény, Istanbul</item>
+        <item>Bejrút, Libanon</item>
+        <item>Káhira</item>
+        <item>Helsinki</item>
+        <item>Jeruzalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moskva</item>
+        <item>Kuvajt</item>
+        <item>Nairobi</item>
+        <item>Teherán</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Jerevan</item>
+        <item>Dubaj</item>
+        <item>Kábul</item>
+        <item>Islamabad, Karáči</item>
+        <item>Uralsk</item>
+        <item>Jekaterinburg</item>
+        <item>Kalkata</item>
+        <item>Srí Lanka</item>
+        <item>Káthmandu</item>
+        <item>Astana</item>
+        <item>Rangún</item>
+        <item>Krasnojarsk</item>
+        <item>Bangkok</item>
+        <item>Peking</item>
+        <item>Hongkong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Tchaj-pej</item>
+        <item>Soul</item>
+        <item>Tokio, Osaka</item>
+        <item>Jakutsk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney, Canberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fidži</item>
+        <item>Tonga</item>
+    </array>
+    <array name="visibility">
+        <item>Predvolené</item>
+        <item>Súkromné</item>
+        <item>Verejné</item>
+    </array>
+</resources>

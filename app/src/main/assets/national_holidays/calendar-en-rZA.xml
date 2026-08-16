@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: en (English)
+ * Region: ZA (South Africa)
+ *********************************************************************
+--><calendar language="en" region="ZA" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day (celebration)] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">New Year's Day</holiday>
+        <!--[Public Holiday (day in lieu)] - [public_holiday__day_in_lieu_]-->
+        <holiday endDate="2017-01-02" startDate="2017-01-02" workingday="false">Public Holiday (day in lieu)</holiday>
+        <!--[Human Rights' Day] - [human_rights__day]-->
+        <holiday endDate="2017-03-21" startDate="2017-03-21" workingday="false">Human Rights' Day</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2017-04-14" startDate="2017-04-14" workingday="false">Good Friday</holiday>
+        <!--[Family Day / Easter Monday] - [family_day___easter_monday]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">Family Day / Easter Monday</holiday>
+        <!--[Freedom Day] - [freedom_day]-->
+        <holiday endDate="2017-04-27" startDate="2017-04-27" workingday="false">Freedom Day</holiday>
+        <!--[Workers' Day] - [workers__day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Workers' Day</holiday>
+        <!--[Youth Day] - [youth_day]-->
+        <holiday endDate="2017-06-16" startDate="2017-06-16" workingday="false">Youth Day</holiday>
+        <!--[Women's Day] - [women_s_day]-->
+        <holiday endDate="2017-08-09" startDate="2017-08-09" workingday="false">Women's Day</holiday>
+        <!--[Heritage Day (celebration)] - [heritage_day__celebration_]-->
+        <holiday endDate="2017-09-24" startDate="2017-09-24" workingday="false">Heritage Day (celebration)</holiday>
+        <!--[Public Holiday (day in lieu)] - [public_holiday__day_in_lieu_]-->
+        <holiday endDate="2017-09-25" startDate="2017-09-25" workingday="false">Public Holiday (day in lieu)</holiday>
+        <!--[Reconciliation Day] - [reconciliation_day]-->
+        <holiday endDate="2017-12-16" startDate="2017-12-16" workingday="false">Reconciliation Day</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Christmas Day</holiday>
+        <!--[Day of Goodwill] - [day_of_goodwill]-->
+        <holiday endDate="2017-12-26" startDate="2017-12-26" workingday="false">Day of Goodwill</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">New Year's Day</holiday>
+        <!--[Human Rights' Day] - [human_rights__day]-->
+        <holiday endDate="2016-03-21" startDate="2016-03-21" workingday="false">Human Rights' Day</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2016-03-25" startDate="2016-03-25" workingday="false">Good Friday</holiday>
+        <!--[Family Day / Easter Monday] - [family_day___easter_monday]-->
+        <holiday endDate="2016-03-28" startDate="2016-03-28" workingday="false">Family Day / Easter Monday</holiday>
+        <!--[Freedom Day] - [freedom_day]-->
+        <holiday endDate="2016-04-27" startDate="2016-04-27" workingday="false">Freedom Day</holiday>
+        <!--[Workers' Day (celebration)] - [workers__day__celebration_]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Workers' Day (celebration)</holiday>
+        <!--[Public Holiday (day in lieu)] - [public_holiday__day_in_lieu_]-->
+        <holiday endDate="2016-05-02" startDate="2016-05-02" workingday="false">Public Holiday (day in lieu)</holiday>
+        <!--[Youth Day] - [youth_day]-->
+        <holiday endDate="2016-06-16" startDate="2016-06-16" workingday="false">Youth Day</holiday>
+        <!--[Women's Day] - [women_s_day]-->
+        <holiday endDate="2016-08-09" startDate="2016-08-09" workingday="false">Women's Day</holiday>
+        <!--[Heritage Day] - [heritage_day]-->
+        <holiday endDate="2016-09-24" startDate="2016-09-24" workingday="false">Heritage Day</holiday>
+        <!--[Reconciliation Day] - [reconciliation_day]-->
+        <holiday endDate="2016-12-16" startDate="2016-12-16" workingday="false">Reconciliation Day</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Christmas Day</holiday>
+        <!--[Day of Goodwill] - [day_of_goodwill]-->
+        <holiday endDate="2016-12-26" startDate="2016-12-26" workingday="false">Day of Goodwill</holiday>
+    </holidays>
+</calendar>
+

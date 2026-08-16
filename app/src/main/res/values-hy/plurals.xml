@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 օր</item>
+        <item quantity="other">%d օր</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 իրադարձություն</item>
+        <item quantity="other">%d իրդրձթ</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 ժամ</item>
+        <item quantity="other">%d ժամ</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 րոպե</item>
+        <item quantity="other">%d րոպե</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 րոպե</item>
+        <item quantity="other">%d րոպե</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">աստիճան</item>
+        <item quantity="other">աստիճան</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d տարեկան</item>
+        <item quantity="other">%d տարեկան</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 առաջադրանք</item>
+        <item quantity="other">%d առաջադրանք</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">իրադարձություն</item>
+        <item quantity="other">իրադարձություններ</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">Իրադարձությունը հավելվեց</item>
+        <item quantity="other">Իրադարձությունները հավելվեցին</item>
+    </plurals>
+</resources>

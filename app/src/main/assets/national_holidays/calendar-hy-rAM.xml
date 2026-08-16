@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: hy (Armenian)
+ * Region: AM (Armenia)
+ *********************************************************************
+--><calendar language="hy" region="AM" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day (Amanor)] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Ամանօր</holiday>
+        <!--[New Year Holiday] - [new_year_holiday]-->
+        <holiday endDate="2017-01-02" startDate="2017-01-02" workingday="false">Ամանորյա տոներ</holiday>
+        <!--[New Year Holiday] - [new_year_holiday]-->
+        <holiday endDate="2017-01-03" startDate="2017-01-03" workingday="false">Ամանորյա տոներ</holiday>
+        <!--[New Year Holiday] - [new_year_holiday]-->
+        <holiday endDate="2017-01-04" startDate="2017-01-04" workingday="false">Ամանորյա տոներ</holiday>
+        <!--[Armenian Christmas Eve] - [armenian_christmas_eve]-->
+        <holiday endDate="2017-01-05" startDate="2017-01-05" workingday="false">Հայկական Ծննդյան Ճրագալույց</holiday>
+        <!--[Armenian Christmas (Surb Tsnund)] - [armenian_christmas__surb_tsnund_]-->
+        <holiday endDate="2017-01-06" startDate="2017-01-06" workingday="false">Հայկական Սուրբ Ծնունդ</holiday>
+        <!--[Christmas Rememberance Holiday] - [christmas_rememberance_holiday]-->
+        <holiday endDate="2017-01-07" startDate="2017-01-07" workingday="false">Սուրբ Ծնունդ</holiday>
+        <!--[National Army Day] - [national_army_day]-->
+        <holiday endDate="2017-01-28" startDate="2017-01-28" workingday="false">Ազգային բանակի օր</holiday>
+        <!--[International Women's Day] - [international_women_s_day]-->
+        <holiday endDate="2017-03-08" startDate="2017-03-08" workingday="false">Կանանց միջազգային օր</holiday>
+        <!--[Armenian Remembrance Day] - [armenian_remembrance_day]-->
+        <holiday endDate="2017-04-24" startDate="2017-04-24" workingday="false">Ցեղասպանության զոհերի հիշատակի օր</holiday>
+        <!--[Labour Day] - [labor_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Աշխատանքի տոն</holiday>
+        <!--[Victory and Peace Day] - [victory_and_peace_day]-->
+        <holiday endDate="2017-05-09" startDate="2017-05-09" workingday="false">Հաղթանակի և խաղաղության տոն</holiday>
+        <!--[1st Republic Day] - [ast_republic_day]-->
+        <holiday endDate="2017-05-28" startDate="2017-05-28" workingday="false">Առաջին հանրապետության տոն</holiday>
+        <!--[Constitution Day] - [constitution_day]-->
+        <holiday endDate="2017-07-05" startDate="2017-07-05" workingday="false">Սահմանադրության օր</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2017-09-21" startDate="2017-09-21" workingday="false">Անկախության օր</holiday>
+        <!--[New Year's Eve] - [new_year_s_eve]-->
+        <holiday endDate="2017-12-31" startDate="2017-12-31" workingday="false">Տարեմուտ</holiday>
+        <!--[New Year's Day (Amanor)] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Ամանօր</holiday>
+        <!--[New Year Holiday] - [new_year_holiday]-->
+        <holiday endDate="2016-01-02" startDate="2016-01-02" workingday="false">Ամանորյա տոներ</holiday>
+        <!--[New Year Holiday] - [new_year_holiday]-->
+        <holiday endDate="2016-01-03" startDate="2016-01-03" workingday="false">Ամանորյա տոներ</holiday>
+        <!--[New Year Holiday] - [new_year_holiday]-->
+        <holiday endDate="2016-01-04" startDate="2016-01-04" workingday="false">Ամանորյա տոներ</holiday>
+        <!--[Armenian Christmas Eve] - [armenian_christmas_eve]-->
+        <holiday endDate="2016-01-05" startDate="2016-01-05" workingday="false">Հայկական Ծննդյան Ճրագալույց</holiday>
+        <!--[Armenian Christmas (Surb Tsnund)] - [armenian_christmas__surb_tsnund_]-->
+        <holiday endDate="2016-01-06" startDate="2016-01-06" workingday="false">Հայկական Սուրբ Ծնունդ</holiday>
+        <!--[Christmas Rememberance Holiday] - [christmas_rememberance_holiday]-->
+        <holiday endDate="2016-01-07" startDate="2016-01-07" workingday="false">Սուրբ Ծնունդ</holiday>
+        <!--[National Army Day] - [national_army_day]-->
+        <holiday endDate="2016-01-28" startDate="2016-01-28" workingday="false">Ազգային բանակի օր</holiday>
+        <!--[Public Holiday (workday moved to Sat. Mar. 12)] - [public_holiday__workday_moved_to_sat__mar__12_]-->
+        <holiday endDate="2016-03-07" startDate="2016-03-07" workingday="false">Հիշատակի օր (աշխ. օրը՝ Շբթ, մարտի 12)</holiday>
+        <!--[International Women's Day] - [international_women_s_day]-->
+        <holiday endDate="2016-03-08" startDate="2016-03-08" workingday="false">Կանանց միջազգային օր</holiday>
+        <!--[Armenian Remembrance Day] - [armenian_remembrance_day]-->
+        <holiday endDate="2016-04-24" startDate="2016-04-24" workingday="false">Ցեղասպանության զոհերի հիշատակի օր</holiday>
+        <!--[Labour Day] - [labor_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Աշխատանքի տոն</holiday>
+        <!--[Victory and Peace Day] - [victory_and_peace_day]-->
+        <holiday endDate="2016-05-09" startDate="2016-05-09" workingday="false">Հաղթանակի և խաղաղության տոն</holiday>
+        <!--[1st Republic Day] - [ast_republic_day]-->
+        <holiday endDate="2016-05-28" startDate="2016-05-28" workingday="false">Առաջին հանրապետության տոն</holiday>
+        <!--[Constitution Day] - [constitution_day]-->
+        <holiday endDate="2016-07-05" startDate="2016-07-05" workingday="false">Սահմանադրության օր</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2016-09-21" startDate="2016-09-21" workingday="false">Անկախության օր</holiday>
+        <!--[New Year's Eve] - [new_year_s_eve]-->
+        <holiday endDate="2016-12-31" startDate="2016-12-31" workingday="false">Տարեմուտ</holiday>
+    </holidays>
+</calendar>
+

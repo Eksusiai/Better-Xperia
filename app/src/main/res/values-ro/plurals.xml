@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 zi</item>
+        <item quantity="other">%d (de) zile</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 eveniment</item>
+        <item quantity="other">%d (de) evenimente</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 oră</item>
+        <item quantity="other">%d (de) ore</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 min.</item>
+        <item quantity="other">%d (de) min.</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 minut</item>
+        <item quantity="other">%d (de) minute</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">grad</item>
+        <item quantity="other">grade</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d an</item>
+        <item quantity="other">%d (de) ani</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 activitate</item>
+        <item quantity="other">%d (de) activităţi</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">eveniment</item>
+        <item quantity="other">evenimente</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">Eveniment adăugat</item>
+        <item quantity="other">Evenimente adăugate</item>
+    </plurals>
+</resources>

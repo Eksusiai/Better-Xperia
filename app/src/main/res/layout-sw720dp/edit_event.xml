@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/edit_event_header_height"
+        layout="@layout/calendar_group"/>
+    <ScrollView
+        android:background="@color/calendar_content_background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/edit_event_global_margins"
+        android:layout_marginStart="@dimen/edit_event_global_margins"
+        android:layout_marginEnd="@dimen/edit_event_global_margins"
+        android:elevation="@dimen/edit_event_elevation">
+        <include layout="@layout/edit_event_common"/>
+    </ScrollView>
+</merge>

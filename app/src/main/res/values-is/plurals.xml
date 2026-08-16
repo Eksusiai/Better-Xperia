@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 dagur</item>
+        <item quantity="other">%d dagar</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 viðburður</item>
+        <item quantity="other">%d viðburðir</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 klst.</item>
+        <item quantity="other">%d klst.</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 mín.</item>
+        <item quantity="other">%d mín.</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">Ein mínúta</item>
+        <item quantity="other">%d mínútur</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">gráða</item>
+        <item quantity="other">gráður</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d árs</item>
+        <item quantity="other">%d ára</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 verk</item>
+        <item quantity="other">%d verk</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">viðburður</item>
+        <item quantity="other">viðburðir</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">Viðburði bætt við</item>
+        <item quantity="other">Viðburðum bætt við</item>
+    </plurals>
+</resources>

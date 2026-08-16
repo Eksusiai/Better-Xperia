@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="accepted_items">
+        <item>स्वीकृत</item>
+        <item>तात्पुरते</item>
+        <item>अस्वीकृत</item>
+    </array>
+    <array name="accessibility_event_color_picker_colors">
+        <item>पिवळा</item>
+        <item>नारिंगी</item>
+        <item>लाल</item>
+        <item>दाट जांभळा</item>
+        <item>गुलाबी</item>
+        <item>जांभळा</item>
+        <item>तपकिरी</item>
+        <item>फिकट हिरवा</item>
+        <item>हिरवा</item>
+        <item>आकाशी</item>
+        <item>फिकट निळा</item>
+        <item>नीळा</item>
+    </array>
+    <array name="availability">
+        <item>व्यस्त</item>
+        <item>उपलब्ध</item>
+        <item>अनिश्चित</item>
+    </array>
+    <array name="change_response_labels">
+        <item>फक्त हे उदाहरण</item>
+        <item>मालिकेतील सर्व घटना</item>
+    </array>
+    <array name="month_view_day_labels">
+        <item>सो</item>
+        <item>मं</item>
+        <item>बु</item>
+        <item>गु</item>
+        <item>शु</item>
+        <item>श</item>
+        <item>र</item>
+    </array>
+    <array name="ordinal_labels">
+        <item>पहिला</item>
+        <item>दुसरा</item>
+        <item>तिसरा</item>
+        <item>चौथा</item>
+        <item>शेवटचा</item>
+    </array>
+    <array name="prefEntries_alerts_vibrateWhen">
+        <item>नेहमी</item>
+        <item>केवळ व्यत्यय आणू नका मोडमध्ये</item>
+        <item>कधीही नाही</item>
+    </array>
+    <array name="preferences_alert_type_labels">
+        <item>अलर्ट</item>
+        <item>स्थितीदर्शक सूचनापत्र</item>
+        <item>बंद</item>
+    </array>
+    <array name="preferences_default_reminder_labels">
+        <item>काहीही नाही</item>
+        <item>5 मिनिट</item>
+        <item>10 मिनिट</item>
+        <item>15 मिनिट</item>
+        <item>20 मिनिट</item>
+        <item>25 मिनिट</item>
+        <item>30 मिनिट</item>
+        <item>45 मिनिट</item>
+        <item>1 तास</item>
+        <item>2 तास</item>
+        <item>3 तास</item>
+        <item>12 तास</item>
+        <item>24 तास</item>
+        <item>2 दिवस</item>
+        <item>1 आठवडा</item>
+    </array>
+    <array name="preferences_week_days_labels">
+        <item>केवळ कामाचे दिवस</item>
+        <item>7 दिवस</item>
+    </array>
+    <array name="quick_response_defaults">
+        <item>काही मिनिटे उशीराने चालत आहे.</item>
+        <item>जवळपास १० मिनिटांनी तेथे उपस्थित राहा.</item>
+        <item>पुढे जा आणि माझ्याशिवाय सुरू करा.</item>
+        <item>क्षमस्व, मी ते करू शकत नाही. आपल्याला पुन्हा आखणी करावी लागेल.</item>
+    </array>
+    <array name="reminder_minutes_labels">
+        <item>5 मिनिट</item>
+        <item>10 मिनिट</item>
+        <item>15 मिनिट</item>
+        <item>20 मिनिट</item>
+        <item>25 मिनिट</item>
+        <item>30 मिनिट</item>
+        <item>45 मिनिट</item>
+        <item>1 तास</item>
+        <item>2 तास</item>
+        <item>3 तास</item>
+        <item>12 तास</item>
+        <item>24 तास</item>
+        <item>2 दिवस</item>
+        <item>1 आठवडा</item>
+    </array>
+    <array name="repeats_pattern">
+        <item>दररोज</item>
+        <item>साप्ताहिक</item>
+        <item>मासिक</item>
+        <item>वार्षिक</item>
+    </array>
+    <array name="repeats_weekdays_no">
+        <item>पहिला</item>
+        <item>दुसरा</item>
+        <item>तिसरा</item>
+        <item>चौथा</item>
+        <item>पाचवा</item>
+    </array>
+    <array name="reply_items">
+        <item>प्रतिउत्तर द्या</item>
+        <item>सर्वांना प्रतिउत्तर द्या</item>
+        <item>पुढे पाठवा</item>
+    </array>
+    <array name="response_labels1">
+        <item>(प्रतिसाद नाही)</item>
+        <item>होय</item>
+        <item>कदाचित असू शकते</item>
+        <item>नाही</item>
+    </array>
+    <array name="response_labels2">
+        <item>होय</item>
+        <item>कदाचित असू शकते</item>
+        <item>नाही</item>
+    </array>
+    <array name="timezone_labels">
+        <item>मार्शल आयलँड्स</item>
+        <item>मिडवे आयलँड्स</item>
+        <item>हवाई</item>
+        <item>अलास्का</item>
+        <item>पॅसिफिक वेळ</item>
+        <item>तिजुआना</item>
+        <item>ऍरिझोना</item>
+        <item>चिहुआहुआ</item>
+        <item>पर्वत वेळ</item>
+        <item>मध्ये अमेरिका</item>
+        <item>मध्ये वेळ</item>
+        <item>मेक्सिको शहर</item>
+        <item>सस्काचेवान</item>
+        <item>बोगॉटा</item>
+        <item>पूर्वीय वेळ</item>
+        <item>व्हेनेझुएला</item>
+        <item>ऍटलांटिक वेळ</item>
+        <item>मानाउस</item>
+        <item>सँटियागो</item>
+        <item>न्युफाऊंडलँड</item>
+        <item>ब्रासिलिया</item>
+        <item>ब्युनोस आयर्स</item>
+        <item>ग्रीनलँड</item>
+        <item>माँटेव्हिडिओ</item>
+        <item>मध्य-ऍटलांटिक</item>
+        <item>अझोर्स</item>
+        <item>केप वेर्ड आयलँड</item>
+        <item>कसाब्लांका</item>
+        <item>लंडन, डब्लिन</item>
+        <item>ऍम्स्टरडॅम, बर्लिन</item>
+        <item>बेल्ग्रेड</item>
+        <item>ब्रुसेल्स</item>
+        <item>साराजेव्हो</item>
+        <item>विंडहोएक</item>
+        <item>द. आफ्रिका वेळ</item>
+        <item>अम्मन, जॉर्डन</item>
+        <item>अथेन्स, इस्तंबूल</item>
+        <item>बैरूत, लेबनान</item>
+        <item>कैरो</item>
+        <item>हेलसिंकी</item>
+        <item>जेरुसलेम</item>
+        <item>मिन्स्क</item>
+        <item>हरारे</item>
+        <item>बगदाद</item>
+        <item>मॉस्को</item>
+        <item>कुवैत</item>
+        <item>नैरोबी</item>
+        <item>तेहरान</item>
+        <item>बाकु</item>
+        <item>त्बिलिसि</item>
+        <item>येरेवॅन</item>
+        <item>दुबई</item>
+        <item>काबुल</item>
+        <item>इस्लामाबाद, कराची</item>
+        <item>उरालस्क</item>
+        <item>येकाटेरिनबर्ग</item>
+        <item>कोलकाता</item>
+        <item>श्रीलंका</item>
+        <item>काठमांडू</item>
+        <item>अस्ताना</item>
+        <item>यांगून</item>
+        <item>क्रॅस्नोयार्क्स</item>
+        <item>बँकॉक</item>
+        <item>बिजिंग</item>
+        <item>हाँगकाँग</item>
+        <item>इर्कुत्स्क</item>
+        <item>क्वालालंपुर</item>
+        <item>पर्थ</item>
+        <item>तैपई</item>
+        <item>सेउल</item>
+        <item>टोकियो, ओसाका</item>
+        <item>याकुत्स्क</item>
+        <item>अडेलेड</item>
+        <item>डार्विन</item>
+        <item>ब्रिस्बेन</item>
+        <item>हॉबार्ट</item>
+        <item>सिडने, कॅनेबेरा</item>
+        <item>लादिव्होस्टॉक</item>
+        <item>गुआम</item>
+        <item>मगादान</item>
+        <item>ऑकलँड</item>
+        <item>फिजी</item>
+        <item>टोंगा</item>
+    </array>
+    <array name="visibility">
+        <item>मूलनिर्धारित</item>
+        <item>खाजगी</item>
+        <item>सार्वजनीक</item>
+    </array>
+</resources>

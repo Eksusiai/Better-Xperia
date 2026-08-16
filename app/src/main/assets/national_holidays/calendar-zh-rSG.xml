@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: zh (Chinese)
+ * Region: SG (Singapore)
+ *********************************************************************
+--><calendar language="zh-rCN" region="SG" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day (celebration)] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">新年</holiday>
+        <!--[New Year Holiday (day in lieu)] - [new_year_holiday__day_in_lieu_]-->
+        <holiday endDate="2017-01-02" startDate="2017-01-02" workingday="false">元旦假期（调休）</holiday>
+        <!--[Chinese New Year] - [chinese_new_year]-->
+        <holiday endDate="2017-01-28" startDate="2017-01-28" workingday="false">中国新年</holiday>
+        <!--[Chinese New Year Holiday] - [chinese_new_year_holiday]-->
+        <holiday endDate="2017-01-30" startDate="2017-01-30" workingday="false">中国新年假期（调休）</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2017-04-14" startDate="2017-04-14" workingday="false">耶稣受难日</holiday>
+        <!--[Labour Day] - [labor_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">劳动节</holiday>
+        <!--[Vesak Day (Buddha Day)] - [vesak_day__buddha_day_]-->
+        <holiday endDate="2017-05-10" startDate="2017-05-10" workingday="false">卫塞节（佛陀日）</holiday>
+        <!--[Hari Raya Puasa (End of Ramadan) (celebration)] - [end_of_ramadan]-->
+        <holiday endDate="2017-06-25" startDate="2017-06-25" workingday="false">Eid al Fitr（开斋节）</holiday>
+        <!--[End of Ramadan Holiday (day in lieu)] - [end_of_ramadan]-->
+        <holiday endDate="2017-06-26" startDate="2017-06-26" workingday="false">Eid al Fitr（开斋节）</holiday>
+        <!--[National Day] - [national_day]-->
+        <holiday endDate="2017-08-09" startDate="2017-08-09" workingday="false">国庆节</holiday>
+        <!--[Hari Raya Haji (Feast of Sacrifice)] - [feast_of_sacrifice]-->
+        <holiday endDate="2017-09-01" startDate="2017-09-01" workingday="false">Kurbannyhua/Eil al-Adha（宰牲节）</holiday>
+        <!--[Deepavali] - [deepavali]-->
+        <holiday endDate="2017-10-18" startDate="2017-10-18" workingday="false">万灯节</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">圣诞节</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">新年</holiday>
+        <!--[Chinese New Year] - [chinese_new_year]-->
+        <holiday endDate="2016-02-08" startDate="2016-02-08" workingday="false">中国新年</holiday>
+        <!--[Chinese New Year Holiday] - [chinese_new_year_holiday]-->
+        <holiday endDate="2016-02-09" startDate="2016-02-09" workingday="false">中国新年假期（调休）</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2016-03-25" startDate="2016-03-25" workingday="false">耶稣受难日</holiday>
+        <!--[Labour Day (celebration)] - [labor_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">劳动节</holiday>
+        <!--[Labour Day Holiday (day in lieu)] - [labor_day]-->
+        <holiday endDate="2016-05-02" startDate="2016-05-02" workingday="false">劳动节</holiday>
+        <!--[Vesak Day (Buddha Day)] - [vesak_day__buddha_day_]-->
+        <holiday endDate="2016-05-21" startDate="2016-05-21" workingday="false">卫塞节（佛陀日）</holiday>
+        <!--[Hari Raya Puasa (End of Ramadan)] - [end_of_ramadan]-->
+        <holiday endDate="2016-07-06" startDate="2016-07-06" workingday="false">Eid al Fitr（开斋节）</holiday>
+        <!--[National Day] - [national_day]-->
+        <holiday endDate="2016-08-09" startDate="2016-08-09" workingday="false">国庆节</holiday>
+        <!--[Hari Raya Haji (Feast of Sacrifice)] - [feast_of_sacrifice]-->
+        <holiday endDate="2016-09-12" startDate="2016-09-12" workingday="false">Kurbannyhua/Eil al-Adha（宰牲节）</holiday>
+        <!--[Deepavali] - [deepavali]-->
+        <holiday endDate="2016-10-29" startDate="2016-10-29" workingday="false">万灯节</holiday>
+        <!--[Christmas Day (celebration)] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">圣诞节</holiday>
+        <!--[Christmas Holiday (day in lieu)] - [christmas_holiday__day_in_lieu_]-->
+        <holiday endDate="2016-12-26" startDate="2016-12-26" workingday="false">圣诞节假期（换休）</holiday>
+    </holidays>
+</calendar>
+

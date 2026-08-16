@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: en (English)
+ * Region: AU (Australia)
+ *********************************************************************
+--><calendar language="en" region="AU" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day (celebration)] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">New Year's Day</holiday>
+        <!--[New Year's Day Holiday (day in lieu)] - [new_year_s_day]-->
+        <holiday endDate="2017-01-02" startDate="2017-01-02" workingday="false">New Year's Day</holiday>
+        <!--[Australia Day (National Day)] - [australia_day__national_day_]-->
+        <holiday endDate="2017-01-26" startDate="2017-01-26" workingday="false">Australia Day (National Day)</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2017-04-14" startDate="2017-04-14" workingday="false">Good Friday</holiday>
+        <!--[Holy Saturday (except TAS)] - [holy_saturday__except_tas_]-->
+        <holiday endDate="2017-04-15" startDate="2017-04-15" workingday="false">Holy Saturday</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">Easter Monday</holiday>
+        <!--[ANZAC Day] - [anzac_day]-->
+        <holiday endDate="2017-04-25" startDate="2017-04-25" workingday="false">ANZAC Day</holiday>
+        <!--[Queen's Birthday (except QLD WA)] - [queen_s_birthday]-->
+        <holiday endDate="2017-06-12" startDate="2017-06-12" workingday="false">Queen's Birthday</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Christmas Day</holiday>
+        <!--[Boxing Day / Proclamation Day] - [boxing_day___proclamation_day]-->
+        <holiday endDate="2017-12-26" startDate="2017-12-26" workingday="false">Boxing Day / Proclamation Day</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">New Year's Day</holiday>
+        <!--[Australia Day (National Day)] - [australia_day__national_day_]-->
+        <holiday endDate="2016-01-26" startDate="2016-01-26" workingday="false">Australia Day (National Day)</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2016-03-25" startDate="2016-03-25" workingday="false">Good Friday</holiday>
+        <!--[Holy Saturday (except TAS)] - [holy_saturday__except_tas_]-->
+        <holiday endDate="2016-03-26" startDate="2016-03-26" workingday="false">Holy Saturday</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2016-03-28" startDate="2016-03-28" workingday="false">Easter Monday</holiday>
+        <!--[ANZAC Day] - [anzac_day]-->
+        <holiday endDate="2016-04-25" startDate="2016-04-25" workingday="false">ANZAC Day</holiday>
+        <!--[Queen's Birthday (except QLD WA)] - [queen_s_birthday]-->
+        <holiday endDate="2016-06-13" startDate="2016-06-13" workingday="false">Queen's Birthday</holiday>
+        <!--[Christmas Day (celebration)] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Christmas Day</holiday>
+        <!--[Boxing Day / Proclamation Day] - [boxing_day___proclamation_day]-->
+        <holiday endDate="2016-12-26" startDate="2016-12-26" workingday="false">Boxing Day / Proclamation Day</holiday>
+        <!--[Christmas Holiday (day in lieu)] - [christmas_holiday__day_in_lieu_]-->
+        <holiday endDate="2016-12-27" startDate="2016-12-27" workingday="false">Christmas Holiday (day in lieu)</holiday>
+    </holidays>
+</calendar>
+

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="accepted_items">
+        <item>U pranua</item>
+        <item>Provizor</item>
+        <item>U kundërshtua</item>
+    </array>
+    <array name="accessibility_event_color_picker_colors">
+        <item>E verdhë</item>
+        <item>Portokalli</item>
+        <item>E kuqe</item>
+        <item>Borgonjë</item>
+        <item>Rozë</item>
+        <item>Vjollcë</item>
+        <item>Kafe</item>
+        <item>Jeshile e çelur</item>
+        <item>Jeshile</item>
+        <item>E bruztë</item>
+        <item>Blu e çelur</item>
+        <item>Blu</item>
+    </array>
+    <array name="availability">
+        <item>I zënë</item>
+        <item>I disponueshëm</item>
+        <item>Provizor</item>
+    </array>
+    <array name="change_response_labels">
+        <item>Vetëm këtë herë</item>
+        <item>Të gjitha ngjarj. me radhë</item>
+    </array>
+    <array name="month_view_day_labels">
+        <item>H</item>
+        <item>M</item>
+        <item>M</item>
+        <item>E</item>
+        <item>P</item>
+        <item>Sh</item>
+        <item>D</item>
+    </array>
+    <array name="ordinal_labels">
+        <item>i pari</item>
+        <item>i dyti</item>
+        <item>i treti</item>
+        <item>i katërti</item>
+        <item>i fundit</item>
+    </array>
+    <array name="prefEntries_alerts_vibrateWhen">
+        <item>Gjithmonë</item>
+        <item>Vetëm në Mos shqetëso</item>
+        <item>Asnjëherë</item>
+    </array>
+    <array name="preferences_alert_type_labels">
+        <item>Sinjalizimi</item>
+        <item>Njoftim i shiritit të gjendjes</item>
+        <item>Joaktiv</item>
+    </array>
+    <array name="preferences_default_reminder_labels">
+        <item>Asnjë</item>
+        <item>5 minuta</item>
+        <item>10 minuta</item>
+        <item>15 minuta</item>
+        <item>20 minuta</item>
+        <item>25 minuta</item>
+        <item>30 minuta</item>
+        <item>45 minuta</item>
+        <item>1 orë</item>
+        <item>2 orë</item>
+        <item>3 orë</item>
+        <item>12 orë</item>
+        <item>24 orë</item>
+        <item>2 ditë</item>
+        <item>1 javë</item>
+    </array>
+    <array name="preferences_week_days_labels">
+        <item>Vetëm ditët e punës</item>
+        <item>7 ditë</item>
+    </array>
+    <array name="quick_response_defaults">
+        <item>Jam vetëm disa minuta me vonesë.</item>
+        <item>Do të jem atje për 10 minuta.</item>
+        <item>Filloni pa mua.</item>
+        <item>Më vjen keq, por nuk arrij. Do të na duhet ta riprogramojmë.</item>
+    </array>
+    <array name="reminder_minutes_labels">
+        <item>5 minuta</item>
+        <item>10 minuta</item>
+        <item>15 minuta</item>
+        <item>20 minuta</item>
+        <item>25 minuta</item>
+        <item>30 minuta</item>
+        <item>45 minuta</item>
+        <item>1 orë</item>
+        <item>2 orë</item>
+        <item>3 orë</item>
+        <item>12 orë</item>
+        <item>24 orë</item>
+        <item>2 ditë</item>
+        <item>1 javë</item>
+    </array>
+    <array name="repeats_pattern">
+        <item>Çdo ditë</item>
+        <item>Çdo javë</item>
+        <item>Çdo muaj</item>
+        <item>Çdo vit</item>
+    </array>
+    <array name="repeats_weekdays_no">
+        <item>E parë</item>
+        <item>E dytë</item>
+        <item>E tretë</item>
+        <item>E katërt</item>
+        <item>E pestë</item>
+    </array>
+    <array name="reply_items">
+        <item>Përgjigju</item>
+        <item>Përgjigju të gjithave</item>
+        <item>Përcill</item>
+    </array>
+    <array name="response_labels1">
+        <item>(Asnjë përgjigje)</item>
+        <item>Po</item>
+        <item>Ndoshta</item>
+        <item>Jo</item>
+    </array>
+    <array name="response_labels2">
+        <item>Po</item>
+        <item>Ndoshta</item>
+        <item>Jo</item>
+    </array>
+    <array name="timezone_labels">
+        <item>Ishujt Marshall</item>
+        <item>Ishulli Midway</item>
+        <item>Havai</item>
+        <item>Alaska</item>
+        <item>Ora e Paqësorit</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Çiuaua</item>
+        <item>Ora e Maleve</item>
+        <item>Amerika Qendrore</item>
+        <item>Ora Qendrore</item>
+        <item>Qyteti i Meksikos</item>
+        <item>Saskaçevani</item>
+        <item>Bogota</item>
+        <item>Ora Lindore</item>
+        <item>Venezuelë</item>
+        <item>Ora e Atlantikut</item>
+        <item>Manausi</item>
+        <item>Santiagoja</item>
+        <item>Toka e Re</item>
+        <item>Brazilia</item>
+        <item>Buenos-Ajresi</item>
+        <item>Groenlanda</item>
+        <item>Montevideoja</item>
+        <item>Mes-Atlantiku</item>
+        <item>Azoret</item>
+        <item>Ishujt e Kepit të Gjelbër</item>
+        <item>Kazablanka</item>
+        <item>Londra, Dublini</item>
+        <item>Amsterdami, Berlini</item>
+        <item>Beogradi</item>
+        <item>Brukseli</item>
+        <item>Sarajeva</item>
+        <item>Windhoek</item>
+        <item>Ora e Afrik. Perën.</item>
+        <item>Amani, Jordania</item>
+        <item>Athina, Stambolli</item>
+        <item>Bejruti, Libani</item>
+        <item>Kairoja</item>
+        <item>Helsinki</item>
+        <item>Jerusalemi</item>
+        <item>Minsku</item>
+        <item>Harare</item>
+        <item>Bagdadi</item>
+        <item>Moska</item>
+        <item>Kuvajti</item>
+        <item>Najrobi</item>
+        <item>Teherani</item>
+        <item>Bakuja</item>
+        <item>Tbilisi</item>
+        <item>Jerevani</item>
+        <item>Dubai</item>
+        <item>Kabuli</item>
+        <item>Islambadi, Karaki</item>
+        <item>Uralski</item>
+        <item>Jekaterinburgu</item>
+        <item>Kolkata</item>
+        <item>Sri-Lanka</item>
+        <item>Katmanduja</item>
+        <item>Astana</item>
+        <item>Jangon</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkoku</item>
+        <item>Pekini</item>
+        <item>Hong-Kongu</item>
+        <item>Irkutski</item>
+        <item>Kuala-Lampuri</item>
+        <item>Perthi</item>
+        <item>Taipei</item>
+        <item>Seuli</item>
+        <item>Tokio, Osaka</item>
+        <item>Jakutski</item>
+        <item>Adelaide</item>
+        <item>Darvini</item>
+        <item>Brizbejni</item>
+        <item>Hobarti</item>
+        <item>Sidni, Kanbera</item>
+        <item>Vladivostoku</item>
+        <item>Guami</item>
+        <item>Magadani</item>
+        <item>Auckland</item>
+        <item>Fixhi</item>
+        <item>Tonga</item>
+    </array>
+    <array name="visibility">
+        <item>E paracaktuar</item>
+        <item>Privat</item>
+        <item>Publik</item>
+    </array>
+</resources>

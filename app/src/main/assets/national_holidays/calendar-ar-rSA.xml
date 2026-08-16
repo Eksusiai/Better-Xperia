@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: ar (Arabic)
+ * Region: SA (Saudi Arabia)
+ *********************************************************************
+--><calendar language="ar" region="SA" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[Eid al Fitr (End of Ramadan)] - [end_of_ramadan]-->
+        <holiday endDate="2017-06-25" startDate="2017-06-25" workingday="false">عيد الفطر</holiday>
+        <!--[Eid al Fitr Holiday] - [eid_al_fitr_holiday]-->
+        <holiday endDate="2017-06-26" startDate="2017-06-26" workingday="false">عطلة عيد الفطر</holiday>
+        <!--[Eid al Fitr Holiday] - [eid_al_fitr_holiday]-->
+        <holiday endDate="2017-06-27" startDate="2017-06-27" workingday="false">عطلة عيد الفطر</holiday>
+        <!--[Eid al Adha Holiday (Arafat Day)] - [eid_al_adha_holiday__arafat_day_]-->
+        <holiday endDate="2017-08-31" startDate="2017-08-31" workingday="false">عطلة عيد الأضحى</holiday>
+        <!--[Eid al Adha (Feast of Sacrifice)] - [feast_of_sacrifice]-->
+        <holiday endDate="2017-09-01" startDate="2017-09-01" workingday="false">Kurbannyhua / عيد الأضحى</holiday>
+        <!--[Eid al Adha Holiday] - [eid_al_adha_holiday]-->
+        <holiday endDate="2017-09-02" startDate="2017-09-02" workingday="false">عطلة عيد الأضحى</holiday>
+        <!--[Eid al Adha Holiday] - [eid_al_adha_holiday]-->
+        <holiday endDate="2017-09-03" startDate="2017-09-03" workingday="false">عطلة عيد الأضحى</holiday>
+        <!--[National Day (Al-Yaom Al-Watany)] - [national_day__al_yaom_al_watany_]-->
+        <holiday endDate="2017-09-23" startDate="2017-09-23" workingday="false">اليوم الوطني</holiday>
+        <!--[Eid al Fitr Holiday] - [eid_al_fitr_holiday]-->
+        <holiday endDate="2016-07-05" startDate="2016-07-05" workingday="false">عطلة عيد الفطر</holiday>
+        <!--[Eid al Fitr (End of Ramadan)] - [end_of_ramadan]-->
+        <holiday endDate="2016-07-06" startDate="2016-07-06" workingday="false">عيد الفطر</holiday>
+        <!--[Eid al Fitr Holiday] - [eid_al_fitr_holiday]-->
+        <holiday endDate="2016-07-07" startDate="2016-07-07" workingday="false">عطلة عيد الفطر</holiday>
+        <!--[Eid al Fitr Holiday] - [eid_al_fitr_holiday]-->
+        <holiday endDate="2016-07-08" startDate="2016-07-08" workingday="false">عطلة عيد الفطر</holiday>
+        <!--[Eid al Adha Holiday (Arafat Day)] - [eid_al_adha_holiday__arafat_day_]-->
+        <holiday endDate="2016-09-10" startDate="2016-09-10" workingday="false">عطلة عيد الأضحى</holiday>
+        <!--[Eid al Adha (Feast of Sacrifice)] - [feast_of_sacrifice]-->
+        <holiday endDate="2016-09-11" startDate="2016-09-11" workingday="false">Kurbannyhua / عيد الأضحى</holiday>
+        <!--[Eid al Adha Holiday] - [eid_al_adha_holiday]-->
+        <holiday endDate="2016-09-12" startDate="2016-09-12" workingday="false">عطلة عيد الأضحى</holiday>
+        <!--[Eid al Adha Holiday] - [eid_al_adha_holiday]-->
+        <holiday endDate="2016-09-13" startDate="2016-09-13" workingday="false">عطلة عيد الأضحى</holiday>
+        <!--[National Day (Al-Yaom Al-Watany)] - [national_day__al_yaom_al_watany_]-->
+        <holiday endDate="2016-09-23" startDate="2016-09-23" workingday="false">اليوم الوطني</holiday>
+    </holidays>
+</calendar>
+

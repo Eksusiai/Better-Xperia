@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: sl (Slovene)
+ * Region: SI (Slovenia)
+ *********************************************************************
+--><calendar language="sl" region="SI" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Novo leto</holiday>
+        <!--[Preseren's Day (Day of Slovenian Culture)] - [preseren_s_day__day_of_slovenian_culture_]-->
+        <holiday endDate="2017-02-08" startDate="2017-02-08" workingday="false">Prešernov dan (Slovenski kulturni praznik)</holiday>
+        <!--[Easter] - [easter]-->
+        <holiday endDate="2017-04-16" startDate="2017-04-16" workingday="false">Velika noč</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">Velikonočni ponedeljek</holiday>
+        <!--[Resistance Day] - [resistance_day]-->
+        <holiday endDate="2017-04-27" startDate="2017-04-27" workingday="false">Dan upora proti okupatorju</holiday>
+        <!--[May Day] - [may_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Praznik dela</holiday>
+        <!--[May Day Holiday] - [may_day]-->
+        <holiday endDate="2017-05-02" startDate="2017-05-02" workingday="false">Praznik dela</holiday>
+        <!--[Whitsunday] - [whitsunday]-->
+        <holiday endDate="2017-06-04" startDate="2017-06-04" workingday="false">Binkošti</holiday>
+        <!--[Day of Slovenian Sovereignty (National Day)] - [day_of_slovenian_sovereignty__national_day_]-->
+        <holiday endDate="2017-06-25" startDate="2017-06-25" workingday="false">Dan državnosti</holiday>
+        <!--[Assumption Day] - [assumption_day]-->
+        <holiday endDate="2017-08-15" startDate="2017-08-15" workingday="false">Marijino vnebovzetje</holiday>
+        <!--[Reformation Day] - [reformation_day]-->
+        <holiday endDate="2017-10-31" startDate="2017-10-31" workingday="false">Dan reformacije</holiday>
+        <!--[All Saints Day] - [all_saints_day]-->
+        <holiday endDate="2017-11-01" startDate="2017-11-01" workingday="false">Vsi sveti</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Božič</holiday>
+        <!--[Independence and Unity Day] - [independence_and_unity_day]-->
+        <holiday endDate="2017-12-26" startDate="2017-12-26" workingday="false">Dan samostojnosti in enotnosti</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Novo leto</holiday>
+        <!--[Preseren's Day (Day of Slovenian Culture)] - [preseren_s_day__day_of_slovenian_culture_]-->
+        <holiday endDate="2016-02-08" startDate="2016-02-08" workingday="false">Prešernov dan (Slovenski kulturni praznik)</holiday>
+        <!--[Easter] - [easter]-->
+        <holiday endDate="2016-03-27" startDate="2016-03-27" workingday="false">Velika noč</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2016-03-28" startDate="2016-03-28" workingday="false">Velikonočni ponedeljek</holiday>
+        <!--[Resistance Day] - [resistance_day]-->
+        <holiday endDate="2016-04-27" startDate="2016-04-27" workingday="false">Dan upora proti okupatorju</holiday>
+        <!--[May Day] - [may_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Praznik dela</holiday>
+        <!--[May Day Holiday] - [may_day]-->
+        <holiday endDate="2016-05-02" startDate="2016-05-02" workingday="false">Praznik dela</holiday>
+        <!--[Whitsunday] - [whitsunday]-->
+        <holiday endDate="2016-05-15" startDate="2016-05-15" workingday="false">Binkošti</holiday>
+        <!--[Day of Slovenian Sovereignty (National Day)] - [day_of_slovenian_sovereignty__national_day_]-->
+        <holiday endDate="2016-06-25" startDate="2016-06-25" workingday="false">Dan državnosti</holiday>
+        <!--[Assumption Day] - [assumption_day]-->
+        <holiday endDate="2016-08-15" startDate="2016-08-15" workingday="false">Marijino vnebovzetje</holiday>
+        <!--[Reformation Day] - [reformation_day]-->
+        <holiday endDate="2016-10-31" startDate="2016-10-31" workingday="false">Dan reformacije</holiday>
+        <!--[All Saints Day] - [all_saints_day]-->
+        <holiday endDate="2016-11-01" startDate="2016-11-01" workingday="false">Vsi sveti</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Božič</holiday>
+        <!--[Independence and Unity Day] - [independence_and_unity_day]-->
+        <holiday endDate="2016-12-26" startDate="2016-12-26" workingday="false">Dan samostojnosti in enotnosti</holiday>
+    </holidays>
+</calendar>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" android:drawable="@color/calendar_grid_area_background">
+    <item
+        android:state_selected="true"
+        android:state_pressed="false">
+        <shape android:shape="rectangle">
+            <stroke
+                android:width="2dp"
+                android:color="@color/focused_border_color"/>
+            <gradient
+                android:startColor="@color/completed_task_background_color"
+                android:endColor="@color/completed_task_background_color"
+                android:angle="0"/>
+        </shape>
+    </item>
+    <item
+        android:state_enabled="true"
+        android:drawable="@color/completed_task_background_color"/>
+</selector>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke
+        android:width="@dimen/focused_border_width"
+        android:color="@color/focused_border_color"/>
+    <gradient
+        android:startColor="@color/calendar_grid_area_background"
+        android:endColor="@color/calendar_grid_area_background"
+        android:angle="0"/>
+</shape>

@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    android:sharedUserLabel="@string/app_label">
+    <uses-feature
+        android:glEsVersion="0x20000"
+        android:required="true"/>
+    <supports-screens
+        android:anyDensity="true"
+        android:smallScreens="true"
+        android:normalScreens="true"
+        android:largeScreens="true"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+    <uses-permission android:name="android.permission.READ_CALENDAR"/>
+    <uses-permission android:name="android.permission.WRITE_CALENDAR"/>
+    <uses-permission android:name="com.sonymobile.permission.READ_LUNAR"/>
+    <uses-permission android:name="com.sonymobile.permission.WRITE_LUNAR"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.USE_CREDENTIALS"/>
+    <uses-permission android:name="android.permission.READ_SYNC_SETTINGS"/>
+    <uses-permission android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.mail"/>
+    <uses-permission android:name="com.sonymobile.email.intent.permission.SEND_CALENDAR_EMAIL"/>
+    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.WRITE_CONTACTS"/>
+    <uses-permission android:name="com.android.email.permission.ACCESS_PROVIDER"/>
+    <uses-permission android:name="com.sonymobile.email.permission.ACCESS_PROVIDER"/>
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.UPDATE_DEVICE_STATS"/>
+    <uses-permission android:name="android.permission.READ_PROFILE"/>
+    <uses-permission android:name="com.sonyericsson.organizer.READ_ALARM"/>
+    <uses-permission android:name="android.permission.USE_EXACT_ALARM"/>
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="com.sonymobile.helpapp7.HELP"/>
+    <permission
+        android:name="com.sonymobile.calendar.linkedin.SYNC"
+        android:protectionLevel="signature"/>
+    <uses-permission android:name="com.sonymobile.tasks.provider.permission.READ_TASKS"/>
+    <uses-permission android:name="com.sonymobile.tasks.provider.permission.WRITE_TASKS"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.READ_SYNC_STATS"/>
+    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS"/>
+    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES"/>
+    <uses-permission android:name="com.sonyericsson.updatecenter.permission.UPDATE_CENTER"/>
+    <uses-permission android:name="com.sonyericsson.updatecenter.permission.READ_APPLICATION_UPDATES"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <permission
+        android:name="com.sonymobile.calendar.provider.permission.READ_PROVIDER"
+        android:protectionLevel="signatureOrSystem"/>
+    <permission
+        android:name="com.sonymobile.calendar.provider.permission.WRITE_PROVIDER"
+        android:protectionLevel="signatureOrSystem"/>
+    <application
+        android:theme="@style/AppTheme"
+        android:label="@string/app_label"
+        android:icon="@mipmap/app_icon"
+        android:name="com.sonymobile.calendar.CalendarApplication"
+        android:taskAffinity="sonymobile.task.calendar"
+        android:allowBackup="false"
+        android:supportsRtl="true"
+        android:requiredAccountType="*"
+        android:extractNativeLibs="false"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory">
+        <uses-library android:name="android.test.runner"/>
+        <uses-library
+            android:name="com.sonymobile.provider.tasks_1"
+            android:required="false"/>
+        <uses-library
+            android:name="com.sony.device"
+            android:required="true"/>
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:exported="false"
+            android:authorities="com.sonymobile.calendar.VCalendarParser"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths"/>
+        </provider>
+        <activity
+            android:theme="@style/CalendarTheme.NoActionBar"
+            android:name="com.sonymobile.calendar.LaunchActivity"
+            android:exported="true"
+            android:launchMode="singleTask"
+            android:configChanges="keyboardHidden"
+            android:windowSoftInputMode="adjustNothing">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+                <category android:name="android.intent.category.APP_CALENDAR"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="time/epoch"/>
+                <data android:host="com.sonymobile.calendar"/>
+                <data android:scheme="content"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="time/epoch"/>
+                <data android:host="com.android.calendar"/>
+                <data android:scheme="content"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="com.sonymobile.calendar.action.View_TASKS"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="com.sonymobile.calendar.category.TASKS"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="com.sonymobile.calendar.action.View_TASKS_LIST"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.EDIT"/>
+                <action android:name="android.intent.action.INSERT"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="vnd.android.cursor.item/event"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.EDIT"/>
+                <action android:name="android.intent.action.INSERT"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="vnd.android.cursor.dir/event"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:theme="@style/CalendarTheme.NoActionBar"
+            android:name="com.sonymobile.calendar.ShowPersonalInfoActivity"
+            android:exported="false"
+            android:configChanges="screenSize|orientation|keyboardHidden"/>
+        <activity
+            android:label="@string/app_label"
+            android:name="com.google.android.gms.tagmanager.PreviewActivity"
+            android:exported="true"
+            android:noHistory="true">
+            <intent-filter>
+                <data android:scheme="tagmanager.c.com.sonymobile.calendar"/>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:theme="@style/Theme.CustomAction"
+            android:name="com.sonymobile.calendar.SearchActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"/>
+        <activity
+            android:theme="@style/ActivityDialog"
+            android:name="com.sonymobile.calendar.permissions.PermissionAcceptanceActivity"/>
+        <activity
+            android:theme="@style/Theme.CustomAction"
+            android:name="com.sonymobile.calendar.EventPickerActivity"
+            android:exported="true"
+            android:configChanges="screenSize|orientation">
+            <intent-filter>
+                <action android:name="android.intent.action.PICK"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="text/x-vCalendar"/>
+                <data android:mimeType="text/x-vcalendar"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:theme="@style/Theme.Transparent"
+            android:name="com.sonymobile.calendar.WidgetProxyActivity"
+            android:taskAffinity=""
+            android:launchMode="singleTop"
+            android:configChanges="screenSize|orientation"/>
+        <activity
+            android:theme="@style/Theme.Transparent"
+            android:name="com.sonymobile.calendar.AddEventDialog"
+            android:exported="true"
+            android:taskAffinity=""
+            android:excludeFromRecents="true"
+            android:launchMode="singleTop"
+            android:configChanges="smallestScreenSize|screenSize|screenLayout|orientation">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="text/x-vCalendar"/>
+                <data android:mimeType="text/x-vcalendar"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data
+                    android:mimeType="*/*"
+                    android:scheme="file"
+                    android:host="*"
+                    android:pathPattern=".*\\.vcs"/>
+                <data
+                    android:mimeType="*/*"
+                    android:scheme="file"
+                    android:host="*"
+                    android:pathPattern=".*\\.ics"/>
+                <data
+                    android:mimeType="*/*"
+                    android:scheme="file"
+                    android:host="*"
+                    android:pathPattern=".*\\.ical"/>
+                <data android:mimeType="text/calendar"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:scheme="content"/>
+                <data android:mimeType="text/calendar"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:theme="@style/Theme.CustomAction"
+            android:name="com.sonymobile.calendar.birthday.BirthdayActivity"
+            android:exported="true"/>
+        <activity
+            android:theme="@style/Theme.CustomAction"
+            android:label="@string/clr_strings_event_forward_action_txt"
+            android:name="com.sonymobile.calendar.ForwardActivity"
+            android:exported="true"
+            android:configChanges="keyboardHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.SEND"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="vnd.android.cursor.item/event"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:theme="@style/CalendarTheme.NoActionBar"
+            android:name="com.sonymobile.calendar.tasks.activity.TasksEditActivity"
+            android:exported="true"
+            android:launchMode="singleTask"
+            android:configChanges="screenSize|keyboardHidden"
+            android:windowSoftInputMode="adjustResize|stateHidden"/>
+        <activity
+            android:theme="@style/CalendarSettingsTheme"
+            android:name="com.sonymobile.calendar.tasks.activity.TasksNotificationActivity"
+            android:launchMode="singleTask"
+            android:configChanges="screenSize|orientation|keyboardHidden|keyboard"
+            android:windowSoftInputMode="adjustResize|stateHidden"/>
+        <activity
+            android:theme="@style/CalendarSettingsTheme"
+            android:label="@string/task_settings_actionbar_title_txt"
+            android:name="com.sonymobile.calendar.tasks.settings.SettingsActivity"
+            android:permission="com.sonyericsson.permission.SETTINGS"
+            android:configChanges="screenSize|keyboardHidden"/>
+        <activity
+            android:theme="@style/CalendarTheme"
+            android:name="com.sonymobile.calendar.HintPromoteActivity"/>
+        <activity
+            android:theme="@style/CalendarTheme.NoActionBar"
+            android:label="@string/event_edit_title"
+            android:name="com.sonymobile.calendar.editevent.EditEventActivity"
+            android:launchMode="singleTop"
+            android:configChanges="screenSize|keyboardHidden"/>
+        <activity
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+            android:label="@string/event_edit_title"
+            android:name="com.sonymobile.calendar.editevent.TabletEditEventActivity"
+            android:exported="false"
+            android:launchMode="singleTop"
+            android:configChanges="screenSize|keyboardHidden"/>
+        <activity
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+            android:name="com.sonymobile.calendar.MapsActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"/>
+        <activity
+            android:theme="@style/CalendarTheme.NoActionBar"
+            android:label="@string/event_info_title"
+            android:name="com.sonymobile.calendar.EventInfoActivity"
+            android:exported="true"
+            android:taskAffinity="@string/event_info_activity_widget_start"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:parentActivityName="com.sonymobile.calendar.LaunchActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="vnd.android.cursor.item/event"/>
+            </intent-filter>
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".LaunchActivity"/>
+        </activity>
+        <activity
+            android:theme="@style/Theme.Transparent.NoActionBar"
+            android:label="@string/event_info_title"
+            android:name="com.sonymobile.calendar.tablet.TabletEventInfoActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:parentActivityName="com.sonymobile.calendar.LaunchActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".LaunchActivity"/>
+        </activity>
+        <activity
+            android:theme="@style/Theme.CustomAction"
+            android:label="@string/check_availability_label"
+            android:name="com.sonymobile.calendar.CheckAvailabilityActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"/>
+        <activity
+            android:theme="@style/Theme.CustomAction"
+            android:label="@string/check_availability_label"
+            android:name="com.sonymobile.calendar.tablet.TabletCheckAvailabilityActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"/>
+        <activity
+            android:theme="@style/Theme.CustomAction"
+            android:label="@string/clr_strings_customized_repetition_txt"
+            android:name="com.sonymobile.calendar.RepetitionActivity"
+            android:configChanges="screenSize|keyboardHidden"
+            android:windowSoftInputMode="stateUnchanged"/>
+        <activity
+            android:theme="@style/Theme.Transparent.NoActionBar.LinkedIn"
+            android:label=""
+            android:name="com.sonymobile.calendar.linkedin.QuickLinkedInContactActivity"/>
+        <activity
+            android:theme="@style/Theme.Transparent.NoActionBar.LinkedIn"
+            android:label=""
+            android:name="com.sonymobile.calendar.linkedin.QuickViewSearchActivity"/>
+        <activity
+            android:theme="@style/Theme.CustomAction"
+            android:label="@string/search_on_linkedin_title"
+            android:name="com.sonymobile.calendar.linkedin.LinkedInSearchActivity"/>
+        <activity
+            android:theme="@style/Theme.CustomAction"
+            android:label="@string/search_results_linkedin"
+            android:name="com.sonymobile.calendar.linkedin.SearchResultActivity"/>
+        <activity
+            android:theme="@style/CalendarTheme"
+            android:label="@string/app_label"
+            android:name="com.sonymobile.calendar.GoogleCalendarUriIntentFilter"
+            android:exported="true"
+            android:configChanges="screenSize|orientation|keyboardHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data
+                    android:scheme="http"
+                    android:host="www.google.com"
+                    android:pathPrefix="/calendar/event"/>
+                <data
+                    android:scheme="https"
+                    android:host="www.google.com"
+                    android:pathPrefix="/calendar/event"/>
+                <data
+                    android:scheme="http"
+                    android:host="www.google.com"
+                    android:pathPattern="/calendar/hosted/.*/event"/>
+                <data
+                    android:scheme="https"
+                    android:host="www.google.com"
+                    android:pathPattern="/calendar/hosted/.*/event"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:theme="@android:style/Theme.NoDisplay"
+            android:name="com.sonymobile.calendar.linkedin.backend.LinkedInSyncActivity"
+            android:permission="com.sonymobile.calendar.linkedin.SYNC"
+            android:exported="true"
+            android:screenOrientation="portrait"/>
+        <receiver
+            android:name="com.sonymobile.calendar.alerts.AlertReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.EVENT_REMINDER"/>
+                <action android:name="android.intent.action.TIME_SET"/>
+                <data android:scheme="content"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.LOCALE_CHANGED"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.PROVIDER_CHANGED"/>
+                <data android:scheme="content"/>
+                <data android:host="com.sonymobile.calendar"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.PROVIDER_CHANGED"/>
+                <data android:scheme="content"/>
+                <data android:host="com.android.calendar"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.PROVIDER_CHANGED"/>
+                <data android:scheme="content"/>
+                <data android:host="com.sonymobile.lunar"/>
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.sonymobile.calendar.tasks.alerts.TasksAlertReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.LOCALE_CHANGED"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.PROVIDER_CHANGED"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.TIME_SET"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.sonymobile.intent.action.TASK_REMINDER"/>
+                <data android:scheme="content"/>
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.sonymobile.calendar.CalendarBootBroadcastReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.google.android.gms.analytics.CampaignTrackingReceiver"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER"/>
+            </intent-filter>
+        </receiver>
+        <service
+            android:name="com.google.android.gms.analytics.CampaignTrackingService"
+            android:enabled="true"
+            android:exported="false"/>
+        <activity
+            android:theme="@style/Theme.AppCompat.DayNight.Dialog"
+            android:label="@string/quick_response_dialog_title"
+            android:name="com.sonymobile.calendar.alerts.QuickResponseActivity"
+            android:excludeFromRecents="true"
+            android:launchMode="singleInstance"
+            android:configChanges="screenSize|orientation|keyboardHidden"/>
+        <activity
+            android:theme="@style/Theme.AppCompat.DayNight.Dialog"
+            android:name="com.sonymobile.calendar.alerts.SnoozeSelectActivity"
+            android:taskAffinity="snooze.select.activity"
+            android:excludeFromRecents="true"
+            android:launchMode="singleInstance"/>
+        <receiver
+            android:name="com.sonymobile.calendar.MasterResetReceiver"
+            android:permission="android.permission.MASTER_CLEAR"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.sonyericsson.settings.MASTERRESET"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </receiver>
+        <service
+            android:name="com.sonymobile.calendar.jobs.ProviderChangeJobService"
+            android:permission="android.permission.BIND_JOB_SERVICE"
+            android:exported="true"/>
+        <service android:name="com.sonymobile.calendar.DismissAllAlarmsService"/>
+        <service android:name="com.sonymobile.calendar.alerts.DismissAlarmsService"/>
+        <service android:name="com.sonymobile.calendar.tasks.alerts.TasksDismissAlarmsService"/>
+        <service
+            android:name="com.sonyericsson.localcalendar.authenticator.AuthenticationService"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.accounts.AccountAuthenticator"/>
+            </intent-filter>
+            <meta-data
+                android:name="android.accounts.AccountAuthenticator"
+                android:resource="@xml/authenticator"/>
+        </service>
+        <service android:name="com.sonymobile.calendar.linkedin.backend.LinkedInCommunicationService"/>
+        <meta-data
+            android:name="android.app.default_searchable"
+            android:value="com.sonymobile.calendar.SearchActivity"/>
+        <receiver
+            android:label="@string/app_label"
+            android:name="com.sonymobile.calendar.widget.CalendarAppWidgetProvider"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+                <action android:name="com.sonymobile.calendar.APPWIDGET_UPDATE"/>
+                <action android:name="com.sonymobile.calendar.APPWIDGET_SCROLL_TO_TOP"/>
+                <action android:name="android.intent.action.LOCALE_CHANGED"/>
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/appwidget_info"/>
+        </receiver>
+        <receiver
+            android:name="com.sonymobile.calendar.widget.CalendarAppWidgetService.CalendarFactory"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.PROVIDER_CHANGED"/>
+                <data android:scheme="content"/>
+                <data android:host="com.android.calendar"/>
+                <data android:host="com.sonymobile.calendar"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.sonymobile.calendar.APPWIDGET_SCHEDULED_UPDATE"/>
+                <data android:scheme="content"/>
+                <data android:host="com.android.calendar"/>
+                <data android:host="com.sonymobile.calendar"/>
+                <data android:mimeType="vnd.android.data/update"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.PROVIDER_CHANGED"/>
+                <data android:scheme="content"/>
+                <data android:host="com.sonymobile.lunar"/>
+            </intent-filter>
+        </receiver>
+        <service
+            android:name="com.sonymobile.calendar.widget.CalendarAppWidgetService"
+            android:permission="android.permission.BIND_REMOTEVIEWS"
+            android:exported="false"/>
+        <activity
+            android:theme="@style/Theme.CustomAction"
+            android:label="@string/preferences_title"
+            android:name="com.sonymobile.calendar.tablet.TabletCalendarPreferenceActivity"
+            android:configChanges="screenSize|keyboardHidden"/>
+        <activity
+            android:theme="@style/Theme.CustomAction"
+            android:label="@string/clr_strings_search_txt"
+            android:name="com.sonymobile.calendar.tablet.TabletSearchActivity"/>
+        <activity
+            android:theme="@style/CalendarSettingsTheme"
+            android:label="@string/preferences_title"
+            android:name="com.sonymobile.calendar.CalendarSettingsActivity"/>
+        <service
+            android:name="com.sonymobile.calendar.AsyncQueryServiceHelper"
+            android:permission="android.permission.BIND_JOB_SERVICE"
+            android:exported="true"/>
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version"/>
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyBCtpTylAsRLer76HphJMOeUtYj_EtLveM"/>
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:exported="false"
+            android:authorities="com.sonymobile.calendar.androidx-startup">
+            <meta-data
+                android:name="androidx.work.WorkManagerInitializer"
+                android:value="androidx.startup"/>
+        </provider>
+        <service
+            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
+            android:enabled="@bool/enable_system_alarm_service_default"
+            android:exported="false"
+            android:directBootAware="false"/>
+        <service
+            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+            android:permission="android.permission.BIND_JOB_SERVICE"
+            android:enabled="@bool/enable_system_job_service_default"
+            android:exported="true"
+            android:directBootAware="false"/>
+        <service
+            android:name="androidx.work.impl.foreground.SystemForegroundService"
+            android:enabled="@bool/enable_system_foreground_service_default"
+            android:exported="false"
+            android:directBootAware="false"/>
+        <receiver
+            android:name="androidx.work.impl.utils.ForceStopRunnable.BroadcastReceiver"
+            android:enabled="true"
+            android:exported="false"
+            android:directBootAware="false"/>
+        <receiver
+            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy.BatteryChargingProxy"
+            android:enabled="false"
+            android:exported="false"
+            android:directBootAware="false">
+            <intent-filter>
+                <action android:name="android.intent.action.ACTION_POWER_CONNECTED"/>
+                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED"/>
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy.BatteryNotLowProxy"
+            android:enabled="false"
+            android:exported="false"
+            android:directBootAware="false">
+            <intent-filter>
+                <action android:name="android.intent.action.BATTERY_OKAY"/>
+                <action android:name="android.intent.action.BATTERY_LOW"/>
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy.StorageNotLowProxy"
+            android:enabled="false"
+            android:exported="false"
+            android:directBootAware="false">
+            <intent-filter>
+                <action android:name="android.intent.action.DEVICE_STORAGE_LOW"/>
+                <action android:name="android.intent.action.DEVICE_STORAGE_OK"/>
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy.NetworkStateProxy"
+            android:enabled="false"
+            android:exported="false"
+            android:directBootAware="false">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+            android:enabled="false"
+            android:exported="false"
+            android:directBootAware="false">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.TIME_SET"/>
+                <action android:name="android.intent.action.TIMEZONE_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
+            android:enabled="@bool/enable_system_alarm_service_default"
+            android:exported="false"
+            android:directBootAware="false">
+            <intent-filter>
+                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies"/>
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver"
+            android:permission="android.permission.DUMP"
+            android:enabled="true"
+            android:exported="true"
+            android:directBootAware="false">
+            <intent-filter>
+                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS"/>
+            </intent-filter>
+        </receiver>
+        <provider
+            android:name="com.sonymobile.calendar.provider.SomcCalendarProvider"
+            android:readPermission="com.sonymobile.calendar.provider.permission.READ_PROVIDER"
+            android:writePermission="com.sonymobile.calendar.provider.permission.WRITE_PROVIDER"
+            android:enabled="true"
+            android:exported="true"
+            android:authorities="com.sonymobile.calendar.provider"/>
+        <activity
+            android:theme="@android:style/Theme.Translucent"
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="smallestScreenSize|screenSize|uiMode|screenLayout|orientation|keyboardHidden|keyboard"/>
+        <activity
+            android:theme="@style/Theme.IAPTheme"
+            android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"/>
+        <service
+            android:name="androidx.room.MultiInstanceInvalidationService"
+            android:exported="false"
+            android:directBootAware="true"/>
+    </application>
+</manifest>

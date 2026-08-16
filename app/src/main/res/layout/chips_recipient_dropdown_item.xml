@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/chips_dropdown_background"
+    android:padding="12dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="@dimen/chip_dropdown_height">
+    <com.android.ex.chips.CircularImageView style="@style/ChipStartIconStyle"/>
+    <LinearLayout style="@style/ChipTextViewLayoutStyle">
+        <TextView style="@style/ChipTitleStyle"/>
+        <TextView style="@style/ChipSubtitleStyle"/>
+    </LinearLayout>
+    <ImageView style="@style/ChipDeleteIconStyle"/>
+</LinearLayout>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 diena</item>
+        <item quantity="other">%d d.</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 įvykis</item>
+        <item quantity="other">Įvykių: %d</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 val.</item>
+        <item quantity="other">%d val.</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 min.</item>
+        <item quantity="other">%d min.</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 min.</item>
+        <item quantity="other">%d min.</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">laipsnis</item>
+        <item quantity="other">laipsniai (-ių)</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d metų amžiaus</item>
+        <item quantity="other">%d metų amžiaus</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 užduotis</item>
+        <item quantity="other">%d užduotys (-ių)</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">įvykis</item>
+        <item quantity="other">įvykiai</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">Įvykis pridėtas</item>
+        <item quantity="other">Įvykiai pridėti</item>
+    </plurals>
+</resources>

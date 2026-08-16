@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: de (German)
+ * Region: AT (Austria)
+ *********************************************************************
+--><calendar language="de" region="AT" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Neujahr</holiday>
+        <!--[Epiphany] - [epiphany]-->
+        <holiday endDate="2017-01-06" startDate="2017-01-06" workingday="false">Heilige Drei Könige</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">Ostermontag</holiday>
+        <!--[Labour Day (Staatsfeiertag)] - [labor_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Tag der Arbeit</holiday>
+        <!--[Ascension Day] - [ascension_day]-->
+        <holiday endDate="2017-05-25" startDate="2017-05-25" workingday="false">Christi Himmelfahrt</holiday>
+        <!--[Whit Monday] - [whit_monday]-->
+        <holiday endDate="2017-06-05" startDate="2017-06-05" workingday="false">Pfingstmontag</holiday>
+        <!--[Corpus Christi Day] - [corpus_christi]-->
+        <holiday endDate="2017-06-15" startDate="2017-06-15" workingday="false">Fronleichnam</holiday>
+        <!--[Assumption Day] - [assumption_day]-->
+        <holiday endDate="2017-08-15" startDate="2017-08-15" workingday="false">Mariä Himmelfahrt</holiday>
+        <!--[National Day] - [national_day]-->
+        <holiday endDate="2017-10-26" startDate="2017-10-26" workingday="false">Nationalfeiertag</holiday>
+        <!--[All Saints' Day] - [all_saints__day]-->
+        <holiday endDate="2017-11-01" startDate="2017-11-01" workingday="false">Allerheiligen</holiday>
+        <!--[Immaculate Conception Day] - [immaculate_conception]-->
+        <holiday endDate="2017-12-08" startDate="2017-12-08" workingday="false">Mariä Empfängnis</holiday>
+        <!--[Christmas Day (Christtag)] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">1. Weihnachtsfeiertag</holiday>
+        <!--[Saint Stephen's Day (Stefanitag)] - [saint_stephen_s_day__stefanitag_]-->
+        <holiday endDate="2017-12-26" startDate="2017-12-26" workingday="false">Stefanitag</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Neujahr</holiday>
+        <!--[Epiphany] - [epiphany]-->
+        <holiday endDate="2016-01-06" startDate="2016-01-06" workingday="false">Heilige Drei Könige</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2016-03-28" startDate="2016-03-28" workingday="false">Ostermontag</holiday>
+        <!--[Labour Day (Staatsfeiertag)] - [labor_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Tag der Arbeit</holiday>
+        <!--[Ascension Day] - [ascension_day]-->
+        <holiday endDate="2016-05-05" startDate="2016-05-05" workingday="false">Christi Himmelfahrt</holiday>
+        <!--[Whit Monday] - [whit_monday]-->
+        <holiday endDate="2016-05-16" startDate="2016-05-16" workingday="false">Pfingstmontag</holiday>
+        <!--[Corpus Christi Day] - [corpus_christi]-->
+        <holiday endDate="2016-05-26" startDate="2016-05-26" workingday="false">Fronleichnam</holiday>
+        <!--[Assumption Day] - [assumption_day]-->
+        <holiday endDate="2016-08-15" startDate="2016-08-15" workingday="false">Mariä Himmelfahrt</holiday>
+        <!--[National Day] - [national_day]-->
+        <holiday endDate="2016-10-26" startDate="2016-10-26" workingday="false">Nationalfeiertag</holiday>
+        <!--[All Saints' Day] - [all_saints__day]-->
+        <holiday endDate="2016-11-01" startDate="2016-11-01" workingday="false">Allerheiligen</holiday>
+        <!--[Immaculate Conception Day] - [immaculate_conception]-->
+        <holiday endDate="2016-12-08" startDate="2016-12-08" workingday="false">Mariä Empfängnis</holiday>
+        <!--[Christmas Day (Christtag)] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">1. Weihnachtsfeiertag</holiday>
+        <!--[Saint Stephen's Day (Stefanitag)] - [saint_stephen_s_day__stefanitag_]-->
+        <holiday endDate="2016-12-26" startDate="2016-12-26" workingday="false">Stefanitag</holiday>
+    </holidays>
+</calendar>
+

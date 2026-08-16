@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 päev</item>
+        <item quantity="other">%d päeva</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 sündmus</item>
+        <item quantity="other">%d sündmust</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 tund</item>
+        <item quantity="other">%d tundi</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 min</item>
+        <item quantity="other">%d min</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 minut</item>
+        <item quantity="other">%d minutit</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">kraadi</item>
+        <item quantity="other">kraadi</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d-aastane</item>
+        <item quantity="other">%d-aastane</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 ülesanne</item>
+        <item quantity="other">%d ülesannet</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">sündmus</item>
+        <item quantity="other">sündmust</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">Sündmus on lisatud</item>
+        <item quantity="other">Sündmused on lisatud</item>
+    </plurals>
+</resources>

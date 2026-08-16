@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: en (unknown)
+ * Region: GB (United Kingdom)
+ *********************************************************************
+--><calendar language="us" region="GB" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day (celebration)] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">New Year's Day</holiday>
+        <!--[New Year's Day (day in lieu)] - [new_year_s_day]-->
+        <holiday endDate="2017-01-02" startDate="2017-01-02" workingday="false">New Year's Day</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2017-04-14" startDate="2017-04-14" workingday="false">Good Friday</holiday>
+        <!--[Easter Monday (except Scotland)] - [easter_monday]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">Easter Monday</holiday>
+        <!--[May Day Bank Holiday] - [may_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">May Day</holiday>
+        <!--[Spring Bank Holiday] - [spring_bank_holiday]-->
+        <holiday endDate="2017-05-29" startDate="2017-05-29" workingday="false">Spring Bank Holiday</holiday>
+        <!--[Summer Bank Holiday (except Scotland)] - [summer_bank_holiday__except_scotland_]-->
+        <holiday endDate="2017-08-28" startDate="2017-08-28" workingday="false">Summer Bank Holiday (except Scotland)</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Christmas Day</holiday>
+        <!--[Boxing Day] - [boxing_day]-->
+        <holiday endDate="2017-12-26" startDate="2017-12-26" workingday="false">Boxing Day</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">New Year's Day</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2016-03-25" startDate="2016-03-25" workingday="false">Good Friday</holiday>
+        <!--[Easter Monday (except Scotland)] - [easter_monday]-->
+        <holiday endDate="2016-03-28" startDate="2016-03-28" workingday="false">Easter Monday</holiday>
+        <!--[May Day Bank Holiday] - [may_day]-->
+        <holiday endDate="2016-05-02" startDate="2016-05-02" workingday="false">May Day</holiday>
+        <!--[Spring Bank Holiday] - [spring_bank_holiday]-->
+        <holiday endDate="2016-05-30" startDate="2016-05-30" workingday="false">Spring Bank Holiday</holiday>
+        <!--[Summer Bank Holiday (except Scotland)] - [summer_bank_holiday__except_scotland_]-->
+        <holiday endDate="2016-08-29" startDate="2016-08-29" workingday="false">Summer Bank Holiday (except Scotland)</holiday>
+        <!--[Christmas Day (celebration)] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Christmas Day</holiday>
+        <!--[Boxing Day] - [boxing_day]-->
+        <holiday endDate="2016-12-26" startDate="2016-12-26" workingday="false">Boxing Day</holiday>
+        <!--[Christmas Day (day in lieu)] - [christmas_day]-->
+        <holiday endDate="2016-12-27" startDate="2016-12-27" workingday="false">Christmas Day</holiday>
+    </holidays>
+</calendar>
+

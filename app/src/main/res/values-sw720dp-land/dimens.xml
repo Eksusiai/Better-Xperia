@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="action_bar_elevation">0dp</dimen>
+    <dimen name="agenda_alarm_title_padding_start">10dp</dimen>
+    <dimen name="agenda_month_divider_day_margin_start">0dp</dimen>
+    <dimen name="agenda_month_divider_day_margin_top">0dp</dimen>
+    <dimen name="agenda_month_divider_day_text_size">22sp</dimen>
+    <dimen name="agenda_month_divider_top_margin">10dp</dimen>
+    <dimen name="agenda_view_alarm_title_padding_start">36dp</dimen>
+    <dimen name="calendar_view_width">960dp</dimen>
+    <dimen name="conflict_view_alarm_padding_start">170dp</dimen>
+    <dimen name="navigation_view_column_height">90dp</dimen>
+    <dimen name="snap_month_height">192dp</dimen>
+    <dimen name="snap_month_margin_top">10dp</dimen>
+    <dimen name="time_label_right_padding">16sp</dimen>
+    <dimen name="time_label_size">64sp</dimen>
+</resources>

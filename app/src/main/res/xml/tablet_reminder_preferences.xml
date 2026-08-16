@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference
+        android:title="@string/preferences_alerts_title"
+        android:key="preferences_alerts"
+        android:defaultValue="true"/>
+    <PreferenceScreen
+        android:title="@string/quick_response_settings"
+        android:key="preferences_quick_responses"
+        android:summary="@string/quick_response_settings_summary"
+        android:fragment="com.sonymobile.calendar.QuickResponseSettings"/>
+</PreferenceScreen>

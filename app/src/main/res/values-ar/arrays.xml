@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="accepted_items">
+        <item>تم القبول</item>
+        <item>مؤقتًا</item>
+        <item>تم الرفض</item>
+    </array>
+    <array name="accessibility_event_color_picker_colors">
+        <item>أصفر</item>
+        <item>برتقالي</item>
+        <item>أحمر</item>
+        <item>تدرج نبيتي</item>
+        <item>قرنفلي</item>
+        <item>أرجواني</item>
+        <item>بني</item>
+        <item>أخضر فاتح</item>
+        <item>أخضر</item>
+        <item>فيروزي</item>
+        <item>أزرق فاتح</item>
+        <item>أزرق</item>
+    </array>
+    <array name="availability">
+        <item>مشغول</item>
+        <item>متوفر</item>
+        <item>مبدئي</item>
+    </array>
+    <array name="change_response_labels">
+        <item>هذا النموذج فقط</item>
+        <item>كل الأحداث بالسلسلة</item>
+    </array>
+    <array name="month_view_day_labels">
+        <item>إ</item>
+        <item>ث</item>
+        <item>ر</item>
+        <item>خ</item>
+        <item>ج</item>
+        <item>س</item>
+        <item>ح</item>
+    </array>
+    <array name="ordinal_labels">
+        <item>أول</item>
+        <item>ثاني</item>
+        <item>ثالث</item>
+        <item>رابع</item>
+        <item>آخر</item>
+    </array>
+    <array name="prefEntries_alerts_vibrateWhen">
+        <item>دائما</item>
+        <item>في وضع عدم الإزعاج فقط</item>
+        <item>مطلقا</item>
+    </array>
+    <array name="preferences_alert_type_labels">
+        <item>تنبيه</item>
+        <item>إشعار شريط الحالة</item>
+        <item>إيقاف تشغيل</item>
+    </array>
+    <array name="preferences_default_reminder_labels">
+        <item>بلا</item>
+        <item>5 دقائق</item>
+        <item>10 دقائق</item>
+        <item>15 دقيقة</item>
+        <item>20 دقيقة</item>
+        <item>25 دقيقة</item>
+        <item>30 دقيقة</item>
+        <item>45 دقيقة</item>
+        <item>ساعة واحدة</item>
+        <item>ساعتان</item>
+        <item>3 ساعات</item>
+        <item>12 ساعة</item>
+        <item>24 ساعة</item>
+        <item>يومان</item>
+        <item>أسبوع 1</item>
+    </array>
+    <array name="preferences_week_days_labels">
+        <item>أيام العمل فقط</item>
+        <item>7 أيام</item>
+    </array>
+    <array name="quick_response_defaults">
+        <item> سوف أتأخر دقيقتين.</item>
+        <item>سوف أكون هناك في غضون 10 دقائق.</item>
+        <item>ابدأوا بدوني.</item>
+        <item>معذرة، لا يمكنني الوصول. سنحتاج لإعادة الجدولة.</item>
+    </array>
+    <array name="reminder_minutes_labels">
+        <item>5 دقائق</item>
+        <item>10 دقائق</item>
+        <item>15 دقيقة</item>
+        <item>20 دقيقة</item>
+        <item>25 دقيقة</item>
+        <item>30 دقائق</item>
+        <item>45 دقيقة</item>
+        <item>ساعة واحدة</item>
+        <item>ساعتان</item>
+        <item>3 ساعات</item>
+        <item>12 ساعة</item>
+        <item>24 ساعة</item>
+        <item>يومان</item>
+        <item>أسبوع 1</item>
+    </array>
+    <array name="repeats_pattern">
+        <item>يوميًا</item>
+        <item>أسبوعيا</item>
+        <item>شهريًا</item>
+        <item>سنويًا</item>
+    </array>
+    <array name="repeats_weekdays_no">
+        <item>الأول</item>
+        <item>الثاني</item>
+        <item>الثالث</item>
+        <item>الرابع</item>
+        <item>الخامس</item>
+    </array>
+    <array name="reply_items">
+        <item>رد</item>
+        <item>الرد على الكل</item>
+        <item>إعادة توجيه</item>
+    </array>
+    <array name="response_labels1">
+        <item>(لا توجد استجابة)</item>
+        <item>نعم</item>
+        <item>محتمل</item>
+        <item>لا</item>
+    </array>
+    <array name="response_labels2">
+        <item>نعم</item>
+        <item>محتمل</item>
+        <item>لا</item>
+    </array>
+    <array name="timezone_labels">
+        <item>جزر مارشال</item>
+        <item>جزيرة ميدواي</item>
+        <item>هاواي</item>
+        <item>ألاسكا</item>
+        <item>توقيت الباسيفيك</item>
+        <item>تيجوانا</item>
+        <item>أريزونا</item>
+        <item>شيهوها</item>
+        <item>توقيت الجبل</item>
+        <item>أمريكا الوسطى</item>
+        <item>التوقيت المركزي</item>
+        <item>مكسيكو سيتي</item>
+        <item>ساسكاتشوان</item>
+        <item>بوجوتا</item>
+        <item>التوقيت الشرقي</item>
+        <item>فنزويلا</item>
+        <item>توقيت الأطلنطي</item>
+        <item>ماناوس</item>
+        <item>سانتياجو</item>
+        <item>نيوفاوندلاند</item>
+        <item>برازيليا</item>
+        <item>بوينس آيرس</item>
+        <item>جرينلاند</item>
+        <item>مونتفيديو</item>
+        <item>وسط المحيط الأطلنطي</item>
+        <item>آزور</item>
+        <item>جزر الرأس الأخضر</item>
+        <item>الدار البيضاء</item>
+        <item>لندن، دبلن</item>
+        <item>أمستردام, برلين</item>
+        <item>بلجراد</item>
+        <item>بروكسل</item>
+        <item>سراييفو</item>
+        <item>ويندهويك</item>
+        <item>توقيت غرب أفريقيا</item>
+        <item>عمان، الأردن</item>
+        <item>أثينا، إسطنبول</item>
+        <item>بيروت، لبنان</item>
+        <item>القاهرة</item>
+        <item>هلسنكي</item>
+        <item>القدس</item>
+        <item>مينسك</item>
+        <item>هراري</item>
+        <item>بغداد</item>
+        <item>موسكو</item>
+        <item>الكويت</item>
+        <item>نيروبي</item>
+        <item>طهران</item>
+        <item>باكو</item>
+        <item>تابليسي</item>
+        <item>يريفان</item>
+        <item>دبي</item>
+        <item>كابول</item>
+        <item>إسلام أباد، كراتش</item>
+        <item>أورالسك</item>
+        <item>يكاتنبرج</item>
+        <item>كالكتا</item>
+        <item>سريلانكا</item>
+        <item>كاثماندو</item>
+        <item>أستانا</item>
+        <item>يانجون</item>
+        <item>كراسنويارسك</item>
+        <item>بانكوك</item>
+        <item>بكين</item>
+        <item>هونج كونج</item>
+        <item>إيركوتسك</item>
+        <item>كوالالمبور</item>
+        <item>بيرث</item>
+        <item>تايبيه</item>
+        <item>سيول</item>
+        <item>طوكيو، أوساكا</item>
+        <item>ياكوتسك</item>
+        <item>أديليد</item>
+        <item>داروين</item>
+        <item>بريسبان</item>
+        <item>هوبارت</item>
+        <item>سيدني، كنبرا</item>
+        <item>فلاديفوستوك</item>
+        <item>جوام</item>
+        <item>ماجادان</item>
+        <item>أوكلاند</item>
+        <item>فيجي</item>
+        <item>تونجا</item>
+    </array>
+    <array name="visibility">
+        <item>الافتراضي</item>
+        <item>خاص</item>
+        <item>عام</item>
+    </array>
+</resources>

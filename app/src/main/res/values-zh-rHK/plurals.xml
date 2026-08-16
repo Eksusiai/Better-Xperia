@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1天</item>
+        <item quantity="other">%d天</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1個活動</item>
+        <item quantity="other">%d個活動</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1小時</item>
+        <item quantity="other">%d小時</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1分鐘</item>
+        <item quantity="other">%d分鐘</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1分鐘</item>
+        <item quantity="other">%d分鐘</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">度</item>
+        <item quantity="other">度</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d歲</item>
+        <item quantity="other">%d歲</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1個工作</item>
+        <item quantity="other">%d個工作</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">活動</item>
+        <item quantity="other">活動</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">已新增活動</item>
+        <item quantity="other">已新增活動</item>
+    </plurals>
+</resources>

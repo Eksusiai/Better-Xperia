@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: zh (Chinese)
+ * Region: CN (China)
+ *********************************************************************
+--><calendar language="zh" region="CN" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">新年</holiday>
+        <!--[Spring Festival (Chinese New Year's Eve)] - [spring_festival__chinese_new_year_s_eve_]-->
+        <holiday endDate="2017-01-27" startDate="2017-01-27" workingday="false">除夕</holiday>
+        <!--[Spring Festival (Chinese New Year)] - [spring_festival__chinese_new_year_]-->
+        <holiday endDate="2017-01-28" startDate="2017-01-28" workingday="false">春节</holiday>
+        <!--[Spring Festival] - [spring_festival]-->
+        <holiday endDate="2017-01-29" startDate="2017-01-29" workingday="false">春节</holiday>
+        <!--[Spring Festival] - [spring_festival]-->
+        <holiday endDate="2017-01-30" startDate="2017-01-30" workingday="false">春节</holiday>
+        <!--[Spring Festival] - [spring_festival]-->
+        <holiday endDate="2017-01-31" startDate="2017-01-31" workingday="false">春节</holiday>
+        <!--[Spring Festival] - [spring_festival]-->
+        <holiday endDate="2017-02-01" startDate="2017-02-01" workingday="false">春节</holiday>
+        <!--[Spring Festival] - [spring_festival]-->
+        <holiday endDate="2017-02-02" startDate="2017-02-02" workingday="false">春节</holiday>
+        <!--[Tomb Sweeping Day (Qing Ming Jie)] - [tomb_sweeping_day__qing_ming_jie_]-->
+        <holiday endDate="2017-04-04" startDate="2017-04-04" workingday="false">清明节</holiday>
+        <!--[Labour Day] - [labor_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">劳动节</holiday>
+        <!--[Dragon Boat Festival (Duan Wu Jie)] - [dragon_boat_festival__duan_wu_jie_]-->
+        <holiday endDate="2017-05-30" startDate="2017-05-30" workingday="false">端午节</holiday>
+        <!--[National Day (Guoqing Jie)] - [national_day__guoqing_jie_]-->
+        <holiday endDate="2017-10-01" startDate="2017-10-01" workingday="false">国庆节</holiday>
+        <!--[National Day Holiday] - [national_day_holiday]-->
+        <holiday endDate="2017-10-02" startDate="2017-10-02" workingday="false">国庆假期</holiday>
+        <!--[National Day Holiday] - [national_day_holiday]-->
+        <holiday endDate="2017-10-03" startDate="2017-10-03" workingday="false">国庆假期</holiday>
+        <!--[Mid-Autumn Festival (Zhongqiu Jie)] - [mid_autumn_festival__zhongqiu_jie_]-->
+        <holiday endDate="2017-10-04" startDate="2017-10-04" workingday="false">中秋节</holiday>
+        <!--[National Day Holiday] - [national_day_holiday]-->
+        <holiday endDate="2017-10-04" startDate="2017-10-04" workingday="false">国庆假期</holiday>
+        <!--[National Day Holiday] - [national_day_holiday]-->
+        <holiday endDate="2017-10-05" startDate="2017-10-05" workingday="false">国庆假期</holiday>
+        <!--[National Day Holiday] - [national_day_holiday]-->
+        <holiday endDate="2017-10-06" startDate="2017-10-06" workingday="false">国庆假期</holiday>
+        <!--[National Day Holiday] - [national_day_holiday]-->
+        <holiday endDate="2017-10-07" startDate="2017-10-07" workingday="false">国庆假期</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">新年</holiday>
+        <!--[New Year Holiday] - [new_year_holiday]-->
+        <holiday endDate="2016-01-02" startDate="2016-01-02" workingday="false">元旦假期</holiday>
+        <!--[New Year Holiday] - [new_year_holiday]-->
+        <holiday endDate="2016-01-03" startDate="2016-01-03" workingday="false">元旦假期</holiday>
+        <!--[Spring Festival (Chinese New Year's Eve)] - [spring_festival__chinese_new_year_s_eve_]-->
+        <holiday endDate="2016-02-07" startDate="2016-02-07" workingday="false">除夕</holiday>
+        <!--[Spring Festival (Chinese New Year)] - [spring_festival__chinese_new_year_]-->
+        <holiday endDate="2016-02-08" startDate="2016-02-08" workingday="false">春节</holiday>
+        <!--[Spring Festival] - [spring_festival]-->
+        <holiday endDate="2016-02-09" startDate="2016-02-09" workingday="false">春节</holiday>
+        <!--[Spring Festival] - [spring_festival]-->
+        <holiday endDate="2016-02-10" startDate="2016-02-10" workingday="false">春节</holiday>
+        <!--[Spring Festival (workday moved to Sat. Feb. 6)] - [spring_festival]-->
+        <holiday endDate="2016-02-11" startDate="2016-02-11" workingday="false">春节</holiday>
+        <!--[Spring Festival (workday moved to Sun. Feb. 14)] - [spring_festival]-->
+        <holiday endDate="2016-02-12" startDate="2016-02-12" workingday="false">春节</holiday>
+        <!--[Spring Festival] - [spring_festival]-->
+        <holiday endDate="2016-02-13" startDate="2016-02-13" workingday="false">春节</holiday>
+        <!--[Tomb Sweeping Day Holiday] - [tomb_sweeping_day_holiday]-->
+        <holiday endDate="2016-04-02" startDate="2016-04-02" workingday="false">清明节假期</holiday>
+        <!--[Tomb Sweeping Day Holiday] - [tomb_sweeping_day_holiday]-->
+        <holiday endDate="2016-04-03" startDate="2016-04-03" workingday="false">清明节假期</holiday>
+        <!--[Tomb Sweeping Day (Qing Ming Jie)] - [tomb_sweeping_day__qing_ming_jie_]-->
+        <holiday endDate="2016-04-04" startDate="2016-04-04" workingday="false">清明节</holiday>
+        <!--[Labour Day Holiday] - [labor_day]-->
+        <holiday endDate="2016-04-30" startDate="2016-04-30" workingday="false">劳动节</holiday>
+        <!--[Labour Day] - [labor_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">劳动节</holiday>
+        <!--[Labour Day Holiday] - [labor_day]-->
+        <holiday endDate="2016-05-02" startDate="2016-05-02" workingday="false">劳动节</holiday>
+        <!--[Dragon Boat Festival (Duan Wu Jie)] - [dragon_boat_festival__duan_wu_jie_]-->
+        <holiday endDate="2016-06-09" startDate="2016-06-09" workingday="false">端午节</holiday>
+        <!--[Dragon Boat Festival Holiday (workday moved to Sun. Jun. 12)] - [dragon_boat_festival_holiday__workday_moved_to_sun__jun__12_]-->
+        <holiday endDate="2016-06-10" startDate="2016-06-10" workingday="false">端午节（6月12日，星期日上班）</holiday>
+        <!--[Dragon Boat Festival Holiday] - [dragon_boat_festival_holiday]-->
+        <holiday endDate="2016-06-11" startDate="2016-06-11" workingday="false">端午节</holiday>
+        <!--[Mid-Autumn Festival (Zhongqiu Jie)] - [mid_autumn_festival__zhongqiu_jie_]-->
+        <holiday endDate="2016-09-15" startDate="2016-09-15" workingday="false">中秋节</holiday>
+        <!--[Mid-Autumn Festival Holiday (workday moved to Sun. Sep. 18)] - [mid_autumn_festival_holiday__workday_moved_to_sun__sep__18_]-->
+        <holiday endDate="2016-09-16" startDate="2016-09-16" workingday="false">中秋节（9月18日，星期日上班）</holiday>
+        <!--[Mid-Autumn Festival Holiday] - [mid_autumn_festival_holiday]-->
+        <holiday endDate="2016-09-17" startDate="2016-09-17" workingday="false">中秋节</holiday>
+        <!--[National Day (Guoqing Jie)] - [national_day__guoqing_jie_]-->
+        <holiday endDate="2016-10-01" startDate="2016-10-01" workingday="false">国庆节</holiday>
+        <!--[National Day Holiday] - [national_day_holiday]-->
+        <holiday endDate="2016-10-02" startDate="2016-10-02" workingday="false">国庆假期</holiday>
+        <!--[National Day Holiday] - [national_day_holiday]-->
+        <holiday endDate="2016-10-03" startDate="2016-10-03" workingday="false">国庆假期</holiday>
+        <!--[National Day Holiday] - [national_day_holiday]-->
+        <holiday endDate="2016-10-04" startDate="2016-10-04" workingday="false">国庆假期</holiday>
+        <!--[National Day Holiday] - [national_day_holiday]-->
+        <holiday endDate="2016-10-05" startDate="2016-10-05" workingday="false">国庆假期</holiday>
+        <!--[National Day Holiday (workday moved to Sat. Oct. 8)] - [national_day_holiday__workday_moved_to_sat__oct__8_]-->
+        <holiday endDate="2016-10-06" startDate="2016-10-06" workingday="false">国庆节（10月8日，星期六上班）</holiday>
+        <!--[National Day Holiday (workday moved to Sun. Oct. 9)] - [national_day_holiday__workday_moved_to_sun__oct__9_]-->
+        <holiday endDate="2016-10-07" startDate="2016-10-07" workingday="false">国庆节（10月9日，星期日上班）</holiday>
+    </holidays>
+</calendar>
+

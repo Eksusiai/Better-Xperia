@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<account-authenticator xmlns:android="http://schemas.android.com/apk/res/android"
+    android:label="@string/localcalendar_strings_calendar_contact_txt"
+    android:icon="@mipmap/app_icon"
+    android:accountType="com.sonyericsson.localcalendar"
+    android:smallIcon="@mipmap/app_icon"/>

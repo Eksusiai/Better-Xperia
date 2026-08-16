@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:orientation="vertical"
+        android:id="@+id/header_badge"
+        android:layout_width="40dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="15dp">
+        <ImageView
+            android:layout_gravity="center"
+            android:id="@+id/birthdayHeaderIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            android:layout_marginBottom="6dp"
+            android:src="@drawable/ic_birthday_w"/>
+    </LinearLayout>
+    <TextView
+        android:id="@+id/header_dayText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textAllCaps="true"
+        android:textAlignment="viewStart"
+        android:layout_marginStart="10dp"
+        style="@style/Birthday_DayHeader"/>
+</LinearLayout>

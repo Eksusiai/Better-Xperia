@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: es (Spanish; Castilian)
+ * Region: DO (Dominican Republic)
+ *********************************************************************
+--><calendar language="es" region="DO" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Día de Año nuevo</holiday>
+        <!--[Epiphany Holiday (may be moved back to Jan. 6)] - [epiphany]-->
+        <holiday endDate="2017-01-09" startDate="2017-01-09" workingday="false">Epifanía</holiday>
+        <!--[Lady of Altagracia Day] - [lady_of_altagracia_day]-->
+        <holiday endDate="2017-01-21" startDate="2017-01-21" workingday="false">Día de Nuestra Señora de Altagracia</holiday>
+        <!--[Juan Pablo Duarte Day Holiday] - [juan_pablo_duarte_day_holiday]-->
+        <holiday endDate="2017-01-30" startDate="2017-01-30" workingday="false">Feriado de Juan Pablo Duarte</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2017-02-27" startDate="2017-02-27" workingday="false">Día de la independencia</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2017-04-14" startDate="2017-04-14" workingday="false">Viernes Santo</holiday>
+        <!--[Labor Day] - [labor_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Día del trabajador</holiday>
+        <!--[Corpus Christi] - [corpus_christi]-->
+        <holiday endDate="2017-06-15" startDate="2017-06-15" workingday="false">Día de Corpus Christi</holiday>
+        <!--[Restoration Day] - [restoration_day]-->
+        <holiday endDate="2017-08-16" startDate="2017-08-16" workingday="false">Día de la Restauración</holiday>
+        <!--[Lady of Mercedes Day] - [lady_of_mercedes_day]-->
+        <holiday endDate="2017-09-24" startDate="2017-09-24" workingday="false">Día de Nuestra Señora de las Mercedes</holiday>
+        <!--[Constitution Day] - [constitution_day]-->
+        <holiday endDate="2017-11-06" startDate="2017-11-06" workingday="false">Día de la Constitución</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Día de Navidad</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Día de Año nuevo</holiday>
+        <!--[Epiphany Holiday] - [epiphany]-->
+        <holiday endDate="2016-01-04" startDate="2016-01-04" workingday="false">Epifanía</holiday>
+        <!--[Lady of Altagracia Day] - [lady_of_altagracia_day]-->
+        <holiday endDate="2016-01-21" startDate="2016-01-21" workingday="false">Día de Nuestra Señora de Altagracia</holiday>
+        <!--[Juan Pablo Duarte Day Holiday] - [juan_pablo_duarte_day_holiday]-->
+        <holiday endDate="2016-01-25" startDate="2016-01-25" workingday="false">Feriado de Juan Pablo Duarte</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2016-02-27" startDate="2016-02-27" workingday="false">Día de la independencia</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2016-03-25" startDate="2016-03-25" workingday="false">Viernes Santo</holiday>
+        <!--[Labor Day (celebration)] - [labor_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Día del trabajador</holiday>
+        <!--[Labor Day Holiday (day in lieu)] - [labor_day]-->
+        <holiday endDate="2016-05-02" startDate="2016-05-02" workingday="false">Día del trabajador</holiday>
+        <!--[Corpus Christi] - [corpus_christi]-->
+        <holiday endDate="2016-05-26" startDate="2016-05-26" workingday="false">Día de Corpus Christi</holiday>
+        <!--[Restoration Day] - [restoration_day]-->
+        <holiday endDate="2016-08-16" startDate="2016-08-16" workingday="false">Día de la Restauración</holiday>
+        <!--[Lady of Mercedes Day] - [lady_of_mercedes_day]-->
+        <holiday endDate="2016-09-24" startDate="2016-09-24" workingday="false">Día de Nuestra Señora de las Mercedes</holiday>
+        <!--[Constitution Day] - [constitution_day]-->
+        <holiday endDate="2016-11-06" startDate="2016-11-06" workingday="false">Día de la Constitución</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Día de Navidad</holiday>
+    </holidays>
+</calendar>
+

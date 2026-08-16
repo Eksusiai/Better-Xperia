@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: vi (Vietnamese)
+ * Region: VN (Viet Nam)
+ *********************************************************************
+--><calendar language="vi" region="VN" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day (celebration)] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Ngày Tết</holiday>
+        <!--[New Year Holiday (day in lieu)] - [new_year_holiday__day_in_lieu_]-->
+        <holiday endDate="2017-01-02" startDate="2017-01-02" workingday="false">Ngày lễ năm mới (nghỉ bù)</holiday>
+        <!--[Tet Eve (Vietnamese New Year's Eve)] - [tet_eve__vietnamese_new_year_s_eve_]-->
+        <holiday endDate="2017-01-27" startDate="2017-01-27" workingday="false">Đêm Giao thừa</holiday>
+        <!--[Tet Nguyen Dan (Vietnamese New Year)] - [tet_nguyen_dan__vietnamese_new_year_]-->
+        <holiday endDate="2017-01-28" startDate="2017-01-28" workingday="false">Tết Nguyên Đán</holiday>
+        <!--[Tet Holiday] - [tet_holiday]-->
+        <holiday endDate="2017-01-29" startDate="2017-01-29" workingday="false">Nghỉ Tết</holiday>
+        <!--[Tet Holiday] - [tet_holiday]-->
+        <holiday endDate="2017-01-30" startDate="2017-01-30" workingday="false">Nghỉ Tết</holiday>
+        <!--[Tet Holiday] - [tet_holiday]-->
+        <holiday endDate="2017-01-31" startDate="2017-01-31" workingday="false">Nghỉ Tết</holiday>
+        <!--[Tet Holiday] - [tet_holiday]-->
+        <holiday endDate="2017-02-01" startDate="2017-02-01" workingday="false">Nghỉ Tết</holiday>
+        <!--[Tet Holiday] - [tet_holiday]-->
+        <holiday endDate="2017-02-02" startDate="2017-02-02" workingday="false">Nghỉ Tết</holiday>
+        <!--[Gio to Hung Vuong Day] - [gio_to_hung_vuong_day]-->
+        <holiday endDate="2017-04-06" startDate="2017-04-06" workingday="false">Ngày Giỗ tổ Hùng Vương</holiday>
+        <!--[Liberation/Reunification Day (celebration)] - [liberation_reunification_day__celebration_]-->
+        <holiday endDate="2017-04-30" startDate="2017-04-30" workingday="false">Ngày Giải phóng/Thống nhất đất nước (kỷ niệm)</holiday>
+        <!--[International Labour Day] - [international_labour_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Ngày Quốc tế Lao động</holiday>
+        <!--[Liberation/Reunification Day Holiday (day in lieu)] - [liberation_reunification_day_holiday__day_in_lieu_]-->
+        <holiday endDate="2017-05-02" startDate="2017-05-02" workingday="false">Ngày Giải phóng/Thống nhất đất nước (ngày thay thế)</holiday>
+        <!--[National Day (celebration)] - [national_day__celebration_]-->
+        <holiday endDate="2017-09-02" startDate="2017-09-02" workingday="false">Ngày Quốc Khánh (kỉ niệm)</holiday>
+        <!--[National Day Holiday (day in lieu)] - [national_day_holiday__day_in_lieu_]-->
+        <holiday endDate="2017-09-04" startDate="2017-09-04" workingday="false">Lễ Quốc Khánh (nghỉ bù)</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Ngày Tết</holiday>
+        <!--[Tet Holiday] - [tet_holiday]-->
+        <holiday endDate="2016-02-06" startDate="2016-02-06" workingday="false">Nghỉ Tết</holiday>
+        <!--[Tet Eve (Vietnamese New Year's Eve)] - [tet_eve__vietnamese_new_year_s_eve_]-->
+        <holiday endDate="2016-02-07" startDate="2016-02-07" workingday="false">Đêm Giao thừa</holiday>
+        <!--[Tet Nguyen Dan (Vietnamese New Year)] - [tet_nguyen_dan__vietnamese_new_year_]-->
+        <holiday endDate="2016-02-08" startDate="2016-02-08" workingday="false">Tết Nguyên Đán</holiday>
+        <!--[Tet Holiday] - [tet_holiday]-->
+        <holiday endDate="2016-02-09" startDate="2016-02-09" workingday="false">Nghỉ Tết</holiday>
+        <!--[Tet Holiday] - [tet_holiday]-->
+        <holiday endDate="2016-02-10" startDate="2016-02-10" workingday="false">Nghỉ Tết</holiday>
+        <!--[Tet Holiday] - [tet_holiday]-->
+        <holiday endDate="2016-02-11" startDate="2016-02-11" workingday="false">Nghỉ Tết</holiday>
+        <!--[Tet Holiday] - [tet_holiday]-->
+        <holiday endDate="2016-02-12" startDate="2016-02-12" workingday="false">Nghỉ Tết</holiday>
+        <!--[Tet Holiday] - [tet_holiday]-->
+        <holiday endDate="2016-02-13" startDate="2016-02-13" workingday="false">Nghỉ Tết</holiday>
+        <!--[Tet Holiday] - [tet_holiday]-->
+        <holiday endDate="2016-02-14" startDate="2016-02-14" workingday="false">Nghỉ Tết</holiday>
+        <!--[Gio to Hung Vuong Day (celebration)] - [gio_to_hung_vuong_day__celebration_]-->
+        <holiday endDate="2016-04-16" startDate="2016-04-16" workingday="false">Giỗ tổ Hùng Vương (kỷ niệm)</holiday>
+        <!--[Gio to Hung Vuong Holiday (day in lieu)] - [gio_to_hung_vuong_holiday__day_in_lieu_]-->
+        <holiday endDate="2016-04-18" startDate="2016-04-18" workingday="false">Giỗ tổ Hùng Vương (ngày thay thế)</holiday>
+        <!--[Liberation/Reunification Day (celebration)] - [liberation_reunification_day__celebration_]-->
+        <holiday endDate="2016-04-30" startDate="2016-04-30" workingday="false">Ngày Giải phóng/Thống nhất đất nước (kỷ niệm)</holiday>
+        <!--[International Labour Day (celebration)] - [international_labour_day__celebration_]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Ngày Quốc tế Lao động (kỷ niệm)</holiday>
+        <!--[Liberation/Reunification Day Holiday (day in lieu)] - [liberation_reunification_day_holiday__day_in_lieu_]-->
+        <holiday endDate="2016-05-02" startDate="2016-05-02" workingday="false">Ngày Giải phóng/Thống nhất đất nước (ngày thay thế)</holiday>
+        <!--[International Labour Day Holiday (day in lieu)] - [international_labour_day_holiday__day_in_lieu_]-->
+        <holiday endDate="2016-05-03" startDate="2016-05-03" workingday="false">Ngày Quốc tế Lao động (ngày thay thế)</holiday>
+        <!--[National Day] - [national_day]-->
+        <holiday endDate="2016-09-02" startDate="2016-09-02" workingday="false">Ngày Quốc khánh</holiday>
+    </holidays>
+</calendar>
+

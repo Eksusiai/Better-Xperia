@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 egun</item>
+        <item quantity="other">%d egun</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">Gertaera bat</item>
+        <item quantity="other">%d gertaera</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 ordu</item>
+        <item quantity="other">%d ordu</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 min</item>
+        <item quantity="other">%d min</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 minutu</item>
+        <item quantity="other">%d minutu</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">gradu</item>
+        <item quantity="other">gradu</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d urte</item>
+        <item quantity="other">%d urte</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 zeregin</item>
+        <item quantity="other">%d zeregin</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">gertaera</item>
+        <item quantity="other">gertaera</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">Gertaera gehitu da</item>
+        <item quantity="other">Gertaerak gehitu dira</item>
+    </plurals>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 יום</item>
+        <item quantity="other">%d ימים</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">אירוע 1</item>
+        <item quantity="other">%d אירועים</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">שעה אחת</item>
+        <item quantity="other">%d שעות</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 דקה</item>
+        <item quantity="other">%d דקות</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 דקה</item>
+        <item quantity="other">%d דקות</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">מעלה</item>
+        <item quantity="other">מעלות</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">בן/בת %d</item>
+        <item quantity="other">בן/בת %d</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">משימה אחת</item>
+        <item quantity="other">%d משימות</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">אירוע</item>
+        <item quantity="other">אירועים</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">האירוע נוסף</item>
+        <item quantity="other">האירועים נוספו</item>
+    </plurals>
+</resources>

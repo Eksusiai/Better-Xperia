@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="modify_all">Modifier tous les évènements de la série</string>
+    <string name="preferences_hide_declined_title">Masquer les événements refusés</string>
+</resources>

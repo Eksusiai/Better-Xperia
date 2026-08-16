@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: es (Spanish; Castilian)
+ * Region: BO (Bolivia, Plurinational State of)
+ *********************************************************************
+--><calendar language="es" region="BO" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day (celebration)] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Día de Año nuevo</holiday>
+        <!--[New Year Holiday (day in lieu)] - [new_year_holiday__day_in_lieu_]-->
+        <holiday endDate="2017-01-02" startDate="2017-01-02" workingday="false">Asueto por Año nuevo (en vez del día)</holiday>
+        <!--[Día de la Fundación del Estado Plurinacional de Bolivia (celebration)] - [d_a_de_la_fundaci_n_del_estado_plurinacional_de_bolivia__celebration_]-->
+        <holiday endDate="2017-01-22" startDate="2017-01-22" workingday="false">Día de la Fundación del Estado Plurinacional de Bolivia (celebración)</holiday>
+        <!--[Fundación del Estado Plurinacional Holiday (day in lieu)] - [fundaci_n_del_estado_plurinacional_holiday__day_in_lieu_]-->
+        <holiday endDate="2017-01-23" startDate="2017-01-23" workingday="false">Feriado de la Fundación del Estado Plurinacional (día libre)</holiday>
+        <!--[Carnaval] - [carnaval]-->
+        <holiday endDate="2017-02-27" startDate="2017-02-27" workingday="false">Carnaval</holiday>
+        <!--[Carnaval] - [carnaval]-->
+        <holiday endDate="2017-02-28" startDate="2017-02-28" workingday="false">Carnaval</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2017-04-14" startDate="2017-04-14" workingday="false">Viernes Santo</holiday>
+        <!--[Labor Day] - [labor_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Día del trabajador</holiday>
+        <!--[Corpus Christi] - [corpus_christi]-->
+        <holiday endDate="2017-06-15" startDate="2017-06-15" workingday="false">Día de Corpus Christi</holiday>
+        <!--[Solsticio de Invierno (Año Nuevo Aymara)] - [solsticio_de_invierno__a_o_nuevo_aymara_]-->
+        <holiday endDate="2017-06-21" startDate="2017-06-21" workingday="false">Solsticio de Invierno</holiday>
+        <!--[National Day (celebration)] - [national_day__celebration_]-->
+        <holiday endDate="2017-08-06" startDate="2017-08-06" workingday="false">Día nacional (celebración)</holiday>
+        <!--[All Souls' Day (Día de los Fieles Difuntos)] - [all_souls__day__d_a_de_los_fieles_difuntos_]-->
+        <holiday endDate="2017-11-02" startDate="2017-11-02" workingday="false">Día de Todos los Santos</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Día de Navidad</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Día de Año nuevo</holiday>
+        <!--[Día de la Fundación del Estado Plurinacional de Bolivia] - [d_a_de_la_fundaci_n_del_estado_plurinacional_de_bolivia]-->
+        <holiday endDate="2016-01-22" startDate="2016-01-22" workingday="false">Día de la Fundación del Estado Plurinacional de Bolivia</holiday>
+        <!--[Carnaval] - [carnaval]-->
+        <holiday endDate="2016-02-08" startDate="2016-02-08" workingday="false">Carnaval</holiday>
+        <!--[Carnaval] - [carnaval]-->
+        <holiday endDate="2016-02-09" startDate="2016-02-09" workingday="false">Carnaval</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2016-03-25" startDate="2016-03-25" workingday="false">Viernes Santo</holiday>
+        <!--[Labor Day] - [labor_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Día del trabajador</holiday>
+        <!--[Corpus Christi] - [corpus_christi]-->
+        <holiday endDate="2016-05-26" startDate="2016-05-26" workingday="false">Día de Corpus Christi</holiday>
+        <!--[Solsticio de Invierno (Año Nuevo Aymara)] - [solsticio_de_invierno__a_o_nuevo_aymara_]-->
+        <holiday endDate="2016-06-21" startDate="2016-06-21" workingday="false">Solsticio de Invierno</holiday>
+        <!--[National Day] - [national_day]-->
+        <holiday endDate="2016-08-06" startDate="2016-08-06" workingday="false">Día Nacional</holiday>
+        <!--[All Souls' Day (Día de los Fieles Difuntos)] - [all_souls__day__d_a_de_los_fieles_difuntos_]-->
+        <holiday endDate="2016-11-02" startDate="2016-11-02" workingday="false">Día de Todos los Santos</holiday>
+        <!--[Christmas Day (celebration)] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Día de Navidad</holiday>
+        <!--[Christmas Holiday (day in lieu)] - [christmas_holiday__day_in_lieu_]-->
+        <holiday endDate="2016-12-26" startDate="2016-12-26" workingday="false">Asueto por Navidad (en vez del día)</holiday>
+    </holidays>
+</calendar>
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 ngày</item>
+        <item quantity="other">%d ngày</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 sự kiện</item>
+        <item quantity="other">%d sự kiện</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 giờ</item>
+        <item quantity="other">%d giờ</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 phút</item>
+        <item quantity="other">%d phút</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 phút</item>
+        <item quantity="other">%d phút</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">độ</item>
+        <item quantity="other">độ</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d tuổi</item>
+        <item quantity="other">%d tuổi</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 tác vụ</item>
+        <item quantity="other">%d tác vụ</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">sự kiện</item>
+        <item quantity="other">sự kiện</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">Sự kiện đã được thêm</item>
+        <item quantity="other">Sự kiện đã được thêm</item>
+    </plurals>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 రోజు</item>
+        <item quantity="other">%d రోజులు</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 ఘటన</item>
+        <item quantity="other">%d ఘటనలు</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 గంట</item>
+        <item quantity="other">%d గంటలు</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 నిమిషం</item>
+        <item quantity="other">%d నిమిషాలు</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 నిమిషం</item>
+        <item quantity="other">%d నిమిషాలు</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">డిగ్రీ</item>
+        <item quantity="other">డిగ్రీలు</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d సంవత్సరాల వయస్సు</item>
+        <item quantity="other">%d సంవత్సరాల వయస్సు</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 టాస్క్</item>
+        <item quantity="other">%d టాస్క్‌లు</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">ఈవెంట్</item>
+        <item quantity="other">ఈవెంట్లు</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">ఈవెంట్ చేర్చబడింది</item>
+        <item quantity="other">ఈవెంట్‌లు చేర్చబడ్డాయి</item>
+    </plurals>
+</resources>

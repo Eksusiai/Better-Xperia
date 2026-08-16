@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 nap</item>
+        <item quantity="other">%d nap</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 esemény</item>
+        <item quantity="other">%d esemény</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 óra</item>
+        <item quantity="other">%d óra</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 perc</item>
+        <item quantity="other">%d perc</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 perc</item>
+        <item quantity="other">%d perc</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">fok</item>
+        <item quantity="other">fok</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d éves</item>
+        <item quantity="other">%d éves</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 feladat</item>
+        <item quantity="other">%d feladat</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">esemény</item>
+        <item quantity="other">események</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">Esemény hozzáadva</item>
+        <item quantity="other">Események hozzáadva</item>
+    </plurals>
+</resources>

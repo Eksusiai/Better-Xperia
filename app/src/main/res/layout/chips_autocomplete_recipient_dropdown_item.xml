@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="?android:attr/selectableItemBackground"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="@dimen/chip_dropdown_height">
+    <View
+        android:id="@+id/chip_autocomplete_top_divider"
+        style="@style/ChipAutocompleteDividerStyle"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/ChipAutocompleteWrapperStyle">
+        <LinearLayout style="@style/ChipTextViewLayoutStyle">
+            <TextView style="@style/ChipTitleStyle"/>
+            <TextView style="@style/ChipSubtitleStyle"/>
+        </LinearLayout>
+        <com.android.ex.chips.CircularImageView style="@style/ChipEndIconStyle"/>
+    </LinearLayout>
+    <View
+        android:id="@+id/chip_autocomplete_bottom_divider"
+        style="@style/ChipAutocompleteDividerStyle"/>
+</LinearLayout>

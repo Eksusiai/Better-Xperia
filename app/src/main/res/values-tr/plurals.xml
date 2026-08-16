@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 gün</item>
+        <item quantity="other">%d gün</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 etkinlik</item>
+        <item quantity="other">%d etkinlik</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 saat</item>
+        <item quantity="other">%d saat</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 dak</item>
+        <item quantity="other">%d dak</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 dakika</item>
+        <item quantity="other">%d dakika</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">derece</item>
+        <item quantity="other">derece</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d yaşında</item>
+        <item quantity="other">%d yaşında</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 görev</item>
+        <item quantity="other">%d görev</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">etkinlik</item>
+        <item quantity="other">etkinlikler</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">Etkinlik eklendi</item>
+        <item quantity="other">Etkinlikler eklendi</item>
+    </plurals>
+</resources>

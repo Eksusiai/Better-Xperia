@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="accepted_items">
+        <item>സ്വീകരിച്ചു</item>
+        <item>ഏകദേശം</item>
+        <item>നിരസിച്ചു</item>
+    </array>
+    <array name="accessibility_event_color_picker_colors">
+        <item>മഞ്ഞ</item>
+        <item>ഓറഞ്ച്</item>
+        <item>ചുവപ്പ്</item>
+        <item>ബർഗണ്ടി</item>
+        <item>പിങ്ക്നിറം</item>
+        <item>പര്‍പ്പിള്‍</item>
+        <item>ബ്രൌണ്‍</item>
+        <item>ഇളം പച്ച</item>
+        <item>പച്ച</item>
+        <item>ഹരിതനീലിമ</item>
+        <item>ഇളം നീല</item>
+        <item>നീല</item>
+    </array>
+    <array name="availability">
+        <item>തിരക്കില്‍</item>
+        <item>ലഭ്യമാണ്</item>
+        <item>ഏകദേശം</item>
+    </array>
+    <array name="change_response_labels">
+        <item>ഈ സാഹചര്യത്തില്‍ മാത്രം</item>
+        <item>ഈ സീരീസിലെ എല്ലാ സംഭ.</item>
+    </array>
+    <array name="month_view_day_labels">
+        <item>തി</item>
+        <item>ചൊ</item>
+        <item>ബു</item>
+        <item>വ്യാ</item>
+        <item>വെ</item>
+        <item>ശ</item>
+        <item>ഞാ</item>
+    </array>
+    <array name="ordinal_labels">
+        <item>ആദ്യത്തെ</item>
+        <item>രണ്ടാമത്തെ</item>
+        <item>മൂന്നാമത്തെ</item>
+        <item>നാലാമത്തെ</item>
+        <item>അവസാനത്തെ</item>
+    </array>
+    <array name="prefEntries_alerts_vibrateWhen">
+        <item>എല്ലായ്പ്പോഴും</item>
+        <item>ശല്യ. മോ. മാ.</item>
+        <item>ഒരിക്കലുമില്ല</item>
+    </array>
+    <array name="preferences_alert_type_labels">
+        <item>കരുതല്‍ അറിയിപ്പ്</item>
+        <item>സ്റ്റാറ്റസ് ബാര്‍ അറിയിപ്പ്</item>
+        <item>ഓഫ്</item>
+    </array>
+    <array name="preferences_default_reminder_labels">
+        <item>ഒന്നുമില്ല</item>
+        <item>5 മിനിറ്റ്</item>
+        <item>10 മിനിറ്റ്</item>
+        <item>15 മിനിറ്റ്</item>
+        <item>20 മിനിറ്റ്</item>
+        <item>25 മിനിറ്റ്</item>
+        <item>30 മിനിറ്റ്</item>
+        <item>45 മിനിറ്റ്</item>
+        <item>1 മണിക്കൂര്‍</item>
+        <item>2 മണിക്കൂര്‍</item>
+        <item>3 മണിക്കൂര്‍</item>
+        <item>12 മണിക്കൂര്‍</item>
+        <item>24 മണിക്കൂര്‍</item>
+        <item>2 ദിവസം</item>
+        <item>1 ആഴ്ച</item>
+    </array>
+    <array name="preferences_week_days_labels">
+        <item>പ്രവര്‍ത്തി ദിവസങ്ങള്‍ മാത്രം</item>
+        <item>7 ദിവസം</item>
+    </array>
+    <array name="quick_response_defaults">
+        <item>കുറച്ച് മിനിറ്റ് മാത്രം വൈകി ഓടുന്നു.</item>
+        <item>10 മിനിറ്റിനുള്ളില്‍ അവിടെയെത്തും.</item>
+        <item>ഞാന്‍ ഇല്ലാതെ തന്നെ തുടങ്ങിക്കോളൂ.</item>
+        <item>ക്ഷമിക്കൂ, എനിക്ക് വരാനാകില്ല. സമയം മാറ്റൂ.</item>
+    </array>
+    <array name="reminder_minutes_labels">
+        <item>5 മിനിറ്റ്</item>
+        <item>10 മിനിറ്റ്</item>
+        <item>15 മിനിറ്റ്</item>
+        <item>20 മിനിറ്റ്</item>
+        <item>25 മിനിറ്റ്</item>
+        <item>30 മിനിറ്റ്</item>
+        <item>45 മിനിറ്റ്</item>
+        <item>1 മണിക്കൂര്‍</item>
+        <item>2 മണിക്കൂര്‍</item>
+        <item>3 മണിക്കൂര്‍</item>
+        <item>12 മണിക്കൂര്‍</item>
+        <item>24 മണിക്കൂര്‍</item>
+        <item>2 ദിവസം</item>
+        <item>1 ആഴ്ച</item>
+    </array>
+    <array name="repeats_pattern">
+        <item>ദിവസേന</item>
+        <item>ആഴ്ചതോറും</item>
+        <item>മാസം തോറും</item>
+        <item>വര്‍ഷം തോറും</item>
+    </array>
+    <array name="repeats_weekdays_no">
+        <item>ആദ്യത്തെ</item>
+        <item>രണ്ടാമത്</item>
+        <item>മൂന്നാമത്</item>
+        <item>നാലാമത്</item>
+        <item>അഞ്ചാമത്</item>
+    </array>
+    <array name="reply_items">
+        <item>മറുപടി</item>
+        <item>എല്ലാവര്‍ക്കും മറുപടി</item>
+        <item>ഫോര്‍വേഡുചെയ്യുക</item>
+    </array>
+    <array name="response_labels1">
+        <item>(പ്രതികരണമില്ല)</item>
+        <item>ഉവ്വ്</item>
+        <item>ഒരുപക്ഷെ</item>
+        <item>ഇല്ല</item>
+    </array>
+    <array name="response_labels2">
+        <item>ഉവ്വ്</item>
+        <item>ഒരുപക്ഷെ</item>
+        <item>ഇല്ല</item>
+    </array>
+    <array name="timezone_labels">
+        <item>മാര്‍ഷല്‍ ദ്വീപുകള്‍</item>
+        <item>മിഡ്‌വേ ഐലന്‍ഡ്</item>
+        <item>ഹവായ്</item>
+        <item>അലാസ്ക</item>
+        <item>പസഫിക് സമയം</item>
+        <item>ടിജുവാന</item>
+        <item>അരിസോണ</item>
+        <item>ചിഹ്വാഹുവ</item>
+        <item>മൌണ്ടെയിന്‍ സമയം</item>
+        <item>മധ്യ അമേരിക്ക</item>
+        <item>സെന്‍ട്രല്‍ സമയം</item>
+        <item>മെക്സിക്കോ സിറ്റി</item>
+        <item>സാസ്കാചിവാന്‍</item>
+        <item>ബൊഗോട്ട</item>
+        <item>കിഴക്കന്‍ സമയം</item>
+        <item>വെനിസ്വേല</item>
+        <item>അറ്റ്‌ലാന്റിക് സമയം</item>
+        <item>മനാവുസ്</item>
+        <item>സാന്‍റിയാഗോ</item>
+        <item>ന്യൂ‌ഫൌണ്ട്‌ലാന്‍റ്</item>
+        <item>ബ്രസീലിയ</item>
+        <item>ബ്യൂണസ് അയേഴ്സ്</item>
+        <item>ഗ്രീന്‍‌ലാന്‍ഡ്</item>
+        <item>മോണ്ടിവീഡിയോ</item>
+        <item>മിഡ്-അറ്റ്ലാന്‍റിക്</item>
+        <item>അസോറെസ്</item>
+        <item>കേപ് വെർ. ദ്വീ.</item>
+        <item>കസബ്ലാങ്ക</item>
+        <item>ലണ്ടന്‍, ഡുബ്ലിന്‍</item>
+        <item>ആംസ്റ്റര്‍ഡാം, ബെര്‍ലിന്‍</item>
+        <item>ബെല്‍‌ഗ്രേഡ്</item>
+        <item>ബ്രസല്‍‌സ്</item>
+        <item>സരാജിവോ</item>
+        <item>വിന്‍ഡ്‌ഹോക്ക്</item>
+        <item>പടി. ആഫ്രിക്ക സമയം</item>
+        <item>അമ്മാന്‍, ജോര്‍ദാന്‍</item>
+        <item>ഏതന്‍സ്, ഇസ്റ്റാംബൂള്‍</item>
+        <item>ബെയ്‌റൂട്ട്, ലെബനന്‍</item>
+        <item>കെയ്‌റോ</item>
+        <item>ഹെല്‍‌സിങ്കി</item>
+        <item>ജെറുസലേം</item>
+        <item>മിന്‍‌സ്ക്</item>
+        <item>ഹരാരെ</item>
+        <item>ബാഗ്ദാദ്</item>
+        <item>മോസ്കോ</item>
+        <item>കുവൈറ്റ്</item>
+        <item>നൈറോബി</item>
+        <item>ടെഹ്‌റാന്‍</item>
+        <item>ബകു</item>
+        <item>ടിബിലിസി</item>
+        <item>യെരെവാന്‍</item>
+        <item>ദുബായ്</item>
+        <item>കാബൂള്‍</item>
+        <item>ഇസ്ലാമാബാദ്, കറാച്ചി</item>
+        <item>ഉരാള്‍സ്ക്</item>
+        <item>യെകാറ്റെറിന്‍‌ബര്‍ഗ്</item>
+        <item>കൊല്‍ക്കത്ത</item>
+        <item>ശ്രീലങ്ക</item>
+        <item>കാഠ്‌മണ്ഡു</item>
+        <item>അസ്താന</item>
+        <item>യംഗോൺ</item>
+        <item>ക്രസ്നോയാര്‍സ്ക്</item>
+        <item>ബാങ്കോക്ക്</item>
+        <item>ബീജിംഗ്</item>
+        <item>ഹോങ്കോങ്ങ്</item>
+        <item>ഇര്‍കുറ്റ്സ്ക്</item>
+        <item>കോലാലമ്പൂര്‍</item>
+        <item>പെര്‍ത്ത്</item>
+        <item>തായ്‌പെയി</item>
+        <item>സോള്‍</item>
+        <item>ടോക്കിയോ, ഒസാക്ക</item>
+        <item>യകുറ്റ്സ്ക്</item>
+        <item>അഡലെയിഡ്</item>
+        <item>ഡാര്‍വിന്‍</item>
+        <item>ബ്രിസ്‌ബെയിന്‍</item>
+        <item>ഹോബാര്‍ട്ട്</item>
+        <item>സിഡ്നി, കാന്‍‌ബെറ</item>
+        <item>വ്ലാഡിവോസ്റ്റോക്ക്</item>
+        <item>ഗുവാം</item>
+        <item>മഗദന്‍</item>
+        <item>ഓക്‍ലന്‍ഡ്</item>
+        <item>ഫിജി</item>
+        <item>തോംഗ</item>
+    </array>
+    <array name="visibility">
+        <item>ഡിഫോള്‍ട്ട്</item>
+        <item>സ്വകാര്യം</item>
+        <item>പബ്ലിക്ക്</item>
+    </array>
+</resources>

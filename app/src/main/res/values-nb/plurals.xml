@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 dag</item>
+        <item quantity="other">%d dager</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 hendelse</item>
+        <item quantity="other">%d hendelser</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 time</item>
+        <item quantity="other">%d timer</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 min</item>
+        <item quantity="other">%d min</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 minutt</item>
+        <item quantity="other">%d minutter</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">grad</item>
+        <item quantity="other">grader</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d år</item>
+        <item quantity="other">%d år</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 oppgave</item>
+        <item quantity="other">%d oppgaver</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">hendelse</item>
+        <item quantity="other">hendelser</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">Hendelse lagt til</item>
+        <item quantity="other">Hendelser lagt til</item>
+    </plurals>
+</resources>

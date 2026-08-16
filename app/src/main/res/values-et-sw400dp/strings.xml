@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="preferences_hide_declined_title">Peida tagasilükatud sündmused</string>
+    <string name="snooze_label">Lükka edasi</string>
+</resources>

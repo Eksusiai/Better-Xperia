@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: es (Spanish; Castilian)
+ * Region: CO (Colombia)
+ *********************************************************************
+--><calendar language="es" region="CO" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Día de Año nuevo</holiday>
+        <!--[Epiphany Holiday] - [epiphany]-->
+        <holiday endDate="2017-01-09" startDate="2017-01-09" workingday="false">Epifanía</holiday>
+        <!--[Saint Joseph's Day Holiday] - [saint_joseph_s_day_holiday]-->
+        <holiday endDate="2017-03-20" startDate="2017-03-20" workingday="false">Feriado por el Día de San José</holiday>
+        <!--[Maundy Thursday] - [maundy_thursday]-->
+        <holiday endDate="2017-04-13" startDate="2017-04-13" workingday="false">Jueves Santo</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2017-04-14" startDate="2017-04-14" workingday="false">Viernes Santo</holiday>
+        <!--[Labor Day] - [labor_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Día del trabajador</holiday>
+        <!--[Ascension Holiday] - [ascension_holiday]-->
+        <holiday endDate="2017-05-29" startDate="2017-05-29" workingday="false">Dia de la Asunción</holiday>
+        <!--[Corpus Christi Holiday] - [corpus_christi]-->
+        <holiday endDate="2017-06-19" startDate="2017-06-19" workingday="false">Día de Corpus Christi</holiday>
+        <!--[Sagrado Corazon (Sacred Heart Holiday)] - [sagrado_corazon__sacred_heart_holiday_]-->
+        <holiday endDate="2017-06-26" startDate="2017-06-26" workingday="false">Sagrado Corazón</holiday>
+        <!--[Saints Peter and Paul's Day Holiday] - [saints_peter_and_paul_s_day_holiday]-->
+        <holiday endDate="2017-07-03" startDate="2017-07-03" workingday="false">Día de San Pedro y San Pablo</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2017-07-20" startDate="2017-07-20" workingday="false">Día de la independencia</holiday>
+        <!--[Battle of Boyacá Day] - [battle_of_boyac__day]-->
+        <holiday endDate="2017-08-07" startDate="2017-08-07" workingday="false">Día de la Batalla de Boyacá</holiday>
+        <!--[Assumption Day Holiday] - [assumption_day]-->
+        <holiday endDate="2017-08-21" startDate="2017-08-21" workingday="false">Día de la Asunción</holiday>
+        <!--[Día de la Raza Holiday] - [d_a_de_la_raza_holiday]-->
+        <holiday endDate="2017-10-16" startDate="2017-10-16" workingday="false">Feriado por el Día de la Raza</holiday>
+        <!--[All Saints' Day Holiday] - [all_saints__day_holiday]-->
+        <holiday endDate="2017-11-06" startDate="2017-11-06" workingday="false">Feriado por el Día de Todos los Santos</holiday>
+        <!--[Cartagena Independence Holiday] - [cartagena_independence_holiday]-->
+        <holiday endDate="2017-11-13" startDate="2017-11-13" workingday="false">Feriado por la Independencia de Cartagena</holiday>
+        <!--[Immaculate Conception Day] - [immaculate_conception]-->
+        <holiday endDate="2017-12-08" startDate="2017-12-08" workingday="false">Día de la Inmaculada Concepción</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Día de Navidad</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Día de Año nuevo</holiday>
+        <!--[Epiphany Holiday] - [epiphany]-->
+        <holiday endDate="2016-01-11" startDate="2016-01-11" workingday="false">Epifanía</holiday>
+        <!--[Saint Joseph's Day Holiday] - [saint_joseph_s_day_holiday]-->
+        <holiday endDate="2016-03-21" startDate="2016-03-21" workingday="false">Feriado por el Día de San José</holiday>
+        <!--[Maundy Thursday] - [maundy_thursday]-->
+        <holiday endDate="2016-03-24" startDate="2016-03-24" workingday="false">Jueves Santo</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2016-03-25" startDate="2016-03-25" workingday="false">Viernes Santo</holiday>
+        <!--[Labor Day] - [labor_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Día del trabajador</holiday>
+        <!--[Ascension Holiday] - [ascension_holiday]-->
+        <holiday endDate="2016-05-09" startDate="2016-05-09" workingday="false">Dia de la Asunción</holiday>
+        <!--[Corpus Christi Holiday] - [corpus_christi]-->
+        <holiday endDate="2016-05-30" startDate="2016-05-30" workingday="false">Día de Corpus Christi</holiday>
+        <!--[Sagrado Corazon (Sacred Heart Holiday)] - [sagrado_corazon__sacred_heart_holiday_]-->
+        <holiday endDate="2016-06-06" startDate="2016-06-06" workingday="false">Sagrado Corazón</holiday>
+        <!--[Saints Peter and Paul's Day Holiday] - [saints_peter_and_paul_s_day_holiday]-->
+        <holiday endDate="2016-07-04" startDate="2016-07-04" workingday="false">Día de San Pedro y San Pablo</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2016-07-20" startDate="2016-07-20" workingday="false">Día de la independencia</holiday>
+        <!--[Battle of Boyacá Day] - [battle_of_boyac__day]-->
+        <holiday endDate="2016-08-07" startDate="2016-08-07" workingday="false">Día de la Batalla de Boyacá</holiday>
+        <!--[Assumption Day] - [assumption_day]-->
+        <holiday endDate="2016-08-15" startDate="2016-08-15" workingday="false">Día de la Asunción</holiday>
+        <!--[Día de la Raza Holiday] - [d_a_de_la_raza_holiday]-->
+        <holiday endDate="2016-10-17" startDate="2016-10-17" workingday="false">Feriado por el Día de la Raza</holiday>
+        <!--[All Saints' Day Holiday] - [all_saints__day_holiday]-->
+        <holiday endDate="2016-11-07" startDate="2016-11-07" workingday="false">Feriado por el Día de Todos los Santos</holiday>
+        <!--[Cartagena Independence Holiday] - [cartagena_independence_holiday]-->
+        <holiday endDate="2016-11-14" startDate="2016-11-14" workingday="false">Feriado por la Independencia de Cartagena</holiday>
+        <!--[Immaculate Conception Day] - [immaculate_conception]-->
+        <holiday endDate="2016-12-08" startDate="2016-12-08" workingday="false">Día de la Inmaculada Concepción</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Día de Navidad</holiday>
+    </holidays>
+</calendar>
+

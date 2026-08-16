@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="accepted_items">
+        <item>Prihvaćeno</item>
+        <item>Uslovno</item>
+        <item>Odbijeno</item>
+    </array>
+    <array name="accessibility_event_color_picker_colors">
+        <item>Žuta</item>
+        <item>Narandžasto</item>
+        <item>Crvena</item>
+        <item>Burgundsko crvena</item>
+        <item>Ružičasto</item>
+        <item>Ljubičasta</item>
+        <item>Braon</item>
+        <item>Svetlozelena</item>
+        <item>Zeleno</item>
+        <item>Tirkizna</item>
+        <item>Svetloplava</item>
+        <item>Plava</item>
+    </array>
+    <array name="availability">
+        <item>Zauzeto</item>
+        <item>Dostupno</item>
+        <item>Uslovno</item>
+    </array>
+    <array name="change_response_labels">
+        <item>Samo ova instanca</item>
+        <item>Svi događaji u grupi</item>
+    </array>
+    <array name="month_view_day_labels">
+        <item>P</item>
+        <item>U</item>
+        <item>S</item>
+        <item>Č</item>
+        <item>P</item>
+        <item>S</item>
+        <item>N</item>
+    </array>
+    <array name="ordinal_labels">
+        <item>prvi</item>
+        <item>drugi</item>
+        <item>treći</item>
+        <item>četvrti</item>
+        <item>poslednji</item>
+    </array>
+    <array name="prefEntries_alerts_vibrateWhen">
+        <item>Uvek</item>
+        <item>Samo u „Ne uznemiravaj“</item>
+        <item>Nikada</item>
+    </array>
+    <array name="preferences_alert_type_labels">
+        <item>Upozorenje</item>
+        <item>Obaveštenje statusne linije</item>
+        <item>Isključeno</item>
+    </array>
+    <array name="preferences_default_reminder_labels">
+        <item>Nijedno</item>
+        <item>5 minuta</item>
+        <item>10 minuta</item>
+        <item>15 minuta</item>
+        <item>20 minuta</item>
+        <item>25 minuta</item>
+        <item>30 minuta</item>
+        <item>45 minuta</item>
+        <item>1 čas</item>
+        <item>2 časa</item>
+        <item>3 časa</item>
+        <item>12 časova</item>
+        <item>24 časa</item>
+        <item>2 dana</item>
+        <item>1 sedmica</item>
+    </array>
+    <array name="preferences_week_days_labels">
+        <item>Samo radnim danima</item>
+        <item>7 dana</item>
+    </array>
+    <array name="quick_response_defaults">
+        <item>Kasnim nekoliko minuta.</item>
+        <item>Budi tamo za oko 10 minuta.</item>
+        <item>Počnite bez mene.</item>
+        <item>Žao mi je, ne stižem. Moramo promeniti raspored.</item>
+    </array>
+    <array name="reminder_minutes_labels">
+        <item>5 minuta</item>
+        <item>10 minuta</item>
+        <item>15 minuta</item>
+        <item>20 minuta</item>
+        <item>25 minuta</item>
+        <item>30 minuta</item>
+        <item>45 minuta</item>
+        <item>1 čas</item>
+        <item>2 časa</item>
+        <item>3 časa</item>
+        <item>12 časova</item>
+        <item>24 časa</item>
+        <item>2 dana</item>
+        <item>1 sedmica</item>
+    </array>
+    <array name="repeats_pattern">
+        <item>Dnevno</item>
+        <item>Sedmično</item>
+        <item>Mesečno</item>
+        <item>Godišnje</item>
+    </array>
+    <array name="repeats_weekdays_no">
+        <item>Prvo</item>
+        <item>Drugo</item>
+        <item>Treće</item>
+        <item>Četvrto</item>
+        <item>Peto</item>
+    </array>
+    <array name="reply_items">
+        <item>Odgovori</item>
+        <item>Odgovori svima</item>
+        <item>Prosledi</item>
+    </array>
+    <array name="response_labels1">
+        <item>(Bez odgovora)</item>
+        <item>Da</item>
+        <item>Možda</item>
+        <item>Ne</item>
+    </array>
+    <array name="response_labels2">
+        <item>Da</item>
+        <item>Možda</item>
+        <item>Ne</item>
+    </array>
+    <array name="timezone_labels">
+        <item>Maršalska Ostrva</item>
+        <item>Ostrvo Midvej</item>
+        <item>Havaji</item>
+        <item>Aljaska</item>
+        <item>Pacifičko vreme</item>
+        <item>Tihuana</item>
+        <item>Arizona</item>
+        <item>Čiuaua</item>
+        <item>Planinsko vreme</item>
+        <item>Centralna Amerika</item>
+        <item>Centralno vreme</item>
+        <item>Meksiko Siti</item>
+        <item>Saskačevan</item>
+        <item>Bogota</item>
+        <item>Istočno vreme</item>
+        <item>Venecuela</item>
+        <item>Atlantsko vreme</item>
+        <item>Manaus</item>
+        <item>Santijago</item>
+        <item>Njufaundlend</item>
+        <item>Brazilija</item>
+        <item>Buenos Ajres</item>
+        <item>Grenland</item>
+        <item>Montevideo</item>
+        <item>Srednji Atlantik</item>
+        <item>Azorska Ostrva</item>
+        <item>Zelenortska Ostrva</item>
+        <item>Kazablanka</item>
+        <item>London, Dablin</item>
+        <item>Amsterdam, Berlin</item>
+        <item>Beograd</item>
+        <item>Brisel</item>
+        <item>Sarajevo</item>
+        <item>Vindhuk</item>
+        <item>Zapadnoafričko vreme</item>
+        <item>Aman, Jordan</item>
+        <item>Atina, Istanbul</item>
+        <item>Bejrut, Liban</item>
+        <item>Kairo</item>
+        <item>Helsinki</item>
+        <item>Jerusalim</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moskva</item>
+        <item>Kuvajt</item>
+        <item>Najrobi</item>
+        <item>Teheran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Jerevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karači</item>
+        <item>Uralsk</item>
+        <item>Jekaterinburg</item>
+        <item>Kalkuta</item>
+        <item>Šri Lanka</item>
+        <item>Katmandu</item>
+        <item>Astana</item>
+        <item>Rangun</item>
+        <item>Krasnojarsk</item>
+        <item>Bankok</item>
+        <item>Peking</item>
+        <item>Hongkong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Pert</item>
+        <item>Tajpej</item>
+        <item>Seul</item>
+        <item>Tokio, Osaka</item>
+        <item>Jakutsk</item>
+        <item>Adelaida</item>
+        <item>Darvin</item>
+        <item>Brizbejn</item>
+        <item>Hobart</item>
+        <item>Sidnej, Kanbera</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Okland</item>
+        <item>Fidži</item>
+        <item>Tonga</item>
+    </array>
+    <array name="visibility">
+        <item>Podrazumevano</item>
+        <item>Privatno</item>
+        <item>Javno</item>
+    </array>
+</resources>

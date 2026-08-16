@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:icon="@drawable/ic_menu_sort"
+        android:id="@+id/sort"
+        android:title="@string/task_option_menu_sort_txt"
+        android:alphabeticShortcut="s"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/sync"
+        android:title="@string/task_option_menu_refresh_txt"
+        android:alphabeticShortcut="r"/>
+    <item
+        android:id="@+id/clear"
+        android:title="@string/task_option_menu_clear_completed_txt"
+        android:alphabeticShortcut="d"/>
+    <item
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:id="@+id/search"
+        android:title="@string/task_option_menu_search_txt"
+        android:alphabeticShortcut="f"
+        app:actionLayout="@layout/search_view_item"
+        app:showAsAction="collapseActionView"/>
+    <item
+        android:id="@+id/settings"
+        android:title="@string/task_option_menu_settings_txt"/>
+</menu>

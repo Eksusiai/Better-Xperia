@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 ден</item>
+        <item quantity="other">%d дена</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 настан</item>
+        <item quantity="other">%d настани</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 час</item>
+        <item quantity="other">%d часа</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 мин.</item>
+        <item quantity="other">%d минути</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 минута</item>
+        <item quantity="other">%d минути</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">степен</item>
+        <item quantity="other">степени</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d година</item>
+        <item quantity="other">%d години</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 задача</item>
+        <item quantity="other">%d задачи</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">настан</item>
+        <item quantity="other">настани</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">Настанот е додаден</item>
+        <item quantity="other">Настаните се додадени</item>
+    </plurals>
+</resources>

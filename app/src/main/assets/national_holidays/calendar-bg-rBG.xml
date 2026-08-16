@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: bg (Bulgarian)
+ * Region: BG (Bulgaria)
+ *********************************************************************
+--><calendar language="bg" region="BG" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Нова година</holiday>
+        <!--[Liberation Day (National Day)] - [liberation_day__national_day_]-->
+        <holiday endDate="2017-03-03" startDate="2017-03-03" workingday="false">Ден на освобождението на България (Национален празник)</holiday>
+        <!--[Orthodox Good Friday] - [orthodox_good_friday]-->
+        <holiday endDate="2017-04-14" startDate="2017-04-14" workingday="false">Православен Велики петък</holiday>
+        <!--[Orthodox Holy Easter] - [orthodox_holy_easter]-->
+        <holiday endDate="2017-04-15" startDate="2017-04-15" workingday="false">Православна Велика събота</holiday>
+        <!--[Orthodox Easter] - [orthodox_easter]-->
+        <holiday endDate="2017-04-16" startDate="2017-04-16" workingday="false">Православен Великден (Възкресение Христово)</holiday>
+        <!--[Orthodox Easter Monday] - [orthodox_easter_monday]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">Православен Велики понеделник</holiday>
+        <!--[Labour Day] - [labor_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Ден на труда</holiday>
+        <!--[Saint George's Day / Army Day] - [saint_george_s_day___army_day]-->
+        <holiday endDate="2017-05-06" startDate="2017-05-06" workingday="false">Гергьовден/Ден на българската армия</holiday>
+        <!--[Culture and Literacy Day] - [culture_and_literacy_day]-->
+        <holiday endDate="2017-05-24" startDate="2017-05-24" workingday="false">Ден на българската просвета и култура и славянската писменост</holiday>
+        <!--[Unification Day] - [unification_day]-->
+        <holiday endDate="2017-09-06" startDate="2017-09-06" workingday="false">Ден на съединението</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2017-09-22" startDate="2017-09-22" workingday="false">Ден на независимостта</holiday>
+        <!--[Christmas Eve] - [christmas_eve]-->
+        <holiday endDate="2017-12-24" startDate="2017-12-24" workingday="false">Бъдни вечер</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Коледа</holiday>
+        <!--[Second Day of Christmas] - [second_day_of_christmas]-->
+        <holiday endDate="2017-12-26" startDate="2017-12-26" workingday="false">Вторият ден на Коледа</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Нова година</holiday>
+        <!--[Liberation Day (National Day)] - [liberation_day__national_day_]-->
+        <holiday endDate="2016-03-03" startDate="2016-03-03" workingday="false">Ден на освобождението на България (Национален празник)</holiday>
+        <!--[Public Holiday (workday moved to Sat. Mar. 12)] - [public_holiday__workday_moved_to_sat__mar__12_]-->
+        <holiday endDate="2016-03-04" startDate="2016-03-04" workingday="false">Официален празник (работният ден е преместен на 12 март, събота)</holiday>
+        <!--[Orthodox Good Friday] - [orthodox_good_friday]-->
+        <holiday endDate="2016-04-29" startDate="2016-04-29" workingday="false">Православен Велики петък</holiday>
+        <!--[Orthodox Holy Easter] - [orthodox_holy_easter]-->
+        <holiday endDate="2016-04-30" startDate="2016-04-30" workingday="false">Православна Велика събота</holiday>
+        <!--[Labour Day] - [labor_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Ден на труда</holiday>
+        <!--[Orthodox Easter] - [orthodox_easter]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Православен Великден (Възкресение Христово)</holiday>
+        <!--[Orthodox Easter Monday] - [orthodox_easter_monday]-->
+        <holiday endDate="2016-05-02" startDate="2016-05-02" workingday="false">Православен Велики понеделник</holiday>
+        <!--[Saint George's Day / Army Day] - [saint_george_s_day___army_day]-->
+        <holiday endDate="2016-05-06" startDate="2016-05-06" workingday="false">Гергьовден/Ден на българската армия</holiday>
+        <!--[Public Holiday (workday moved to Sat.May 14)] - [public_holiday__workday_moved_to_sat_may_14_]-->
+        <holiday endDate="2016-05-23" startDate="2016-05-23" workingday="false">Официален празник (работният ден е преместен на 14 май, събота)</holiday>
+        <!--[Culture and Literacy Day] - [culture_and_literacy_day]-->
+        <holiday endDate="2016-05-24" startDate="2016-05-24" workingday="false">Ден на българската просвета и култура и славянската писменост</holiday>
+        <!--[Public Holiday (workday moved to Sat. Sept. 10)] - [public_holiday__workday_moved_to_sat__sept__10_]-->
+        <holiday endDate="2016-09-05" startDate="2016-09-05" workingday="false">Официален празник (работният ден е преместен на 10 септември, събота)</holiday>
+        <!--[Unification Day] - [unification_day]-->
+        <holiday endDate="2016-09-06" startDate="2016-09-06" workingday="false">Ден на съединението</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2016-09-22" startDate="2016-09-22" workingday="false">Ден на независимостта</holiday>
+        <!--[Public Holiday (workday moved to Sat. Sept. 17)] - [public_holiday__workday_moved_to_sat__sept__17_]-->
+        <holiday endDate="2016-09-23" startDate="2016-09-23" workingday="false">Официален празник (работният ден е преместен на 17 септември, събота)</holiday>
+        <!--[Christmas Eve] - [christmas_eve]-->
+        <holiday endDate="2016-12-24" startDate="2016-12-24" workingday="false">Бъдни вечер</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Коледа</holiday>
+        <!--[Second Day of Christmas] - [second_day_of_christmas]-->
+        <holiday endDate="2016-12-26" startDate="2016-12-26" workingday="false">Вторият ден на Коледа</holiday>
+    </holidays>
+</calendar>
+

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: su (Sundanese)
+ * Region: ID (Indonesia)
+ *********************************************************************
+--><calendar language="su" region="ID" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day (Tahun Baru 2017)] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Dinten Tepang Taun</holiday>
+        <!--[Chinese New Year (Tahun Baru Imlek)] - [chinese_new_year__tahun_baru_imlek_]-->
+        <holiday endDate="2017-01-28" startDate="2017-01-28" workingday="false">Tepang Taun Imlek</holiday>
+        <!--[Hindu New Year (Hari Raya Nyepi Tahun Baru Saka 1939)] - [hindu_new_year__hari_raya_nyepi_tahun_baru_saka_1939_]-->
+        <holiday endDate="2017-03-28" startDate="2017-03-28" workingday="false">Taun Anyar Hindu (Hari Raya Nyepi Tahun Baru Saka 1939)</holiday>
+        <!--[Good Friday (Wafat Yesus Kristus)] - [good_friday]-->
+        <holiday endDate="2017-04-14" startDate="2017-04-14" workingday="false">Jumaah Agung</holiday>
+        <!--[The Prophet's Ascension (Isra' Mi'raj Nabi Muhammad SAW)] - [the_prophet_s_ascension__isra__mi_raj_nabi_muhammad_saw_]-->
+        <holiday endDate="2017-04-24" startDate="2017-04-24" workingday="false">Isra' Mi'raj Nabi Muhammad SAW</holiday>
+        <!--[International Labor Day (Hari Buruh Internasional)] - [international_labor_day__hari_buruh_internasional_]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Dinten Buruh Internasional</holiday>
+        <!--[Buddha Day (Hari Raya Waisak)] - [buddha_day__hari_raya_waisak_]-->
+        <holiday endDate="2017-05-11" startDate="2017-05-11" workingday="false">Dinten Raya Waisak</holiday>
+        <!--[Ascension Day (Kenaikan Yesus Kristus)] - [ascension_day]-->
+        <holiday endDate="2017-05-25" startDate="2017-05-25" workingday="false">Dinten Kanaekan</holiday>
+        <!--[End of Ramadan (Hari Raya Idul Fitri 1438 Hijriyah)] - [end_of_ramadan]-->
+        <holiday endDate="2017-06-25" startDate="2017-06-25" workingday="false">Idul Fitri</holiday>
+        <!--[End of Ramadan Holiday] - [end_of_ramadan]-->
+        <holiday endDate="2017-06-26" startDate="2017-06-26" workingday="false">Idul Fitri</holiday>
+        <!--[Independence Day (Hari Kemerdekaan RI)] - [independence_day]-->
+        <holiday endDate="2017-08-17" startDate="2017-08-17" workingday="false">Dinten Kamerdekaan</holiday>
+        <!--[Feast of Sacrifice (Hari Raya Idul Adha 1438 Hijriyah)] - [feast_of_sacrifice]-->
+        <holiday endDate="2017-09-01" startDate="2017-09-01" workingday="false">Kurban / Idul Adha</holiday>
+        <!--[Islamic New Year (Tahun Baru Islam 1439 Hijriyah)] - [islamic_new_year__tahun_baru_islam_1439_hijriyah_]-->
+        <holiday endDate="2017-09-22" startDate="2017-09-22" workingday="false">Taun Anyar Islam (Tahun Baru Islam 1439 Hijriyah)</holiday>
+        <!--[The Prophet's Birthday (Maulid Nabi Muhammad SAW 1439 H)] - [the_prophet_s_birthday]-->
+        <holiday endDate="2017-12-01" startDate="2017-12-01" workingday="false">Milangkala Nabi</holiday>
+        <!--[Christmas Day (Hari Raya Natal)] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Dinten Natal</holiday>
+        <!--[New Year's Day (Tahun Baru 2016)] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Dinten Tepang Taun</holiday>
+        <!--[Chinese New Year (Tahun Baru Imlek)] - [chinese_new_year__tahun_baru_imlek_]-->
+        <holiday endDate="2016-02-08" startDate="2016-02-08" workingday="false">Tepang Taun Imlek</holiday>
+        <!--[Hindu New Year (Hari Raya Nyepi Tahun Baru Saka 1938)] - [hindu_new_year__hari_raya_nyepi_tahun_baru_saka_1938_]-->
+        <holiday endDate="2016-03-09" startDate="2016-03-09" workingday="false">Taun Anyar Hindu (Nyepi Taun Anyar Saka 1938)</holiday>
+        <!--[Good Friday (Wafat Yesus Kristus)] - [good_friday]-->
+        <holiday endDate="2016-03-25" startDate="2016-03-25" workingday="false">Jumaah Agung</holiday>
+        <!--[International Labor Day (Hari Buruh Internasional)] - [international_labor_day__hari_buruh_internasional_]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Dinten Buruh Internasional</holiday>
+        <!--[Ascension Day (Kenaikan Yesus Kristus)] - [ascension_day]-->
+        <holiday endDate="2016-05-05" startDate="2016-05-05" workingday="false">Dinten Kanaekan</holiday>
+        <!--[The Prophet's Ascension (Isra' Mi'raj Nabi Muhammad SAW)] - [the_prophet_s_ascension__isra__mi_raj_nabi_muhammad_saw_]-->
+        <holiday endDate="2016-05-06" startDate="2016-05-06" workingday="false">Isra' Mi'raj Nabi Muhammad SAW</holiday>
+        <!--[Buddha Day (Hari Raya Waisak)] - [buddha_day__hari_raya_waisak_]-->
+        <holiday endDate="2016-05-22" startDate="2016-05-22" workingday="false">Dinten Raya Waisak</holiday>
+        <!--[Public Holiday (Cuti Bersama 2016)] - [public_holiday__cuti_bersama_2016_]-->
+        <holiday endDate="2016-07-04" startDate="2016-07-04" workingday="false">Libur Umum (Peré Bareng 2016)</holiday>
+        <!--[Public Holiday (Cuti Bersama 2016)] - [public_holiday__cuti_bersama_2016_]-->
+        <holiday endDate="2016-07-05" startDate="2016-07-05" workingday="false">Libur Umum (Peré Bareng 2016)</holiday>
+        <!--[End of Ramadan (Hari Raya Idul Fitri 1437 Hijriyah)] - [end_of_ramadan]-->
+        <holiday endDate="2016-07-06" startDate="2016-07-06" workingday="false">Idul Fitri</holiday>
+        <!--[End of Ramadan Holiday] - [end_of_ramadan]-->
+        <holiday endDate="2016-07-07" startDate="2016-07-07" workingday="false">Idul Fitri</holiday>
+        <!--[Public Holiday (Cuti Bersama 2016)] - [public_holiday__cuti_bersama_2016_]-->
+        <holiday endDate="2016-07-08" startDate="2016-07-08" workingday="false">Libur Umum (Peré Bareng 2016)</holiday>
+        <!--[Independence Day (Hari Kemerdekaan RI)] - [independence_day]-->
+        <holiday endDate="2016-08-17" startDate="2016-08-17" workingday="false">Dinten Kamerdekaan</holiday>
+        <!--[Feast of Sacrifice (Hari Raya Idul Adha 1437 Hijriyah)] - [feast_of_sacrifice]-->
+        <holiday endDate="2016-09-12" startDate="2016-09-12" workingday="false">Kurban / Idul Adha</holiday>
+        <!--[Islamic New Year (Tahun Baru Islam 1438 Hijriyah)] - [islamic_new_year__tahun_baru_islam_1438_hijriyah_]-->
+        <holiday endDate="2016-10-02" startDate="2016-10-02" workingday="false">Tepang Taun Islam (Tepang Taun Islam 1438 Hijriyah)</holiday>
+        <!--[The Prophet's Birthday (Maulid Nabi Muhammad SAW 1438 H)] - [the_prophet_s_birthday]-->
+        <holiday endDate="2016-12-12" startDate="2016-12-12" workingday="false">Milangkala Nabi</holiday>
+        <!--[Christmas Day (Hari Raya Natal)] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Dinten Natal</holiday>
+        <!--[Public Holiday (Cuti Bersama 2016)] - [public_holiday__cuti_bersama_2016_]-->
+        <holiday endDate="2016-12-26" startDate="2016-12-26" workingday="false">Libur Umum (Peré Bareng 2016)</holiday>
+    </holidays>
+</calendar>
+

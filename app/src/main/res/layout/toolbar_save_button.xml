@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:textSize="@dimen/save_bottom_textSize"
+        android:textColor="@android:color/white"
+        android:id="@+id/action_save"
+        android:background="@layout/btn_shape_round"
+        android:paddingTop="@dimen/save_bottom_paddingTop"
+        android:paddingBottom="@dimen/save_bottom_paddingBottom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/save_label"
+        android:layout_centerVertical="true"
+        android:textAllCaps="true"
+        android:paddingStart="@dimen/save_bottom_paddingStart"
+        android:paddingEnd="@dimen/save_bottom_paddingEnd"
+        android:layout_alignParentEnd="true"/>
+</RelativeLayout>

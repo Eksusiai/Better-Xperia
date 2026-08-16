@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: es (Spanish; Castilian)
+ * Region: MX (Mexico)
+ *********************************************************************
+--><calendar language="es" region="MX" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Día de Año nuevo</holiday>
+        <!--[Constitution Day Holiday] - [constitution_day_holiday]-->
+        <holiday endDate="2017-02-06" startDate="2017-02-06" workingday="false">Feriado por el Día de la Constitución</holiday>
+        <!--[Benito Juarez Day] - [benito_juarez_day]-->
+        <holiday endDate="2017-03-20" startDate="2017-03-20" workingday="false">Día de Benito Juarez</holiday>
+        <!--[Labor Day] - [labor_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Día del trabajo</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2017-09-16" startDate="2017-09-16" workingday="false">Día de la independencia</holiday>
+        <!--[Revolution Day] - [revolution_day]-->
+        <holiday endDate="2017-11-20" startDate="2017-11-20" workingday="false">Día de la Revolución</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Día de Navidad</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Día de Año nuevo</holiday>
+        <!--[Constitution Day Holiday] - [constitution_day_holiday]-->
+        <holiday endDate="2016-02-05" startDate="2016-02-05" workingday="false">Feriado por el Día de la Constitución</holiday>
+        <!--[Benito Juarez Birthday] - [benito_juarez_birthday]-->
+        <holiday endDate="2016-03-21" startDate="2016-03-21" workingday="false">Natalicio de Benito Juarez</holiday>
+        <!--[Labor Day] - [labor_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Día del trabajo</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2016-09-16" startDate="2016-09-16" workingday="false">Día de la independencia</holiday>
+        <!--[Revolution Day Holiday] - [revolution_day_holiday]-->
+        <holiday endDate="2016-11-20" startDate="2016-11-20" workingday="false">Día de la Revolución</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Día de Navidad</holiday>
+    </holidays>
+</calendar>
+

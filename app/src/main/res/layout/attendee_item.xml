@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="126dp"
+    android:layout_height="26dp">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp">
+        <ImageView
+            android:layout_gravity="center_vertical"
+            android:id="@+id/attendType"
+            android:layout_width="24dp"
+            android:layout_height="18dp"
+            android:src="@drawable/ic_availability_required"
+            android:paddingEnd="6dp"/>
+        <TextView
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="@color/new_event_availability_txt"
+            android:ellipsize="marquee"
+            android:layout_gravity="center_vertical"
+            android:id="@+id/displayName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxWidth="86dp"
+            android:singleLine="true"/>
+    </LinearLayout>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:src="@drawable/divider_availability_horizontal_bright"
+        android:scaleType="fitXY"/>
+</LinearLayout>

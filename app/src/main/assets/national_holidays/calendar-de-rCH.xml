@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: de (German)
+ * Region: CH (Switzerland)
+ *********************************************************************
+--><calendar language="de" region="CH" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Neujahr</holiday>
+        <!--[Good Friday (except TI VS)] - [good_friday]-->
+        <holiday endDate="2017-04-14" startDate="2017-04-14" workingday="false">Karfreitag</holiday>
+        <!--[Easter Monday (except VS)] - [easter_monday]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">Ostermontag</holiday>
+        <!--[Ascension Day] - [ascension_day]-->
+        <holiday endDate="2017-05-25" startDate="2017-05-25" workingday="false">Christi Himmelfahrt</holiday>
+        <!--[Whit Monday (except VS)] - [whit_monday__except_vs_]-->
+        <holiday endDate="2017-06-05" startDate="2017-06-05" workingday="false">Pfingstmontag</holiday>
+        <!--[National Day] - [national_day]-->
+        <holiday endDate="2017-08-01" startDate="2017-08-01" workingday="false">Nationalfeiertag</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">1. Weihnachtsfeiertag</holiday>
+        <!--[Saint Stephen's Day (except GE JU NE VD VS)] - [saint_stephen_s_day__except_ge_ju_ne_vd_vs_]-->
+        <holiday endDate="2017-12-26" startDate="2017-12-26" workingday="false">Stephanitag</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Neujahr</holiday>
+        <!--[Good Friday (except TI VS)] - [good_friday]-->
+        <holiday endDate="2016-03-25" startDate="2016-03-25" workingday="false">Karfreitag</holiday>
+        <!--[Easter Monday (except VS)] - [easter_monday]-->
+        <holiday endDate="2016-03-28" startDate="2016-03-28" workingday="false">Ostermontag</holiday>
+        <!--[Ascension Day] - [ascension_day]-->
+        <holiday endDate="2016-05-05" startDate="2016-05-05" workingday="false">Christi Himmelfahrt</holiday>
+        <!--[Whit Monday (except VS)] - [whit_monday__except_vs_]-->
+        <holiday endDate="2016-05-16" startDate="2016-05-16" workingday="false">Pfingstmontag</holiday>
+        <!--[National Day] - [national_day]-->
+        <holiday endDate="2016-08-01" startDate="2016-08-01" workingday="false">Nationalfeiertag</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">1. Weihnachtsfeiertag</holiday>
+        <!--[Saint Stephen's Day (except GE JU VD VS)] - [saint_stephen_s_day__except_ge_ju_vd_vs_]-->
+        <holiday endDate="2016-12-26" startDate="2016-12-26" workingday="false">Stefanitag (nicht in GE, JU, VD, VS)</holiday>
+    </holidays>
+</calendar>
+

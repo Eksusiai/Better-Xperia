@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: ja (Japanese)
+ * Region: JP (Japan)
+ *********************************************************************
+--><calendar language="ja" region="JP" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day (celebration)] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">元日</holiday>
+        <!--[New Year's Day Holiday (day in lieu)] - [new_year_s_day]-->
+        <holiday endDate="2017-01-02" startDate="2017-01-02" workingday="false">元日</holiday>
+        <!--[Coming of Age Day] - [coming_of_age_day]-->
+        <holiday endDate="2017-01-09" startDate="2017-01-09" workingday="false">成人の日</holiday>
+        <!--[Foundation Day] - [foundation_day]-->
+        <holiday endDate="2017-02-11" startDate="2017-02-11" workingday="false">建国記念の日</holiday>
+        <!--[Vernal Equinox] - [vernal_equinox]-->
+        <holiday endDate="2017-03-20" startDate="2017-03-20" workingday="false">春分の日</holiday>
+        <!--[Showa Day] - [showa_day]-->
+        <holiday endDate="2017-04-29" startDate="2017-04-29" workingday="false">昭和の日</holiday>
+        <!--[Constitution Day] - [constitution_day]-->
+        <holiday endDate="2017-05-03" startDate="2017-05-03" workingday="false">憲法記念日</holiday>
+        <!--[Greenery Day] - [greenery_day]-->
+        <holiday endDate="2017-05-04" startDate="2017-05-04" workingday="false">みどりの日</holiday>
+        <!--[Children's Day] - [children_s_day]-->
+        <holiday endDate="2017-05-05" startDate="2017-05-05" workingday="false">こどもの日</holiday>
+        <!--[Marine Day] - [marine_day]-->
+        <holiday endDate="2017-07-17" startDate="2017-07-17" workingday="false">海の日</holiday>
+        <!--[Mountain Day] - [mountain_day]-->
+        <holiday endDate="2017-08-11" startDate="2017-08-11" workingday="false">山の日</holiday>
+        <!--[Respect for the Aged Day] - [respect_for_the_aged_day]-->
+        <holiday endDate="2017-09-18" startDate="2017-09-18" workingday="false">敬老の日</holiday>
+        <!--[Autumnal Equinox] - [autumnal_equinox]-->
+        <holiday endDate="2017-09-23" startDate="2017-09-23" workingday="false">秋分の日</holiday>
+        <!--[Fitness Day] - [fitness_day]-->
+        <holiday endDate="2017-10-09" startDate="2017-10-09" workingday="false">体育の日</holiday>
+        <!--[Culture Day] - [culture_day]-->
+        <holiday endDate="2017-11-03" startDate="2017-11-03" workingday="false">文化の日</holiday>
+        <!--[Labor Thanksgiving Day] - [labor_thanksgiving_day]-->
+        <holiday endDate="2017-11-23" startDate="2017-11-23" workingday="false">勤労感謝の日</holiday>
+        <!--[Emperor's Birthday] - [emperor_s_birthday]-->
+        <holiday endDate="2017-12-23" startDate="2017-12-23" workingday="false">天皇誕生日</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">元日</holiday>
+        <!--[Coming of Age Day] - [coming_of_age_day]-->
+        <holiday endDate="2016-01-11" startDate="2016-01-11" workingday="false">成人の日</holiday>
+        <!--[Foundation Day] - [foundation_day]-->
+        <holiday endDate="2016-02-11" startDate="2016-02-11" workingday="false">建国記念の日</holiday>
+        <!--[Vernal Equinox (celebration)] - [vernal_equinox__celebration_]-->
+        <holiday endDate="2016-03-20" startDate="2016-03-20" workingday="false">春分の日(祝日)</holiday>
+        <!--[Vernal Equinox Holiday (day in lieu)] - [vernal_equinox_holiday__day_in_lieu_]-->
+        <holiday endDate="2016-03-21" startDate="2016-03-21" workingday="false">春分の日(振替休日)</holiday>
+        <!--[Showa Day] - [showa_day]-->
+        <holiday endDate="2016-04-29" startDate="2016-04-29" workingday="false">昭和の日</holiday>
+        <!--[Constitution Day] - [constitution_day]-->
+        <holiday endDate="2016-05-03" startDate="2016-05-03" workingday="false">憲法記念日</holiday>
+        <!--[Greenery Day] - [greenery_day]-->
+        <holiday endDate="2016-05-04" startDate="2016-05-04" workingday="false">みどりの日</holiday>
+        <!--[Children's Day] - [children_s_day]-->
+        <holiday endDate="2016-05-05" startDate="2016-05-05" workingday="false">こどもの日</holiday>
+        <!--[Marine Day] - [marine_day]-->
+        <holiday endDate="2016-07-18" startDate="2016-07-18" workingday="false">海の日</holiday>
+        <!--[Mountain Day] - [mountain_day]-->
+        <holiday endDate="2016-08-11" startDate="2016-08-11" workingday="false">山の日</holiday>
+        <!--[Respect for the Aged Day] - [respect_for_the_aged_day]-->
+        <holiday endDate="2016-09-19" startDate="2016-09-19" workingday="false">敬老の日</holiday>
+        <!--[Autumnal Equinox] - [autumnal_equinox]-->
+        <holiday endDate="2016-09-22" startDate="2016-09-22" workingday="false">秋分の日</holiday>
+        <!--[Fitness Day] - [fitness_day]-->
+        <holiday endDate="2016-10-10" startDate="2016-10-10" workingday="false">体育の日</holiday>
+        <!--[Culture Day] - [culture_day]-->
+        <holiday endDate="2016-11-03" startDate="2016-11-03" workingday="false">文化の日</holiday>
+        <!--[Labor Thanksgiving Day] - [labor_thanksgiving_day]-->
+        <holiday endDate="2016-11-23" startDate="2016-11-23" workingday="false">勤労感謝の日</holiday>
+        <!--[Emperor's Birthday] - [emperor_s_birthday]-->
+        <holiday endDate="2016-12-23" startDate="2016-12-23" workingday="false">天皇誕生日</holiday>
+    </holidays>
+</calendar>
+

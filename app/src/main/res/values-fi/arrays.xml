@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="accepted_items">
+        <item>Hyväksytty</item>
+        <item>Alustava</item>
+        <item>Hylätty</item>
+    </array>
+    <array name="accessibility_event_color_picker_colors">
+        <item>Keltainen</item>
+        <item>Oranssi</item>
+        <item>Punainen</item>
+        <item>Viininpunainen</item>
+        <item>Vaaleanpunainen</item>
+        <item>Purppura</item>
+        <item>Ruskea</item>
+        <item>Vaaleanvihreä</item>
+        <item>Vihreä</item>
+        <item>Turkoosi</item>
+        <item>Vaaleansininen</item>
+        <item>Sininen</item>
+    </array>
+    <array name="availability">
+        <item>Varattu</item>
+        <item>Vapaa</item>
+        <item>Alustava</item>
+    </array>
+    <array name="change_response_labels">
+        <item>Vain tämä esiintymä</item>
+        <item>Kaikki sarjan tapahtumat</item>
+    </array>
+    <array name="month_view_day_labels">
+        <item>M</item>
+        <item>T</item>
+        <item>K</item>
+        <item>T</item>
+        <item>P</item>
+        <item>L</item>
+        <item>S</item>
+    </array>
+    <array name="ordinal_labels">
+        <item>ensimmäinen</item>
+        <item>toinen</item>
+        <item>kolmas</item>
+        <item>neljäs</item>
+        <item>viimeinen</item>
+    </array>
+    <array name="prefEntries_alerts_vibrateWhen">
+        <item>Aina</item>
+        <item>Vain Ei saa häiritä -tilassa</item>
+        <item>Ei koskaan</item>
+    </array>
+    <array name="preferences_alert_type_labels">
+        <item>Hälytys</item>
+        <item>Tilapalkin ilmoitus</item>
+        <item>Pois</item>
+    </array>
+    <array name="preferences_default_reminder_labels">
+        <item>Ei mitään</item>
+        <item>5 minuuttia</item>
+        <item>10 minuuttia</item>
+        <item>15 minuuttia</item>
+        <item>20 minuuttia</item>
+        <item>25 minuuttia</item>
+        <item>30 minuuttia</item>
+        <item>45 minuuttia</item>
+        <item>1 tunti</item>
+        <item>2 tuntia</item>
+        <item>3 tuntia</item>
+        <item>12 tuntia</item>
+        <item>24 tuntia</item>
+        <item>2 päivää</item>
+        <item>1 viikko</item>
+    </array>
+    <array name="preferences_week_days_labels">
+        <item>Vain työpäivät</item>
+        <item>7 päivää</item>
+    </array>
+    <array name="quick_response_defaults">
+        <item>Olen muutaman minuutin myöhässä.</item>
+        <item>Olen siellä 10 minuutin päästä.</item>
+        <item>Aloittakaa vain ilman minua.</item>
+        <item>En valitettavasti pääse. Sovitaan jokin toinen aika.</item>
+    </array>
+    <array name="reminder_minutes_labels">
+        <item>5 minuuttia</item>
+        <item>10 minuuttia</item>
+        <item>15 minuuttia</item>
+        <item>20 minuuttia</item>
+        <item>25 minuuttia</item>
+        <item>30 minuuttia</item>
+        <item>45 minuuttia</item>
+        <item>1 tunti</item>
+        <item>2 tuntia</item>
+        <item>3 tuntia</item>
+        <item>12 tuntia</item>
+        <item>24 tuntia</item>
+        <item>2 päivää</item>
+        <item>1 viikko</item>
+    </array>
+    <array name="repeats_pattern">
+        <item>Päivittäin</item>
+        <item>Viikoittain</item>
+        <item>Kuukausittain</item>
+        <item>Vuosittain</item>
+    </array>
+    <array name="repeats_weekdays_no">
+        <item>Ensimmäinen</item>
+        <item>Toinen</item>
+        <item>Kolmas</item>
+        <item>Neljäs</item>
+        <item>Viides</item>
+    </array>
+    <array name="reply_items">
+        <item>Vastaa</item>
+        <item>Vastaa kaikille</item>
+        <item>Välitä</item>
+    </array>
+    <array name="response_labels1">
+        <item>(Ei vastausta)</item>
+        <item>Kyllä</item>
+        <item>Ehkä</item>
+        <item>Ei</item>
+    </array>
+    <array name="response_labels2">
+        <item>Kyllä</item>
+        <item>Ehkä</item>
+        <item>Ei</item>
+    </array>
+    <array name="timezone_labels">
+        <item>Marshallinsaaret</item>
+        <item>Midwayn saari</item>
+        <item>Havaiji</item>
+        <item>Alaska</item>
+        <item>Tyynenmeren aika</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Kalliovuorten aika</item>
+        <item>Keski-Amerikka</item>
+        <item>Keskinen aika</item>
+        <item>Mexico City</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>Itäinen aika</item>
+        <item>Venezuela</item>
+        <item>Atlantin aika</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Newfoundland</item>
+        <item>Brasilia</item>
+        <item>Buenos Aires</item>
+        <item>Grönlanti</item>
+        <item>Montevideo</item>
+        <item>Keski-Atlannin aika</item>
+        <item>Azorit</item>
+        <item>Kap Verde</item>
+        <item>Casablanca</item>
+        <item>Lontoo, Dublin</item>
+        <item>Amsterdam, Berliini</item>
+        <item>Belgrad</item>
+        <item>Bryssel</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>Läntisen Afrikan aika</item>
+        <item>Amman, Jordania</item>
+        <item>Ateena, Istanbul</item>
+        <item>Beirut, Libanon</item>
+        <item>Kairo</item>
+        <item>Helsinki</item>
+        <item>Jerusalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moskova</item>
+        <item>Kuwait</item>
+        <item>Nairobi</item>
+        <item>Teheran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Jerevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karachi</item>
+        <item>Uralsk</item>
+        <item>Jekaterinburg</item>
+        <item>Kolkata</item>
+        <item>Sri Lanka</item>
+        <item>Katmandu</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnojarsk</item>
+        <item>Bangkok</item>
+        <item>Beijing</item>
+        <item>Hongkong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Soul</item>
+        <item>Tokio, Osaka</item>
+        <item>Jakutsk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney, Canberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fidži</item>
+        <item>Tonga</item>
+    </array>
+    <array name="visibility">
+        <item>Oletus</item>
+        <item>Yksityinen</item>
+        <item>Julkinen</item>
+    </array>
+</resources>

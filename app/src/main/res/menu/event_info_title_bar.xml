@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:icon="@drawable/ic_menu_share"
+        android:id="@+id/share_menu"
+        android:title="@string/vCal_share_menu"
+        app:actionProviderClass="com.sonymobile.calendar.CustomShareActionProvider"
+        app:showAsAction="never"/>
+    <item
+        android:icon="@drawable/ic_colorpallet"
+        android:id="@+id/set_event_color"
+        android:title="@string/event_color_picker_title"
+        android:alphabeticShortcut="m"
+        app:showAsAction="never"/>
+    <item
+        android:icon="@drawable/ic_menu_edit_dark"
+        android:id="@+id/edit"
+        android:title="@string/edit_label"
+        android:alphabeticShortcut="e"
+        app:showAsAction="always"/>
+    <item
+        android:icon="@drawable/ic_menu_forward"
+        android:id="@+id/forward"
+        android:title="@string/clr_strings_event_forward_action_txt"
+        android:alphabeticShortcut="f"
+        app:showAsAction="never"/>
+    <item
+        android:icon="@drawable/ic_delete"
+        android:id="@+id/delete"
+        android:title="@string/delete_label"
+        android:alphabeticShortcut="d"
+        app:showAsAction="always"/>
+</menu>

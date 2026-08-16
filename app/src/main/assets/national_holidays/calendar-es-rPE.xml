@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: es (Spanish; Castilian)
+ * Region: PE (Peru)
+ *********************************************************************
+--><calendar language="es" region="PE" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Día de Año nuevo</holiday>
+        <!--[Maundy Thursday] - [maundy_thursday]-->
+        <holiday endDate="2017-04-13" startDate="2017-04-13" workingday="false">Jueves Santo</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2017-04-14" startDate="2017-04-14" workingday="false">Viernes Santo</holiday>
+        <!--[Labor Day] - [labor_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Día del trabajador</holiday>
+        <!--[Saints Peter and Paul's Day] - [saints_peter_and_paul_s_day]-->
+        <holiday endDate="2017-06-29" startDate="2017-06-29" workingday="false">Día de San Pedro y San Pablo</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2017-07-28" startDate="2017-07-28" workingday="false">Día de la independencia</holiday>
+        <!--[Independence Day Holiday] - [independence_day]-->
+        <holiday endDate="2017-07-29" startDate="2017-07-29" workingday="false">Día de la independencia</holiday>
+        <!--[Santa Rosa de Lima Day] - [santa_rosa_de_lima_day]-->
+        <holiday endDate="2017-08-30" startDate="2017-08-30" workingday="false">Día de Santa Rosa de Lima</holiday>
+        <!--[Battle of Angamos Day] - [battle_of_angamos_day]-->
+        <holiday endDate="2017-10-08" startDate="2017-10-08" workingday="false">Día de la Batalla de Angamos</holiday>
+        <!--[All Saints' Day] - [all_saints__day]-->
+        <holiday endDate="2017-11-01" startDate="2017-11-01" workingday="false">Día de Todos los Santos</holiday>
+        <!--[Immaculate Conception] - [immaculate_conception]-->
+        <holiday endDate="2017-12-08" startDate="2017-12-08" workingday="false">Día de la Inmaculada Concepción</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Día de Navidad</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Día de Año nuevo</holiday>
+        <!--[Maundy Thursday] - [maundy_thursday]-->
+        <holiday endDate="2016-03-24" startDate="2016-03-24" workingday="false">Jueves Santo</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2016-03-25" startDate="2016-03-25" workingday="false">Viernes Santo</holiday>
+        <!--[Labor Day] - [labor_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Día del trabajador</holiday>
+        <!--[Saints Peter and Paul's Day] - [saints_peter_and_paul_s_day]-->
+        <holiday endDate="2016-06-29" startDate="2016-06-29" workingday="false">Día de San Pedro y San Pablo</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2016-07-28" startDate="2016-07-28" workingday="false">Día de la independencia</holiday>
+        <!--[Independence Day Holiday] - [independence_day]-->
+        <holiday endDate="2016-07-29" startDate="2016-07-29" workingday="false">Día de la independencia</holiday>
+        <!--[Santa Rosa de Lima Day] - [santa_rosa_de_lima_day]-->
+        <holiday endDate="2016-08-30" startDate="2016-08-30" workingday="false">Día de Santa Rosa de Lima</holiday>
+        <!--[Battle of Angamos Day] - [battle_of_angamos_day]-->
+        <holiday endDate="2016-10-08" startDate="2016-10-08" workingday="false">Día de la Batalla de Angamos</holiday>
+        <!--[All Saints' Day] - [all_saints__day]-->
+        <holiday endDate="2016-11-01" startDate="2016-11-01" workingday="false">Día de Todos los Santos</holiday>
+        <!--[Immaculate Conception] - [immaculate_conception]-->
+        <holiday endDate="2016-12-08" startDate="2016-12-08" workingday="false">Día de la Inmaculada Concepción</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Día de Navidad</holiday>
+    </holidays>
+</calendar>
+

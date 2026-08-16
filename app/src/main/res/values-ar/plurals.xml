@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 يوم</item>
+        <item quantity="other">‏%d أيام</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">حدث واحد</item>
+        <item quantity="other">%d حدثًا</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">ساعة واحدة</item>
+        <item quantity="other">‏%d ساعات</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">دقيقة واحدة</item>
+        <item quantity="other">‏%d دقائق</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">دقيقة واحدة</item>
+        <item quantity="other">‏%d دقائق</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">درجة</item>
+        <item quantity="other">درجات</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d سنة</item>
+        <item quantity="other">%d سنة</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">مهمة واحدة</item>
+        <item quantity="other">%d مهمة</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">حدث</item>
+        <item quantity="other">أحداث</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">تمت إضافة الحدث</item>
+        <item quantity="other">تمت إضافة الأحداث</item>
+    </plurals>
+</resources>

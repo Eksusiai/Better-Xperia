@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="tag_task_id" />
+    <item type="id" name="tag_complete_status" />
+    <item type="id" name="month_position_tag" />
+    <item type="id" name="holidays_hint_promo_id" />
+    <item type="id" name="linkedin_hint_promo_id" />
+    <item type="id" name="weather_hint_promo_id" />
+    <item type="id" name="personalize_hint_promo_id" />
+    <item type="id" name="tag_position" />
+</resources>

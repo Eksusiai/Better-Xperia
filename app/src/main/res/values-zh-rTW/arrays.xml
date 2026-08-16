@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="accepted_items">
+        <item>已接受</item>
+        <item>未定</item>
+        <item>已拒絕</item>
+    </array>
+    <array name="accessibility_event_color_picker_colors">
+        <item>黃色</item>
+        <item>橘色</item>
+        <item>紅色</item>
+        <item>酒紅色</item>
+        <item>粉紅色</item>
+        <item>紫色</item>
+        <item>棕色</item>
+        <item>淺綠色</item>
+        <item>綠色</item>
+        <item>綠松色</item>
+        <item>淺藍色</item>
+        <item>藍色</item>
+    </array>
+    <array name="availability">
+        <item>忙碌</item>
+        <item>有空</item>
+        <item>未定</item>
+    </array>
+    <array name="change_response_labels">
+        <item>僅適用於這一次</item>
+        <item>所有後續活動</item>
+    </array>
+    <array name="month_view_day_labels">
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+        <item>日</item>
+    </array>
+    <array name="ordinal_labels">
+        <item>第一個</item>
+        <item>第二個</item>
+        <item>第三個</item>
+        <item>第四個</item>
+        <item>最後一個</item>
+    </array>
+    <array name="prefEntries_alerts_vibrateWhen">
+        <item>永遠</item>
+        <item>勿擾模式時才啟用</item>
+        <item>永遠不要</item>
+    </array>
+    <array name="preferences_alert_type_labels">
+        <item>提示</item>
+        <item>狀態列通知</item>
+        <item>關閉</item>
+    </array>
+    <array name="preferences_default_reminder_labels">
+        <item>無</item>
+        <item>5分鐘</item>
+        <item>10分鐘</item>
+        <item>15分鐘</item>
+        <item>20分鐘</item>
+        <item>25分鐘</item>
+        <item>30分鐘</item>
+        <item>45分鐘</item>
+        <item>1小時</item>
+        <item>2小時</item>
+        <item>3小時</item>
+        <item>12小時</item>
+        <item>24小時</item>
+        <item>2天</item>
+        <item>1週</item>
+    </array>
+    <array name="preferences_week_days_labels">
+        <item>僅限工作日</item>
+        <item>7天</item>
+    </array>
+    <array name="quick_response_defaults">
+        <item>可能會遲到幾分鐘。</item>
+        <item>大概10分鐘內就會到了。</item>
+        <item>你們去吧，不必等我。</item>
+        <item>抱歉，我無法到場。我們要重新安排時間了。</item>
+    </array>
+    <array name="reminder_minutes_labels">
+        <item>5分鐘</item>
+        <item>10分鐘</item>
+        <item>15分鐘</item>
+        <item>20分鐘</item>
+        <item>25分鐘</item>
+        <item>30分鐘</item>
+        <item>45分鐘</item>
+        <item>1小時</item>
+        <item>2小時</item>
+        <item>3小時</item>
+        <item>12小時</item>
+        <item>24小時</item>
+        <item>2天</item>
+        <item>1週</item>
+    </array>
+    <array name="repeats_pattern">
+        <item>每天</item>
+        <item>每週</item>
+        <item>每月</item>
+        <item>每年</item>
+    </array>
+    <array name="repeats_weekdays_no">
+        <item>第一個</item>
+        <item>第二個</item>
+        <item>第三個</item>
+        <item>第四個</item>
+        <item>第五個</item>
+    </array>
+    <array name="reply_items">
+        <item>回覆</item>
+        <item>全部回覆</item>
+        <item>轉寄</item>
+    </array>
+    <array name="response_labels1">
+        <item>(無回應)</item>
+        <item>是</item>
+        <item>不確定</item>
+        <item>否</item>
+    </array>
+    <array name="response_labels2">
+        <item>是</item>
+        <item>不確定</item>
+        <item>否</item>
+    </array>
+    <array name="timezone_labels">
+        <item>馬紹爾群島</item>
+        <item>中途島</item>
+        <item>夏威夷</item>
+        <item>阿拉斯加</item>
+        <item>太平洋時間</item>
+        <item>提華納</item>
+        <item>亞利桑那</item>
+        <item>奇瓦瓦</item>
+        <item>山區時間</item>
+        <item>中美洲</item>
+        <item>中部時間</item>
+        <item>墨西哥市</item>
+        <item>薩克斯其萬省</item>
+        <item>波哥大</item>
+        <item>東部時間</item>
+        <item>委內瑞拉</item>
+        <item>大西洋時間</item>
+        <item>瑪瑙斯</item>
+        <item>聖地亞哥</item>
+        <item>紐芬蘭</item>
+        <item>巴西利亞</item>
+        <item>布宜諾斯艾利斯</item>
+        <item>格陵蘭</item>
+        <item>蒙特維多</item>
+        <item>大西洋中部</item>
+        <item>亞速爾群島</item>
+        <item>維德角群島</item>
+        <item>卡薩布蘭卡</item>
+        <item>倫敦、都柏林</item>
+        <item>阿姆斯特丹、柏林</item>
+        <item>貝爾格萊德</item>
+        <item>布魯塞爾</item>
+        <item>塞拉耶佛</item>
+        <item>溫特和克</item>
+        <item>非洲西部時間</item>
+        <item>安曼、約旦</item>
+        <item>雅典、伊斯坦堡</item>
+        <item>貝魯特、黎巴嫩</item>
+        <item>開羅</item>
+        <item>赫爾辛基</item>
+        <item>耶路撒冷</item>
+        <item>明斯克</item>
+        <item>哈拉雷</item>
+        <item>巴格達</item>
+        <item>莫斯科</item>
+        <item>科威特</item>
+        <item>奈洛比</item>
+        <item>德黑蘭</item>
+        <item>巴庫</item>
+        <item>第比利斯</item>
+        <item>埃里溫</item>
+        <item>杜拜</item>
+        <item>喀布爾</item>
+        <item>伊斯蘭馬巴德、喀拉蚩</item>
+        <item>烏拉爾斯克</item>
+        <item>凱薩琳堡</item>
+        <item>加爾各答</item>
+        <item>斯里蘭卡</item>
+        <item>加德滿都</item>
+        <item>阿斯塔納</item>
+        <item>仰光</item>
+        <item>克拉斯諾亞爾斯克</item>
+        <item>曼谷</item>
+        <item>北京</item>
+        <item>香港</item>
+        <item>伊爾庫次克</item>
+        <item>吉隆坡</item>
+        <item>伯斯</item>
+        <item>台北</item>
+        <item>首爾</item>
+        <item>東京、大阪</item>
+        <item>亞庫次克</item>
+        <item>阿得雷德</item>
+        <item>達爾文</item>
+        <item>布里斯本</item>
+        <item>霍巴特</item>
+        <item>雪梨、坎培拉</item>
+        <item>海參崴</item>
+        <item>關島</item>
+        <item>馬加丹</item>
+        <item>奧克蘭</item>
+        <item>斐濟</item>
+        <item>東加</item>
+    </array>
+    <array name="visibility">
+        <item>預設</item>
+        <item>私人</item>
+        <item>公開</item>
+    </array>
+</resources>

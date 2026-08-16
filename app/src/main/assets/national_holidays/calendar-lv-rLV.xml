@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: lv (Latvian)
+ * Region: LV (Latvia)
+ *********************************************************************
+--><calendar language="lv" region="LV" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day (Jaungads)] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Jaungada diena</holiday>
+        <!--[Good Friday (Liela piektdiena)] - [good_friday]-->
+        <holiday endDate="2017-04-14" startDate="2017-04-14" workingday="false">Lielā Piektdiena</holiday>
+        <!--[Easter Monday (Otras Lieldienas)] - [easter_monday]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">Otrās Lieldienas</holiday>
+        <!--[Labour Day (Darba svetki)] - [labor_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Darba svētki</holiday>
+        <!--[Declaration of Independence Day] - [declaration_of_independence_day]-->
+        <holiday endDate="2017-05-04" startDate="2017-05-04" workingday="false">Latvijas Republikas Neatkarības deklarācijas pasludināšanas diena</holiday>
+        <!--[Ligo (Midsummer's Eve)] - [ligo__midsummer_s_eve_]-->
+        <holiday endDate="2017-06-23" startDate="2017-06-23" workingday="false">Līgo diena</holiday>
+        <!--[Jani (Saint John's Day)] - [jani__saint_john_s_day_]-->
+        <holiday endDate="2017-06-24" startDate="2017-06-24" workingday="false">Jāņu diena</holiday>
+        <!--[Proclamation of the Republic] - [proclamation_of_the_republic]-->
+        <holiday endDate="2017-11-18" startDate="2017-11-18" workingday="false">Latvijas Republikas Proklamēšanas diena</holiday>
+        <!--[Christmas Eve] - [christmas_eve]-->
+        <holiday endDate="2017-12-24" startDate="2017-12-24" workingday="false">Ziemassvētku vakars</holiday>
+        <!--[Christmas Day (Ziemassvetki)] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Ziemassvētki</holiday>
+        <!--[Second Day of Christmas] - [second_day_of_christmas]-->
+        <holiday endDate="2017-12-26" startDate="2017-12-26" workingday="false">Otrie Ziemassvētki</holiday>
+        <!--[New Year's Eve (Vecgada vakars)] - [new_year_s_eve__vecgada_vakars_]-->
+        <holiday endDate="2017-12-31" startDate="2017-12-31" workingday="false">Vecgada vakars</holiday>
+        <!--[New Year's Day (Jaungads)] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Jaungada diena</holiday>
+        <!--[Good Friday (Liela piektdiena)] - [good_friday]-->
+        <holiday endDate="2016-03-25" startDate="2016-03-25" workingday="false">Lielā Piektdiena</holiday>
+        <!--[Easter Monday (Otras Lieldienas)] - [easter_monday]-->
+        <holiday endDate="2016-03-28" startDate="2016-03-28" workingday="false">Otrās Lieldienas</holiday>
+        <!--[Labour Day (Darba svetki)] - [labor_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Darba svētki</holiday>
+        <!--[Declaration of Independence Day] - [declaration_of_independence_day]-->
+        <holiday endDate="2016-05-04" startDate="2016-05-04" workingday="false">Latvijas Republikas Neatkarības deklarācijas pasludināšanas diena</holiday>
+        <!--[Ligo (Midsummer's Eve)] - [ligo__midsummer_s_eve_]-->
+        <holiday endDate="2016-06-23" startDate="2016-06-23" workingday="false">Līgo diena</holiday>
+        <!--[Jani (Saint John's Day)] - [jani__saint_john_s_day_]-->
+        <holiday endDate="2016-06-24" startDate="2016-06-24" workingday="false">Jāņu diena</holiday>
+        <!--[Proclamation of the Republic] - [proclamation_of_the_republic]-->
+        <holiday endDate="2016-11-18" startDate="2016-11-18" workingday="false">Latvijas Republikas Proklamēšanas diena</holiday>
+        <!--[Christmas Eve] - [christmas_eve]-->
+        <holiday endDate="2016-12-24" startDate="2016-12-24" workingday="false">Ziemassvētku vakars</holiday>
+        <!--[Christmas Day (Ziemassvetki)] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Ziemassvētki</holiday>
+        <!--[Second Day of Christmas] - [second_day_of_christmas]-->
+        <holiday endDate="2016-12-26" startDate="2016-12-26" workingday="false">Otrie Ziemassvētki</holiday>
+        <!--[New Year's Eve (Vecgada vakars)] - [new_year_s_eve__vecgada_vakars_]-->
+        <holiday endDate="2016-12-31" startDate="2016-12-31" workingday="false">Vecgada vakars</holiday>
+    </holidays>
+</calendar>
+

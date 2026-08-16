@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:fitsSystemWindows="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        android:id="@+id/main_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:layout_alignParentTop="true"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.DayNight"/>
+    <LinearLayout
+        android:id="@+id/complete_dismiss_action_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        style="?android:attr/buttonBarStyle">
+        <Button
+            android:id="@+id/complete_all_alert_tasks"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/task_complete_all_button_text"
+            android:layout_weight="1"
+            style="?android:attr/buttonBarButtonStyle"/>
+        <Button
+            android:id="@+id/dismiss_all_alert_tasks"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/task_dismiss_all_button_text"
+            android:layout_weight="1"
+            style="?android:attr/buttonBarButtonStyle"/>
+    </LinearLayout>
+    <ListView
+        android:scrollbarStyle="outsideOverlay"
+        android:layout_gravity="top"
+        android:id="@+id/search_view_list"
+        android:longClickable="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/complete_dismiss_action_layout"/>
+</RelativeLayout>

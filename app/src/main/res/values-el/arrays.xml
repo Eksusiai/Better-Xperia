@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="accepted_items">
+        <item>Έγινε αποδοχή</item>
+        <item>Αβέβαιο</item>
+        <item>Απορρίφθηκε</item>
+    </array>
+    <array name="accessibility_event_color_picker_colors">
+        <item>Κίτρινο </item>
+        <item>Πορτοκαλί</item>
+        <item>Κόκκινο </item>
+        <item>Κόκκινο Βουργουνδίας</item>
+        <item>Ροζ</item>
+        <item>Μωβ</item>
+        <item>Καφέ</item>
+        <item>Ανοιχτό πράσινο</item>
+        <item>Πράσινο </item>
+        <item>Τυρκουάζ</item>
+        <item>Ανοιχτό μπλε</item>
+        <item>Μπλε</item>
+    </array>
+    <array name="availability">
+        <item>Απασχολημένος/η</item>
+        <item>Διαθέσιμος/η</item>
+        <item>Αβέβαιος/η</item>
+    </array>
+    <array name="change_response_labels">
+        <item>Μόνο αυτό το περιστ.</item>
+        <item>Όλα τα συμβ. στη σειρά</item>
+    </array>
+    <array name="month_view_day_labels">
+        <item>Δ</item>
+        <item>Τ</item>
+        <item>Τ</item>
+        <item>Π</item>
+        <item>Π</item>
+        <item>Σ</item>
+        <item>Κ</item>
+    </array>
+    <array name="ordinal_labels">
+        <item>πρώτη/ο</item>
+        <item>δεύτερη/ο</item>
+        <item>τρίτη/ο</item>
+        <item>τέταρτη/ο</item>
+        <item>τελευταία/ο</item>
+    </array>
+    <array name="prefEntries_alerts_vibrateWhen">
+        <item>Πάντα</item>
+        <item>Μόνο στη λειτ. Μην ενοχλ.</item>
+        <item>Ποτέ</item>
+    </array>
+    <array name="preferences_alert_type_labels">
+        <item>Προειδοποίηση</item>
+        <item>Ειδοποίηση γραμμής κατάστασης</item>
+        <item>Ανενεργό</item>
+    </array>
+    <array name="preferences_default_reminder_labels">
+        <item>Κανένας</item>
+        <item>5 λεπτά</item>
+        <item>10 λεπτά</item>
+        <item>15 λεπτά</item>
+        <item>20 λεπτά</item>
+        <item>25 λεπτά</item>
+        <item>30 λεπτά</item>
+        <item>45 λεπτά</item>
+        <item>1 ώρα</item>
+        <item>2 ώρες</item>
+        <item>3 ώρες</item>
+        <item>12 ώρες</item>
+        <item>24 ώρες</item>
+        <item>2 ημέρες</item>
+        <item>1 εβδομάδα</item>
+    </array>
+    <array name="preferences_week_days_labels">
+        <item>Μόνο εργάσιμες ημέρες</item>
+        <item>7 ημέρες</item>
+    </array>
+    <array name="quick_response_defaults">
+        <item>Θα καθυστερήσω λίγα λεπτά.</item>
+        <item>Θα είμαι εκεί σε 10 λεπτά περίπου.</item>
+        <item>Ξεκινήστε χωρίς εμένα.</item>
+        <item>Δεν θα μπορέσω να έρθω. Ας το αναβάλλουμε για άλλη φορά.</item>
+    </array>
+    <array name="reminder_minutes_labels">
+        <item>5 λεπτά</item>
+        <item>10 λεπτά</item>
+        <item>15 λεπτά</item>
+        <item>20 λεπτά</item>
+        <item>25 λεπτά</item>
+        <item>30 λεπτά</item>
+        <item>45 λεπτά</item>
+        <item>1 ώρα</item>
+        <item>2 ώρες</item>
+        <item>3 ώρες</item>
+        <item>12 ώρες</item>
+        <item>24 ώρες</item>
+        <item>2 ημέρες</item>
+        <item>1 εβδομάδα</item>
+    </array>
+    <array name="repeats_pattern">
+        <item>Ημερήσια</item>
+        <item>Εβδομαδιαία</item>
+        <item>Μηνιαία</item>
+        <item>Ετήσια</item>
+    </array>
+    <array name="repeats_weekdays_no">
+        <item>Πρώτη</item>
+        <item>Δεύτερη</item>
+        <item>Τρίτη</item>
+        <item>Τέταρτη</item>
+        <item>Πέμπτη</item>
+    </array>
+    <array name="reply_items">
+        <item>Απάντηση</item>
+        <item>Απάντηση σε όλους</item>
+        <item>Προώθηση</item>
+    </array>
+    <array name="response_labels1">
+        <item>(Καμία απάντηση)</item>
+        <item>Ναι</item>
+        <item>Ίσως</item>
+        <item>Όχι</item>
+    </array>
+    <array name="response_labels2">
+        <item>Ναι</item>
+        <item>Ίσως</item>
+        <item>Όχι</item>
+    </array>
+    <array name="timezone_labels">
+        <item>Νήσοι Μάρσαλ</item>
+        <item>Νήσος Μιντγουέι</item>
+        <item>Χαβάη</item>
+        <item>Αλάσκα</item>
+        <item>Ώρα Ειρηνικού</item>
+        <item>Τιχουάνα</item>
+        <item>Αριζόνα</item>
+        <item>Τσιουάουα</item>
+        <item>Ορεινή ώρα</item>
+        <item>Κεντρική Αμερική</item>
+        <item>Κεντρική ώρα</item>
+        <item>Πόλη του Μεξικού</item>
+        <item>Σασκάτσιουαν</item>
+        <item>Μπογκοτά</item>
+        <item>Ανατολική ώρα</item>
+        <item>Βενεζουέλα</item>
+        <item>Ώρα Ατλαντικού</item>
+        <item>Μανάους</item>
+        <item>Σαντιάγκο</item>
+        <item>Νέα Γη</item>
+        <item>Μπραζίλια</item>
+        <item>Μπουένος Άιρες</item>
+        <item>Γροιλανδία</item>
+        <item>Μοντεβίδεο</item>
+        <item>Μέσος Ατλαντικός</item>
+        <item>Αζόρες</item>
+        <item>Νήσοι Πρ. Ακρωτ.</item>
+        <item>Καζαμπλάνκα</item>
+        <item>Λονδίνο, Δουβλ.</item>
+        <item>Άμστ., Βερολίνο</item>
+        <item>Βελιγράδι</item>
+        <item>Βρυξέλλες</item>
+        <item>Σαράγεβο</item>
+        <item>Βίντχουκ</item>
+        <item>Ώρα Δ. Αφρικής</item>
+        <item>Αμμάν, Ιορδανία</item>
+        <item>Αθήνα, Κωνσταντ.</item>
+        <item>Βηρυτός, Λίβανος</item>
+        <item>Κάιρο</item>
+        <item>Ελσίνκι</item>
+        <item>Ιερουσαλήμ</item>
+        <item>Μινσκ</item>
+        <item>Χαράρε</item>
+        <item>Βαγδάτη</item>
+        <item>Μόσχα</item>
+        <item>Κουβέιτ</item>
+        <item>Ναϊρόμπι</item>
+        <item>Τεχεράνη</item>
+        <item>Μπακού</item>
+        <item>Τιφλίδα</item>
+        <item>Γερεβάν</item>
+        <item>Ντουμπάι</item>
+        <item>Καμπούλ</item>
+        <item>Ισλ., Καράτσι</item>
+        <item>Ουράλσκ</item>
+        <item>Εκατερίνμπουργκ</item>
+        <item>Καλκούτα</item>
+        <item>Σρι Λάνκα</item>
+        <item>Κατμαντού</item>
+        <item>Αστάνα</item>
+        <item>Γιανγκόν</item>
+        <item>Κρασνογιάρσκ</item>
+        <item>Μπανγκόκ</item>
+        <item>Πεκίνο</item>
+        <item>Χονγκ Κονγκ</item>
+        <item>Ιρκούτσκ</item>
+        <item>Κουάλα Λουμπούρ</item>
+        <item>Περθ</item>
+        <item>Ταϊπέι</item>
+        <item>Σεούλ</item>
+        <item>Τόκιο, Οσάκα</item>
+        <item>Γιακούτσκ</item>
+        <item>Αδελαΐδα</item>
+        <item>Ντάργουιν</item>
+        <item>Μπρισμπέιν</item>
+        <item>Χόμπαρτ</item>
+        <item>Σύδνεϋ, Καμπέρα</item>
+        <item>Βλαδιβοστόκ</item>
+        <item>Γκουάμ</item>
+        <item>Μάγκανταν</item>
+        <item>Όκλαντ</item>
+        <item>Φίτζι</item>
+        <item>Τόνγκα</item>
+    </array>
+    <array name="visibility">
+        <item>Προεπιλογή</item>
+        <item>Ιδιωτικό</item>
+        <item>Δημόσιο</item>
+    </array>
+</resources>

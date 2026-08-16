@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: kk (Kazakh)
+ * Region: KZ (Kazakhstan)
+ *********************************************************************
+--><calendar language="kk" region="KZ" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day (celebration)] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Жаңа жыл күні</holiday>
+        <!--[New Year Holiday (day in lieu)] - [new_year_holiday__day_in_lieu_]-->
+        <holiday endDate="2017-01-02" startDate="2017-01-02" workingday="false">Жаңа жыл мерекесі (өтемдік күн)</holiday>
+        <!--[New Year Holiday] - [new_year_holiday]-->
+        <holiday endDate="2017-01-03" startDate="2017-01-03" workingday="false">Жаңа жыл мерекесі</holiday>
+        <!--[Orthodox Christmas] - [orthodox_christmas]-->
+        <holiday endDate="2017-01-07" startDate="2017-01-07" workingday="false">Ортодоксалдық Рождество</holiday>
+        <!--[International Women's Day] - [international_women_s_day]-->
+        <holiday endDate="2017-03-08" startDate="2017-03-08" workingday="false">Халықаралық әйелдер күні</holiday>
+        <!--[Nauryz Meyramy (Persian New Year)] - [nauryz_meyramy__persian_new_year_]-->
+        <holiday endDate="2017-03-21" startDate="2017-03-21" workingday="false">Наурыз мейрамы</holiday>
+        <!--[Nauryz Meyramy Holiday] - [nauryz_meyramy_holiday]-->
+        <holiday endDate="2017-03-22" startDate="2017-03-22" workingday="false">Наурыз мейрамы мерекесі</holiday>
+        <!--[Nauryz Meyramy Holiday] - [nauryz_meyramy_holiday]-->
+        <holiday endDate="2017-03-23" startDate="2017-03-23" workingday="false">Наурыз мейрамы мерекесі</holiday>
+        <!--[Unity Day] - [unity_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Халық бірлігі күні</holiday>
+        <!--[Homeland Defender Day (celebration)] - [homeland_defender_day__celebration_]-->
+        <holiday endDate="2017-05-07" startDate="2017-05-07" workingday="false">Отан қорғаушы күні (мерекелеу)</holiday>
+        <!--[Homeland Defender Day Holiday (day in lieu)] - [homeland_defender_day_holiday__day_in_lieu_]-->
+        <holiday endDate="2017-05-08" startDate="2017-05-08" workingday="false">Отан қорғаушы күні мерекесі (өтем күні)</holiday>
+        <!--[Victory Day] - [victory_day]-->
+        <holiday endDate="2017-05-09" startDate="2017-05-09" workingday="false">Жеңіс күні</holiday>
+        <!--[Day of the Capital] - [day_of_the_capital]-->
+        <holiday endDate="2017-07-06" startDate="2017-07-06" workingday="false">Астана күні</holiday>
+        <!--[Constitution Day] - [constitution_day]-->
+        <holiday endDate="2017-08-30" startDate="2017-08-30" workingday="false">Конституция күні</holiday>
+        <!--[Kurban Ait (Feast of Sacrifice)] - [feast_of_sacrifice]-->
+        <holiday endDate="2017-09-01" startDate="2017-09-01" workingday="false">Құрбан айт / Эйл аль-Адха</holiday>
+        <!--[Day of the First President] - [day_of_the_first_president]-->
+        <holiday endDate="2017-12-01" startDate="2017-12-01" workingday="false">Президент күні</holiday>
+        <!--[Independence Day (celebration)] - [independence_day]-->
+        <holiday endDate="2017-12-16" startDate="2017-12-16" workingday="false">Тәуелсіздік күні</holiday>
+        <!--[Independence Day Holiday (day in lieu)] - [independence_day]-->
+        <holiday endDate="2017-12-18" startDate="2017-12-18" workingday="false">Тәуелсіздік күні</holiday>
+        <!--[Independence Day Holiday] - [independence_day]-->
+        <holiday endDate="2017-12-19" startDate="2017-12-19" workingday="false">Тәуелсіздік күні</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Жаңа жыл күні</holiday>
+        <!--[New Year Holiday] - [new_year_holiday]-->
+        <holiday endDate="2016-01-04" startDate="2016-01-04" workingday="false">Жаңа жыл мерекесі</holiday>
+        <!--[Orthodox Christmas] - [orthodox_christmas]-->
+        <holiday endDate="2016-01-07" startDate="2016-01-07" workingday="false">Ортодоксалдық Рождество</holiday>
+        <!--[Public Holiday (workday moved to Sat. Mar. 5)] - [public_holiday__workday_moved_to_sat__mar__5_]-->
+        <holiday endDate="2016-03-07" startDate="2016-03-07" workingday="false">Мемлекеттік мереке (жұмыс күні 5 наурыз, сенбі күніне жылжытылды)</holiday>
+        <!--[International Women's Day] - [international_women_s_day]-->
+        <holiday endDate="2016-03-08" startDate="2016-03-08" workingday="false">Халықаралық әйелдер күні</holiday>
+        <!--[Nauryz Meyramy Holiday] - [nauryz_meyramy_holiday]-->
+        <holiday endDate="2016-03-21" startDate="2016-03-21" workingday="false">Наурыз мейрамы мерекесі</holiday>
+        <!--[Nauryz Meyramy (Persian New Year)] - [nauryz_meyramy__persian_new_year_]-->
+        <holiday endDate="2016-03-22" startDate="2016-03-22" workingday="false">Наурыз мейрамы</holiday>
+        <!--[Nauryz Meyramy Holiday] - [nauryz_meyramy_holiday]-->
+        <holiday endDate="2016-03-23" startDate="2016-03-23" workingday="false">Наурыз мейрамы мерекесі</holiday>
+        <!--[Unity Day (celebration)] - [unity_day__celebration_]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Бірлік күні (мерекелеу)</holiday>
+        <!--[Unity Day Holiday (day in lieu)] - [unity_day_holiday__day_in_lieu_]-->
+        <holiday endDate="2016-05-02" startDate="2016-05-02" workingday="false">Бірлік күні (демалыс берілген жұмыс күні)</holiday>
+        <!--[Homeland Defender Day] - [homeland_defender_day]-->
+        <holiday endDate="2016-05-07" startDate="2016-05-07" workingday="false">Отан қорғаушысының күні</holiday>
+        <!--[Victory Day] - [victory_day]-->
+        <holiday endDate="2016-05-09" startDate="2016-05-09" workingday="false">Жеңіс күні</holiday>
+        <!--[Day of the Capital] - [day_of_the_capital]-->
+        <holiday endDate="2016-07-06" startDate="2016-07-06" workingday="false">Астана күні</holiday>
+        <!--[Constitution Day] - [constitution_day]-->
+        <holiday endDate="2016-08-30" startDate="2016-08-30" workingday="false">Конституция күні</holiday>
+        <!--[Kurban Ait (Feast of Sacrifice)] - [feast_of_sacrifice]-->
+        <holiday endDate="2016-09-11" startDate="2016-09-11" workingday="false">Құрбан айт / Эйл аль-Адха</holiday>
+        <!--[Day of the First President] - [day_of_the_first_president]-->
+        <holiday endDate="2016-12-01" startDate="2016-12-01" workingday="false">Президент күні</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2016-12-16" startDate="2016-12-16" workingday="false">Тәуелсіздік күні</holiday>
+        <!--[Independence Day Holiday] - [independence_day]-->
+        <holiday endDate="2016-12-19" startDate="2016-12-19" workingday="false">Тәуелсіздік күні</holiday>
+    </holidays>
+</calendar>
+

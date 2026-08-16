@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_allow_stacked_button_bar">false</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="config_materialPreferenceIconSpaceReserved">false</bool>
+    <bool name="config_showDataUsageWarning">false</bool>
+    <bool name="enable_showing_permission_acceptance_dialog">false</bool>
+    <bool name="enable_system_alarm_service_default">false</bool>
+    <bool name="enable_system_foreground_service_default">true</bool>
+    <bool name="enable_system_job_service_default">true</bool>
+    <bool name="ga_anonymizeIp">true</bool>
+    <bool name="ga_autoActivityTracking">true</bool>
+    <bool name="ga_debug">false</bool>
+    <bool name="ga_reportUncaughtExceptions">false</bool>
+    <bool name="is_linkedin_enabled">false</bool>
+    <bool name="is_rtl">false</bool>
+    <bool name="is_sub320dp_screen">true</bool>
+    <bool name="local_boolean_app_draws_system_bar_backgrounds">true</bool>
+    <bool name="local_boolean_light_status_bar">true</bool>
+    <bool name="mtrl_btn_textappearance_all_caps">true</bool>
+    <bool name="multiple_pane_config">false</bool>
+    <bool name="support_country_holiday">false</bool>
+    <bool name="tablet_mode">false</bool>
+    <bool name="tablet_with_phone_ui_mode">false</bool>
+    <bool name="workmanager_test_configuration">false</bool>
+</resources>

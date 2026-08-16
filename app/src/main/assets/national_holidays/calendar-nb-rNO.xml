@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: nb (Norwegian Bokmål)
+ * Region: NO (Norway)
+ *********************************************************************
+--><calendar language="nb" region="NO" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">1. nyttårsdag</holiday>
+        <!--[Maundy Thursday] - [maundy_thursday]-->
+        <holiday endDate="2017-04-13" startDate="2017-04-13" workingday="false">Skjærtorsdag</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2017-04-14" startDate="2017-04-14" workingday="false">Langfredag</holiday>
+        <!--[Easter] - [easter]-->
+        <holiday endDate="2017-04-16" startDate="2017-04-16" workingday="false">1. påskedag</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">2. påskedag</holiday>
+        <!--[May Day] - [may_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">1. mai</holiday>
+        <!--[Constitution Day] - [constitution_day]-->
+        <holiday endDate="2017-05-17" startDate="2017-05-17" workingday="false">Grunnlovsdagen</holiday>
+        <!--[Ascension Day] - [ascension_day]-->
+        <holiday endDate="2017-05-25" startDate="2017-05-25" workingday="false">Kristi Himmelfartsdag</holiday>
+        <!--[Whit Sunday (Pentecost)] - [whit_sunday__pentecost_]-->
+        <holiday endDate="2017-06-04" startDate="2017-06-04" workingday="false">1. pinsedag</holiday>
+        <!--[Whit Monday] - [whit_monday]-->
+        <holiday endDate="2017-06-05" startDate="2017-06-05" workingday="false">2. pinsedag</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">1. juledag</holiday>
+        <!--[Second Day of Christmas] - [second_day_of_christmas]-->
+        <holiday endDate="2017-12-26" startDate="2017-12-26" workingday="false">2. juledag</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">1. nyttårsdag</holiday>
+        <!--[Maundy Thursday] - [maundy_thursday]-->
+        <holiday endDate="2016-03-24" startDate="2016-03-24" workingday="false">Skjærtorsdag</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2016-03-25" startDate="2016-03-25" workingday="false">Langfredag</holiday>
+        <!--[Easter] - [easter]-->
+        <holiday endDate="2016-03-27" startDate="2016-03-27" workingday="false">1. påskedag</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2016-03-28" startDate="2016-03-28" workingday="false">2. påskedag</holiday>
+        <!--[May Day] - [may_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">1. mai</holiday>
+        <!--[Ascension Day] - [ascension_day]-->
+        <holiday endDate="2016-05-05" startDate="2016-05-05" workingday="false">Kristi Himmelfartsdag</holiday>
+        <!--[Whit Sunday (Pentecost)] - [whit_sunday__pentecost_]-->
+        <holiday endDate="2016-05-15" startDate="2016-05-15" workingday="false">1. pinsedag</holiday>
+        <!--[Whit Monday] - [whit_monday]-->
+        <holiday endDate="2016-05-16" startDate="2016-05-16" workingday="false">2. pinsedag</holiday>
+        <!--[Constitution Day] - [constitution_day]-->
+        <holiday endDate="2016-05-17" startDate="2016-05-17" workingday="false">Grunnlovsdagen</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">1. juledag</holiday>
+        <!--[Second Day of Christmas] - [second_day_of_christmas]-->
+        <holiday endDate="2016-12-26" startDate="2016-12-26" workingday="false">2. juledag</holiday>
+    </holidays>
+</calendar>
+

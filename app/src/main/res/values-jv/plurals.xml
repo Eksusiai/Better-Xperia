@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 dina</item>
+        <item quantity="other">%d dina</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 acara</item>
+        <item quantity="other">%d acara</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 jam</item>
+        <item quantity="other">%d jam</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 menit</item>
+        <item quantity="other">%d menit</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 menit</item>
+        <item quantity="other">%d menit</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">drajat</item>
+        <item quantity="other">drajat</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d taun</item>
+        <item quantity="other">%d taun</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 tugas</item>
+        <item quantity="other">%d tugas</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">acara</item>
+        <item quantity="other">acara</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">Acara ditambahake</item>
+        <item quantity="other">Acara ditambahake</item>
+    </plurals>
+</resources>

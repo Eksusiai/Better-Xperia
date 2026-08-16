@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: zh (Chinese)
+ * Region: MY (Malaysia)
+ *********************************************************************
+--><calendar language="zh-rCN" region="MY" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day (except JHR KDH KTN PLS TRG)] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">新年</holiday>
+        <!--[New Year's Day (day in lieu) (except JHR KDH KTN PLS TRG)] - [new_year_s_day]-->
+        <holiday endDate="2017-01-02" startDate="2017-01-02" workingday="false">新年</holiday>
+        <!--[Chinese New Year] - [chinese_new_year]-->
+        <holiday endDate="2017-01-28" startDate="2017-01-28" workingday="false">中国新年</holiday>
+        <!--[Chinese New Year, Day 2] - [chinese_new_year__day_2]-->
+        <holiday endDate="2017-01-29" startDate="2017-01-29" workingday="false">中国新年，第2天</holiday>
+        <!--[Chinese New Year (day in lieu) (except JHR KDH KTN TRG)] - [chinese_new_year__day_in_lieu___except_jhr_kdh_ktn_trg_]-->
+        <holiday endDate="2017-01-30" startDate="2017-01-30" workingday="false">春节（带薪换休假）（JHR KDH KTN TRG 除外）</holiday>
+        <!--[Labour Day] - [labor_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">劳动节</holiday>
+        <!--[Wesak (Buddha Day)] - [wesak__buddha_day_]-->
+        <holiday endDate="2017-05-10" startDate="2017-05-10" workingday="false">Wesak（佛陀日）</holiday>
+        <!--[Birthday of SPB Yang di-Pertuan Agong] - [birthday_of_spb_yang_di_pertuan_agong]-->
+        <holiday endDate="2017-06-03" startDate="2017-06-03" workingday="false">国王诞辰</holiday>
+        <!--[Hari Raya Puasa (End of Ramadan)] - [end_of_ramadan]-->
+        <holiday endDate="2017-06-25" startDate="2017-06-25" workingday="false">Eid al Fitr（开斋节）</holiday>
+        <!--[Hari Raya Puasa Holiday] - [hari_raya_puasa_holiday]-->
+        <holiday endDate="2017-06-26" startDate="2017-06-26" workingday="false">开斋节假期</holiday>
+        <!--[Hari Raya Puasa (day in lieu) (except JHR KDH KTN TRG)] - [hari_raya_puasa__day_in_lieu___except_jhr_kdh_ktn_trg_]-->
+        <holiday endDate="2017-06-27" startDate="2017-06-27" workingday="false">回教开斋节（带薪换休假）（JHR KDH KTN TRG 除外）</holiday>
+        <!--[National Day (Hari Kebangsaan)] - [national_day__hari_kebangsaan_]-->
+        <holiday endDate="2017-08-31" startDate="2017-08-31" workingday="false">国庆日（Hari Kebangsaan）</holiday>
+        <!--[Hari Raya Qurban (Feast of Sacrifice)] - [feast_of_sacrifice]-->
+        <holiday endDate="2017-09-01" startDate="2017-09-01" workingday="false">Kurbannyhua/Eil al-Adha（宰牲节）</holiday>
+        <!--[Malaysia Day] - [malaysia_day]-->
+        <holiday endDate="2017-09-16" startDate="2017-09-16" workingday="false">马来西亚日</holiday>
+        <!--[Awal Muharram (Islamic New Year)] - [awal_muharram__islamic_new_year_]-->
+        <holiday endDate="2017-09-21" startDate="2017-09-21" workingday="false">Awal Muharram（伊斯兰新年）</holiday>
+        <!--[Deepavali (Festival of Lights) (except SRW)] - [deepavali__festival_of_lights___except_srw_]-->
+        <holiday endDate="2017-10-18" startDate="2017-10-18" workingday="false">万灯节</holiday>
+        <!--[Maulidur Rasul (The Prophet's Birthday)] - [maulidur_rasul__the_prophet_s_birthday_]-->
+        <holiday endDate="2017-12-01" startDate="2017-12-01" workingday="false">Maulidur Rasul（先知的生日）</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">圣诞节</holiday>
+        <!--[New Year's Day (except JHR KDH KTN PLS TRG)] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">新年</holiday>
+        <!--[Chinese New Year] - [chinese_new_year]-->
+        <holiday endDate="2016-02-08" startDate="2016-02-08" workingday="false">中国新年</holiday>
+        <!--[Chinese New Year, Day 2] - [chinese_new_year__day_2]-->
+        <holiday endDate="2016-02-09" startDate="2016-02-09" workingday="false">中国新年，第2天</holiday>
+        <!--[Labour Day] - [labor_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">劳动节</holiday>
+        <!--[Labour Day (day in lieu) (except JHR KDH KTN TRG)] - [labor_day]-->
+        <holiday endDate="2016-05-02" startDate="2016-05-02" workingday="false">劳动节</holiday>
+        <!--[Wesak (Buddha Day)] - [wesak__buddha_day_]-->
+        <holiday endDate="2016-05-21" startDate="2016-05-21" workingday="false">Wesak（佛陀日）</holiday>
+        <!--[Birthday of SPB Yang di-Pertuan Agong] - [birthday_of_spb_yang_di_pertuan_agong]-->
+        <holiday endDate="2016-06-04" startDate="2016-06-04" workingday="false">国王诞辰</holiday>
+        <!--[Hari Raya Puasa (End of Ramadan)] - [end_of_ramadan]-->
+        <holiday endDate="2016-07-06" startDate="2016-07-06" workingday="false">Eid al Fitr（开斋节）</holiday>
+        <!--[Hari Raya Puasa Holiday] - [hari_raya_puasa_holiday]-->
+        <holiday endDate="2016-07-07" startDate="2016-07-07" workingday="false">开斋节假期</holiday>
+        <!--[National Day (Hari Kebangsaan)] - [national_day__hari_kebangsaan_]-->
+        <holiday endDate="2016-08-31" startDate="2016-08-31" workingday="false">国庆日（Hari Kebangsaan）</holiday>
+        <!--[Hari Raya Qurban (Feast of Sacrifice)] - [feast_of_sacrifice]-->
+        <holiday endDate="2016-09-12" startDate="2016-09-12" workingday="false">Kurbannyhua/Eil al-Adha（宰牲节）</holiday>
+        <!--[Malaysia Day] - [malaysia_day]-->
+        <holiday endDate="2016-09-16" startDate="2016-09-16" workingday="false">马来西亚日</holiday>
+        <!--[Awal Muharram (Islamic New Year)] - [awal_muharram__islamic_new_year_]-->
+        <holiday endDate="2016-10-02" startDate="2016-10-02" workingday="false">Awal Muharram（伊斯兰新年）</holiday>
+        <!--[Awal Muharram (day in lieu) (except JHR KDH KTN TRG)] - [awal_muharram__day_in_lieu___except_jhr_kdh_ktn_trg_]-->
+        <holiday endDate="2016-10-03" startDate="2016-10-03" workingday="false">回历新年（换休）（JHR KDH KTN TRG 除外）</holiday>
+        <!--[Deepavali (Festival of Lights) (except SRW)] - [deepavali__festival_of_lights___except_srw_]-->
+        <holiday endDate="2016-10-29" startDate="2016-10-29" workingday="false">万灯节</holiday>
+        <!--[Maulidur Rasul (The Prophet's Birthday)] - [maulidur_rasul__the_prophet_s_birthday_]-->
+        <holiday endDate="2016-12-12" startDate="2016-12-12" workingday="false">Maulidur Rasul（先知的生日）</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">圣诞节</holiday>
+        <!--[Christmas (day in lieu) (except JHR KDH KTN TRG)] - [christmas__day_in_lieu___except_jhr_kdh_ktn_trg_]-->
+        <holiday endDate="2016-12-26" startDate="2016-12-26" workingday="false">圣诞节（换休）（JHR KDH KTN TRG 除外）</holiday>
+    </holidays>
+</calendar>
+

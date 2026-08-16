@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: pt (Portuguese)
+ * Region: BR (Brazil)
+ *********************************************************************
+--><calendar language="pt" region="BR" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day (Confraternização Universal)] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Dia de Ano Novo</holiday>
+        <!--[Tiradentes Day] - [tiradentes_day]-->
+        <holiday endDate="2017-04-21" startDate="2017-04-21" workingday="false">Dia de Tiradentes</holiday>
+        <!--[Labor Day (Dia Mundial do Trabalho)] - [labor_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Dia do Trabalho</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2017-09-07" startDate="2017-09-07" workingday="false">Dia da Independência</holiday>
+        <!--[Lady of Aparecida Day] - [lady_of_aparecida_day]-->
+        <holiday endDate="2017-10-12" startDate="2017-10-12" workingday="false">Dia de Nossa Senhora Aparecida</holiday>
+        <!--[All Souls' Day (Finados)] - [all_souls__day__finados_]-->
+        <holiday endDate="2017-11-02" startDate="2017-11-02" workingday="false">Dia de Finados</holiday>
+        <!--[Republic Day] - [republic_day]-->
+        <holiday endDate="2017-11-15" startDate="2017-11-15" workingday="false">Proclamação da República</holiday>
+        <!--[Christmas Day (Natal)] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Dia de Natal</holiday>
+        <!--[New Year's Day (Confraternização Universal)] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Dia de Ano Novo</holiday>
+        <!--[Tiradentes Day] - [tiradentes_day]-->
+        <holiday endDate="2016-04-21" startDate="2016-04-21" workingday="false">Dia de Tiradentes</holiday>
+        <!--[Labor Day (Dia Mundial do Trabalho)] - [labor_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Dia do Trabalho</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2016-09-07" startDate="2016-09-07" workingday="false">Dia da Independência</holiday>
+        <!--[Lady of Aparecida Day] - [lady_of_aparecida_day]-->
+        <holiday endDate="2016-10-12" startDate="2016-10-12" workingday="false">Dia de Nossa Senhora Aparecida</holiday>
+        <!--[All Souls' Day (Finados)] - [all_souls__day__finados_]-->
+        <holiday endDate="2016-11-02" startDate="2016-11-02" workingday="false">Dia de Finados</holiday>
+        <!--[Republic Day] - [republic_day]-->
+        <holiday endDate="2016-11-15" startDate="2016-11-15" workingday="false">Proclamação da República</holiday>
+        <!--[Christmas Day (Natal)] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Dia de Natal</holiday>
+    </holidays>
+</calendar>
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 ημέρα</item>
+        <item quantity="other">%d ημέρες</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 συμβάν</item>
+        <item quantity="other">%d συμβάντα</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 ώρα</item>
+        <item quantity="other">%d ώρες</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 λεπτό</item>
+        <item quantity="other">%d λ.</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 λεπτό</item>
+        <item quantity="other">%d λεπτά</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">βαθμός</item>
+        <item quantity="other">βαθμοί</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d έτους</item>
+        <item quantity="other">%d ετών</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 εργασία</item>
+        <item quantity="other">%d εργασίες</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">συμβάν</item>
+        <item quantity="other">συμβάντα</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">Προστέθηκε συμβάν</item>
+        <item quantity="other">Προστέθηκαν συμβάντα</item>
+    </plurals>
+</resources>

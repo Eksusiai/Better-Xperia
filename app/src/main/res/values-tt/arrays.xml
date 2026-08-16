@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="accepted_items">
+        <item>Кабул ителгән</item>
+        <item>Алдан</item>
+        <item>Тайпылдырган</item>
+    </array>
+    <array name="accessibility_event_color_picker_colors">
+        <item>Сары</item>
+        <item>Кызгылт сары</item>
+        <item>Кызыл</item>
+        <item>Куе кызыл</item>
+        <item>Алсу</item>
+        <item>Шәмәхә</item>
+        <item>Кызгылт көрән</item>
+        <item>Якты яшел</item>
+        <item>Яшел</item>
+        <item>Фиразә</item>
+        <item>Якты Зәңгәр</item>
+        <item>Зәңгәр</item>
+    </array>
+    <array name="availability">
+        <item>Мәшгуль</item>
+        <item>Мөмкин</item>
+        <item>Алдан</item>
+    </array>
+    <array name="change_response_labels">
+        <item>Бу экземплярны гына</item>
+        <item>Бөтен вакыйгаларны</item>
+    </array>
+    <array name="month_view_day_labels">
+        <item>M</item>
+        <item>T</item>
+        <item>W</item>
+        <item>T</item>
+        <item>F</item>
+        <item>S</item>
+        <item>S</item>
+    </array>
+    <array name="ordinal_labels">
+        <item>беренче</item>
+        <item>икенче</item>
+        <item>Өченче</item>
+        <item>дүртенче</item>
+        <item>сонгы</item>
+    </array>
+    <array name="prefEntries_alerts_vibrateWhen">
+        <item>Хәр вакыт</item>
+        <item>\"Борчымаска\" реж. гына</item>
+        <item>Беркайчан</item>
+    </array>
+    <array name="preferences_alert_type_labels">
+        <item>Хәбәрләр</item>
+        <item>Статус юлнын белдерү</item>
+        <item>Эшне тәмамлау</item>
+    </array>
+    <array name="preferences_default_reminder_labels">
+        <item>Юк</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
+        <item>45 минут</item>
+        <item>1 сәгать</item>
+        <item>2 сәгать</item>
+        <item>3 сәгать</item>
+        <item>12 сәгать</item>
+        <item>24 сәгать</item>
+        <item>2 көн</item>
+        <item>1 атна</item>
+    </array>
+    <array name="preferences_week_days_labels">
+        <item>Эш көннәрне гына</item>
+        <item>7 көн</item>
+    </array>
+    <array name="quick_response_defaults">
+        <item>Ике минут алдында турында эшледе</item>
+        <item>10 минуттан турында анда булырга</item>
+        <item>Алга барарга hәм минсез башларга</item>
+        <item>Шуны булдыралмым. Җәдвалны үзгәртерге кирәк.</item>
+    </array>
+    <array name="reminder_minutes_labels">
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
+        <item>45 минут</item>
+        <item>1 сәгать</item>
+        <item>2 сәгать</item>
+        <item>3 сәгать</item>
+        <item>12 сәгать</item>
+        <item>24 сәгать</item>
+        <item>2 көн</item>
+        <item>1 атна</item>
+    </array>
+    <array name="repeats_pattern">
+        <item>Көн саен</item>
+        <item>Атна саен</item>
+        <item>Ай саен</item>
+        <item>Ел саен</item>
+    </array>
+    <array name="repeats_weekdays_no">
+        <item>Беренче</item>
+        <item>Икенче</item>
+        <item>Өченче</item>
+        <item>Дүртенче</item>
+        <item>Бишенче</item>
+    </array>
+    <array name="reply_items">
+        <item>Җавап</item>
+        <item>Барысына да җавап бирү</item>
+        <item>Күчереп җибәрү</item>
+    </array>
+    <array name="response_labels1">
+        <item>(Җавапы юк)</item>
+        <item>Әйе</item>
+        <item>Бәлки</item>
+        <item>Юк</item>
+    </array>
+    <array name="response_labels2">
+        <item>Әйе</item>
+        <item>Бәлки</item>
+        <item>Юк</item>
+    </array>
+    <array name="timezone_labels">
+        <item>Маршал утраулары</item>
+        <item>Мидуэй утраулары</item>
+        <item>Гавайлар</item>
+        <item>Аляска</item>
+        <item>Тын океан Вакыты</item>
+        <item>Тихуана</item>
+        <item>Аризона</item>
+        <item>Чиуауа</item>
+        <item>Таулар вакыты</item>
+        <item>Централь Америка</item>
+        <item>Централь вакыт</item>
+        <item>Мехико шәһәрә</item>
+        <item>Саскачеван</item>
+        <item>Богота</item>
+        <item>Көнчыгыш Вакыты</item>
+        <item>Венесуэла</item>
+        <item>Атлантик вакыты</item>
+        <item>Манаус</item>
+        <item>Сантьяго</item>
+        <item>Ньюфаундленд</item>
+        <item>Бразилия</item>
+        <item>Буэнос-Айрес</item>
+        <item>Гренландия</item>
+        <item>Монтевидео</item>
+        <item>Уртаатлантик</item>
+        <item>Азор утраулары</item>
+        <item>Яшел Борын утраулары</item>
+        <item>Касабланка</item>
+        <item>Лондон, Дублин</item>
+        <item>Амстердам, Берлин</item>
+        <item>Белград</item>
+        <item>Брюссель</item>
+        <item>Сараево</item>
+        <item>Виндхук</item>
+        <item>Көнб. Африка Вакыты</item>
+        <item>Амман, Иордан</item>
+        <item>Афиннар, Истанбул</item>
+        <item>Бейрут, Ливан</item>
+        <item>Каир</item>
+        <item>Хельсинки</item>
+        <item>Иерусалим</item>
+        <item>Минск</item>
+        <item>Хараре</item>
+        <item>Багдад</item>
+        <item>Мәскәү</item>
+        <item>Күвәйт</item>
+        <item>Найроби</item>
+        <item>Тәһран</item>
+        <item>Баку</item>
+        <item>Тбилиси</item>
+        <item>Ереван</item>
+        <item>Дубаи</item>
+        <item>Кабул</item>
+        <item>Исламабад, Карачи</item>
+        <item>Уральск</item>
+        <item>Екатеринбург</item>
+        <item>Колката</item>
+        <item>Шри-Ланка</item>
+        <item>Катманду</item>
+        <item>Астана</item>
+        <item>Янгон</item>
+        <item>Красноярск</item>
+        <item>Бангкок</item>
+        <item>Пекин</item>
+        <item>Гонконг</item>
+        <item>Иркутск</item>
+        <item>Куала-Лумпур</item>
+        <item>Перт</item>
+        <item>Тайбэй</item>
+        <item>Сеул</item>
+        <item>Токио, Осака</item>
+        <item>Якутск</item>
+        <item>Аделаида</item>
+        <item>Дарвин</item>
+        <item>Брисбен</item>
+        <item>Хобарт</item>
+        <item>Сидней, Канберра</item>
+        <item>Владивосток</item>
+        <item>Гуам утрауы</item>
+        <item>Магадан</item>
+        <item>Окленд</item>
+        <item>Фиджи</item>
+        <item>Tonga</item>
+    </array>
+    <array name="visibility">
+        <item>Килешкәнчә</item>
+        <item>Хосусый</item>
+        <item>Халык алдындагы</item>
+    </array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference
+        android:title="@string/task_settings_pref_display_completed_task_title_txt"
+        android:key="pref_key_display_completed_task"/>
+    <PreferenceCategory
+        android:title="@string/task_settings_category_pref_sync_account_title_txt"
+        android:key="pref_key_sync_account"/>
+</PreferenceScreen>

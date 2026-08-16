@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: es (Spanish; Castilian)
+ * Region: CL (Chile)
+ *********************************************************************
+--><calendar language="es" region="CL" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Día de Año nuevo</holiday>
+        <!--[New Year Holiday] - [new_year_holiday]-->
+        <holiday endDate="2017-01-02" startDate="2017-01-02" workingday="false">Asueto por Año nuevo</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2017-04-14" startDate="2017-04-14" workingday="false">Viernes Santo</holiday>
+        <!--[Holy Saturday] - [holy_saturday]-->
+        <holiday endDate="2017-04-15" startDate="2017-04-15" workingday="false">Sábado Santo</holiday>
+        <!--[Labor Day] - [labor_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Día del trabajador</holiday>
+        <!--[Navy Day] - [navy_day]-->
+        <holiday endDate="2017-05-21" startDate="2017-05-21" workingday="false">Día de la Marina</holiday>
+        <!--[Saints Peter and Paul's Day Holiday] - [saints_peter_and_paul_s_day_holiday]-->
+        <holiday endDate="2017-06-26" startDate="2017-06-26" workingday="false">Día de San Pedro y San Pablo</holiday>
+        <!--[Lady of Carmen Day] - [lady_of_carmen_day]-->
+        <holiday endDate="2017-07-16" startDate="2017-07-16" workingday="false">Día de Nuestra Señora del Carmen</holiday>
+        <!--[Assumption Day] - [assumption_day]-->
+        <holiday endDate="2017-08-15" startDate="2017-08-15" workingday="false">Día de la Asunción</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2017-09-18" startDate="2017-09-18" workingday="false">Día de la independencia</holiday>
+        <!--[Army Day] - [army_day]-->
+        <holiday endDate="2017-09-19" startDate="2017-09-19" workingday="false">Día del Ejército</holiday>
+        <!--[Encuentro de Dos Mundos] - [encuentro_de_dos_mundos]-->
+        <holiday endDate="2017-10-09" startDate="2017-10-09" workingday="false">Encuentro de Dos Mundos</holiday>
+        <!--[Día de las Iglesias Evangélicas y Protestantes] - [d_a_de_las_iglesias_evang_licas_y_protestantes]-->
+        <holiday endDate="2017-10-27" startDate="2017-10-27" workingday="false">Día de las Iglesias Evangélicas y Protestantes</holiday>
+        <!--[All Saints' Day] - [all_saints__day]-->
+        <holiday endDate="2017-11-01" startDate="2017-11-01" workingday="false">Día de Todos los Santos</holiday>
+        <!--[Immaculate Conception Day] - [immaculate_conception]-->
+        <holiday endDate="2017-12-08" startDate="2017-12-08" workingday="false">Día de la Inmaculada Concepción</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Día de Navidad</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Día de Año nuevo</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2016-03-25" startDate="2016-03-25" workingday="false">Viernes Santo</holiday>
+        <!--[Holy Saturday] - [holy_saturday]-->
+        <holiday endDate="2016-03-26" startDate="2016-03-26" workingday="false">Sábado Santo</holiday>
+        <!--[Labor Day] - [labor_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Día del trabajador</holiday>
+        <!--[Navy Day] - [navy_day]-->
+        <holiday endDate="2016-05-21" startDate="2016-05-21" workingday="false">Día de la Marina</holiday>
+        <!--[Saints Peter and Paul's Day Holiday] - [saints_peter_and_paul_s_day_holiday]-->
+        <holiday endDate="2016-06-27" startDate="2016-06-27" workingday="false">Día de San Pedro y San Pablo</holiday>
+        <!--[Lady of Carmen Day] - [lady_of_carmen_day]-->
+        <holiday endDate="2016-07-16" startDate="2016-07-16" workingday="false">Día de Nuestra Señora del Carmen</holiday>
+        <!--[Assumption Day] - [assumption_day]-->
+        <holiday endDate="2016-08-15" startDate="2016-08-15" workingday="false">Día de la Asunción</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2016-09-18" startDate="2016-09-18" workingday="false">Día de la independencia</holiday>
+        <!--[Army Day] - [army_day]-->
+        <holiday endDate="2016-09-19" startDate="2016-09-19" workingday="false">Día del Ejército</holiday>
+        <!--[Encuentro de Dos Mundos] - [encuentro_de_dos_mundos]-->
+        <holiday endDate="2016-10-10" startDate="2016-10-10" workingday="false">Encuentro de Dos Mundos</holiday>
+        <!--[Reformation Day (Día de las Iglesias Evangélicas y Protestantes)] - [reformation_day__d_a_de_las_iglesias_evang_licas_y_protestantes_]-->
+        <holiday endDate="2016-10-31" startDate="2016-10-31" workingday="false">Día de la Reforma</holiday>
+        <!--[All Saints' Day] - [all_saints__day]-->
+        <holiday endDate="2016-11-01" startDate="2016-11-01" workingday="false">Día de Todos los Santos</holiday>
+        <!--[Immaculate Conception Day] - [immaculate_conception]-->
+        <holiday endDate="2016-12-08" startDate="2016-12-08" workingday="false">Día de la Inmaculada Concepción</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Día de Navidad</holiday>
+    </holidays>
+</calendar>
+

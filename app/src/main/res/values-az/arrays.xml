@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="accepted_items">
+        <item>Qəbul edildi</item>
+        <item>Qətiləşdirilməyib</item>
+        <item>Rədd edildi</item>
+    </array>
+    <array name="accessibility_event_color_picker_colors">
+        <item>Sarı</item>
+        <item>Narıncı</item>
+        <item>Qırmızı</item>
+        <item>Şərab rəngi</item>
+        <item>Çəhrayı</item>
+        <item>Bənövşəyi</item>
+        <item>Qəhvəyi</item>
+        <item>Açıq yaşıl</item>
+        <item>Yaşıl</item>
+        <item>Firuzəyi</item>
+        <item>Açıq mavi</item>
+        <item>Mavi</item>
+    </array>
+    <array name="availability">
+        <item>Məşğul</item>
+        <item>Mövcuddur</item>
+        <item>Qətiləşdirilməyib</item>
+    </array>
+    <array name="change_response_labels">
+        <item>Yalnız bu nümunə</item>
+        <item>Sıradakı bütün tədbirlər</item>
+    </array>
+    <array name="month_view_day_labels">
+        <item>B.e.</item>
+        <item>Ç.a.</item>
+        <item>Ç</item>
+        <item>C.a.</item>
+        <item>C.</item>
+        <item>Ş</item>
+        <item>B</item>
+    </array>
+    <array name="ordinal_labels">
+        <item>birinci</item>
+        <item>ikinci</item>
+        <item>üçüncü</item>
+        <item>dördüncü</item>
+        <item>son</item>
+    </array>
+    <array name="prefEntries_alerts_vibrateWhen">
+        <item>Həmişə</item>
+        <item>Yalnız \"Narahat etmə\" rejdə</item>
+        <item>Heç vaxt</item>
+    </array>
+    <array name="preferences_alert_type_labels">
+        <item>Siqnal</item>
+        <item>Vəziyyət zolağı bildirişi</item>
+        <item>Qeyri-aktiv</item>
+    </array>
+    <array name="preferences_default_reminder_labels">
+        <item>Yoxdur</item>
+        <item>5 dəqiqə</item>
+        <item>10 dəqiqə</item>
+        <item>15 dəqiqə</item>
+        <item>20 dəqiqə</item>
+        <item>25 dəqiqə</item>
+        <item>30 dəqiqə</item>
+        <item>45 dəqiqə</item>
+        <item>1 saat</item>
+        <item>2 saat</item>
+        <item>3 saat</item>
+        <item>12 saat</item>
+        <item>24 saat</item>
+        <item>2 gün</item>
+        <item>1 həftə</item>
+    </array>
+    <array name="preferences_week_days_labels">
+        <item>Yalnız iş günləri</item>
+        <item>7 gün</item>
+    </array>
+    <array name="quick_response_defaults">
+        <item>Bir neçə dəqiqə gecikirəm.</item>
+        <item>10 dəqiqəyə orda olacağam.</item>
+        <item>Mənsiz başlayın.</item>
+        <item>Üzr istəyirəm, alınmır. Başqa günə keçirməliyik.</item>
+    </array>
+    <array name="reminder_minutes_labels">
+        <item>5 dəqiqə</item>
+        <item>10 dəqiqə</item>
+        <item>15 dəqiqə</item>
+        <item>20 dəqiqə</item>
+        <item>25 dəqiqə</item>
+        <item>30 dəqiqə</item>
+        <item>45 dəqiqə</item>
+        <item>1 saat</item>
+        <item>2 saat</item>
+        <item>3 saat</item>
+        <item>12 saat</item>
+        <item>24 saat</item>
+        <item>2 gün</item>
+        <item>1 həftə</item>
+    </array>
+    <array name="repeats_pattern">
+        <item>Hər gün</item>
+        <item>Həftəlik</item>
+        <item>Aylıq</item>
+        <item>İllik</item>
+    </array>
+    <array name="repeats_weekdays_no">
+        <item>Birinci</item>
+        <item>İkinci</item>
+        <item>Üçüncü</item>
+        <item>Dördüncü</item>
+        <item>Beşinci</item>
+    </array>
+    <array name="reply_items">
+        <item>Cavab ver</item>
+        <item>Hamısına cavab ver</item>
+        <item>Bir daha göndər</item>
+    </array>
+    <array name="response_labels1">
+        <item>(Cavab yoxdur)</item>
+        <item>Bəli</item>
+        <item>Ola bilər</item>
+        <item>Xeyr</item>
+    </array>
+    <array name="response_labels2">
+        <item>Bəli</item>
+        <item>Ola bilər</item>
+        <item>Xeyr</item>
+    </array>
+    <array name="timezone_labels">
+        <item>Marşal Adaları</item>
+        <item>Miduey Adası</item>
+        <item>Havay</item>
+        <item>Alyaska</item>
+        <item>Sakit okean Vaxtı</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Çixuaxua</item>
+        <item>Dağ Vaxtı</item>
+        <item>Mərkəzi Amerika</item>
+        <item>Mərkəzi Vaxt</item>
+        <item>Mexiko</item>
+        <item>Saskaçevan</item>
+        <item>Boqota</item>
+        <item>Şərq Vaxtı</item>
+        <item>Venesuela</item>
+        <item>Atlantik Vaxtı</item>
+        <item>Manaus</item>
+        <item>Santyaqo</item>
+        <item>Nyufaundlend</item>
+        <item>Braziliya</item>
+        <item>Buenos-Ayres</item>
+        <item>Qrenlandiya</item>
+        <item>Montevideo</item>
+        <item>Orta-Atlantik</item>
+        <item>Azor adaları</item>
+        <item>Kabo-Verde adaları</item>
+        <item>Kasablanka</item>
+        <item>London, Dublin</item>
+        <item>Amsterdam, Berlin</item>
+        <item>Belqrad</item>
+        <item>Brüssel</item>
+        <item>Sarayevo</item>
+        <item>Vindhuk</item>
+        <item>Q. Afrika Vaxtı</item>
+        <item>Amman, İordaniya</item>
+        <item>Afina, İstanbul</item>
+        <item>Beyrut, Livan</item>
+        <item>Qahirə</item>
+        <item>Helsinki</item>
+        <item>Qüds</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bağdad</item>
+        <item>Moskva</item>
+        <item>Küveyt</item>
+        <item>Nayrobi</item>
+        <item>Tehran</item>
+        <item>Bakı</item>
+        <item>Tbilisi</item>
+        <item>Yerevan</item>
+        <item>Dubay</item>
+        <item>Kabul</item>
+        <item>İslamabad, Kəraçi</item>
+        <item>Ural</item>
+        <item>Yekaterinburq</item>
+        <item>Kəlküttə</item>
+        <item>Şri-Lanka</item>
+        <item>Katmandu</item>
+        <item>Astana</item>
+        <item>Yanqon</item>
+        <item>Krasnoyarsk</item>
+        <item>Banqkok</item>
+        <item>Pekin</item>
+        <item>Honq-Konq</item>
+        <item>İrkutsk</item>
+        <item>Kuala-Lumpur</item>
+        <item>Pert</item>
+        <item>Taypey</item>
+        <item>Seul</item>
+        <item>Tokio, Osaka</item>
+        <item>Yakutsk</item>
+        <item>Adelaida</item>
+        <item>Darvin</item>
+        <item>Brisban</item>
+        <item>Hobart</item>
+        <item>Sidney, Kanberra</item>
+        <item>Vladivostok</item>
+        <item>Quam</item>
+        <item>Maqadan</item>
+        <item>Oklend</item>
+        <item>Fici</item>
+        <item>Tonqa</item>
+    </array>
+    <array name="visibility">
+        <item>Standart</item>
+        <item>Gizli</item>
+        <item>İctimai</item>
+    </array>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:showDividers="end"
+    android:dividerPadding="12dp">
+    <FrameLayout
+        android:id="@+id/actionbar_done"
+        android:focusable="true"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        style="?android:attr/actionButtonStyle">
+        <TextView
+            android:textColor="@color/white"
+            android:text="@string/button_done"
+            android:drawableStart="@drawable/ic_done_w"
+            style="@style/ActionBarCustomButton"/>
+    </FrameLayout>
+</LinearLayout>

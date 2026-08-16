@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 दिन</item>
+        <item quantity="other">%d दिन</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 घटना</item>
+        <item quantity="other">%d घटनाएँ</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 घंटा</item>
+        <item quantity="other">%d घंटे</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 मिनट</item>
+        <item quantity="other">%d मिनट</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 मिनट</item>
+        <item quantity="other">%d मिनट</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">डिग्री</item>
+        <item quantity="other">डिग्री</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">आयु %d</item>
+        <item quantity="other">आयु %d</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 कार्य</item>
+        <item quantity="other">%d कार्य</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">ईवेंट</item>
+        <item quantity="other">ईवेंट</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">घटना जोड़ी गई</item>
+        <item quantity="other">घटना जोड़ी गई</item>
+    </plurals>
+</resources>

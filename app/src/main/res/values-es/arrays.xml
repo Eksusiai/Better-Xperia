@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="accepted_items">
+        <item>Aceptado</item>
+        <item>Tentativo</item>
+        <item>Rechazado</item>
+    </array>
+    <array name="accessibility_event_color_picker_colors">
+        <item>Amarillo</item>
+        <item>Naranja</item>
+        <item>Rojo</item>
+        <item>Bermellón</item>
+        <item>Rosado</item>
+        <item>Morado</item>
+        <item>Café</item>
+        <item>Verde claro</item>
+        <item>Verde</item>
+        <item>Turquesa</item>
+        <item>Azul claro</item>
+        <item>Azul</item>
+    </array>
+    <array name="availability">
+        <item>Ocupado</item>
+        <item>Disponible</item>
+        <item>Tentativo</item>
+    </array>
+    <array name="change_response_labels">
+        <item>Solo esta instancia</item>
+        <item>Todos los eventos en la serie</item>
+    </array>
+    <array name="month_view_day_labels">
+        <item>L</item>
+        <item>M</item>
+        <item>Mi</item>
+        <item>J</item>
+        <item>V</item>
+        <item>S</item>
+        <item>D</item>
+    </array>
+    <array name="ordinal_labels">
+        <item>primer</item>
+        <item>segundo</item>
+        <item>tercer</item>
+        <item>cuarto</item>
+        <item>último</item>
+    </array>
+    <array name="prefEntries_alerts_vibrateWhen">
+        <item>Siempre</item>
+        <item>Solo en Modo ocupado</item>
+        <item>Nunca</item>
+    </array>
+    <array name="preferences_alert_type_labels">
+        <item>Alerta</item>
+        <item>Notificación de la barra de estado</item>
+        <item>Apagadas</item>
+    </array>
+    <array name="preferences_default_reminder_labels">
+        <item>Ninguno</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>20 minutos</item>
+        <item>25 minutos</item>
+        <item>30 minutos</item>
+        <item>45 minutos</item>
+        <item>1 hora</item>
+        <item>2 horas</item>
+        <item>3 horas</item>
+        <item>12 horas</item>
+        <item>24 horas</item>
+        <item>2 días</item>
+        <item>1 semana</item>
+    </array>
+    <array name="preferences_week_days_labels">
+        <item>Solo días laborales</item>
+        <item>7 días</item>
+    </array>
+    <array name="quick_response_defaults">
+        <item>Llegaré unos minutos tarde.</item>
+        <item>Estaré allí en 10 minutos aproximadamente.</item>
+        <item>Adelante, inicien sin mí.</item>
+        <item>Lo siento, no podré. Tendremos que reprogramarlo.</item>
+    </array>
+    <array name="reminder_minutes_labels">
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>20 minutos</item>
+        <item>25 minutos</item>
+        <item>30 minutos</item>
+        <item>45 minutos</item>
+        <item>1 hora</item>
+        <item>2 horas</item>
+        <item>3 horas</item>
+        <item>12 horas</item>
+        <item>24 horas</item>
+        <item>2 días</item>
+        <item>1 semana</item>
+    </array>
+    <array name="repeats_pattern">
+        <item>Diariamente</item>
+        <item>Semanalmente</item>
+        <item>Mensualmente</item>
+        <item>Anualmente</item>
+    </array>
+    <array name="repeats_weekdays_no">
+        <item>Primero</item>
+        <item>Segundo</item>
+        <item>Tercero</item>
+        <item>Cuarto</item>
+        <item>Quinto</item>
+    </array>
+    <array name="reply_items">
+        <item>Responder</item>
+        <item>Responder a todos</item>
+        <item>Reenviar</item>
+    </array>
+    <array name="response_labels1">
+        <item>(No hay respuesta)</item>
+        <item>Sí</item>
+        <item>Tal vez</item>
+        <item>No</item>
+    </array>
+    <array name="response_labels2">
+        <item>Sí</item>
+        <item>Tal vez</item>
+        <item>No</item>
+    </array>
+    <array name="timezone_labels">
+        <item>Islas Marshall</item>
+        <item>Islas Midway</item>
+        <item>Hawái</item>
+        <item>Alaska</item>
+        <item>Hora del Pacífico</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Hora de la montaña</item>
+        <item>América Central</item>
+        <item>Hora central</item>
+        <item>Ciudad de México</item>
+        <item>Saskatchewan</item>
+        <item>Bogotá</item>
+        <item>Hora del este</item>
+        <item>Venezuela</item>
+        <item>Hora atlántica</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Terranova</item>
+        <item>Brasilia</item>
+        <item>Buenos Aires</item>
+        <item>Groenlandia</item>
+        <item>Montevideo</item>
+        <item>Medio Atlántico</item>
+        <item>Azores</item>
+        <item>Islas de Cabo Verde</item>
+        <item>Casablanca</item>
+        <item>Londres, Dublín</item>
+        <item>Amsterdam, Berlín</item>
+        <item>Belgrado</item>
+        <item>Bruselas</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>Hora África Occidental</item>
+        <item>Amman, Jordania</item>
+        <item>Atenas, Estambul</item>
+        <item>Beirut, Líbano</item>
+        <item>Cairo</item>
+        <item>Helsinki</item>
+        <item>Jerusalén</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moscú</item>
+        <item>Kuwait</item>
+        <item>Nairobi</item>
+        <item>Teherán</item>
+        <item>Baku</item>
+        <item>Tiflis</item>
+        <item>Yereván</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karachi</item>
+        <item>Oral</item>
+        <item>Ekaterimburgo</item>
+        <item>Calcuta</item>
+        <item>Sri Lanka</item>
+        <item>Katmandú</item>
+        <item>Astaná</item>
+        <item>Rangún</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Pekín</item>
+        <item>Hong Kong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Seúl</item>
+        <item>Tokio, Osaka</item>
+        <item>Yakutsk</item>
+        <item>Adelaida</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney, Canberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadán</item>
+        <item>Auckland</item>
+        <item>Fiyi</item>
+        <item>Tonga</item>
+    </array>
+    <array name="visibility">
+        <item>Predeterminado</item>
+        <item>Privado</item>
+        <item>Público</item>
+    </array>
+</resources>

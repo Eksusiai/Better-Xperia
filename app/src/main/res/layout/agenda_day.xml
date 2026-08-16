@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="60dp"
+        android:layout_weight="1"
+        android:layout_marginStart="17dp">
+        <TextView
+            android:textSize="12sp"
+            android:id="@+id/dateTopRow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:id="@+id/dateBottomRow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <View
+        android:layout_gravity="bottom"
+        android:background="@color/drawer_divider_color"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"/>
+</FrameLayout>

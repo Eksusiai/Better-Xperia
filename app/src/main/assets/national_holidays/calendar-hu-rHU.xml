@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: hu (Hungarian)
+ * Region: HU (Hungary)
+ *********************************************************************
+--><calendar language="hu" region="HU" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Újév napja</holiday>
+        <!--[1848 Revolution Day] - [a848_revolution_day]-->
+        <holiday endDate="2017-03-15" startDate="2017-03-15" workingday="false">Az 1848-as forradalom napja</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">Húsvéthétfő</holiday>
+        <!--[Labour Day] - [labor_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">A munka napja</holiday>
+        <!--[Whit Monday] - [whit_monday]-->
+        <holiday endDate="2017-06-05" startDate="2017-06-05" workingday="false">Pünkösdhétfő</holiday>
+        <!--[Saint Stephen's Day (National Day)] - [saint_stephen_s_day__national_day_]-->
+        <holiday endDate="2017-08-20" startDate="2017-08-20" workingday="false">Szent István napja (nemzeti ünnep)</holiday>
+        <!--[Republic Day] - [republic_day]-->
+        <holiday endDate="2017-10-23" startDate="2017-10-23" workingday="false">A köztársaság napja</holiday>
+        <!--[All Saints' Day] - [all_saints__day]-->
+        <holiday endDate="2017-11-01" startDate="2017-11-01" workingday="false">Mindenszentek napja</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Karácsony</holiday>
+        <!--[Second Day of Christmas] - [second_day_of_christmas]-->
+        <holiday endDate="2017-12-26" startDate="2017-12-26" workingday="false">Karácsony 2. napja</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Újév napja</holiday>
+        <!--[Public Holiday (workday moved to Sat.Mar.5)] - [public_holiday__workday_moved_to_sat_mar_5_]-->
+        <holiday endDate="2016-03-14" startDate="2016-03-14" workingday="false">Nemzeti ünnep (munkanap áthelyezve március 5-re, szombatra)</holiday>
+        <!--[1848 Revolution Day] - [a848_revolution_day]-->
+        <holiday endDate="2016-03-15" startDate="2016-03-15" workingday="false">Az 1848-as forradalom napja</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2016-03-28" startDate="2016-03-28" workingday="false">Húsvéthétfő</holiday>
+        <!--[Labour Day] - [labor_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">A munka napja</holiday>
+        <!--[Whit Monday] - [whit_monday]-->
+        <holiday endDate="2016-05-16" startDate="2016-05-16" workingday="false">Pünkösdhétfő</holiday>
+        <!--[Saint Stephen's Day (National Day)] - [saint_stephen_s_day__national_day_]-->
+        <holiday endDate="2016-08-20" startDate="2016-08-20" workingday="false">Szent István napja (nemzeti ünnep)</holiday>
+        <!--[Republic Day] - [republic_day]-->
+        <holiday endDate="2016-10-23" startDate="2016-10-23" workingday="false">A köztársaság napja</holiday>
+        <!--[Public Holiday (workday moved to Sat. Oct. 15)] - [public_holiday__workday_moved_to_sat__oct__15_]-->
+        <holiday endDate="2016-10-31" startDate="2016-10-31" workingday="false">Nemzeti ünnep (munkanap áthelyezve október 15-re, szombatra)</holiday>
+        <!--[All Saints' Day] - [all_saints__day]-->
+        <holiday endDate="2016-11-01" startDate="2016-11-01" workingday="false">Mindenszentek napja</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Karácsony</holiday>
+        <!--[Second Day of Christmas] - [second_day_of_christmas]-->
+        <holiday endDate="2016-12-26" startDate="2016-12-26" workingday="false">Karácsony 2. napja</holiday>
+    </holidays>
+</calendar>
+

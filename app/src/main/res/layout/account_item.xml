@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minHeight="?android:attr/listPreferredItemHeight"
+    android:paddingStart="?android:attr/expandableListPreferredItemPaddingLeft"
+    android:paddingEnd="?android:attr/scrollbarSize">
+    <TextView
+        android:ellipsize="marquee"
+        android:id="@+id/account"
+        android:paddingTop="6dp"
+        android:duplicateParentState="true"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:singleLine="true"
+        style="@style/TextAppearance.AppCompat.Medium"/>
+    <TextView
+        android:textAppearance="@style/TextAppearance.AppCompat.Small"
+        android:ellipsize="marquee"
+        android:id="@+id/account_type"
+        android:duplicateParentState="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxLines="2"/>
+</LinearLayout>

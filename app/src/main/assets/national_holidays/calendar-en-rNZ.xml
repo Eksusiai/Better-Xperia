@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: en (English)
+ * Region: NZ (New Zealand)
+ *********************************************************************
+--><calendar language="en" region="NZ" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">New Year's Day</holiday>
+        <!--[Second Day of the New Year] - [second_day_of_the_new_year]-->
+        <holiday endDate="2017-01-02" startDate="2017-01-02" workingday="false">Second Day of the New Year</holiday>
+        <!--[New Year's Holiday] - [new_year_s_holiday]-->
+        <holiday endDate="2017-01-03" startDate="2017-01-03" workingday="false">New Year's Holiday</holiday>
+        <!--[Waitangi Day (National Day)] - [waitangi_day__national_day_]-->
+        <holiday endDate="2017-02-06" startDate="2017-02-06" workingday="false">Waitangi Day (National Day)</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2017-04-14" startDate="2017-04-14" workingday="false">Good Friday</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">Easter Monday</holiday>
+        <!--[ANZAC Day] - [anzac_day]-->
+        <holiday endDate="2017-04-25" startDate="2017-04-25" workingday="false">ANZAC Day</holiday>
+        <!--[Queen's Birthday] - [queen_s_birthday]-->
+        <holiday endDate="2017-06-05" startDate="2017-06-05" workingday="false">Queen's Birthday</holiday>
+        <!--[Labour Day] - [labor_day]-->
+        <holiday endDate="2017-10-23" startDate="2017-10-23" workingday="false">Labor Day</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Christmas Day</holiday>
+        <!--[Boxing Day] - [boxing_day]-->
+        <holiday endDate="2017-12-26" startDate="2017-12-26" workingday="false">Boxing Day</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">New Year's Day</holiday>
+        <!--[Second Day of the New Year] - [second_day_of_the_new_year]-->
+        <holiday endDate="2016-01-02" startDate="2016-01-02" workingday="false">Second Day of the New Year</holiday>
+        <!--[New Year's Holiday] - [new_year_s_holiday]-->
+        <holiday endDate="2016-01-04" startDate="2016-01-04" workingday="false">New Year's Holiday</holiday>
+        <!--[Waitangi Day (National Day) (celebration)] - [waitangi_day__national_day___celebration_]-->
+        <holiday endDate="2016-02-06" startDate="2016-02-06" workingday="false">Waitangi Day (National Day) (celebration)</holiday>
+        <!--[Waitangi Day (National Day) Holiday (day in lieu)] - [waitangi_day__national_day__holiday__day_in_lieu_]-->
+        <holiday endDate="2016-02-08" startDate="2016-02-08" workingday="false">Waitangi Day (National Day) Holiday (day in lieu)</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2016-03-25" startDate="2016-03-25" workingday="false">Good Friday</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2016-03-28" startDate="2016-03-28" workingday="false">Easter Monday</holiday>
+        <!--[ANZAC Day] - [anzac_day]-->
+        <holiday endDate="2016-04-25" startDate="2016-04-25" workingday="false">ANZAC Day</holiday>
+        <!--[Queen's Birthday] - [queen_s_birthday]-->
+        <holiday endDate="2016-06-06" startDate="2016-06-06" workingday="false">Queen's Birthday</holiday>
+        <!--[Labour Day] - [labor_day]-->
+        <holiday endDate="2016-10-24" startDate="2016-10-24" workingday="false">Labor Day</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Christmas Day</holiday>
+        <!--[Boxing Day] - [boxing_day]-->
+        <holiday endDate="2016-12-26" startDate="2016-12-26" workingday="false">Boxing Day</holiday>
+        <!--[Christmas Holiday] - [christmas_holiday]-->
+        <holiday endDate="2016-12-27" startDate="2016-12-27" workingday="false">Christmas Holiday</holiday>
+    </holidays>
+</calendar>
+

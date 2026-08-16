@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 gün</item>
+        <item quantity="other">%d gün</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 tədbir</item>
+        <item quantity="other">%d tədbir</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 saat</item>
+        <item quantity="other">%d saat</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 dəq</item>
+        <item quantity="other">%d dəq</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 dəqiqə</item>
+        <item quantity="other">%d dəqiqə</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">dərəcə</item>
+        <item quantity="other">dərəcə</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d yaş</item>
+        <item quantity="other">%d yaş</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 tapşırıq</item>
+        <item quantity="other">%d tapşırıq</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">tədbir</item>
+        <item quantity="other">tədbirlər</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">Hadisə əlavə edildi</item>
+        <item quantity="other">Hadisələr əlavə edildi</item>
+    </plurals>
+</resources>

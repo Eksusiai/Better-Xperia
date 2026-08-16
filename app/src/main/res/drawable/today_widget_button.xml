@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap
+            android:src="@drawable/calendar_widget_today_circle"
+            android:tint="@android:color/holo_blue_dark"/>
+    </item>
+    <item>
+        <bitmap android:src="@drawable/calendar_widget_today_arrow"/>
+    </item>
+</layer-list>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: bn (Bengali; Bangla)
+ * Region: BD (Bangladesh)
+ *********************************************************************
+--><calendar language="bn" region="BD" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[Shahid Dibosh (International Mother Language Day)] - [shahid_dibosh__international_mother_language_day_]-->
+        <holiday endDate="2017-02-21" startDate="2017-02-21" workingday="false">শহিদ দিবস</holiday>
+        <!--[Sheikh Mujibur Rahman's Birth Anniversary] - [sheikh_mujibur_rahman_s_birth_anniversary]-->
+        <holiday endDate="2017-03-17" startDate="2017-03-17" workingday="false">শেখ মুজিবুর রহমানের জন্মবার্ষিকী</holiday>
+        <!--[Independence Day (National Day)] - [independence_day]-->
+        <holiday endDate="2017-03-26" startDate="2017-03-26" workingday="false">স্বাধীনতা দিবস</holiday>
+        <!--[May Day] - [may_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">মে দিবস</holiday>
+        <!--[Buddha Purnuma (Buddha Day)] - [buddha_purnuma__buddha_day_]-->
+        <holiday endDate="2017-05-10" startDate="2017-05-10" workingday="false">বুদ্ধ পূর্নিমা</holiday>
+        <!--[Jumatul Bidah] - [jumatul_bidah]-->
+        <holiday endDate="2017-06-23" startDate="2017-06-23" workingday="false">জামাত উল বিদাহ</holiday>
+        <!--[Eid-ul-Fiter (End of Ramadan)] - [end_of_ramadan]-->
+        <holiday endDate="2017-06-26" startDate="2017-06-26" workingday="false">ঈদ আল ফিতর</holiday>
+        <!--[Sri Krishna Janamashtami] - [sri_krishna_janamashtami]-->
+        <holiday endDate="2017-08-14" startDate="2017-08-14" workingday="false">শ্রী কৃষ্ণ জন্মাষ্টমী</holiday>
+        <!--[National Mourning Day] - [national_mourning_day]-->
+        <holiday endDate="2017-08-15" startDate="2017-08-15" workingday="false">জাতীয় শোক দিবস</holiday>
+        <!--[Eid-ul-Azha (Feast of Sacrifice)] - [feast_of_sacrifice]-->
+        <holiday endDate="2017-09-02" startDate="2017-09-02" workingday="false">কুরবানিহুয়া / ঈল অল-আদা</holiday>
+        <!--[Durga Puja (Bijoya Dashami)] - [durga_puja__bijoya_dashami_]-->
+        <holiday endDate="2017-09-30" startDate="2017-09-30" workingday="false">দুর্গা পূজা</holiday>
+        <!--[Eid-e-Milad-un Nabi (The Prophet's Birthday)] - [eid_e_milad_un_nabi__the_prophet_s_birthday_]-->
+        <holiday endDate="2017-12-01" startDate="2017-12-01" workingday="false">ঈদ-ই-মিলাদ-উন নবি</holiday>
+        <!--[Bijoy Dibosh (Victory Day)] - [bijoy_dibosh__victory_day_]-->
+        <holiday endDate="2017-12-16" startDate="2017-12-16" workingday="false">বিজয় দিবস</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">খ্রিস্টমাস ডে</holiday>
+        <!--[Shahid Dibosh (International Mother Language Day)] - [shahid_dibosh__international_mother_language_day_]-->
+        <holiday endDate="2016-02-21" startDate="2016-02-21" workingday="false">শহিদ দিবস</holiday>
+        <!--[Sheikh Mujibur Rahman's Birth Anniversary] - [sheikh_mujibur_rahman_s_birth_anniversary]-->
+        <holiday endDate="2016-03-17" startDate="2016-03-17" workingday="false">শেখ মুজিবুর রহমানের জন্মবার্ষিকী</holiday>
+        <!--[Independence Day (National Day)] - [independence_day]-->
+        <holiday endDate="2016-03-26" startDate="2016-03-26" workingday="false">স্বাধীনতা দিবস</holiday>
+        <!--[May Day] - [may_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">মে দিবস</holiday>
+        <!--[Buddha Purnuma (Buddha Day)] - [buddha_purnuma__buddha_day_]-->
+        <holiday endDate="2016-05-21" startDate="2016-05-21" workingday="false">বুদ্ধ পূর্নিমা</holiday>
+        <!--[Jumatul Bidah] - [jumatul_bidah]-->
+        <holiday endDate="2016-07-01" startDate="2016-07-01" workingday="false">জামাত উল বিদাহ</holiday>
+        <!--[Eid-ul-Fiter (End of Ramadan)] - [end_of_ramadan]-->
+        <holiday endDate="2016-07-06" startDate="2016-07-06" workingday="false">ঈদ আল ফিতর</holiday>
+        <!--[National Mourning Day] - [national_mourning_day]-->
+        <holiday endDate="2016-08-15" startDate="2016-08-15" workingday="false">জাতীয় শোক দিবস</holiday>
+        <!--[Sri Krishna Janamashtami] - [sri_krishna_janamashtami]-->
+        <holiday endDate="2016-08-25" startDate="2016-08-25" workingday="false">শ্রী কৃষ্ণ জন্মাষ্টমী</holiday>
+        <!--[Eid-ul-Azha (Feast of Sacrifice)] - [feast_of_sacrifice]-->
+        <holiday endDate="2016-09-12" startDate="2016-09-12" workingday="false">কুরবানিহুয়া / ঈল অল-আদা</holiday>
+        <!--[Durga Puja (Bijoya Dashami)] - [durga_puja__bijoya_dashami_]-->
+        <holiday endDate="2016-10-11" startDate="2016-10-11" workingday="false">দুর্গা পূজা</holiday>
+        <!--[Eid-e-Milad-un Nabi (The Prophet's Birthday)] - [eid_e_milad_un_nabi__the_prophet_s_birthday_]-->
+        <holiday endDate="2016-12-12" startDate="2016-12-12" workingday="false">ঈদ-ই-মিলাদ-উন নবি</holiday>
+        <!--[Bijoy Dibosh (Victory Day)] - [bijoy_dibosh__victory_day_]-->
+        <holiday endDate="2016-12-16" startDate="2016-12-16" workingday="false">বিজয় দিবস</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">খ্রিস্টমাস ডে</holiday>
+    </holidays>
+</calendar>
+

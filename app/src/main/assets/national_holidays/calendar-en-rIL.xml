@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: en (English)
+ * Region: IL (Israel)
+ *********************************************************************
+--><calendar language="en" region="IL" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[First Day of Pessah (Passover)] - [first_day_of_pessah__passover_]-->
+        <holiday endDate="2017-04-11" startDate="2017-04-11" workingday="false">First Day of Pessah (Passover)</holiday>
+        <!--[Last Day of Pessah (Passover)] - [last_day_of_pessah__passover_]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">Last Day of Pessah (Passover)</holiday>
+        <!--[Independence Day Holiday] - [independence_day]-->
+        <holiday endDate="2017-05-02" startDate="2017-05-02" workingday="false">Independence Day</holiday>
+        <!--[Shavuot (Pentecost)] - [shavuot__pentecost_]-->
+        <holiday endDate="2017-05-31" startDate="2017-05-31" workingday="false">Shavuot (Pentecost)</holiday>
+        <!--[Rosh Hashanah (Jewish New Year)] - [rosh_hashanah__jewish_new_year_]-->
+        <holiday endDate="2017-09-21" startDate="2017-09-21" workingday="false">Rosh Hashanah (Jewish New Year)</holiday>
+        <!--[Rosh Hashanah Holiday] - [rosh_hashanah_holiday]-->
+        <holiday endDate="2017-09-22" startDate="2017-09-22" workingday="false">Rosh Hashanah Holiday</holiday>
+        <!--[Yom Kippur (Day of Atonement)] - [yom_kippur__day_of_atonement_]-->
+        <holiday endDate="2017-09-30" startDate="2017-09-30" workingday="false">Yom Kippur (Day of Atonement)</holiday>
+        <!--[First Day of Sukkot (Harvest)] - [first_day_of_sukkot__harvest_]-->
+        <holiday endDate="2017-10-05" startDate="2017-10-05" workingday="false">First Day of Sukkot (Harvest)</holiday>
+        <!--[Simhat Torah] - [simhat_torah]-->
+        <holiday endDate="2017-10-12" startDate="2017-10-12" workingday="false">Simhat Torah</holiday>
+        <!--[First Day of Pessah (Passover)] - [first_day_of_pessah__passover_]-->
+        <holiday endDate="2016-04-23" startDate="2016-04-23" workingday="false">First Day of Pessah (Passover)</holiday>
+        <!--[Last Day of Pessah (Passover)] - [last_day_of_pessah__passover_]-->
+        <holiday endDate="2016-04-29" startDate="2016-04-29" workingday="false">Last Day of Pessah (Passover)</holiday>
+        <!--[Independence Day Holiday] - [independence_day]-->
+        <holiday endDate="2016-05-12" startDate="2016-05-12" workingday="false">Independence Day</holiday>
+        <!--[Shavuot (Pentecost)] - [shavuot__pentecost_]-->
+        <holiday endDate="2016-06-12" startDate="2016-06-12" workingday="false">Shavuot (Pentecost)</holiday>
+        <!--[Rosh Hashanah (Jewish New Year)] - [rosh_hashanah__jewish_new_year_]-->
+        <holiday endDate="2016-10-03" startDate="2016-10-03" workingday="false">Rosh Hashanah (Jewish New Year)</holiday>
+        <!--[Rosh Hashanah Holiday] - [rosh_hashanah_holiday]-->
+        <holiday endDate="2016-10-04" startDate="2016-10-04" workingday="false">Rosh Hashanah Holiday</holiday>
+        <!--[Yom Kippur (Day of Atonement)] - [yom_kippur__day_of_atonement_]-->
+        <holiday endDate="2016-10-12" startDate="2016-10-12" workingday="false">Yom Kippur (Day of Atonement)</holiday>
+        <!--[First Day of Sukkot (Harvest)] - [first_day_of_sukkot__harvest_]-->
+        <holiday endDate="2016-10-17" startDate="2016-10-17" workingday="false">First Day of Sukkot (Harvest)</holiday>
+        <!--[Simhat Torah] - [simhat_torah]-->
+        <holiday endDate="2016-10-24" startDate="2016-10-24" workingday="false">Simhat Torah</holiday>
+    </holidays>
+</calendar>
+

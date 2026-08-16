@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="copy_email">ഇമെയിൽ വിലാസം പകർത്തുക</string>
+    <string name="copy_number">ഫോൺ നമ്പർ പകർത്തുക</string>
+    <string name="more_string">%1$d എണ്ണം കൂടി</string>
+</resources>

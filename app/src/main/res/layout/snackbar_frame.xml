@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/snackbarRelative"
+    style="@style/SnackRelative">
+    <TextView
+        android:id="@+id/snackbar_text"
+        style="@style/SnackBarInner.Message"/>
+    <TextView
+        android:id="@+id/snackbar_action"
+        style="@style/SnackBarinner.Action"/>
+</RelativeLayout>

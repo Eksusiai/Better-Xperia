@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings version="2">
+    <setting
+        key="default-sorting"
+        runtime="true">0
+    </setting>
+    <setting
+        key="default-sorting-visibility"
+        runtime="false">true
+    </setting>
+    <setting
+        key="display-completed-task"
+        runtime="true">true
+    </setting>
+    <setting
+        key="display-completed-task-visibility"
+        runtime="false">false
+    </setting>
+    <setting
+        key="reminder-ringtone"
+        runtime="true">content://settings/system/notification_sound
+    </setting>
+    <setting
+        key="reminder-ringtone-visibility"
+        runtime="false">true
+    </setting>
+    <setting
+        key="reminder-vibration"
+        runtime="true">true
+    </setting>
+    <setting
+        key="reminder-vibration-visibility"
+        runtime="false">true
+    </setting>
+</settings>

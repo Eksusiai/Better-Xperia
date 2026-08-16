@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 день</item>
+        <item quantity="other">%d дн.</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 подія</item>
+        <item quantity="other">Подій: %d</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 година</item>
+        <item quantity="other">%d год.</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 хв.</item>
+        <item quantity="other">%d хв.</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 хвилина</item>
+        <item quantity="other">%d хв.</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">градус</item>
+        <item quantity="other">град.</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">Вік: %d</item>
+        <item quantity="other">Вік: %d</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 завдання</item>
+        <item quantity="other">Завдань: %d</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">подія</item>
+        <item quantity="other">події</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">Подію додано</item>
+        <item quantity="other">Події додано</item>
+    </plurals>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="max_number_of_all_day_events_collapsed">3</integer>
+</resources>

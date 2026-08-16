@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="copy_email">ಇಮೇಲ್ ವಿಳಾಸವನ್ನು ನಕಲಿಸಿ</string>
+    <string name="copy_number">ಫೋನ್ ಸಂಖ್ಯೆಯನ್ನು ನಕಲಿಸಿ</string>
+    <string name="more_string">+%1$d</string>
+</resources>

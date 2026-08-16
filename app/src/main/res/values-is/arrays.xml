@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="accepted_items">
+        <item>Samþykkt</item>
+        <item>Með fyrirvara</item>
+        <item>Hafnað</item>
+    </array>
+    <array name="accessibility_event_color_picker_colors">
+        <item>Gulur</item>
+        <item>Appelsínugult</item>
+        <item>Rauður</item>
+        <item>Burgundy</item>
+        <item>Bleikur</item>
+        <item>Fjólublár</item>
+        <item>Brúnn</item>
+        <item>Ljósgrænt</item>
+        <item>Grænn</item>
+        <item>Túrkis</item>
+        <item>Ljósblátt</item>
+        <item>Blátt</item>
+    </array>
+    <array name="availability">
+        <item>Upptekin/n</item>
+        <item>Til staðar</item>
+        <item>Óvíst</item>
+    </array>
+    <array name="change_response_labels">
+        <item>Aðeins í þetta skipti</item>
+        <item>Allir atburðir í röðinni</item>
+    </array>
+    <array name="month_view_day_labels">
+        <item>M</item>
+        <item>Þ</item>
+        <item>M</item>
+        <item>F</item>
+        <item>F</item>
+        <item>L</item>
+        <item>S</item>
+    </array>
+    <array name="ordinal_labels">
+        <item>fyrsti</item>
+        <item>annað</item>
+        <item>þriðji</item>
+        <item>fjórði</item>
+        <item>síðasti</item>
+    </array>
+    <array name="prefEntries_alerts_vibrateWhen">
+        <item>Alltaf</item>
+        <item>Bara ef stillt á Ekki trufla</item>
+        <item>Aldrei</item>
+    </array>
+    <array name="preferences_alert_type_labels">
+        <item>Áminning</item>
+        <item>Stöðustikutilkynning</item>
+        <item>Slökkt</item>
+    </array>
+    <array name="preferences_default_reminder_labels">
+        <item>Enginn</item>
+        <item>5 mínútur</item>
+        <item>10 mínútur</item>
+        <item>15 mínútur</item>
+        <item>20 mínútur</item>
+        <item>25 mínútur</item>
+        <item>30 mínútur</item>
+        <item>45 mínútur</item>
+        <item>1 klst.</item>
+        <item>2 klst.</item>
+        <item>3 klst.</item>
+        <item>12 klst.</item>
+        <item>24 klst.</item>
+        <item>2 dagar</item>
+        <item>1 vika</item>
+    </array>
+    <array name="preferences_week_days_labels">
+        <item>Aðeins virkir dagar</item>
+        <item>Allir dagar vikunnar</item>
+    </array>
+    <array name="quick_response_defaults">
+        <item>Seinkar um nokkar mínútur.</item>
+        <item>Verð komin(n) eftir 10 mínútur.</item>
+        <item>Byrjaðu án mín.</item>
+        <item>Því miður kemst ég ekki. Við þurfum að finna annan tíma.</item>
+    </array>
+    <array name="reminder_minutes_labels">
+        <item>5 mínútur</item>
+        <item>10 mínútur</item>
+        <item>15 mínútur</item>
+        <item>20 mínútur</item>
+        <item>25 mínútur</item>
+        <item>30 mínútur</item>
+        <item>45 mínútur</item>
+        <item>1 klst.</item>
+        <item>2 klst.</item>
+        <item>3 klst.</item>
+        <item>12 klst.</item>
+        <item>24 klst.</item>
+        <item>2 dagar</item>
+        <item>1 vika</item>
+    </array>
+    <array name="repeats_pattern">
+        <item>Daglega</item>
+        <item>Vikulega</item>
+        <item>Mánaðarlega</item>
+        <item>Árlega</item>
+    </array>
+    <array name="repeats_weekdays_no">
+        <item>Fyrsti</item>
+        <item>Annar</item>
+        <item>Þriðji</item>
+        <item>Fjórði</item>
+        <item>Fimmti</item>
+    </array>
+    <array name="reply_items">
+        <item>Svara</item>
+        <item>Svara öllum</item>
+        <item>Framsenda</item>
+    </array>
+    <array name="response_labels1">
+        <item>(Ekkert svar)</item>
+        <item>Já</item>
+        <item>Kannski</item>
+        <item>Nei</item>
+    </array>
+    <array name="response_labels2">
+        <item>Já</item>
+        <item>Kannski</item>
+        <item>Nei</item>
+    </array>
+    <array name="timezone_labels">
+        <item>Marshalleyjar</item>
+        <item>Midwayeyjar</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Kyrrahafstími</item>
+        <item>Tíjúana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Fjallatími</item>
+        <item>Mið-Ameríka</item>
+        <item>Miðtími</item>
+        <item>Mexíkóborg</item>
+        <item>Saskatchewan</item>
+        <item>Bógóta</item>
+        <item>Austurtími</item>
+        <item>Venesúela</item>
+        <item>Atlantshafstími</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Nýfundnaland</item>
+        <item>Brasilía</item>
+        <item>Buenos Aires</item>
+        <item>Grænland</item>
+        <item>Montevídeó</item>
+        <item>Mið-Atlantshaf</item>
+        <item>Azor-eyjar</item>
+        <item>Grænhöfðaeyjar</item>
+        <item>Casablanca</item>
+        <item>London, Dublin</item>
+        <item>Amsterdam, Berlín</item>
+        <item>Belgrad</item>
+        <item>Brussel</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>Vestur-Afríkutími</item>
+        <item>Amman, Jórdanía</item>
+        <item>Aþena, Istanbúl</item>
+        <item>Beirút, Líbanon</item>
+        <item>Kaíró</item>
+        <item>Helsinki</item>
+        <item>Jerúsalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moskva</item>
+        <item>Kúveit</item>
+        <item>Naíróbí</item>
+        <item>Teheran</item>
+        <item>Baku</item>
+        <item>Tíblisi</item>
+        <item>Yerevan</item>
+        <item>Dubai</item>
+        <item>Kabúl</item>
+        <item>Íslamabad, Karachi</item>
+        <item>Uralsk</item>
+        <item>Yekaterinburg</item>
+        <item>Kolkata</item>
+        <item>Srí Lanka</item>
+        <item>Katmandú</item>
+        <item>Astana</item>
+        <item>Jangún</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Peking</item>
+        <item>Hong Kong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Seoul</item>
+        <item>Tókýó, Osaka</item>
+        <item>Yakutsk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney, Canberra</item>
+        <item>Vladivostok</item>
+        <item>Gvam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fídjieyjar</item>
+        <item>Tonga</item>
+    </array>
+    <array name="visibility">
+        <item>Sjálfgefið</item>
+        <item>Lokað</item>
+        <item>Almennt</item>
+    </array>
+</resources>

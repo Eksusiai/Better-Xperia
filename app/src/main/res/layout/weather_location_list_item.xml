@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="64dp"
+    android:paddingStart="@dimen/weather_location_item_start_end_padding"
+    android:paddingEnd="@dimen/weather_location_item_start_end_padding">
+    <TextView
+        android:textSize="18sp"
+        android:gravity="center_vertical"
+        android:id="@+id/listText"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>

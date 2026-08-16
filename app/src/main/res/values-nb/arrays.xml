@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="accepted_items">
+        <item>Godtatt</item>
+        <item>Avventende</item>
+        <item>Avslått</item>
+    </array>
+    <array name="accessibility_event_color_picker_colors">
+        <item>Gul</item>
+        <item>Oransje</item>
+        <item>Rød</item>
+        <item>Burgunder</item>
+        <item>Rosa</item>
+        <item>Lilla</item>
+        <item>Brun</item>
+        <item>Lys grønn</item>
+        <item>Grønn</item>
+        <item>Turkis</item>
+        <item>Lys blå</item>
+        <item>Blå</item>
+    </array>
+    <array name="availability">
+        <item>Opptatt</item>
+        <item>Tilgjengelig</item>
+        <item>Avventende</item>
+    </array>
+    <array name="change_response_labels">
+        <item>Bare denne forekomsten</item>
+        <item>Alle hendelser i serien</item>
+    </array>
+    <array name="month_view_day_labels">
+        <item>M</item>
+        <item>T</item>
+        <item>O</item>
+        <item>T</item>
+        <item>F</item>
+        <item>L</item>
+        <item>S</item>
+    </array>
+    <array name="ordinal_labels">
+        <item>første</item>
+        <item>andre</item>
+        <item>tredje</item>
+        <item>fjerde</item>
+        <item>siste</item>
+    </array>
+    <array name="prefEntries_alerts_vibrateWhen">
+        <item>Alltid</item>
+        <item>Kun ved Ikke forstyrr-modus</item>
+        <item>Aldri</item>
+    </array>
+    <array name="preferences_alert_type_labels">
+        <item>Advarsel</item>
+        <item>Varsling i statusfeltet</item>
+        <item>Av</item>
+    </array>
+    <array name="preferences_default_reminder_labels">
+        <item>Ingen</item>
+        <item>5 minutter</item>
+        <item>10 minutter</item>
+        <item>15 minutter</item>
+        <item>20 minutter</item>
+        <item>25 minutter</item>
+        <item>30 minutter</item>
+        <item>45 minutter</item>
+        <item>1 time</item>
+        <item>2 timer</item>
+        <item>3 timer</item>
+        <item>12 timer</item>
+        <item>24 timer</item>
+        <item>2 dager</item>
+        <item>1 uke</item>
+    </array>
+    <array name="preferences_week_days_labels">
+        <item>Kun hverdager</item>
+        <item>7 dager</item>
+    </array>
+    <array name="quick_response_defaults">
+        <item>Bare noen minutter forsinket.</item>
+        <item>Er der om cirka 10 minutter.</item>
+        <item>Bare sett i gang uten meg.</item>
+        <item>Beklager, jeg rekker det ikke. Vi må nok finne et nytt tidspunkt.</item>
+    </array>
+    <array name="reminder_minutes_labels">
+        <item>5 minutter</item>
+        <item>10 minutter</item>
+        <item>15 minutter</item>
+        <item>20 minutter</item>
+        <item>25 minutter</item>
+        <item>30 minutter</item>
+        <item>45 minutter</item>
+        <item>1 time</item>
+        <item>2 timer</item>
+        <item>3 timer</item>
+        <item>12 timer</item>
+        <item>24 timer</item>
+        <item>2 dager</item>
+        <item>1 uke</item>
+    </array>
+    <array name="repeats_pattern">
+        <item>Daglig</item>
+        <item>Ukentlig</item>
+        <item>Månedlig</item>
+        <item>Årlig</item>
+    </array>
+    <array name="repeats_weekdays_no">
+        <item>Første</item>
+        <item>Andre</item>
+        <item>Tredje</item>
+        <item>Fjerde</item>
+        <item>Femte</item>
+    </array>
+    <array name="reply_items">
+        <item>Svar</item>
+        <item>Svar alle</item>
+        <item>Videresend</item>
+    </array>
+    <array name="response_labels1">
+        <item>(Ikke svar)</item>
+        <item>Ja</item>
+        <item>Kanskje</item>
+        <item>Nei</item>
+    </array>
+    <array name="response_labels2">
+        <item>Ja</item>
+        <item>Kanskje</item>
+        <item>Nei</item>
+    </array>
+    <array name="timezone_labels">
+        <item>Marshalløyene</item>
+        <item>Midway Island</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Pacific Time</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Mountain Time</item>
+        <item>Sentr.-Amerika</item>
+        <item>Sentraltid</item>
+        <item>Mexico city</item>
+        <item>Saskatchewan</item>
+        <item>Bogotá</item>
+        <item>Eastern Time</item>
+        <item>Venezuela</item>
+        <item>Atlantic Time</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Newfoundland</item>
+        <item>Brasilia</item>
+        <item>Buenos Aires</item>
+        <item>Grønland</item>
+        <item>Montevideo</item>
+        <item>Midt-Atlanteren</item>
+        <item>Azorene</item>
+        <item>Kapp Verde</item>
+        <item>Casablanca</item>
+        <item>London, Dublin</item>
+        <item>Amsterd., Berlin</item>
+        <item>Beograd</item>
+        <item>Brussel</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>Vestafrika-tid</item>
+        <item>Amman, Jordan</item>
+        <item>Aten, Istanbul</item>
+        <item>Beirut, Libanon</item>
+        <item>Kairo</item>
+        <item>Helsinki</item>
+        <item>Jerusalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moskva</item>
+        <item>Kuwait</item>
+        <item>Nairobi</item>
+        <item>Teheran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Jerevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karachi</item>
+        <item>Uralsk</item>
+        <item>Jekaterinburg</item>
+        <item>Kolkata</item>
+        <item>Sri Lanka</item>
+        <item>Kathmandu</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnojarsk</item>
+        <item>Bangkok</item>
+        <item>Beijing</item>
+        <item>Hongkong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Seoul</item>
+        <item>Tokyo, Osaka</item>
+        <item>Yakutsk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney, Canberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Tonga</item>
+    </array>
+    <array name="visibility">
+        <item>Standard</item>
+        <item>Privat</item>
+        <item>Offentlig</item>
+    </array>
+</resources>

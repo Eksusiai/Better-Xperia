@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: en (English)
+ * Region: PH (Philippines)
+ *********************************************************************
+--><calendar language="en" region="PH" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day (Araw ng Bagong Taon)] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">New Year's Day</holiday>
+        <!--[Chinese Lunar New Year] - [chinese_lunar_new_year]-->
+        <holiday endDate="2017-01-28" startDate="2017-01-28" workingday="false">Chinese Lunar New Year</holiday>
+        <!--[Araw ng Kagitingan (Day of Valor)] - [araw_ng_kagitingan__day_of_valor_]-->
+        <holiday endDate="2017-04-09" startDate="2017-04-09" workingday="false">Araw ng Kagitingan (Day of Valor)</holiday>
+        <!--[Maundy Thursday (Huwebes Santo)] - [maundy_thursday__huwebes_santo_]-->
+        <holiday endDate="2017-04-13" startDate="2017-04-13" workingday="false">Maundy Thursday (Huwebes Santo)</holiday>
+        <!--[Good Friday (Biyernes Santo)] - [good_friday]-->
+        <holiday endDate="2017-04-14" startDate="2017-04-14" workingday="false">Good Friday</holiday>
+        <!--[Labor Day (Araw ng Manggagawa)] - [labor_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Labor Day</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2017-06-12" startDate="2017-06-12" workingday="false">Independence Day</holiday>
+        <!--[Eid'l Fitr (End of Ramadan)] - [end_of_ramadan]-->
+        <holiday endDate="2017-06-26" startDate="2017-06-26" workingday="false">Eid al Fitr (End of Ramadan)</holiday>
+        <!--[Aquino Day] - [aquino_day]-->
+        <holiday endDate="2017-08-21" startDate="2017-08-21" workingday="false">Aquino Day</holiday>
+        <!--[National Heroes' Day (Araw ng mga Bayani)] - [national_heroes__day__araw_ng_mga_bayani_]-->
+        <holiday endDate="2017-08-28" startDate="2017-08-28" workingday="false">National Heroes' Day (Araw ng mga Bayani)</holiday>
+        <!--[Eid'l Adha] - [eid_l_adha]-->
+        <holiday endDate="2017-09-01" startDate="2017-09-01" workingday="false">Eid'l Adha</holiday>
+        <!--[All Saints' Day (Araw ng mga Namayapa)] - [all_saints__day__araw_ng_mga_namayapa_]-->
+        <holiday endDate="2017-11-01" startDate="2017-11-01" workingday="false">All Saints' Day (Araw ng mga Namayapa)</holiday>
+        <!--[Bonifacio Day (Araw ni Bonifacio)] - [bonifacio_day__araw_ni_bonifacio_]-->
+        <holiday endDate="2017-11-30" startDate="2017-11-30" workingday="false">Bonifacio Day (Araw ni Bonifacio)</holiday>
+        <!--[Christmas Day (Pasko)] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Christmas Day</holiday>
+        <!--[Rizal Day (Araw ni Rizal)] - [rizal_day__araw_ni_rizal_]-->
+        <holiday endDate="2017-12-30" startDate="2017-12-30" workingday="false">Rizal Day (Araw ni Rizal)</holiday>
+        <!--[New Year's Day (Araw ng Bagong Taon)] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">New Year's Day</holiday>
+        <!--[Additional Public Holiday] - [additional_public_holiday]-->
+        <holiday endDate="2016-01-02" startDate="2016-01-02" workingday="false">Additional Public Holiday</holiday>
+        <!--[Chinese Lunar New Year] - [chinese_lunar_new_year]-->
+        <holiday endDate="2016-02-08" startDate="2016-02-08" workingday="false">Chinese Lunar New Year</holiday>
+        <!--[Public Holiday (30th anniversary of the EDSA Revolution)] - [public_holiday__30th_anniversary_of_the_edsa_revolution_]-->
+        <holiday endDate="2016-02-25" startDate="2016-02-25" workingday="false">Public Holiday (30th anniversary of the EDSA Revolution)</holiday>
+        <!--[Maundy Thursday (Huwebes Santo)] - [maundy_thursday__huwebes_santo_]-->
+        <holiday endDate="2016-03-24" startDate="2016-03-24" workingday="false">Maundy Thursday (Huwebes Santo)</holiday>
+        <!--[Good Friday (Biyernes Santo)] - [good_friday]-->
+        <holiday endDate="2016-03-25" startDate="2016-03-25" workingday="false">Good Friday</holiday>
+        <!--[Araw ng Kagitingan (Day of Valor)] - [araw_ng_kagitingan__day_of_valor_]-->
+        <holiday endDate="2016-04-09" startDate="2016-04-09" workingday="false">Araw ng Kagitingan (Day of Valor)</holiday>
+        <!--[Labor Day (Araw ng Manggagawa)] - [labor_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Labor Day</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2016-06-12" startDate="2016-06-12" workingday="false">Independence Day</holiday>
+        <!--[Eid'l Fitr (End of Ramadan)] - [end_of_ramadan]-->
+        <holiday endDate="2016-07-06" startDate="2016-07-06" workingday="false">Eid al Fitr (End of Ramadan)</holiday>
+        <!--[Aquino Day] - [aquino_day]-->
+        <holiday endDate="2016-08-21" startDate="2016-08-21" workingday="false">Aquino Day</holiday>
+        <!--[National Heroes' Day (Araw ng mga Bayani)] - [national_heroes__day__araw_ng_mga_bayani_]-->
+        <holiday endDate="2016-08-29" startDate="2016-08-29" workingday="false">National Heroes' Day (Araw ng mga Bayani)</holiday>
+        <!--[Eid'l Adha] - [eid_l_adha]-->
+        <holiday endDate="2016-09-11" startDate="2016-09-11" workingday="false">Eid'l Adha</holiday>
+        <!--[Public Holiday (Sangguniang Kabataan Elections)] - [public_holiday__sangguniang_kabataan_elections_]-->
+        <holiday endDate="2016-10-31" startDate="2016-10-31" workingday="false">Public Holiday (Sangguniang Kabataan Elections)</holiday>
+        <!--[All Saints' Day (Araw ng mga Namayapa)] - [all_saints__day__araw_ng_mga_namayapa_]-->
+        <holiday endDate="2016-11-01" startDate="2016-11-01" workingday="false">All Saints' Day (Araw ng mga Namayapa)</holiday>
+        <!--[Bonifacio Day (Araw ni Bonifacio)] - [bonifacio_day__araw_ni_bonifacio_]-->
+        <holiday endDate="2016-11-30" startDate="2016-11-30" workingday="false">Bonifacio Day (Araw ni Bonifacio)</holiday>
+        <!--[Additional Public Holiday] - [additional_public_holiday]-->
+        <holiday endDate="2016-12-24" startDate="2016-12-24" workingday="false">Additional Public Holiday</holiday>
+        <!--[Christmas Day (Pasko)] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Christmas Day</holiday>
+        <!--[Rizal Day (Araw ni Rizal)] - [rizal_day__araw_ni_rizal_]-->
+        <holiday endDate="2016-12-30" startDate="2016-12-30" workingday="false">Rizal Day (Araw ni Rizal)</holiday>
+        <!--[New Year's Eve (Bisperas ng Bagong Taon)] - [new_year_s_eve__bisperas_ng_bagong_taon_]-->
+        <holiday endDate="2016-12-31" startDate="2016-12-31" workingday="false">New Year's Eve (Bisperas ng Bagong Taon)</holiday>
+    </holidays>
+</calendar>
+

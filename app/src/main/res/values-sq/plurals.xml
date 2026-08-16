@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 ditë</item>
+        <item quantity="other">%d ditë</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 ngjarje</item>
+        <item quantity="other">%d ngjarje</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 orë</item>
+        <item quantity="other">%d orë</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 min.</item>
+        <item quantity="other">%d min.</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 minutë</item>
+        <item quantity="other">%d minuta</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">gradë</item>
+        <item quantity="other">gradë</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d vjeç</item>
+        <item quantity="other">%d vjeç</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 detyrë</item>
+        <item quantity="other">%d detyra</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">ngjarje</item>
+        <item quantity="other">ngjarje</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">Ngjarja u shtua</item>
+        <item quantity="other">Ngjarjet u shtuan</item>
+    </plurals>
+</resources>

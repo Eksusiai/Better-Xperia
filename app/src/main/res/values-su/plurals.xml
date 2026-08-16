@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 dinten</item>
+        <item quantity="other">%d poe</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 kajadian</item>
+        <item quantity="other">%d kajadian</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 jam</item>
+        <item quantity="other">%d jam</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 mnt</item>
+        <item quantity="other">%d menit</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 menit</item>
+        <item quantity="other">%d menit</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">darajat</item>
+        <item quantity="other">darajat</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d taun</item>
+        <item quantity="other">%d taun</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 Tugas</item>
+        <item quantity="other">%d tugas</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">kajadian</item>
+        <item quantity="other">kajadian</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">Kajadian ditambahkeun</item>
+        <item quantity="other">Kajadian ditambahkeun</item>
+    </plurals>
+</resources>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="accepted_items">
+        <item>Onartu da</item>
+        <item>Agian</item>
+        <item>Ezetsi da</item>
+    </array>
+    <array name="accessibility_event_color_picker_colors">
+        <item>Horia</item>
+        <item>Laranja</item>
+        <item>Gorria</item>
+        <item>Borgoina</item>
+        <item>Arrosa</item>
+        <item>Morea</item>
+        <item>Marroia</item>
+        <item>Berde argia</item>
+        <item>Berdea</item>
+        <item>Turkesa</item>
+        <item>Urdin argia</item>
+        <item>Urdina</item>
+    </array>
+    <array name="availability">
+        <item>Lanpetuta</item>
+        <item>Erabilgarri</item>
+        <item>Agian</item>
+    </array>
+    <array name="change_response_labels">
+        <item>Unekoa soilik</item>
+        <item>Serieko gertaera guztiak</item>
+    </array>
+    <array name="month_view_day_labels">
+        <item>Al.</item>
+        <item>Ar.</item>
+        <item>Az.</item>
+        <item>Og.</item>
+        <item>Ol.</item>
+        <item>Lr.</item>
+        <item>Ig.</item>
+    </array>
+    <array name="ordinal_labels">
+        <item>lehenengo</item>
+        <item>bigarren</item>
+        <item>hirugarren</item>
+        <item>laugarren</item>
+        <item>azken</item>
+    </array>
+    <array name="prefEntries_alerts_vibrateWhen">
+        <item>Beti</item>
+        <item>Ez molestatu moduan soilik</item>
+        <item>Inoiz ez</item>
+    </array>
+    <array name="preferences_alert_type_labels">
+        <item>Alerta</item>
+        <item>Egoera barraren jakinarazpena</item>
+        <item>Desaktibatuta</item>
+    </array>
+    <array name="preferences_default_reminder_labels">
+        <item>Bat ere ez</item>
+        <item>5 minutu</item>
+        <item>10 minutu</item>
+        <item>15 minutu</item>
+        <item>20 minutu</item>
+        <item>25 minutu</item>
+        <item>30 minutu</item>
+        <item>45 minutu</item>
+        <item>1 ordu</item>
+        <item>2 ordu</item>
+        <item>3 ordu</item>
+        <item>12 ordu</item>
+        <item>24 ordu</item>
+        <item>2 egun</item>
+        <item>1 aste</item>
+    </array>
+    <array name="preferences_week_days_labels">
+        <item>Lanegunak soilik</item>
+        <item>7 egun</item>
+    </array>
+    <array name="quick_response_defaults">
+        <item>Minutu batzuk berandutuko naiz.</item>
+        <item>10 minutu inguru barru helduko naiz.</item>
+        <item>Hasi ni gabe.</item>
+        <item>Sentitzen dut, baina orain ezin dut. Data aldatu beharko dugu.</item>
+    </array>
+    <array name="reminder_minutes_labels">
+        <item>5 minutu</item>
+        <item>10 minutu</item>
+        <item>15 minutu</item>
+        <item>20 minutu</item>
+        <item>25 minutu</item>
+        <item>30 minutu</item>
+        <item>45 minutu</item>
+        <item>1 ordu</item>
+        <item>2 ordu</item>
+        <item>3 ordu</item>
+        <item>12 ordu</item>
+        <item>24 ordu</item>
+        <item>2 egun</item>
+        <item>1 aste</item>
+    </array>
+    <array name="repeats_pattern">
+        <item>Egunero</item>
+        <item>Astero</item>
+        <item>Hilero</item>
+        <item>Urtero</item>
+    </array>
+    <array name="repeats_weekdays_no">
+        <item>Lehenengo</item>
+        <item>Bigarren</item>
+        <item>Hirugarren</item>
+        <item>Laugarren</item>
+        <item>Bostgarren</item>
+    </array>
+    <array name="reply_items">
+        <item>Erantzun</item>
+        <item>Erantzun guztiei</item>
+        <item>Birbidali</item>
+    </array>
+    <array name="response_labels1">
+        <item>(Erantzunik ez)</item>
+        <item>Bai</item>
+        <item>Agian</item>
+        <item>Ez</item>
+    </array>
+    <array name="response_labels2">
+        <item>Bai</item>
+        <item>Agian</item>
+        <item>Ez</item>
+    </array>
+    <array name="timezone_labels">
+        <item>Marshall uharteak</item>
+        <item>Midway uharteak</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Pazifikoko ordua</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Mendiko ordua</item>
+        <item>Erdialdeko Amerika</item>
+        <item>Erdialdeko ordua</item>
+        <item>Mexiko Hiria</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>Ekialdeko ordua</item>
+        <item>Venezuela</item>
+        <item>Atlantikoko ordua</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Ternua</item>
+        <item>Brasilia</item>
+        <item>Buenos Aires</item>
+        <item>Groenlandia</item>
+        <item>Montevideo</item>
+        <item>Atlantiko erdialdekoa</item>
+        <item>Azoreak</item>
+        <item>Cabo Verde uharteak</item>
+        <item>Casablanca</item>
+        <item>Londres, Dublin</item>
+        <item>Amsterdam, Berlin</item>
+        <item>Belgrado</item>
+        <item>Bruselas</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>Afrika m. ordua</item>
+        <item>Amman, Jordania</item>
+        <item>Atenas, Istanbul</item>
+        <item>Beirut, Libano</item>
+        <item>Kairo</item>
+        <item>Helsinki</item>
+        <item>Jerusalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Mosku</item>
+        <item>Kuwait</item>
+        <item>Nairobi</item>
+        <item>Teheran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Yerevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karachi</item>
+        <item>Uralsk</item>
+        <item>Yekaterinburg</item>
+        <item>Kalkuta</item>
+        <item>Sri Lanka</item>
+        <item>Katmandu</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Pekin</item>
+        <item>Hong Kong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Seul</item>
+        <item>Tokio, Osaka</item>
+        <item>Yakutsk</item>
+        <item>Adelaida</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney, Canberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Tonga</item>
+    </array>
+    <array name="visibility">
+        <item>Lehenetsia</item>
+        <item>Pribatua</item>
+        <item>Publikoa</item>
+    </array>
+</resources>

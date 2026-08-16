@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:textColor="@color/done_text_color_normal"
+        android:id="@+id/action_today"
+        android:title="@string/goto_today"
+        android:alphabeticShortcut="t"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_refresh"
+        android:title="@string/clr_strings_refresh_option_txt"
+        android:alphabeticShortcut="r"
+        app:showAsAction="never"/>
+    <item
+        android:icon="@drawable/ic_menu_search_holo_light"
+        android:id="@+id/action_search"
+        android:title="@string/clr_strings_search_option_txt"
+        android:alphabeticShortcut="f"
+        app:actionLayout="@layout/search_view_item"
+        app:showAsAction="collapseActionView"/>
+    <item
+        android:id="@+id/action_conversion"
+        android:visible="false"
+        android:title="@string/lunar_solar_conversion_option_txt"
+        app:showAsAction="never"/>
+    <item
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:id="@+id/action_settings"
+        android:title="@string/menu_preferences"
+        android:alphabeticShortcut="s"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_license"
+        android:title="@string/menu_license"
+        android:alphabeticShortcut="l"
+        app:showAsAction="never"/>
+</menu>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: es (Spanish; Castilian)
+ * Region: PR (Puerto Rico)
+ *********************************************************************
+--><calendar language="es" region="PR" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day (Día de Año Nuevo)] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Día de Año nuevo</holiday>
+        <!--[Epiphany (Día de Reyes)] - [epiphany]-->
+        <holiday endDate="2017-01-06" startDate="2017-01-06" workingday="false">Epifanía</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2017-04-14" startDate="2017-04-14" workingday="false">Viernes Santo</holiday>
+        <!--[Easter Sunday (Domingo de Pascuas)] - [easter_sunday__domingo_de_pascuas_]-->
+        <holiday endDate="2017-04-16" startDate="2017-04-16" workingday="false">Domingo de pascuas</holiday>
+        <!--[Mothers' Day (Día de la Madres)] - [mothers__day__d_a_de_la_madres_]-->
+        <holiday endDate="2017-05-14" startDate="2017-05-14" workingday="false">Día de la madre</holiday>
+        <!--[Fathers' Day (Día de los Padres)] - [fathers__day__d_a_de_los_padres_]-->
+        <holiday endDate="2017-06-18" startDate="2017-06-18" workingday="false">Día del padre</holiday>
+        <!--[Thanksgiving Day] - [thanksgiving_day]-->
+        <holiday endDate="2017-11-23" startDate="2017-11-23" workingday="false">Día de Acción de Gracias</holiday>
+        <!--[Christmas Day (Día de Navidad)] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Día de Navidad</holiday>
+        <!--[New Year's Day (Día de Año Nuevo)] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Día de Año nuevo</holiday>
+        <!--[Epiphany (Día de Reyes)] - [epiphany]-->
+        <holiday endDate="2016-01-06" startDate="2016-01-06" workingday="false">Epifanía</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2016-03-25" startDate="2016-03-25" workingday="false">Viernes Santo</holiday>
+        <!--[Easter Sunday (Domingo de Pascuas)] - [easter_sunday__domingo_de_pascuas_]-->
+        <holiday endDate="2016-03-27" startDate="2016-03-27" workingday="false">Domingo de pascuas</holiday>
+        <!--[Mothers' Day (Día de la Madres)] - [mothers__day__d_a_de_la_madres_]-->
+        <holiday endDate="2016-05-08" startDate="2016-05-08" workingday="false">Día de la madre</holiday>
+        <!--[Fathers' Day (Día de los Padres)] - [fathers__day__d_a_de_los_padres_]-->
+        <holiday endDate="2016-06-19" startDate="2016-06-19" workingday="false">Día del padre</holiday>
+        <!--[Public Holiday (Día de Elecciones Generales)] - [public_holiday__d_a_de_elecciones_generales_]-->
+        <holiday endDate="2016-11-08" startDate="2016-11-08" workingday="false">Día de asueto público (Día de Elecciones Generales)</holiday>
+        <!--[Thanksgiving Day] - [thanksgiving_day]-->
+        <holiday endDate="2016-11-24" startDate="2016-11-24" workingday="false">Día de Acción de Gracias</holiday>
+        <!--[Christmas Day (Día de Navidad)] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Día de Navidad</holiday>
+    </holidays>
+</calendar>
+

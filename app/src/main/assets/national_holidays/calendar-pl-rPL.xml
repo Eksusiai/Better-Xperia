@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: pl (Polish)
+ * Region: PL (Poland)
+ *********************************************************************
+--><calendar language="pl" region="PL" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Nowy Rok</holiday>
+        <!--[Epiphany] - [epiphany]-->
+        <holiday endDate="2017-01-06" startDate="2017-01-06" workingday="false">Święto Trzech Króli</holiday>
+        <!--[Easter] - [easter]-->
+        <holiday endDate="2017-04-16" startDate="2017-04-16" workingday="false">Wielkanoc</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">Poniedziałek Wielkanocny</holiday>
+        <!--[State Holiday (Swieto Panstwowe)] - [state_holiday__swieto_panstwowe_]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Święto państwowe</holiday>
+        <!--[Constitution Day] - [constitution_day]-->
+        <holiday endDate="2017-05-03" startDate="2017-05-03" workingday="false">Święto Narodowe Trzeciego Maja</holiday>
+        <!--[Whit Sunday (Pentecost)] - [whit_sunday__pentecost_]-->
+        <holiday endDate="2017-06-04" startDate="2017-06-04" workingday="false">Pierwszy dzień Zielonych Świątek</holiday>
+        <!--[Corpus Christi Day] - [corpus_christi]-->
+        <holiday endDate="2017-06-15" startDate="2017-06-15" workingday="false">Boże Ciało</holiday>
+        <!--[Assumption Day] - [assumption_day]-->
+        <holiday endDate="2017-08-15" startDate="2017-08-15" workingday="false">Wniebowzięcie Najświętszej Marii Panny</holiday>
+        <!--[All Saints' Day] - [all_saints__day]-->
+        <holiday endDate="2017-11-01" startDate="2017-11-01" workingday="false">Wszystkich Świętych</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2017-11-11" startDate="2017-11-11" workingday="false">Narodowe Święto Niepodległości</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Boże Narodzenie</holiday>
+        <!--[Second Day of Christmas] - [second_day_of_christmas]-->
+        <holiday endDate="2017-12-26" startDate="2017-12-26" workingday="false">Drugi dzień Bożego Narodzenia</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Nowy Rok</holiday>
+        <!--[Epiphany] - [epiphany]-->
+        <holiday endDate="2016-01-06" startDate="2016-01-06" workingday="false">Święto Trzech Króli</holiday>
+        <!--[Easter] - [easter]-->
+        <holiday endDate="2016-03-27" startDate="2016-03-27" workingday="false">Wielkanoc</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2016-03-28" startDate="2016-03-28" workingday="false">Poniedziałek Wielkanocny</holiday>
+        <!--[State Holiday (Swieto Panstwowe)] - [state_holiday__swieto_panstwowe_]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Święto państwowe</holiday>
+        <!--[Constitution Day] - [constitution_day]-->
+        <holiday endDate="2016-05-03" startDate="2016-05-03" workingday="false">Święto Narodowe Trzeciego Maja</holiday>
+        <!--[Whit Sunday (Pentecost)] - [whit_sunday__pentecost_]-->
+        <holiday endDate="2016-05-15" startDate="2016-05-15" workingday="false">Pierwszy dzień Zielonych Świątek</holiday>
+        <!--[Corpus Christi Day] - [corpus_christi]-->
+        <holiday endDate="2016-05-26" startDate="2016-05-26" workingday="false">Boże Ciało</holiday>
+        <!--[Assumption Day] - [assumption_day]-->
+        <holiday endDate="2016-08-15" startDate="2016-08-15" workingday="false">Wniebowzięcie Najświętszej Marii Panny</holiday>
+        <!--[All Saints' Day] - [all_saints__day]-->
+        <holiday endDate="2016-11-01" startDate="2016-11-01" workingday="false">Wszystkich Świętych</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2016-11-11" startDate="2016-11-11" workingday="false">Narodowe Święto Niepodległości</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Boże Narodzenie</holiday>
+        <!--[Second Day of Christmas] - [second_day_of_christmas]-->
+        <holiday endDate="2016-12-26" startDate="2016-12-26" workingday="false">Drugi dzień Bożego Narodzenia</holiday>
+    </holidays>
+</calendar>
+

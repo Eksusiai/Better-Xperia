@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: ro (Romanian)
+ * Region: RO (Romania)
+ *********************************************************************
+--><calendar language="ro" region="RO" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day (Anul nou)] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Anul Nou</holiday>
+        <!--[Second Day of the New Year] - [second_day_of_the_new_year]-->
+        <holiday endDate="2017-01-02" startDate="2017-01-02" workingday="false">A doua zi a Anului Nou</holiday>
+        <!--[Orthodox Easter (Pastele)] - [orthodox_easter__pastele_]-->
+        <holiday endDate="2017-04-16" startDate="2017-04-16" workingday="false">Paştele ortodox</holiday>
+        <!--[Orthodox Easter Monday (Doua zi de Pasti)] - [orthodox_easter_monday]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">Lunea Paştelui ortodox</holiday>
+        <!--[Labour Day (Ziua muncii)] - [labor_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Ziua Muncii</holiday>
+        <!--[Pentecost (Rusalii)] - [pentecost__rusalii_]-->
+        <holiday endDate="2017-06-04" startDate="2017-06-04" workingday="false">Rusaliile</holiday>
+        <!--[Pentecost Monday (Doua zi de Rusalii)] - [pentecost_monday__doua_zi_de_rusalii_]-->
+        <holiday endDate="2017-06-05" startDate="2017-06-05" workingday="false">Lunea Rusaliilor</holiday>
+        <!--[Dormition of the Virgin Mary (Adormirea Maicii Domnului)] - [dormition_of_the_virgin_mary__adormirea_maicii_domnului_]-->
+        <holiday endDate="2017-08-15" startDate="2017-08-15" workingday="false">Adormirea Maicii Domnului</holiday>
+        <!--[Feast of Saint Andrew (Sfântul Andrei)] - [feast_of_saint_andrew__sf_ntul_andrei_]-->
+        <holiday endDate="2017-11-30" startDate="2017-11-30" workingday="false">Sfântul Andrei</holiday>
+        <!--[National Day (Ziua unirii)] - [national_day__ziua_unirii_]-->
+        <holiday endDate="2017-12-01" startDate="2017-12-01" workingday="false">Ziua Naţională</holiday>
+        <!--[Christmas Day (Craciunul)] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Prima zi a Crăciunului</holiday>
+        <!--[Second Day of Christmas] - [second_day_of_christmas]-->
+        <holiday endDate="2017-12-26" startDate="2017-12-26" workingday="false">A doua zi a Crăciunului</holiday>
+        <!--[New Year's Day (Anul nou)] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Anul Nou</holiday>
+        <!--[Second Day of the New Year] - [second_day_of_the_new_year]-->
+        <holiday endDate="2016-01-02" startDate="2016-01-02" workingday="false">A doua zi a Anului Nou</holiday>
+        <!--[Labour Day (Ziua muncii)] - [labor_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Ziua Muncii</holiday>
+        <!--[Orthodox Easter (Pastele)] - [orthodox_easter__pastele_]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Paştele ortodox</holiday>
+        <!--[Orthodox Easter Monday (Doua zi de Pasti)] - [orthodox_easter_monday]-->
+        <holiday endDate="2016-05-02" startDate="2016-05-02" workingday="false">Lunea Paştelui ortodox</holiday>
+        <!--[Pentecost (Rusalii)] - [pentecost__rusalii_]-->
+        <holiday endDate="2016-06-19" startDate="2016-06-19" workingday="false">Rusaliile</holiday>
+        <!--[Pentecost Monday (Doua zi de Rusalii)] - [pentecost_monday__doua_zi_de_rusalii_]-->
+        <holiday endDate="2016-06-20" startDate="2016-06-20" workingday="false">Lunea Rusaliilor</holiday>
+        <!--[Dormition of the Virgin Mary (Adormirea Maicii Domnului)] - [dormition_of_the_virgin_mary__adormirea_maicii_domnului_]-->
+        <holiday endDate="2016-08-15" startDate="2016-08-15" workingday="false">Adormirea Maicii Domnului</holiday>
+        <!--[Feast of Saint Andrew (Sfântul Andrei)] - [feast_of_saint_andrew__sf_ntul_andrei_]-->
+        <holiday endDate="2016-11-30" startDate="2016-11-30" workingday="false">Sfântul Andrei</holiday>
+        <!--[National Day (Ziua unirii)] - [national_day__ziua_unirii_]-->
+        <holiday endDate="2016-12-01" startDate="2016-12-01" workingday="false">Ziua Naţională</holiday>
+        <!--[Christmas Day (Craciunul)] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Prima zi a Crăciunului</holiday>
+        <!--[Second Day of Christmas] - [second_day_of_christmas]-->
+        <holiday endDate="2016-12-26" startDate="2016-12-26" workingday="false">A doua zi a Crăciunului</holiday>
+    </holidays>
+</calendar>
+

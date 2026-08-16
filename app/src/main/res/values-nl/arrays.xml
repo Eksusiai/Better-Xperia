@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="accepted_items">
+        <item>Geaccepteerd</item>
+        <item>Voorlopig</item>
+        <item>Geweigerd</item>
+    </array>
+    <array name="accessibility_event_color_picker_colors">
+        <item>Geel</item>
+        <item>Oranje</item>
+        <item>Rood</item>
+        <item>Bordeauxrood</item>
+        <item>Roze</item>
+        <item>Paars</item>
+        <item>Bruin</item>
+        <item>Lichtgroen</item>
+        <item>Groen</item>
+        <item>Turquoise</item>
+        <item>Lichtblauw</item>
+        <item>Blauw</item>
+    </array>
+    <array name="availability">
+        <item>Bezet</item>
+        <item>Beschikbaar</item>
+        <item>Niet zeker</item>
+    </array>
+    <array name="change_response_labels">
+        <item>Alleen deze keer</item>
+        <item>Alle gebeurt. in reeks</item>
+    </array>
+    <array name="month_view_day_labels">
+        <item>M</item>
+        <item>D</item>
+        <item>W</item>
+        <item>D</item>
+        <item>V</item>
+        <item>Z</item>
+        <item>Z</item>
+    </array>
+    <array name="ordinal_labels">
+        <item>eerste</item>
+        <item>tweede</item>
+        <item>derde</item>
+        <item>vierde</item>
+        <item>laatste</item>
+    </array>
+    <array name="prefEntries_alerts_vibrateWhen">
+        <item>Altijd</item>
+        <item>Alleen in modus Niet storen</item>
+        <item>Nooit</item>
+    </array>
+    <array name="preferences_alert_type_labels">
+        <item>Melding</item>
+        <item>Statusbalkmelding</item>
+        <item>Uit</item>
+    </array>
+    <array name="preferences_default_reminder_labels">
+        <item>Geen</item>
+        <item>5 minuten</item>
+        <item>10 minuten</item>
+        <item>15 minuten</item>
+        <item>20 minuten</item>
+        <item>25 minuten</item>
+        <item>30 minuten</item>
+        <item>45 minuten</item>
+        <item>1 uur</item>
+        <item>2 uur</item>
+        <item>3 uur</item>
+        <item>12 uur</item>
+        <item>24 uur</item>
+        <item>2 dagen</item>
+        <item>1 week</item>
+    </array>
+    <array name="preferences_week_days_labels">
+        <item>Alleen werkdagen</item>
+        <item>7 dagen</item>
+    </array>
+    <array name="quick_response_defaults">
+        <item>Loop slechts enkele minuten achter.</item>
+        <item>Ben er over 10 minuten.</item>
+        <item>Begin maar zonder mij.</item>
+        <item>Sorry, dat lukt niet. We maken een andere afspraak.</item>
+    </array>
+    <array name="reminder_minutes_labels">
+        <item>5 minuten</item>
+        <item>10 minuten</item>
+        <item>15 minuten</item>
+        <item>20 minuten</item>
+        <item>25 minuten</item>
+        <item>30 minuten</item>
+        <item>45 minuten</item>
+        <item>1 uur</item>
+        <item>2 uur</item>
+        <item>3 uur</item>
+        <item>12 uur</item>
+        <item>24 uur</item>
+        <item>2 dagen</item>
+        <item>1 week</item>
+    </array>
+    <array name="repeats_pattern">
+        <item>Dagelijks</item>
+        <item>Wekelijks</item>
+        <item>Maandelijks</item>
+        <item>Jaarlijks</item>
+    </array>
+    <array name="repeats_weekdays_no">
+        <item>Eerste</item>
+        <item>Tweede</item>
+        <item>Derde</item>
+        <item>Vierde</item>
+        <item>Vijfde</item>
+    </array>
+    <array name="reply_items">
+        <item>Antwoorden</item>
+        <item>Allen antwoorden</item>
+        <item>Doorsturen</item>
+    </array>
+    <array name="response_labels1">
+        <item>(Geen antwoord)</item>
+        <item>Ja</item>
+        <item>Misschien</item>
+        <item>Nee</item>
+    </array>
+    <array name="response_labels2">
+        <item>Ja</item>
+        <item>Misschien</item>
+        <item>Nee</item>
+    </array>
+    <array name="timezone_labels">
+        <item>Marshalleilanden</item>
+        <item>Midway</item>
+        <item>Hawaï</item>
+        <item>Alaska</item>
+        <item>Pacific Time</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Mountain Time</item>
+        <item>Midden-Amerika</item>
+        <item>Central Time</item>
+        <item>Mexico-stad</item>
+        <item>Saskatchewan</item>
+        <item>Bogotá</item>
+        <item>Eastern Time</item>
+        <item>Venezuela</item>
+        <item>Atlantic Time</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Newfoundland</item>
+        <item>Brasilia</item>
+        <item>Buenos Aires</item>
+        <item>Groenland</item>
+        <item>Montevideo</item>
+        <item>Midatlantisch</item>
+        <item>Azoren</item>
+        <item>Kaapverdië</item>
+        <item>Casablanca</item>
+        <item>Londen, Dublin</item>
+        <item>Amsterdam, Berlijn</item>
+        <item>Belgrado</item>
+        <item>Brussel</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>W. Africa Time</item>
+        <item>Amman, Jordanië</item>
+        <item>Athene, Istanbul</item>
+        <item>Beiroet, Libanon</item>
+        <item>Caïro</item>
+        <item>Helsinki</item>
+        <item>Jeruzalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moskou</item>
+        <item>Koeweit</item>
+        <item>Nairobi</item>
+        <item>Teheran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Jerevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karachi</item>
+        <item>Oeral</item>
+        <item>Jekaterinenburg</item>
+        <item>Kolkata</item>
+        <item>Sri Lanka</item>
+        <item>Kathmandu</item>
+        <item>Astana</item>
+        <item>Rangoon</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Beijing</item>
+        <item>Hongkong</item>
+        <item>Irkoetsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Seoul</item>
+        <item>Tokio, Osaka</item>
+        <item>Jakoetsk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney, Canberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Tonga</item>
+    </array>
+    <array name="visibility">
+        <item>Standaard</item>
+        <item>Privé</item>
+        <item>Openbaar</item>
+    </array>
+</resources>

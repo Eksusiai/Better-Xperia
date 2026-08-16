@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android" android:color="@color/white_with_alpha">
+    <item>
+        <selector>
+            <item android:state_focused="true">
+                <shape
+                    android:id="@+id/shape1"
+                    android:shape="rectangle">
+                    <corners android:radius="2dp"/>
+                </shape>
+            </item>
+            <item>
+                <shape
+                    android:id="@+id/shape2"
+                    android:shape="rectangle">
+                    <corners android:radius="2dp"/>
+                </shape>
+            </item>
+        </selector>
+    </item>
+</ripple>

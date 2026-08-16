@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 day</item>
+        <item quantity="other">%d days</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 event</item>
+        <item quantity="other">%d events</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 hour</item>
+        <item quantity="other">%d hours</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 min</item>
+        <item quantity="other">%d mins</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 minute</item>
+        <item quantity="other">%d minutes</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">degree</item>
+        <item quantity="other">degrees</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d year old</item>
+        <item quantity="other">%d years old</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 task</item>
+        <item quantity="other">%d tasks</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">event</item>
+        <item quantity="other">events</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">Event added</item>
+        <item quantity="other">Events added</item>
+    </plurals>
+</resources>

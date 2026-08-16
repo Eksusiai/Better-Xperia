@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_action_bar_default_height_material">48dp</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">12dp</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">14dp</dimen>
+    <dimen name="agenda_mode_split_position">0.7</dimen>
+    <dimen name="chip_height">26dp</dimen>
+    <dimen name="month_view_day_text_size">24sp</dimen>
+    <dimen name="month_view_digit_size_lunar_available">20dp</dimen>
+    <dimen name="month_view_lunar_day_text_size">9dp</dimen>
+    <dimen name="navigation_view_column_height">38dp</dimen>
+    <dimen name="personal_info_dialog_width">400dp</dimen>
+    <dimen name="refresh_bar_height">72dp</dimen>
+    <dimen name="selected_date_day_size">100dp</dimen>
+    <dimen name="selected_date_month_size">30dp</dimen>
+    <dimen name="selected_date_year_size">30dp</dimen>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="preference_title_weather_forecast">Forecast sa lagay ng panahon</string>
+    <string name="preferences_display_weather">Forecast sa lagay ng panahon</string>
+</resources>

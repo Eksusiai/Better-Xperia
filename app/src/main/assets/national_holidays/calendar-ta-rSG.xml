@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: ta (Tamil)
+ * Region: SG (Singapore)
+ *********************************************************************
+--><calendar language="ta" region="SG" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day (celebration)] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">புத்தாண்டு தினம்</holiday>
+        <!--[New Year Holiday (day in lieu)] - [new_year_holiday__day_in_lieu_]-->
+        <holiday endDate="2017-01-02" startDate="2017-01-02" workingday="false">புது வருட விடுமுறை (ஈடுசெய்யும் நாள்)</holiday>
+        <!--[Chinese New Year] - [chinese_new_year]-->
+        <holiday endDate="2017-01-28" startDate="2017-01-28" workingday="false">சீனப் புத்தாண்டு</holiday>
+        <!--[Chinese New Year Holiday] - [chinese_new_year_holiday]-->
+        <holiday endDate="2017-01-30" startDate="2017-01-30" workingday="false">சீனப் புத்தாண்டு விடுமுறை</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2017-04-14" startDate="2017-04-14" workingday="false">புனித வெள்ளி</holiday>
+        <!--[Labour Day] - [labor_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">தொழிலாளர் தினம்</holiday>
+        <!--[Vesak Day (Buddha Day)] - [vesak_day__buddha_day_]-->
+        <holiday endDate="2017-05-10" startDate="2017-05-10" workingday="false">வேசாக் தினம்</holiday>
+        <!--[Hari Raya Puasa (End of Ramadan) (celebration)] - [end_of_ramadan]-->
+        <holiday endDate="2017-06-25" startDate="2017-06-25" workingday="false">ஈத் அல் ஃபிதர்</holiday>
+        <!--[End of Ramadan Holiday (day in lieu)] - [end_of_ramadan]-->
+        <holiday endDate="2017-06-26" startDate="2017-06-26" workingday="false">ஈத் அல் ஃபிதர்</holiday>
+        <!--[National Day] - [national_day]-->
+        <holiday endDate="2017-08-09" startDate="2017-08-09" workingday="false">தேசிய தினம்</holiday>
+        <!--[Hari Raya Haji (Feast of Sacrifice)] - [feast_of_sacrifice]-->
+        <holiday endDate="2017-09-01" startDate="2017-09-01" workingday="false">குர்பானி / அலி அல்-அதா</holiday>
+        <!--[Deepavali] - [deepavali]-->
+        <holiday endDate="2017-10-18" startDate="2017-10-18" workingday="false">தீபாவளி</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">கிறிஸ்துமஸ் தினம்</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">புத்தாண்டு தினம்</holiday>
+        <!--[Chinese New Year] - [chinese_new_year]-->
+        <holiday endDate="2016-02-08" startDate="2016-02-08" workingday="false">சீனப் புத்தாண்டு</holiday>
+        <!--[Chinese New Year Holiday] - [chinese_new_year_holiday]-->
+        <holiday endDate="2016-02-09" startDate="2016-02-09" workingday="false">சீனப் புத்தாண்டு விடுமுறை</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2016-03-25" startDate="2016-03-25" workingday="false">புனித வெள்ளி</holiday>
+        <!--[Labour Day (celebration)] - [labor_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">தொழிலாளர் தினம்</holiday>
+        <!--[Labour Day Holiday (day in lieu)] - [labor_day]-->
+        <holiday endDate="2016-05-02" startDate="2016-05-02" workingday="false">தொழிலாளர் தினம்</holiday>
+        <!--[Vesak Day (Buddha Day)] - [vesak_day__buddha_day_]-->
+        <holiday endDate="2016-05-21" startDate="2016-05-21" workingday="false">வேசாக் தினம்</holiday>
+        <!--[Hari Raya Puasa (End of Ramadan)] - [end_of_ramadan]-->
+        <holiday endDate="2016-07-06" startDate="2016-07-06" workingday="false">ஈத் அல் ஃபிதர்</holiday>
+        <!--[National Day] - [national_day]-->
+        <holiday endDate="2016-08-09" startDate="2016-08-09" workingday="false">தேசிய தினம்</holiday>
+        <!--[Hari Raya Haji (Feast of Sacrifice)] - [feast_of_sacrifice]-->
+        <holiday endDate="2016-09-12" startDate="2016-09-12" workingday="false">குர்பானி / அலி அல்-அதா</holiday>
+        <!--[Deepavali] - [deepavali]-->
+        <holiday endDate="2016-10-29" startDate="2016-10-29" workingday="false">தீபாவளி</holiday>
+        <!--[Christmas Day (celebration)] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">கிறிஸ்துமஸ் தினம்</holiday>
+        <!--[Christmas Holiday (day in lieu)] - [christmas_holiday__day_in_lieu_]-->
+        <holiday endDate="2016-12-26" startDate="2016-12-26" workingday="false">கிறிஸ்துமஸ் விடுமுறை (ஈடுசெய்யும் நாள்)</holiday>
+    </holidays>
+</calendar>
+

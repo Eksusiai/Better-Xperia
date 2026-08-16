@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: ka (Georgian)
+ * Region: GE (Georgia)
+ *********************************************************************
+--><calendar language="ka" region="GE" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">ახალი წელი</holiday>
+        <!--[New Year's Holiday] - [new_year_s_holiday]-->
+        <holiday endDate="2017-01-02" startDate="2017-01-02" workingday="false">ახალი წელი</holiday>
+        <!--[Orthodox Christmas] - [orthodox_christmas]-->
+        <holiday endDate="2017-01-07" startDate="2017-01-07" workingday="false">შობა</holiday>
+        <!--[Orthodox Epiphany (Natlisgeba)] - [orthodox_epiphany__natlisgeba_]-->
+        <holiday endDate="2017-01-19" startDate="2017-01-19" workingday="false">ნათლისღება</holiday>
+        <!--[Mother's Day] - [mother_s_day]-->
+        <holiday endDate="2017-03-03" startDate="2017-03-03" workingday="false">დედის დღე</holiday>
+        <!--[International Women's Day] - [international_women_s_day]-->
+        <holiday endDate="2017-03-08" startDate="2017-03-08" workingday="false">ქალთა საერთაშორისო დღე</holiday>
+        <!--[Georgia's Independence Restoration Day] - [georgia_s_independence_restoration_day]-->
+        <holiday endDate="2017-04-09" startDate="2017-04-09" workingday="false">საქართველოს დამოუკიდებლობის აღდგენის დღე</holiday>
+        <!--[Orthodox Good Friday (Red Friday)] - [orthodox_good_friday__red_friday_]-->
+        <holiday endDate="2017-04-14" startDate="2017-04-14" workingday="false">წითელი პარასკევი</holiday>
+        <!--[Orthodox Holy Saturday (Great Saturday)] - [orthodox_holy_saturday__great_saturday_]-->
+        <holiday endDate="2017-04-15" startDate="2017-04-15" workingday="false">დიდი შაბათი</holiday>
+        <!--[Orthodox Easter (Agdgoma)] - [orthodox_easter__agdgoma_]-->
+        <holiday endDate="2017-04-16" startDate="2017-04-16" workingday="false">აღდგომა</holiday>
+        <!--[Orthodox Easter Monday / Memorial Day] - [orthodox_easter_monday]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">აღდგომის მეორე დღე</holiday>
+        <!--[Victory Day] - [victory_day]-->
+        <holiday endDate="2017-05-09" startDate="2017-05-09" workingday="false">გამარჯვების დღე</holiday>
+        <!--[Saint Andrew the First Called Day] - [saint_andrew_the_first_called_day]-->
+        <holiday endDate="2017-05-12" startDate="2017-05-12" workingday="false">ანდრია პირველწოდებულის დღე</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2017-05-26" startDate="2017-05-26" workingday="false">დამოუკიდებლობის დღე</holiday>
+        <!--[Virgin's Assumption (Mariamoba)] - [virgin_s_assumption__mariamoba_]-->
+        <holiday endDate="2017-08-28" startDate="2017-08-28" workingday="false">მარიამობა</holiday>
+        <!--[Svetitskovloba] - [svetitskovloba]-->
+        <holiday endDate="2017-10-14" startDate="2017-10-14" workingday="false">სვეტიცხოვლობა</holiday>
+        <!--[Saint George's Day (Giorgoba)] - [saint_george_s_day__giorgoba_]-->
+        <holiday endDate="2017-11-23" startDate="2017-11-23" workingday="false">გიორგობა</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">ახალი წელი</holiday>
+        <!--[New Year's Holiday] - [new_year_s_holiday]-->
+        <holiday endDate="2016-01-02" startDate="2016-01-02" workingday="false">ახალი წელი</holiday>
+        <!--[Orthodox Christmas] - [orthodox_christmas]-->
+        <holiday endDate="2016-01-07" startDate="2016-01-07" workingday="false">შობა</holiday>
+        <!--[Orthodox Epiphany (Natlisgeba)] - [orthodox_epiphany__natlisgeba_]-->
+        <holiday endDate="2016-01-19" startDate="2016-01-19" workingday="false">ნათლისღება</holiday>
+        <!--[Mother's Day] - [mother_s_day]-->
+        <holiday endDate="2016-03-03" startDate="2016-03-03" workingday="false">დედის დღე</holiday>
+        <!--[International Women's Day] - [international_women_s_day]-->
+        <holiday endDate="2016-03-08" startDate="2016-03-08" workingday="false">ქალთა საერთაშორისო დღე</holiday>
+        <!--[Georgia's Independence Restoration Day] - [georgia_s_independence_restoration_day]-->
+        <holiday endDate="2016-04-09" startDate="2016-04-09" workingday="false">საქართველოს დამოუკიდებლობის აღდგენის დღე</holiday>
+        <!--[Orthodox Good Friday (Red Friday)] - [orthodox_good_friday__red_friday_]-->
+        <holiday endDate="2016-04-29" startDate="2016-04-29" workingday="false">წითელი პარასკევი</holiday>
+        <!--[Orthodox Holy Saturday (Great Saturday)] - [orthodox_holy_saturday__great_saturday_]-->
+        <holiday endDate="2016-04-30" startDate="2016-04-30" workingday="false">დიდი შაბათი</holiday>
+        <!--[Orthodox Easter (Agdgoma)] - [orthodox_easter__agdgoma_]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">აღდგომა</holiday>
+        <!--[Orthodox Easter Monday / Memorial Day] - [orthodox_easter_monday]-->
+        <holiday endDate="2016-05-02" startDate="2016-05-02" workingday="false">აღდგომის მეორე დღე</holiday>
+        <!--[Victory Day] - [victory_day]-->
+        <holiday endDate="2016-05-09" startDate="2016-05-09" workingday="false">გამარჯვების დღე</holiday>
+        <!--[Saint Andrew the First Called Day] - [saint_andrew_the_first_called_day]-->
+        <holiday endDate="2016-05-12" startDate="2016-05-12" workingday="false">ანდრია პირველწოდებულის დღე</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2016-05-26" startDate="2016-05-26" workingday="false">დამოუკიდებლობის დღე</holiday>
+        <!--[Virgin's Assumption (Mariamoba)] - [virgin_s_assumption__mariamoba_]-->
+        <holiday endDate="2016-08-28" startDate="2016-08-28" workingday="false">მარიამობა</holiday>
+        <!--[Svetitskovloba] - [svetitskovloba]-->
+        <holiday endDate="2016-10-14" startDate="2016-10-14" workingday="false">სვეტიცხოვლობა</holiday>
+        <!--[Saint George's Day (Giorgoba)] - [saint_george_s_day__giorgoba_]-->
+        <holiday endDate="2016-11-23" startDate="2016-11-23" workingday="false">გიორგობა</holiday>
+    </holidays>
+</calendar>
+

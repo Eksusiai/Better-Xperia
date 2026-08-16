@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: zh (Chinese)
+ * Region: TW (Taiwan, Province of China)
+ *********************************************************************
+--><calendar language="zh" region="TW" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[Republic Day / New Year's Day] - [republic_day___new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">元旦</holiday>
+        <!--[Republic Day Holiday] - [republic_day_holiday]-->
+        <holiday endDate="2017-01-02" startDate="2017-01-02" workingday="false">元旦假期</holiday>
+        <!--[Chinese New Year's Eve] - [chinese_new_year_s_eve]-->
+        <holiday endDate="2017-01-27" startDate="2017-01-27" workingday="false">除夕</holiday>
+        <!--[Chinese New Year's Day] - [chinese_new_year_s_day]-->
+        <holiday endDate="2017-01-28" startDate="2017-01-28" workingday="false">春節</holiday>
+        <!--[Chinese New Year Holiday] - [chinese_new_year_holiday]-->
+        <holiday endDate="2017-01-29" startDate="2017-01-29" workingday="false">春節假期</holiday>
+        <!--[Chinese New Year Holiday] - [chinese_new_year_holiday]-->
+        <holiday endDate="2017-01-30" startDate="2017-01-30" workingday="false">春節假期</holiday>
+        <!--[Chinese New Year Holiday] - [chinese_new_year_holiday]-->
+        <holiday endDate="2017-01-31" startDate="2017-01-31" workingday="false">春節假期</holiday>
+        <!--[Chinese New Year Holiday] - [chinese_new_year_holiday]-->
+        <holiday endDate="2017-02-01" startDate="2017-02-01" workingday="false">春節假期</holiday>
+        <!--[Public Holiday (workday moved to Sat. Feb. 25)] - [public_holiday__workday_moved_to_sat__feb__25_]-->
+        <holiday endDate="2017-02-27" startDate="2017-02-27" workingday="false">國定假日(工作日移到2月25日星期六)</holiday>
+        <!--[Peace Memorial Day] - [peace_memorial_day]-->
+        <holiday endDate="2017-02-28" startDate="2017-02-28" workingday="false">和平紀念日</holiday>
+        <!--[Public Holiday (workday moved to Sat. Apr. 1)] - [public_holiday__workday_moved_to_sat__apr__1_]-->
+        <holiday endDate="2017-04-03" startDate="2017-04-03" workingday="false">國定假日(工作日移到4月1日星期六)</holiday>
+        <!--[Children's Day] - [children_s_day]-->
+        <holiday endDate="2017-04-04" startDate="2017-04-04" workingday="false">兒童節</holiday>
+        <!--[Tomb Sweeping Day] - [tomb_sweeping_day]-->
+        <holiday endDate="2017-04-04" startDate="2017-04-04" workingday="false">清明節</holiday>
+        <!--[Public Holiday (workday moved to Sat. May. 27)] - [public_holiday__workday_moved_to_sat__may__27_]-->
+        <holiday endDate="2017-05-29" startDate="2017-05-29" workingday="false">國定假日(工作日移到5月27日星期六)</holiday>
+        <!--[Dragon Boat Festival] - [dragon_boat_festival]-->
+        <holiday endDate="2017-05-30" startDate="2017-05-30" workingday="false">端午節</holiday>
+        <!--[Moon Festival (Mid-Autumn)] - [moon_festival__mid_autumn_]-->
+        <holiday endDate="2017-10-04" startDate="2017-10-04" workingday="false">中秋節</holiday>
+        <!--[Public Holiday (workday moved to Sat. Oct. 7)] - [public_holiday__workday_moved_to_sat__oct__7_]-->
+        <holiday endDate="2017-10-09" startDate="2017-10-09" workingday="false">國定假日(工作日移到10月7日星期六)</holiday>
+        <!--[National Day (Double Tenth)] - [national_day__double_tenth_]-->
+        <holiday endDate="2017-10-10" startDate="2017-10-10" workingday="false">國慶日</holiday>
+        <!--[Republic Day / New Year's Day] - [republic_day___new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">元旦</holiday>
+        <!--[Chinese New Year Holiday] - [chinese_new_year_holiday]-->
+        <holiday endDate="2016-02-06" startDate="2016-02-06" workingday="false">春節假期</holiday>
+        <!--[Chinese New Year's Eve] - [chinese_new_year_s_eve]-->
+        <holiday endDate="2016-02-07" startDate="2016-02-07" workingday="false">除夕</holiday>
+        <!--[Chinese New Year's Day] - [chinese_new_year_s_day]-->
+        <holiday endDate="2016-02-08" startDate="2016-02-08" workingday="false">春節</holiday>
+        <!--[Chinese New Year Holiday] - [chinese_new_year_holiday]-->
+        <holiday endDate="2016-02-09" startDate="2016-02-09" workingday="false">春節假期</holiday>
+        <!--[Chinese New Year Holiday] - [chinese_new_year_holiday]-->
+        <holiday endDate="2016-02-10" startDate="2016-02-10" workingday="false">春節假期</holiday>
+        <!--[Chinese New Year Holiday] - [chinese_new_year_holiday]-->
+        <holiday endDate="2016-02-11" startDate="2016-02-11" workingday="false">春節假期</holiday>
+        <!--[Chinese New Year Holiday (workday moved to Sat. Jan. 30)] - [chinese_new_year_holiday]-->
+        <holiday endDate="2016-02-12" startDate="2016-02-12" workingday="false">春節假期</holiday>
+        <!--[Chinese New Year Holiday] - [chinese_new_year_holiday]-->
+        <holiday endDate="2016-02-13" startDate="2016-02-13" workingday="false">春節假期</holiday>
+        <!--[Chinese New Year Holiday] - [chinese_new_year_holiday]-->
+        <holiday endDate="2016-02-14" startDate="2016-02-14" workingday="false">春節假期</holiday>
+        <!--[Peace Memorial Day] - [peace_memorial_day]-->
+        <holiday endDate="2016-02-28" startDate="2016-02-28" workingday="false">和平紀念日</holiday>
+        <!--[Peace Memorial Holiday] - [peace_memorial_holiday]-->
+        <holiday endDate="2016-02-29" startDate="2016-02-29" workingday="false">和平紀念日</holiday>
+        <!--[Children's Day] - [children_s_day]-->
+        <holiday endDate="2016-04-04" startDate="2016-04-04" workingday="false">兒童節</holiday>
+        <!--[Tomb Sweeping Day] - [tomb_sweeping_day]-->
+        <holiday endDate="2016-04-04" startDate="2016-04-04" workingday="false">清明節</holiday>
+        <!--[Public Holiday] - [public_holiday]-->
+        <holiday endDate="2016-04-05" startDate="2016-04-05" workingday="false">兒童節補假</holiday>
+        <!--[Dragon Boat Festival] - [dragon_boat_festival]-->
+        <holiday endDate="2016-06-09" startDate="2016-06-09" workingday="false">端午節</holiday>
+        <!--[Public Holiday (workday moved to Sat. Jun. 4)] - [public_holiday__workday_moved_to_sat__jun__4_]-->
+        <holiday endDate="2016-06-10" startDate="2016-06-10" workingday="false">端午節 (補假，調休上班6月4日，週六)</holiday>
+        <!--[Moon Festival (Mid-Autumn)] - [moon_festival__mid_autumn_]-->
+        <holiday endDate="2016-09-15" startDate="2016-09-15" workingday="false">中秋節</holiday>
+        <!--[Public Holiday (workday moved to Sat. Sep. 10)] - [public_holiday__workday_moved_to_sat__sep__10_]-->
+        <holiday endDate="2016-09-16" startDate="2016-09-16" workingday="false">中秋節 (補假，調休上班9月10日，週六)</holiday>
+        <!--[National Day (Double Tenth)] - [national_day__double_tenth_]-->
+        <holiday endDate="2016-10-10" startDate="2016-10-10" workingday="false">國慶日</holiday>
+    </holidays>
+</calendar>
+

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: ar (Arabic)
+ * Region: EG (Egypt)
+ *********************************************************************
+--><calendar language="ar" region="EG" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[Eastern/Coptic Christmas] - [eastern_coptic_christmas]-->
+        <holiday endDate="2017-01-07" startDate="2017-01-07" workingday="false">عيد الميلاد القبطي/الشرقي</holiday>
+        <!--[January 25 Revolution Day] - [january_25_revolution_day]-->
+        <holiday endDate="2017-01-25" startDate="2017-01-25" workingday="false">عيد ثورة 25 يناير</holiday>
+        <!--[Coptic Easter] - [coptic_easter]-->
+        <holiday endDate="2017-04-16" startDate="2017-04-16" workingday="false">عيد فصح قبطي</holiday>
+        <!--[Sham el Nessim] - [sham_el_nessim]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">شم النسيم</holiday>
+        <!--[Sinai Liberation Day] - [sinai_liberation_day]-->
+        <holiday endDate="2017-04-25" startDate="2017-04-25" workingday="false">عيد تحرير سيناء</holiday>
+        <!--[Labour Day] - [labor_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">ع العمال</holiday>
+        <!--[Eid al-Fitr (End of Ramadan)] - [end_of_ramadan]-->
+        <holiday endDate="2017-06-25" startDate="2017-06-25" workingday="false">عيد الفطر</holiday>
+        <!--[End of Ramadan Holiday] - [end_of_ramadan]-->
+        <holiday endDate="2017-06-26" startDate="2017-06-26" workingday="false">عيد الفطر</holiday>
+        <!--[Revolution Day (National Day)] - [revolution_day__national_day_]-->
+        <holiday endDate="2017-07-23" startDate="2017-07-23" workingday="false">عيد الثورة</holiday>
+        <!--[Wakfet Arafat] - [wakfet_arafat]-->
+        <holiday endDate="2017-08-31" startDate="2017-08-31" workingday="false">وقفة عرفات</holiday>
+        <!--[Eid al Adha (Feast of Sacrifice)] - [feast_of_sacrifice]-->
+        <holiday endDate="2017-09-01" startDate="2017-09-01" workingday="false">Kurbannyhua / عيد الأضحى</holiday>
+        <!--[Al Adha Holiday] - [al_adha_holiday]-->
+        <holiday endDate="2017-09-02" startDate="2017-09-02" workingday="false">عطلة عيد الأضحى</holiday>
+        <!--[El Hijra (Islamic New Year)] - [el_hijra__islamic_new_year_]-->
+        <holiday endDate="2017-09-21" startDate="2017-09-21" workingday="false">عيد رأس السنة الهجرية</holiday>
+        <!--[Armed Forces Day] - [armed_forces_day]-->
+        <holiday endDate="2017-10-06" startDate="2017-10-06" workingday="false">عيد ق المسلحة</holiday>
+        <!--[Moulid El Nabi (The Prophet's Birthday)] - [moulid_el_nabi__the_prophet_s_birthday_]-->
+        <holiday endDate="2017-11-30" startDate="2017-11-30" workingday="false">مولد النبي</holiday>
+        <!--[Eastern/Coptic Christmas] - [eastern_coptic_christmas]-->
+        <holiday endDate="2016-01-07" startDate="2016-01-07" workingday="false">عيد الميلاد القبطي/الشرقي</holiday>
+        <!--[January 25 Revolution Day] - [january_25_revolution_day]-->
+        <holiday endDate="2016-01-25" startDate="2016-01-25" workingday="false">عيد ثورة 25 يناير</holiday>
+        <!--[Sinai Liberation Day] - [sinai_liberation_day]-->
+        <holiday endDate="2016-04-25" startDate="2016-04-25" workingday="false">عيد تحرير سيناء</holiday>
+        <!--[Coptic Easter] - [coptic_easter]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">عيد فصح قبطي</holiday>
+        <!--[Labour Day] - [labor_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">ع العمال</holiday>
+        <!--[Sham el Nessim] - [sham_el_nessim]-->
+        <holiday endDate="2016-05-02" startDate="2016-05-02" workingday="false">شم النسيم</holiday>
+        <!--[Eid al-Fitr (End of Ramadan)] - [end_of_ramadan]-->
+        <holiday endDate="2016-07-06" startDate="2016-07-06" workingday="false">عيد الفطر</holiday>
+        <!--[End of Ramadan Holiday] - [end_of_ramadan]-->
+        <holiday endDate="2016-07-07" startDate="2016-07-07" workingday="false">عيد الفطر</holiday>
+        <!--[Revolution Day (National Day)] - [revolution_day__national_day_]-->
+        <holiday endDate="2016-07-23" startDate="2016-07-23" workingday="false">عيد الثورة</holiday>
+        <!--[Wakfet Arafat] - [wakfet_arafat]-->
+        <holiday endDate="2016-09-10" startDate="2016-09-10" workingday="false">وقفة عرفات</holiday>
+        <!--[Eid al Adha (Feast of Sacrifice)] - [feast_of_sacrifice]-->
+        <holiday endDate="2016-09-11" startDate="2016-09-11" workingday="false">Kurbannyhua / عيد الأضحى</holiday>
+        <!--[Al Adha Holiday] - [al_adha_holiday]-->
+        <holiday endDate="2016-09-12" startDate="2016-09-12" workingday="false">عطلة عيد الأضحى</holiday>
+        <!--[El Hijra (Islamic New Year)] - [el_hijra__islamic_new_year_]-->
+        <holiday endDate="2016-10-02" startDate="2016-10-02" workingday="false">عيد رأس السنة الهجرية</holiday>
+        <!--[Armed Forces Day] - [armed_forces_day]-->
+        <holiday endDate="2016-10-06" startDate="2016-10-06" workingday="false">عيد ق المسلحة</holiday>
+        <!--[Moulid El Nabi (The Prophet's Birthday)] - [moulid_el_nabi__the_prophet_s_birthday_]-->
+        <holiday endDate="2016-12-11" startDate="2016-12-11" workingday="false">مولد النبي</holiday>
+    </holidays>
+</calendar>
+

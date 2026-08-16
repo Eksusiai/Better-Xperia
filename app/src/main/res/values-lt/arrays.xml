@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="accepted_items">
+        <item>Priimta</item>
+        <item>Neapsispręsta</item>
+        <item>Atsisakyta</item>
+    </array>
+    <array name="accessibility_event_color_picker_colors">
+        <item>Geltona</item>
+        <item>Oranžinė</item>
+        <item>Raudona</item>
+        <item>Vyšninė</item>
+        <item>Rožinė</item>
+        <item>Violetinė</item>
+        <item>Ruda</item>
+        <item>Šviesiai žalia</item>
+        <item>Žalia</item>
+        <item>Žalsvai melsva</item>
+        <item>Šviesiai mėlyna</item>
+        <item>Mėlynaї</item>
+    </array>
+    <array name="availability">
+        <item>Užimtas</item>
+        <item>Pasiekiamas</item>
+        <item>Neapsisprendęs</item>
+    </array>
+    <array name="change_response_labels">
+        <item>Tik šis atvejis</item>
+        <item>Visi šios eilės įvykiai</item>
+    </array>
+    <array name="month_view_day_labels">
+        <item>P</item>
+        <item>A</item>
+        <item>T</item>
+        <item>K</item>
+        <item>Pn</item>
+        <item>Š</item>
+        <item>S</item>
+    </array>
+    <array name="ordinal_labels">
+        <item>pirmas</item>
+        <item>antras</item>
+        <item>trečias</item>
+        <item>ketvirtas</item>
+        <item>paskutinis</item>
+    </array>
+    <array name="prefEntries_alerts_vibrateWhen">
+        <item>Visada</item>
+        <item>Tik režimu „Netrukdyti“</item>
+        <item>Niekada</item>
+    </array>
+    <array name="preferences_alert_type_labels">
+        <item>Signalas</item>
+        <item>Būsenos juostos pranešimas</item>
+        <item>Išjungta</item>
+    </array>
+    <array name="preferences_default_reminder_labels">
+        <item>Nėra</item>
+        <item>5 min.</item>
+        <item>10 min.</item>
+        <item>15 min.</item>
+        <item>20 min.</item>
+        <item>25 min.</item>
+        <item>30 min.</item>
+        <item>45 min.</item>
+        <item>1 val.</item>
+        <item>2 val.</item>
+        <item>3 val.</item>
+        <item>12 val.</item>
+        <item>24 val.</item>
+        <item>2 dienos</item>
+        <item>1 savaitė</item>
+    </array>
+    <array name="preferences_week_days_labels">
+        <item>Tik darbo dienos</item>
+        <item>7 dienos</item>
+    </array>
+    <array name="quick_response_defaults">
+        <item>Vėluosiu tik kelias minutes.</item>
+        <item>Būkite ten maždaug po 10 minučių.</item>
+        <item>Pradėkite be manęs.</item>
+        <item>Atsiprašau, neatvyksiu. Turėsime suplanuoti iš naujo.</item>
+    </array>
+    <array name="reminder_minutes_labels">
+        <item>5 min.</item>
+        <item>10 min.</item>
+        <item>15 min.</item>
+        <item>20 min.</item>
+        <item>25 min.</item>
+        <item>30 min.</item>
+        <item>45 min.</item>
+        <item>1 val.</item>
+        <item>2 val.</item>
+        <item>3 val.</item>
+        <item>12 val.</item>
+        <item>24 val.</item>
+        <item>2 dienos</item>
+        <item>1 savaitė</item>
+    </array>
+    <array name="repeats_pattern">
+        <item>Kasdien</item>
+        <item>Kas savaitę</item>
+        <item>Kas mėnesį</item>
+        <item>Kasmet</item>
+    </array>
+    <array name="repeats_weekdays_no">
+        <item>Pirma</item>
+        <item>Antra</item>
+        <item>Trečia</item>
+        <item>Ketvirta</item>
+        <item>Penkta</item>
+    </array>
+    <array name="reply_items">
+        <item>Atsakyti</item>
+        <item>Atsakyti visiems</item>
+        <item>Persiųsti</item>
+    </array>
+    <array name="response_labels1">
+        <item>(Nėra atsakymo)</item>
+        <item>Taip</item>
+        <item>Galbūt</item>
+        <item>Ne</item>
+    </array>
+    <array name="response_labels2">
+        <item>Taip</item>
+        <item>Galbūt</item>
+        <item>Ne</item>
+    </array>
+    <array name="timezone_labels">
+        <item>Maršalo salos</item>
+        <item>Midvėjaus sala</item>
+        <item>Havajai</item>
+        <item>Aliaska</item>
+        <item>Ram. vand. laikas</item>
+        <item>Tichuana</item>
+        <item>Arizona</item>
+        <item>Čihuahua</item>
+        <item>Kalnų standartinis laikas</item>
+        <item>Centrinė Amerika</item>
+        <item>Centrinis laikas</item>
+        <item>Meksikas</item>
+        <item>Saskatčevanas</item>
+        <item>Bogota</item>
+        <item>Rytų laikas</item>
+        <item>Venesuela</item>
+        <item>Atlanto laikas</item>
+        <item>Manau</item>
+        <item>Santjagas</item>
+        <item>Niufaundlandas</item>
+        <item>Brazilija</item>
+        <item>Buenos Airės</item>
+        <item>Grenlandija</item>
+        <item>Montevidėjas</item>
+        <item>Vidurio Atlanto</item>
+        <item>Azorai</item>
+        <item>Žaliojo Kyšulio salos</item>
+        <item>Kasablanka</item>
+        <item>Londonas, Dublinas</item>
+        <item>Amsterdamas, Berlynas</item>
+        <item>Belgradas</item>
+        <item>Briuselis</item>
+        <item>Sarajevas</item>
+        <item>Vindhukas</item>
+        <item>Vakarų Afrikos laikas</item>
+        <item>Amanas, Jordanija</item>
+        <item>Atėnai, Stambulas</item>
+        <item>Beirutas, Libanas</item>
+        <item>Kairas</item>
+        <item>Helsinkis</item>
+        <item>Jeruzalė</item>
+        <item>Minskas</item>
+        <item>Hararė</item>
+        <item>Bagdadas</item>
+        <item>Maskva</item>
+        <item>Kuveitas</item>
+        <item>Nairobis</item>
+        <item>Teheranas</item>
+        <item>Baku</item>
+        <item>Tbilisis</item>
+        <item>Jerevanas</item>
+        <item>Dubajus</item>
+        <item>Kabulas</item>
+        <item>Islamabadas, Karačis</item>
+        <item>Oralas</item>
+        <item>Jekaterinburgas</item>
+        <item>Kolkuta</item>
+        <item>Šri Lanka</item>
+        <item>Katmandu</item>
+        <item>Astana</item>
+        <item>Jangonas</item>
+        <item>Krasnojarskas</item>
+        <item>Bankokas</item>
+        <item>Pekinas</item>
+        <item>Honkongas</item>
+        <item>Irkutskas</item>
+        <item>Kvala Lumpūras</item>
+        <item>Pertas</item>
+        <item>Taipėjus</item>
+        <item>Seulas</item>
+        <item>Tokijas, Osaka</item>
+        <item>Jakutskas</item>
+        <item>Adelaidė</item>
+        <item>Darvinas</item>
+        <item>Brisbanas</item>
+        <item>Hobartas</item>
+        <item>Sidnėjus, Kanbera</item>
+        <item>Vladivostokas</item>
+        <item>Guamas</item>
+        <item>Magadanas</item>
+        <item>Oklandas</item>
+        <item>Fidžis</item>
+        <item>Tonga</item>
+    </array>
+    <array name="visibility">
+        <item>Numatytasis</item>
+        <item>Asmeninis</item>
+        <item>Viešasis</item>
+    </array>
+</resources>

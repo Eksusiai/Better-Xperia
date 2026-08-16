@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/appwidget_date"
+    android:focusable="false"
+    android:focusableInTouchMode="false"
+    android:clickable="false"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:textColor="@android:color/holo_blue_dark"
+        android:id="@+id/dayOfWeek"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:clickable="false"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/widgetInnerTopMargin"
+        android:includeFontPadding="false"
+        android:layout_marginStart="@dimen/widgetInnerStartMargin"
+        style="@style/WidgetDayOfWeekStyle"/>
+</FrameLayout>

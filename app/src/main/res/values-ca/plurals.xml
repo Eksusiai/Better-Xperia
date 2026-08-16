@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 dia</item>
+        <item quantity="other">%d dies</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 esdeveniment</item>
+        <item quantity="other">%d esdeveniments</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 hora</item>
+        <item quantity="other">%d hores</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 min</item>
+        <item quantity="other">%d minuts</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 minut</item>
+        <item quantity="other">%d minuts</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">grau</item>
+        <item quantity="other">graus</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d any</item>
+        <item quantity="other">%d anys</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 tasca</item>
+        <item quantity="other">%d tasques</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">esdeveniment</item>
+        <item quantity="other">esdeveniments</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">Esdeveniment afegit</item>
+        <item quantity="other">Esdeveniments afegits</item>
+    </plurals>
+</resources>

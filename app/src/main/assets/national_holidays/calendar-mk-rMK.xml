@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: mk (Macedonian)
+ * Region: MK (Macedonia, the former Yugoslav Republic of)
+ *********************************************************************
+--><calendar language="mk" region="MK" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day (Nova Godina) (celebration)] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Нова Година</holiday>
+        <!--[New Year Holiday (day in lieu)] - [new_year_holiday__day_in_lieu_]-->
+        <holiday endDate="2017-01-02" startDate="2017-01-02" workingday="false">Нова Година (неработен ден)</holiday>
+        <!--[Christmas Day (Orthodox)] - [christmas_day]-->
+        <holiday endDate="2017-01-07" startDate="2017-01-07" workingday="false">Божиќ</holiday>
+        <!--[Orthodox Easter Monday (Vtor den Veligden)] - [orthodox_easter_monday]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">Втор ден Велигден</holiday>
+        <!--[Labour Day (Den na trudot)] - [labor_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Ден на трудот</holiday>
+        <!--[Saints Cyril and Methodius' Day] - [saints_cyril_and_methodius__day]-->
+        <holiday endDate="2017-05-24" startDate="2017-05-24" workingday="false">Св. Кирил и Методиј</holiday>
+        <!--[Ramazan Bajram (End of Ramadan) (celebration)] - [end_of_ramadan]-->
+        <holiday endDate="2017-06-25" startDate="2017-06-25" workingday="false">Рамазан Бајрам</holiday>
+        <!--[Ramazan Bajram Holiday (day in lieu)] - [ramazan_bajram_holiday__day_in_lieu_]-->
+        <holiday endDate="2017-06-26" startDate="2017-06-26" workingday="false">Рамазан Бајрам (неработен ден)</holiday>
+        <!--[Iliden Day (Republic Day)] - [iliden_day__republic_day_]-->
+        <holiday endDate="2017-08-02" startDate="2017-08-02" workingday="false">Ден на републиката</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2017-09-08" startDate="2017-09-08" workingday="false">Ден на независноста</holiday>
+        <!--[Uprising Against Facism Day] - [uprising_against_facism_day]-->
+        <holiday endDate="2017-10-11" startDate="2017-10-11" workingday="false">Ден на народното востание</holiday>
+        <!--[Day of the Macedonian Revolution] - [day_of_the_macedonian_revolution]-->
+        <holiday endDate="2017-10-23" startDate="2017-10-23" workingday="false">Ден на македонската револуционерна борба</holiday>
+        <!--[St. Kliment Ohridski (St. Clement of Ohrid)] - [st__kliment_ohridski__st__clement_of_ohrid_]-->
+        <holiday endDate="2017-12-08" startDate="2017-12-08" workingday="false">Св. Климент Охридски</holiday>
+        <!--[New Year's Day (Nova Godina)] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Нова Година</holiday>
+        <!--[Christmas Day (Orthodox)] - [christmas_day]-->
+        <holiday endDate="2016-01-07" startDate="2016-01-07" workingday="false">Божиќ</holiday>
+        <!--[Labour Day (Den na trudot) (celebration)] - [labor_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Ден на трудот</holiday>
+        <!--[Labour Day Holiday (day in lieu)] - [labor_day]-->
+        <holiday endDate="2016-05-02" startDate="2016-05-02" workingday="false">Ден на трудот</holiday>
+        <!--[Orthodox Easter Monday (Vtor den Veligden)] - [orthodox_easter_monday]-->
+        <holiday endDate="2016-05-02" startDate="2016-05-02" workingday="false">Втор ден Велигден</holiday>
+        <!--[Saints Cyril and Methodius' Day] - [saints_cyril_and_methodius__day]-->
+        <holiday endDate="2016-05-24" startDate="2016-05-24" workingday="false">Св. Кирил и Методиј</holiday>
+        <!--[Ramazan Bajram (End of Ramadan)] - [end_of_ramadan]-->
+        <holiday endDate="2016-07-05" startDate="2016-07-05" workingday="false">Рамазан Бајрам</holiday>
+        <!--[Ramazan Bajram Holiday] - [ramazan_bajram_holiday]-->
+        <holiday endDate="2016-07-06" startDate="2016-07-06" workingday="false">Рамазан Бајрам</holiday>
+        <!--[Iliden Day (Republic Day)] - [iliden_day__republic_day_]-->
+        <holiday endDate="2016-08-02" startDate="2016-08-02" workingday="false">Ден на републиката</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2016-09-08" startDate="2016-09-08" workingday="false">Ден на независноста</holiday>
+        <!--[Uprising Against Facism Day] - [uprising_against_facism_day]-->
+        <holiday endDate="2016-10-11" startDate="2016-10-11" workingday="false">Ден на народното востание</holiday>
+        <!--[Day of the Macedonian Revolution (celebration)] - [day_of_the_macedonian_revolution__celebration_]-->
+        <holiday endDate="2016-10-23" startDate="2016-10-23" workingday="false">Ден на македонската револуција (се слави)</holiday>
+        <!--[Macedonian Revolution Day Holiday (day in lieu)] - [macedonian_revolution_day_holiday__day_in_lieu_]-->
+        <holiday endDate="2016-10-24" startDate="2016-10-24" workingday="false">Ден на македонската револуција (неработен ден)</holiday>
+        <!--[St. Kliment Ohridski (St. Clement of Ohrid)] - [st__kliment_ohridski__st__clement_of_ohrid_]-->
+        <holiday endDate="2016-12-08" startDate="2016-12-08" workingday="false">Св. Климент Охридски</holiday>
+    </holidays>
+</calendar>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="agenda_item_background">#00000000</color>
+    <color name="birthdayBackgroundPanelColor">#00000000</color>
+    <color name="calendar_date_banner_background">#0000</color>
+    <color name="calendar_hour_background">#0000</color>
+    <color name="date_switcher_background">#0000</color>
+    <color name="navigation_month_grid_item_text_color">#ffbbbbbb</color>
+    <color name="navigation_month_grid_other_month_text">#e3e3e3</color>
+</resources>

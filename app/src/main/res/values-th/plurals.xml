@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 วัน</item>
+        <item quantity="other">%d วัน</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 เหตุการณ์</item>
+        <item quantity="other">%d เหตุการณ์</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 ชั่วโมง</item>
+        <item quantity="other">%d ชั่วโมง</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 นาที</item>
+        <item quantity="other">%d นาที</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 นาที</item>
+        <item quantity="other">%d นาที</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">องศา</item>
+        <item quantity="other">องศา</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d ปี</item>
+        <item quantity="other">%d ปี</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 งาน</item>
+        <item quantity="other">%d งาน</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">เหตุการณ์</item>
+        <item quantity="other">เหตุการณ์</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">เพิ่มกิจกรรมแล้ว</item>
+        <item quantity="other">เพิ่มกิจกรรมแล้ว</item>
+    </plurals>
+</resources>

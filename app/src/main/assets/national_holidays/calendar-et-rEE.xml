@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: et (Estonian)
+ * Region: EE (Estonia)
+ *********************************************************************
+--><calendar language="et" region="EE" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Uusaasta</holiday>
+        <!--[Iseseisvuspäev (Independence Day)] - [iseseisvusp_ev__independence_day_]-->
+        <holiday endDate="2017-02-24" startDate="2017-02-24" workingday="false">Iseseisvuspäev</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2017-04-14" startDate="2017-04-14" workingday="false">Suur reede</holiday>
+        <!--[Easter] - [easter]-->
+        <holiday endDate="2017-04-16" startDate="2017-04-16" workingday="false">Lihavõtted</holiday>
+        <!--[Kevadpüha (Spring Day)] - [kevadp_ha__spring_day_]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Kevadpüha</holiday>
+        <!--[Whit Sunday (Pentecost)] - [whit_sunday__pentecost_]-->
+        <holiday endDate="2017-06-04" startDate="2017-06-04" workingday="false">Nelipüha</holiday>
+        <!--[Victory Day] - [victory_day]-->
+        <holiday endDate="2017-06-23" startDate="2017-06-23" workingday="false">Võidupüha</holiday>
+        <!--[Midsummer's Day / Saint John's Day] - [midsummer_s_day]-->
+        <holiday endDate="2017-06-24" startDate="2017-06-24" workingday="false">Jaanipäev</holiday>
+        <!--[Independence Restoration Day] - [independence_restoration_day]-->
+        <holiday endDate="2017-08-20" startDate="2017-08-20" workingday="false">Taasiseseisvumispäev</holiday>
+        <!--[Christmas Eve] - [christmas_eve]-->
+        <holiday endDate="2017-12-24" startDate="2017-12-24" workingday="false">Jõululaupäev</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Esimene jõulupüha</holiday>
+        <!--[Second Day of Christmas] - [second_day_of_christmas]-->
+        <holiday endDate="2017-12-26" startDate="2017-12-26" workingday="false">Teine jõulupüha</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Uusaasta</holiday>
+        <!--[Iseseisvuspäev (Independence Day)] - [iseseisvusp_ev__independence_day_]-->
+        <holiday endDate="2016-02-24" startDate="2016-02-24" workingday="false">Iseseisvuspäev</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2016-03-25" startDate="2016-03-25" workingday="false">Suur reede</holiday>
+        <!--[Easter] - [easter]-->
+        <holiday endDate="2016-03-27" startDate="2016-03-27" workingday="false">Lihavõtted</holiday>
+        <!--[Kevadpüha (Spring Day)] - [kevadp_ha__spring_day_]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Kevadpüha</holiday>
+        <!--[Whit Sunday (Pentecost)] - [whit_sunday__pentecost_]-->
+        <holiday endDate="2016-05-15" startDate="2016-05-15" workingday="false">Nelipüha</holiday>
+        <!--[Victory Day] - [victory_day]-->
+        <holiday endDate="2016-06-23" startDate="2016-06-23" workingday="false">Võidupüha</holiday>
+        <!--[Midsummer's Day / Saint John's Day] - [midsummer_s_day]-->
+        <holiday endDate="2016-06-24" startDate="2016-06-24" workingday="false">Jaanipäev</holiday>
+        <!--[Independence Restoration Day] - [independence_restoration_day]-->
+        <holiday endDate="2016-08-20" startDate="2016-08-20" workingday="false">Taasiseseisvumispäev</holiday>
+        <!--[Christmas Eve] - [christmas_eve]-->
+        <holiday endDate="2016-12-24" startDate="2016-12-24" workingday="false">Jõululaupäev</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Esimene jõulupüha</holiday>
+        <!--[Second Day of Christmas] - [second_day_of_christmas]-->
+        <holiday endDate="2016-12-26" startDate="2016-12-26" workingday="false">Teine jõulupüha</holiday>
+    </holidays>
+</calendar>
+

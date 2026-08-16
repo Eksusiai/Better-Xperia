@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/date_picker_lunar_header"
+    android:background="?attr/colorPrimaryDark"
+    android:layout_width="@dimen/date_picker_component_width"
+    android:layout_height="@dimen/date_picker_header_height">
+    <TextView
+        android:gravity="center_vertical"
+        android:id="@+id/conversion_label"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/date_picker_header_height"
+        android:text="@string/lunar_solar_conversion_option_txt"
+        android:layout_marginStart="10dp"
+        android:layout_alignParentStart="true"/>
+    <TextView
+        android:gravity="center_vertical"
+        android:id="@+id/lunar_label"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/date_picker_header_height"
+        android:text="@string/lunar_label"
+        android:layout_marginEnd="5dp"
+        android:layout_toStartOf="@+id/lunar_switch"/>
+    <Switch
+        android:id="@+id/lunar_switch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"/>
+</RelativeLayout>

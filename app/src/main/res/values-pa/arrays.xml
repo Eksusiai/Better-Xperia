@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="accepted_items">
+        <item>ਸਵੀਕਾਰ ਕੀਤਾ</item>
+        <item>ਅਸਥਾਈ</item>
+        <item>ਇਨਕਾਰ ਕੀਤਾ</item>
+    </array>
+    <array name="accessibility_event_color_picker_colors">
+        <item>ਪੀਲਾ</item>
+        <item>ਨਾਰੰਗੀ</item>
+        <item>ਲਾਲ</item>
+        <item>ਬਰਗੰਡੀ</item>
+        <item>ਗੁਲਾਬੀ</item>
+        <item>ਜਾਮਨੀ</item>
+        <item>ਭੂਰਾ</item>
+        <item>ਫਿੱਕਾ ਹਰਾ</item>
+        <item>ਹਰਾ</item>
+        <item>ਫੀਰੋਜ਼ਾ</item>
+        <item>ਫਿੱਕਾ ਨੀਲਾ</item>
+        <item>ਨੀਲਾ</item>
+    </array>
+    <array name="availability">
+        <item>ਵਿਅਸਤ</item>
+        <item>ਉਪਲਬਧ</item>
+        <item>ਅਸਥਾਈ</item>
+    </array>
+    <array name="change_response_labels">
+        <item>ਕੇਵਲ ਇਹ ਉਦਾਹਰਨ</item>
+        <item>ਸੀਰੀਜ਼ ਵਿੱਚ ਸਾਰੇ ਇਵੈਂਟ</item>
+    </array>
+    <array name="month_view_day_labels">
+        <item>ਸੋ</item>
+        <item>ਵੀ</item>
+        <item>ਪੱ</item>
+        <item>ਵੀ</item>
+        <item>ਫ਼ਾ.</item>
+        <item>ਦੱ</item>
+        <item>ਦੱ</item>
+    </array>
+    <array name="ordinal_labels">
+        <item>ਪਹਿਲਾ</item>
+        <item>ਸਕਿੰਟ</item>
+        <item>ਤੀਜਾ</item>
+        <item>ਚੌਥਾ</item>
+        <item>ਆਖਰੀ</item>
+    </array>
+    <array name="prefEntries_alerts_vibrateWhen">
+        <item>ਹਮੇਸ਼ਾਂ</item>
+        <item>ਕੇਵਲ ਪਰੇਸ਼ਾਨ ਨਾ ਕਰੋ ਮੋਡ ਵਿੱਚ</item>
+        <item>ਕਦੇ ਨਹੀਂ</item>
+    </array>
+    <array name="preferences_alert_type_labels">
+        <item>ਸੂਚਨਾ</item>
+        <item>ਸਥਿਤੀ ਬਾਰ ਸੂਚਨਾ</item>
+        <item>ਬੰਦ</item>
+    </array>
+    <array name="preferences_default_reminder_labels">
+        <item>ਕੋਈ ਨਹੀਂ</item>
+        <item>5 ਮਿੰਟ</item>
+        <item>10 ਮਿੰਟ</item>
+        <item>15 ਮਿੰਟ</item>
+        <item>20 ਮਿੰਟ</item>
+        <item>25 ਮਿੰਟ</item>
+        <item>30 ਮਿੰਟ</item>
+        <item>45 ਮਿੰਟ</item>
+        <item>1 ਘੰਟਾ</item>
+        <item>2 ਘੰਟੇ</item>
+        <item>3 ਘੰਟੇ</item>
+        <item>12 ਘੰਟੇ</item>
+        <item>24 ਘੰਟੇ</item>
+        <item>2 ਦਿਨ</item>
+        <item>1 ਹਫਤਾ</item>
+    </array>
+    <array name="preferences_week_days_labels">
+        <item>ਕੇਵਲ ਕਾਰਜ ਦਿਨ</item>
+        <item>7 ਦਿਨ</item>
+    </array>
+    <array name="quick_response_defaults">
+        <item>ਬਸ ਥੋੜ੍ਹੀ ਦੇਰੀ ਨਾਲ ਚੱਲ ਰਿਹਾ ਹੈ।</item>
+        <item>ਲਗਭਗ 10 ਮਿੰਟਾਂ ਵਿੱਚ ਉੱਥੇ ਆਓ।</item>
+        <item>ਅੱਗੇ ਵਧੋ ਅਤੇ ਮੇਰੇ ਬਿਨਾ ਸ਼ੁਰੂ ਕਰੋ।</item>
+        <item>ਮੁਆਫ ਕਰਨਾ, ਮੈਂ ਨਹੀਂ ਕਰ ਸਕਦਾ। ਸਾਨੂੰ ਕਾਰਜ ਦੁਬਾਰਾ ਨਿਰਧਾਰਤ ਕਰਨਾ ਪਏਗਾ।</item>
+    </array>
+    <array name="reminder_minutes_labels">
+        <item>5 ਮਿੰਟ</item>
+        <item>10 ਮਿੰਟ</item>
+        <item>15 ਮਿੰਟ</item>
+        <item>20 ਮਿੰਟ</item>
+        <item>25 ਮਿੰਟ</item>
+        <item>30 ਮਿੰਟ</item>
+        <item>45 ਮਿੰਟ</item>
+        <item>1 ਘੰਟਾ</item>
+        <item>2 ਘੰਟੇ</item>
+        <item>3 ਘੰਟੇ</item>
+        <item>12 ਘੰਟੇ</item>
+        <item>24 ਘੰਟੇ</item>
+        <item>2 ਦਿਨ</item>
+        <item>1 ਹਫਤਾ</item>
+    </array>
+    <array name="repeats_pattern">
+        <item>ਰੋਜ਼ਾਨਾ</item>
+        <item>ਹਫ਼ਤਾਵਾਰ</item>
+        <item>ਮਹੀਨਾਵਾਰ</item>
+        <item>ਸਲਾਨਾ</item>
+    </array>
+    <array name="repeats_weekdays_no">
+        <item>ਪਹਿਲਾ</item>
+        <item>ਦੂਜਾ</item>
+        <item>ਤੀਜਾ</item>
+        <item>ਚੌਥਾ</item>
+        <item>ਪੰਜਵਾਂ</item>
+    </array>
+    <array name="reply_items">
+        <item>ਜਵਾਬ ਦਿਓ</item>
+        <item>ਸਭ ਨੂੰ ਜਵਾਬ ਦਿਓ</item>
+        <item>ਅੱਗੇ ਭੇਜੋ</item>
+    </array>
+    <array name="response_labels1">
+        <item>(ਕੋਈ ਜਵਾਬ ਨਹੀਂ)</item>
+        <item>ਹਾਂ</item>
+        <item>ਸ਼ਾਇਦ</item>
+        <item>ਨਹੀਂ</item>
+    </array>
+    <array name="response_labels2">
+        <item>ਹਾਂ</item>
+        <item>ਸ਼ਾਇਦ</item>
+        <item>ਨਹੀਂ</item>
+    </array>
+    <array name="timezone_labels">
+        <item>ਮਾਰਸ਼ਲ ਟਾਪੂ</item>
+        <item>ਮਿਡਵੇ ਆਈਲੈਂਡ</item>
+        <item>ਹਵਾਈ</item>
+        <item>ਅਲਾਸਕਾ</item>
+        <item>ਪੈਸਿਫਿਕ ਸਮਾਂ</item>
+        <item>ਟਿਜ਼ੌਨਾ</item>
+        <item>ਐਰੀਜ਼ੋਨਾ</item>
+        <item>ਸ਼ਿਹੂਆਹੂਆ</item>
+        <item>ਮਾਊਨਟੇਨ ਸਮਾਂ</item>
+        <item>ਕੇਂਦਰੀ ਅਮਰੀਕਾ</item>
+        <item>ਕੇਂਦਰੀ ਸਮਾਂ</item>
+        <item>ਮੈਕਸਿਕੋ ਸ਼ਹਿਰ</item>
+        <item>ਸੈਸਕਾਸ਼ੇਵਾਨ</item>
+        <item>ਬੋਗੋਟਾ</item>
+        <item>ਪੂਰਬੀ ਸਮਾਂ</item>
+        <item>ਵੈਨੇਜ਼ੁਏਲਾ</item>
+        <item>ਐਟਲਾਂਟਿਕ ਸਮਾਂ</item>
+        <item>ਮਨੌਸ</item>
+        <item>ਸੈਂਟੀਆਗੋ</item>
+        <item>ਨਿਊਫਾਊਂਡਲੈਂਡ</item>
+        <item>ਬਰਾਜ਼ੀਲੀਆ</item>
+        <item>ਬਿਓਨਸ ਆਇਰਸ</item>
+        <item>ਗ੍ਰੀਨਲੈਂਡ</item>
+        <item>ਮੌਂਟੇਵੀਡੀਓ</item>
+        <item>ਮਿਡ-ਅਟਲਾਂਟਿਕ</item>
+        <item>ਅਜ਼ੋਰਸ</item>
+        <item>ਕੇਪ ਵਰਡੇ ਟਾਪੂ</item>
+        <item>ਕੈਸਾਬਲਾਂਕਾ</item>
+        <item>ਲੰਡਨ, ਡਬਲਿਨ</item>
+        <item>ਐਮਸਟਰਡਮ, ਬਰਲਿਨ</item>
+        <item>ਬੈਲਗਰੇਡ</item>
+        <item>ਬ੍ਰਸਲਜ਼</item>
+        <item>ਸੈਰਾਜੇਵੋ</item>
+        <item>ਵਿੰਡੋਕ</item>
+        <item>ਪੱਛਣੀ ਅਫਰੀਕਾ ਦਾ ਸਮਾਂ</item>
+        <item>ਅਮਾਨ, ਜੋਰਡਨ</item>
+        <item>ਐਥੈਂਸ, ਇਸਤਾਨਬੁਲ</item>
+        <item>ਬੈਰੂਤ, ਲੈਬਨੋਨ</item>
+        <item>ਕਾਇਰੋ</item>
+        <item>ਹੇਲੰਸਕੀ</item>
+        <item>ਜੇਰੂਸਲਮ</item>
+        <item>ਮਿੰਸਕ</item>
+        <item>ਹਰਾਰੇ</item>
+        <item>ਬਗਦਾਦ</item>
+        <item>ਮਾਸਕੋ</item>
+        <item>ਕੁਵੈਤ</item>
+        <item>ਨੈਰੋਬੀ</item>
+        <item>ਤੇਹਰਾਨ</item>
+        <item>ਬਾਕੂ</item>
+        <item>ਬਿਲੀਸੀ</item>
+        <item>ਯੇਰੇਵਾਨ</item>
+        <item>ਦੁਬਈ</item>
+        <item>ਕਾਬੁਲ</item>
+        <item>ਇਸਲਾਮਾਬਾਦ, ਕਰਾਚੀ</item>
+        <item>ਯੂਰਾਲਸਕ</item>
+        <item>ਯੇਕਾਤੇਰਿਨਬਰਗ</item>
+        <item>ਕੋਲਕਾਤਾ</item>
+        <item>ਸ੍ਰੀ ਲੰਕਾ</item>
+        <item>ਕਾਠਮੰਡੂ</item>
+        <item>ਅਸਤਾਨਾ</item>
+        <item>ਰੰਗੂਨ</item>
+        <item>ਕਰਾਸਨੋਯਾਰਕ</item>
+        <item>ਬੈਂਕਾਕ</item>
+        <item>ਬੀਜਿੰਗ</item>
+        <item>ਹਾਂਗਕਾਂਗ</item>
+        <item>ਇਰਕੁਟਸ</item>
+        <item>ਕੁਆਲਾਲਮਪੁਰ</item>
+        <item>ਪਰਥ</item>
+        <item>ਤੇਪਈ</item>
+        <item>ਸਿਓਲ</item>
+        <item>ਟੋਕੀਓ, ਓਸਾਕਾ</item>
+        <item>ਯਾਕੂਤਸ</item>
+        <item>ਐਡੀਲੇਡ</item>
+        <item>ਡਾਰਵਿਨ</item>
+        <item>ਬ੍ਰਿਸਬੇਨ</item>
+        <item>ਹੋਬਾਰਟ</item>
+        <item>ਸਿਡਨੀ, ਕੈਨਬਰਾ</item>
+        <item>ਵਲਾਦੀਵੋਸਤੋਕ</item>
+        <item>ਗੁਆਮ</item>
+        <item>ਮੈਗਡਨ</item>
+        <item>ਔਕਲੈਂਡ</item>
+        <item>ਫਿਜੀ</item>
+        <item>ਟੋਂਗਾ</item>
+    </array>
+    <array name="visibility">
+        <item>ਪੂਰਵ-ਨਿਰਧਾਰਤ</item>
+        <item>ਨਿੱਜੀ</item>
+        <item>ਜਨਤਕ</item>
+    </array>
+</resources>

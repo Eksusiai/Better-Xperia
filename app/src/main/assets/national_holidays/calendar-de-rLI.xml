@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: de (German)
+ * Region: LI (Liechtenstein)
+ *********************************************************************
+--><calendar language="de" region="LI" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Neujahr</holiday>
+        <!--[Epiphany (Heilige Drei Könige)] - [epiphany]-->
+        <holiday endDate="2017-01-06" startDate="2017-01-06" workingday="false">Heilige Drei Könige</holiday>
+        <!--[Candlemas (Mariä Lichtmess)] - [candlemas__mari__lichtmess_]-->
+        <holiday endDate="2017-02-02" startDate="2017-02-02" workingday="false">Mariä Lichtmess</holiday>
+        <!--[Saint Joseph's Day (Josefistag)] - [saint_joseph_s_day__josefistag_]-->
+        <holiday endDate="2017-03-19" startDate="2017-03-19" workingday="false">Josefstag (Josefitag)</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">Ostermontag</holiday>
+        <!--[Labour Day] - [labor_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Tag der Arbeit</holiday>
+        <!--[Ascension Day (Auffahrt)] - [ascension_day]-->
+        <holiday endDate="2017-05-25" startDate="2017-05-25" workingday="false">Christi Himmelfahrt</holiday>
+        <!--[Whit Monday] - [whit_monday]-->
+        <holiday endDate="2017-06-05" startDate="2017-06-05" workingday="false">Pfingstmontag</holiday>
+        <!--[Corpus Christi Day] - [corpus_christi]-->
+        <holiday endDate="2017-06-15" startDate="2017-06-15" workingday="false">Fronleichnam</holiday>
+        <!--[Liechtenstein State Celebration (National Day)] - [liechtenstein_state_celebration__national_day_]-->
+        <holiday endDate="2017-08-15" startDate="2017-08-15" workingday="false">Liechtensteiner Staatsfeiertag</holiday>
+        <!--[Nativity of Our Lady Mary (Mariä Geburt)] - [nativity_of_our_lady_mary__mari__geburt_]-->
+        <holiday endDate="2017-09-08" startDate="2017-09-08" workingday="false">Mariä Geburt (Kleiner Frauentag)</holiday>
+        <!--[All Saints' Day] - [all_saints__day]-->
+        <holiday endDate="2017-11-01" startDate="2017-11-01" workingday="false">Allerheiligen</holiday>
+        <!--[Immaculate Conception Day] - [immaculate_conception]-->
+        <holiday endDate="2017-12-08" startDate="2017-12-08" workingday="false">Mariä Empfängnis</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">1. Weihnachtsfeiertag</holiday>
+        <!--[Saint Stephen's Day] - [saint_stephen_s_day]-->
+        <holiday endDate="2017-12-26" startDate="2017-12-26" workingday="false">Stephanitag</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Neujahr</holiday>
+        <!--[Epiphany (Heilige Drei Könige)] - [epiphany]-->
+        <holiday endDate="2016-01-06" startDate="2016-01-06" workingday="false">Heilige Drei Könige</holiday>
+        <!--[Candlemas (Mariä Lichtmess)] - [candlemas__mari__lichtmess_]-->
+        <holiday endDate="2016-02-02" startDate="2016-02-02" workingday="false">Mariä Lichtmess</holiday>
+        <!--[Saint Joseph's Day (Josefistag)] - [saint_joseph_s_day__josefistag_]-->
+        <holiday endDate="2016-03-19" startDate="2016-03-19" workingday="false">Josefstag (Josefitag)</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2016-03-28" startDate="2016-03-28" workingday="false">Ostermontag</holiday>
+        <!--[Labour Day] - [labor_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Tag der Arbeit</holiday>
+        <!--[Ascension Day (Auffahrt)] - [ascension_day]-->
+        <holiday endDate="2016-05-05" startDate="2016-05-05" workingday="false">Christi Himmelfahrt</holiday>
+        <!--[Whit Monday] - [whit_monday]-->
+        <holiday endDate="2016-05-16" startDate="2016-05-16" workingday="false">Pfingstmontag</holiday>
+        <!--[Corpus Christi Day] - [corpus_christi]-->
+        <holiday endDate="2016-05-26" startDate="2016-05-26" workingday="false">Fronleichnam</holiday>
+        <!--[Liechtenstein State Celebration (National Day)] - [liechtenstein_state_celebration__national_day_]-->
+        <holiday endDate="2016-08-15" startDate="2016-08-15" workingday="false">Liechtensteiner Staatsfeiertag</holiday>
+        <!--[Nativity of Our Lady Mary (Mariä Geburt)] - [nativity_of_our_lady_mary__mari__geburt_]-->
+        <holiday endDate="2016-09-08" startDate="2016-09-08" workingday="false">Mariä Geburt (Kleiner Frauentag)</holiday>
+        <!--[All Saints' Day] - [all_saints__day]-->
+        <holiday endDate="2016-11-01" startDate="2016-11-01" workingday="false">Allerheiligen</holiday>
+        <!--[Immaculate Conception Day] - [immaculate_conception]-->
+        <holiday endDate="2016-12-08" startDate="2016-12-08" workingday="false">Mariä Empfängnis</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">1. Weihnachtsfeiertag</holiday>
+        <!--[Saint Stephen's Day] - [saint_stephen_s_day]-->
+        <holiday endDate="2016-12-26" startDate="2016-12-26" workingday="false">Stephanitag</holiday>
+    </holidays>
+</calendar>
+

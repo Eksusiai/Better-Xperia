@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="copy_email">ईमेल पत्ता कॉपी करा</string>
+    <string name="copy_number">फोन नंबर कॉपी करा</string>
+    <string name="more_string">+%1$d</string>
+</resources>

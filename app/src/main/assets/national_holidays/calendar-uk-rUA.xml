@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: uk (Ukrainian)
+ * Region: UA (Ukraine)
+ *********************************************************************
+--><calendar language="uk" region="UA" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day (celebration)] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Новий рік</holiday>
+        <!--[New Year's Day Holiday (day in lieu)] - [new_year_s_day]-->
+        <holiday endDate="2017-01-02" startDate="2017-01-02" workingday="false">Новий рік</holiday>
+        <!--[Orthodox Christmas (celebration)] - [orthodox_christmas__celebration_]-->
+        <holiday endDate="2017-01-07" startDate="2017-01-07" workingday="false">Православне Різдво (святкування)</holiday>
+        <!--[Orthodox Christmas Holiday (day in lieu)] - [orthodox_christmas_holiday__day_in_lieu_]-->
+        <holiday endDate="2017-01-09" startDate="2017-01-09" workingday="false">Православне Різдво (компенсаційний день)</holiday>
+        <!--[Women's Day] - [women_s_day]-->
+        <holiday endDate="2017-03-08" startDate="2017-03-08" workingday="false">Міжнародний жіночий день</holiday>
+        <!--[Orthodox Easter] - [orthodox_easter]-->
+        <holiday endDate="2017-04-16" startDate="2017-04-16" workingday="false">Православний Великдень</holiday>
+        <!--[Orthodox Easter Monday] - [orthodox_easter_monday]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">Православний поливаний понеділок</holiday>
+        <!--[Labor Day] - [labor_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">День Праці</holiday>
+        <!--[Labor Day Holiday] - [labor_day]-->
+        <holiday endDate="2017-05-02" startDate="2017-05-02" workingday="false">День Праці</holiday>
+        <!--[Victory Day] - [victory_day]-->
+        <holiday endDate="2017-05-09" startDate="2017-05-09" workingday="false">День Перемоги</holiday>
+        <!--[Orthodox Pentecost] - [orthodox_pentecost]-->
+        <holiday endDate="2017-06-04" startDate="2017-06-04" workingday="false">Православне свято Трійці</holiday>
+        <!--[Orthodox Pentecost Monday] - [orthodox_pentecost_monday]-->
+        <holiday endDate="2017-06-05" startDate="2017-06-05" workingday="false">Православне Свято Святого Духа</holiday>
+        <!--[Constitution Day] - [constitution_day]-->
+        <holiday endDate="2017-06-28" startDate="2017-06-28" workingday="false">День Конституції</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2017-08-24" startDate="2017-08-24" workingday="false">День Незалежності</holiday>
+        <!--[Day of the Defenders of the Ukraine (celebration)] - [day_of_the_defenders_of_the_ukraine__celebration_]-->
+        <holiday endDate="2017-10-14" startDate="2017-10-14" workingday="false">День захисника України (святкування)</holiday>
+        <!--[Day of the Defenders of the Ukraine Holiday (day in lieu)] - [day_of_the_defenders_of_the_ukraine_holiday__day_in_lieu_]-->
+        <holiday endDate="2017-10-16" startDate="2017-10-16" workingday="false">День захисника України (компенсаційний день)</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Новий рік</holiday>
+        <!--[Orthodox Christmas] - [orthodox_christmas]-->
+        <holiday endDate="2016-01-07" startDate="2016-01-07" workingday="false">Православне Різдво</holiday>
+        <!--[Public Holiday (workday moved to Sat. Jan. 16)] - [public_holiday__workday_moved_to_sat__jan__16_]-->
+        <holiday endDate="2016-01-08" startDate="2016-01-08" workingday="false">Державне свято (робочий день перенесено на суботу 16 січня)</holiday>
+        <!--[Public Holiday (workday moved to Sat.Mar.12)] - [public_holiday__workday_moved_to_sat_mar_12_]-->
+        <holiday endDate="2016-03-07" startDate="2016-03-07" workingday="false">Державне свято (робочий день перенесено на суботу 12 березня)</holiday>
+        <!--[Women's Day] - [women_s_day]-->
+        <holiday endDate="2016-03-08" startDate="2016-03-08" workingday="false">Міжнародний жіночий день</holiday>
+        <!--[Labor Day (celebration)] - [labor_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">День Праці</holiday>
+        <!--[Orthodox Easter] - [orthodox_easter]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Православний Великдень</holiday>
+        <!--[Labor Day Holiday (day in lieu)] - [labor_day]-->
+        <holiday endDate="2016-05-02" startDate="2016-05-02" workingday="false">День Праці</holiday>
+        <!--[Orthodox Easter Monday] - [orthodox_easter_monday]-->
+        <holiday endDate="2016-05-02" startDate="2016-05-02" workingday="false">Православний поливаний понеділок</holiday>
+        <!--[Labor Day Holiday] - [labor_day]-->
+        <holiday endDate="2016-05-03" startDate="2016-05-03" workingday="false">День Праці</holiday>
+        <!--[Victory Day] - [victory_day]-->
+        <holiday endDate="2016-05-09" startDate="2016-05-09" workingday="false">День Перемоги</holiday>
+        <!--[Orthodox Pentecost] - [orthodox_pentecost]-->
+        <holiday endDate="2016-06-19" startDate="2016-06-19" workingday="false">Православне свято Трійці</holiday>
+        <!--[Orthodox Pentecost Monday] - [orthodox_pentecost_monday]-->
+        <holiday endDate="2016-06-20" startDate="2016-06-20" workingday="false">Православне Свято Святого Духа</holiday>
+        <!--[Public Holiday (workday moved to Sat. July 2)] - [public_holiday__workday_moved_to_sat__july_2_]-->
+        <holiday endDate="2016-06-27" startDate="2016-06-27" workingday="false">Державне свято (робочий день перенесено на суботу 2 липня)</holiday>
+        <!--[Constitution Day] - [constitution_day]-->
+        <holiday endDate="2016-06-28" startDate="2016-06-28" workingday="false">День Конституції</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2016-08-24" startDate="2016-08-24" workingday="false">День Незалежності</holiday>
+        <!--[Day of the Defenders of the Ukraine] - [day_of_the_defenders_of_the_ukraine]-->
+        <holiday endDate="2016-10-14" startDate="2016-10-14" workingday="false">День захисника України</holiday>
+    </holidays>
+</calendar>
+

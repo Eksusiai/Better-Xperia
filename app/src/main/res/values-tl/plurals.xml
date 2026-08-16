@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 araw</item>
+        <item quantity="other">%d na mga araw</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 kaganapan</item>
+        <item quantity="other">%d (na) kaganapan</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 oras</item>
+        <item quantity="other">%d na mga oras</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 min</item>
+        <item quantity="other">%d minuto</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 minuto</item>
+        <item quantity="other">%d (na) minuto</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">degree</item>
+        <item quantity="other">degrees</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d (na) taong gulang</item>
+        <item quantity="other">%d (na) taong gulang</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 gawain</item>
+        <item quantity="other">%d (na) gawain</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">kaganapan</item>
+        <item quantity="other">mga kaganapan</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">Nadagdag ang kaganapan</item>
+        <item quantity="other">Nadagdag ang mga kaganapan</item>
+    </plurals>
+</resources>

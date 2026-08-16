@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 ਦਿਨ</item>
+        <item quantity="other">%d ਦਿਨ</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 ਇਵੈਂਟ</item>
+        <item quantity="other">%d ਇਵੈਂਟ</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 ਘੰਟਾ</item>
+        <item quantity="other">%d ਘੰਟੇ</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 ਮਿੰਟ</item>
+        <item quantity="other">%d ਮਿੰਟ</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 ਮਿੰਟ</item>
+        <item quantity="other">%d ਮਿੰਟ</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">ਡਿਗਰੀ</item>
+        <item quantity="other">ਡਿਗਰੀਆਂ</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">ਉਮਰ %d ਸਾਲ</item>
+        <item quantity="other">ਉਮਰ %d ਸਾਲ</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 ਕਾਰਜ</item>
+        <item quantity="other">%d ਕਾਰਜ</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">ਇਵੈਂਟ</item>
+        <item quantity="other">ਇਵੈਂਟ</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">ਇਵੈਂਟ ਜੋੜਿਆ ਗਿਆ</item>
+        <item quantity="other">ਇਵੈਂਟ ਜੋੜੇ ਗਏ</item>
+    </plurals>
+</resources>

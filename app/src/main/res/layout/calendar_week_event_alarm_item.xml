@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/alarm_event_icon"
+        android:padding="@dimen/week_view_event_padding"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/alarm_icon"
+        android:tint="@color/white"/>
+    <TextView
+        android:textSize="@dimen/day_week_view_event_largest_text_size"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:ellipsize="none"
+        android:id="@+id/alarm_event_description"
+        android:padding="@dimen/week_view_event_padding"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fontFamily="sans-serif-condensed"
+        android:textDirection="locale"
+        android:letterSpacing="-0.02"/>
+</LinearLayout>

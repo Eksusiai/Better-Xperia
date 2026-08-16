@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="accepted_items">
+        <item>అంగీకరించబడింది</item>
+        <item>టెంటేటివ్</item>
+        <item>తిరస్కరించబడింది</item>
+    </array>
+    <array name="accessibility_event_color_picker_colors">
+        <item>పసుపు</item>
+        <item>నారింజ</item>
+        <item>ఎరుపు</item>
+        <item>బుర్గుండి</item>
+        <item>గులాబీ</item>
+        <item>ధూమ్ర వర్ణము</item>
+        <item>గోధుమ</item>
+        <item>లేత ఆకుపచ్చ</item>
+        <item>ఆకుపచ్చ</item>
+        <item>ఫిరోజారాయి</item>
+        <item>లేత నీలం</item>
+        <item>నీలం</item>
+    </array>
+    <array name="availability">
+        <item>బిజీగా ఉన్నారు</item>
+        <item>అందుబాటులో ఉన్నారు</item>
+        <item>తాత్కాలికం</item>
+    </array>
+    <array name="change_response_labels">
+        <item>ఈ పర్యాయం మాత్రమే</item>
+        <item>శ్రేణిలోని అన్ని ఈవెంట్‌లు</item>
+    </array>
+    <array name="month_view_day_labels">
+        <item>సో</item>
+        <item>మం</item>
+        <item>బు</item>
+        <item>గు</item>
+        <item>శు</item>
+        <item>శ</item>
+        <item>ఆ</item>
+    </array>
+    <array name="ordinal_labels">
+        <item>మొదటి</item>
+        <item>రెండవ</item>
+        <item>మూడవ</item>
+        <item>నాల్గవ</item>
+        <item>చివరి</item>
+    </array>
+    <array name="prefEntries_alerts_vibrateWhen">
+        <item>ఎల్లప్పుడూ</item>
+        <item>అంతరా. కలిగిం. మోడ్. మాత్ర.</item>
+        <item>ఎన్నడూ వద్దు</item>
+    </array>
+    <array name="preferences_alert_type_labels">
+        <item>హెచ్చరిక</item>
+        <item>స్టేటస్ బార్ నోటిఫికేషన్</item>
+        <item>ఆఫ్</item>
+    </array>
+    <array name="preferences_default_reminder_labels">
+        <item>ఏదీ వద్దు</item>
+        <item>5 నిమిషాలు</item>
+        <item>10 నిమిషాలు</item>
+        <item>15 నిమిషాలు</item>
+        <item>20 నిమిషాలు</item>
+        <item>25 నిమిషాలు</item>
+        <item>30 నిమిషాలు</item>
+        <item>45 నిమిషాలు</item>
+        <item>1 గంట</item>
+        <item>2 గంటలు</item>
+        <item>3 గంటలు</item>
+        <item>12 గంటలు</item>
+        <item>24 గంటలు</item>
+        <item>2 రోజులు</item>
+        <item>1 వారం</item>
+    </array>
+    <array name="preferences_week_days_labels">
+        <item>పనిదినాలు మాత్రమే</item>
+        <item>7 రోజులు</item>
+    </array>
+    <array name="quick_response_defaults">
+        <item>కేవలం కొన్ని నిమిషాల ఆలస్యంగా నడుస్తోంది.</item>
+        <item>అక్కడ 10నిమిషాల్లో ఉండండి.</item>
+        <item>ముందుకు సాగండి మరియు నేను లేకుండా ప్రారంభించండి.</item>
+        <item>క్షమించండి, నేను చేయలేను, మనం రీషెడ్యూల్ చేయాలి.</item>
+    </array>
+    <array name="reminder_minutes_labels">
+        <item>5 నిమిషాలు</item>
+        <item>10 నిమిషాలు</item>
+        <item>15 నిమిషాలు</item>
+        <item>20 నిమిషాలు</item>
+        <item>25 నిమిషాలు</item>
+        <item>30 నిమిషాలు</item>
+        <item>45 నిమిషాలు</item>
+        <item>1 గంట</item>
+        <item>2 గంటలు</item>
+        <item>3 గంటలు</item>
+        <item>12 గంటలు</item>
+        <item>24 గంటలు</item>
+        <item>2 రోజులు</item>
+        <item>1 వారం</item>
+    </array>
+    <array name="repeats_pattern">
+        <item>రోజువారీ</item>
+        <item>వారంవారీ</item>
+        <item>నెలవారీ</item>
+        <item>సంవత్సరంవారీ</item>
+    </array>
+    <array name="repeats_weekdays_no">
+        <item>మొదటి</item>
+        <item>రెండవ</item>
+        <item>మూడవ</item>
+        <item>నాల్గవ</item>
+        <item>ఐదవ</item>
+    </array>
+    <array name="reply_items">
+        <item>ప్రత్యుత్తరం ఇవ్వు</item>
+        <item>అందరికీ ప్రత్యుత్తరం ఇవ్వు</item>
+        <item>ఫార్వార్డ్ చేయి</item>
+    </array>
+    <array name="response_labels1">
+        <item>(ప్రతిస్పందన లేదు)</item>
+        <item>అవును</item>
+        <item>కావచ్చు</item>
+        <item>వద్దు</item>
+    </array>
+    <array name="response_labels2">
+        <item>అవును</item>
+        <item>కావచ్చు</item>
+        <item>వద్దు</item>
+    </array>
+    <array name="timezone_labels">
+        <item>మార్షల్ దీవులు</item>
+        <item>మిడ్వే దీవి</item>
+        <item>హావాయి</item>
+        <item>అలాస్కా</item>
+        <item>పసిఫిక్ సమయం</item>
+        <item>టిజునా</item>
+        <item>ఆరిజోనా</item>
+        <item>చిహుహౌ</item>
+        <item>మౌంటైన్ సమయం</item>
+        <item>సెంట్రల్ అమెరికా</item>
+        <item>సెంట్రల్ సమయం</item>
+        <item>మెక్సికో నగరం</item>
+        <item>సాస్కాట్చెవాన్</item>
+        <item>బోగోటా</item>
+        <item>ఈస్టరన్ సమయం</item>
+        <item>వెనుజువేలా</item>
+        <item>అట్లాంటిక్ సమయం</item>
+        <item>మానౌస్</item>
+        <item>శాంటియాగో</item>
+        <item>న్యూఫౌండ్లాండ్</item>
+        <item>బ్రాసిలియా</item>
+        <item>బుయినోస్ ఎయిర్స్</item>
+        <item>గ్రీన్‌ల్యాండ్</item>
+        <item>మాంటేవీడియో</item>
+        <item>మిడ్-అట్లాంటిక్</item>
+        <item>అజెరోస్</item>
+        <item>కేప్ వెర్డే దీవులు</item>
+        <item>కాసాబ్లాంకా</item>
+        <item>లండన్, డబ్లిన్</item>
+        <item>ఆమ్స్టర్డ్యామ్, బెర్లిన్</item>
+        <item>బెల్గ్రేడ్</item>
+        <item>బ్రూసెల్స్</item>
+        <item>సరాజెవో</item>
+        <item>విండ్హోక్</item>
+        <item>డబ్ల్యూ. ఆఫ్రికా సమయం</item>
+        <item>అమాన్, జోర్డాన్</item>
+        <item>ఏథెన్స్, ఇస్తాన్‌బుల్</item>
+        <item>బీరుట్, లెబనాన్</item>
+        <item>కైరో</item>
+        <item>హెల్సింకో</item>
+        <item>జెరూసలేం</item>
+        <item>మిన్స్క్</item>
+        <item>హారేర్</item>
+        <item>బాగ్దాద్</item>
+        <item>మాస్కో</item>
+        <item>కువైట్</item>
+        <item>నైరోబీ</item>
+        <item>టెహ్రాన్</item>
+        <item>బాకు</item>
+        <item>బిలిసీ</item>
+        <item>యెరెవాన్</item>
+        <item>దుబాయి</item>
+        <item>కాబూల్</item>
+        <item>ఇస్లాంబాద్, కరాచీ</item>
+        <item>యురాల్స్క్</item>
+        <item>యెకాటెరింబర్గ్</item>
+        <item>కోలకతా</item>
+        <item>శ్రీలంక</item>
+        <item>ఖట్మాండ్</item>
+        <item>అస్టానా</item>
+        <item>యాంగోన్</item>
+        <item>క్రాస్కోయార్క్స్</item>
+        <item>బ్యాంకాక్</item>
+        <item>బీజింగ్</item>
+        <item>హాంగ్ కాంగ్</item>
+        <item>ఇర్కుట్క్స్</item>
+        <item>కౌలాలంపూర్</item>
+        <item>పెర్త్</item>
+        <item>తైపీ</item>
+        <item>సీయోల్</item>
+        <item>టోక్యో, ఓసాకా</item>
+        <item>యాకుట్క్స్</item>
+        <item>అడెలైడ్</item>
+        <item>డార్విన్</item>
+        <item>బ్రిస్బేన్</item>
+        <item>హోబార్ట్</item>
+        <item>సిడ్నీ, కాంబెర్రా</item>
+        <item>వ్లాడివోస్ట్కో</item>
+        <item>గౌమ్</item>
+        <item>మాగాడాన్</item>
+        <item>ఆక్య్లాండ్</item>
+        <item>ఫిజీ</item>
+        <item>టోంగా</item>
+    </array>
+    <array name="visibility">
+        <item>డీఫాల్ట్</item>
+        <item>ప్రైవేట్</item>
+        <item>పబ్లిక్</item>
+    </array>
+</resources>

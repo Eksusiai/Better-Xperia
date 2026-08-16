@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/ic_menu_trash_holo_light"
+        android:id="@+id/action_delete"
+        android:title="@string/delete_label"
+        android:alphabeticShortcut="r"
+        android:showAsAction="never"/>
+</menu>

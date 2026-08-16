@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 күн</item>
+        <item quantity="other">%d күн</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 оқиға</item>
+        <item quantity="other">%d оқиға</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 сағат</item>
+        <item quantity="other">%d сағат</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 мин</item>
+        <item quantity="other">%d мин</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 минут</item>
+        <item quantity="other">%d минут</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">градус</item>
+        <item quantity="other">градус</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d жаста</item>
+        <item quantity="other">%d жаста</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 тапсырма</item>
+        <item quantity="other">%d тапсырмалар</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">оқиға</item>
+        <item quantity="other">оқиғалар</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">Оқиға қосылды</item>
+        <item quantity="other">Оқиғалар қосылды</item>
+    </plurals>
+</resources>

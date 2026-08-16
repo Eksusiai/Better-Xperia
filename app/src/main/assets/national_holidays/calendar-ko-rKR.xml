@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: ko (Korean)
+ * Region: KR (Korea, Republic of)
+ *********************************************************************
+--><calendar language="ko" region="KR" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">신정</holiday>
+        <!--[Seol-nal Holiday] - [seol_nal_holiday]-->
+        <holiday endDate="2017-01-27" startDate="2017-01-27" workingday="false">설날</holiday>
+        <!--[Seol-nal (Lunar New Year)] - [seol_nal__lunar_new_year_]-->
+        <holiday endDate="2017-01-28" startDate="2017-01-28" workingday="false">설날(구정)</holiday>
+        <!--[Seol-nal Holiday] - [seol_nal_holiday]-->
+        <holiday endDate="2017-01-29" startDate="2017-01-29" workingday="false">설날</holiday>
+        <!--[Sam Il Jul (Samil Day)] - [sam_il_jul__samil_day_]-->
+        <holiday endDate="2017-03-01" startDate="2017-03-01" workingday="false">삼일절</holiday>
+        <!--[Sukka Tansin Il (Buddha Day)] - [sukka_tansin_il__buddha_day_]-->
+        <holiday endDate="2017-05-03" startDate="2017-05-03" workingday="false">석가탄신일</holiday>
+        <!--[Orininal (Children's Day)] - [orininal__children_s_day_]-->
+        <holiday endDate="2017-05-05" startDate="2017-05-05" workingday="false">어린이날</holiday>
+        <!--[Hyun Choong Il (Memorial Day)] - [hyun_choong_il__memorial_day_]-->
+        <holiday endDate="2017-06-06" startDate="2017-06-06" workingday="false">현충일</holiday>
+        <!--[Kwang Bok Jul (Independence Day)] - [kwang_bok_jul__independence_day_]-->
+        <holiday endDate="2017-08-15" startDate="2017-08-15" workingday="false">광복절</holiday>
+        <!--[Chusok (Harvest Moon Festival)] - [chusok__harvest_moon_festival_]-->
+        <holiday endDate="2017-10-03" startDate="2017-10-03" workingday="false">추석</holiday>
+        <!--[Kae Chun Jul (Foundation Day)] - [kae_chun_jul__foundation_day_]-->
+        <holiday endDate="2017-10-03" startDate="2017-10-03" workingday="false">개천절</holiday>
+        <!--[Chusok (Harvest Moon Festival)] - [chusok__harvest_moon_festival_]-->
+        <holiday endDate="2017-10-04" startDate="2017-10-04" workingday="false">추석</holiday>
+        <!--[Chusok (Harvest Moon Festival)] - [chusok__harvest_moon_festival_]-->
+        <holiday endDate="2017-10-05" startDate="2017-10-05" workingday="false">추석</holiday>
+        <!--[Hangeul Day] - [hangeul_day]-->
+        <holiday endDate="2017-10-09" startDate="2017-10-09" workingday="false">한글날</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">성탄절</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">신정</holiday>
+        <!--[Seol-nal Holiday] - [seol_nal_holiday]-->
+        <holiday endDate="2016-02-07" startDate="2016-02-07" workingday="false">설날</holiday>
+        <!--[Seol-nal (Lunar New Year)] - [seol_nal__lunar_new_year_]-->
+        <holiday endDate="2016-02-08" startDate="2016-02-08" workingday="false">설날(구정)</holiday>
+        <!--[Seol-nal Holiday] - [seol_nal_holiday]-->
+        <holiday endDate="2016-02-09" startDate="2016-02-09" workingday="false">설날</holiday>
+        <!--[Sam Il Jul (Samil Day)] - [sam_il_jul__samil_day_]-->
+        <holiday endDate="2016-03-01" startDate="2016-03-01" workingday="false">삼일절</holiday>
+        <!--[Orininal (Children's Day)] - [orininal__children_s_day_]-->
+        <holiday endDate="2016-05-05" startDate="2016-05-05" workingday="false">어린이날</holiday>
+        <!--[Sukka Tansin Il (Buddha Day)] - [sukka_tansin_il__buddha_day_]-->
+        <holiday endDate="2016-05-14" startDate="2016-05-14" workingday="false">석가탄신일</holiday>
+        <!--[Hyun Choong Il (Memorial Day)] - [hyun_choong_il__memorial_day_]-->
+        <holiday endDate="2016-06-06" startDate="2016-06-06" workingday="false">현충일</holiday>
+        <!--[Kwang Bok Jul (Independence Day)] - [kwang_bok_jul__independence_day_]-->
+        <holiday endDate="2016-08-15" startDate="2016-08-15" workingday="false">광복절</holiday>
+        <!--[Chusok (Harvest Moon Festival)] - [chusok__harvest_moon_festival_]-->
+        <holiday endDate="2016-09-14" startDate="2016-09-14" workingday="false">추석</holiday>
+        <!--[Chusok (Harvest Moon Festival)] - [chusok__harvest_moon_festival_]-->
+        <holiday endDate="2016-09-15" startDate="2016-09-15" workingday="false">추석</holiday>
+        <!--[Chusok (Harvest Moon Festival)] - [chusok__harvest_moon_festival_]-->
+        <holiday endDate="2016-09-16" startDate="2016-09-16" workingday="false">추석</holiday>
+        <!--[Kae Chun Jul (Foundation Day)] - [kae_chun_jul__foundation_day_]-->
+        <holiday endDate="2016-10-03" startDate="2016-10-03" workingday="false">개천절</holiday>
+        <!--[Hangeul Day] - [hangeul_day]-->
+        <holiday endDate="2016-10-09" startDate="2016-10-09" workingday="false">한글날</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">성탄절</holiday>
+    </holidays>
+</calendar>
+

@@ -1,0 +1,54 @@
+[versions]
+agp = "9.3.1"
+junit = "4.13.2"
+junitVersion = "1.3.0"
+espressoCore = "3.7.0"
+appcompat = "1.7.1"
+material = "1.14.0"
+activityKtx = "1.13.0"
+constraintlayout = "2.2.2"
+core = "1.16.0"
+fragment = "1.8.6"
+preference = "1.2.1"
+work = "2.10.0"
+loader = "1.1.0"
+viewpager = "1.1.0"
+drawerlayout = "1.2.0"
+legacyV4 = "1.0.0"
+interpolator = "1.0.0"
+vectordrawable = "1.2.0"
+lifecycle = "2.8.7"
+guava = "31.1-android"
+volley = "1.2.1"
+playServicesMaps = "18.2.0"
+playServicesAnalytics = "18.0.4"
+playServicesTagmanager = "18.0.4"
+playServicesBase = "18.3.0"
+[libraries]
+junit = { group = "junit", name = "junit", version.ref = "junit" }
+ext-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
+espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }
+appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
+material = { group = "com.google.android.material", name = "material", version.ref = "material" }
+activity-ktx = { group = "androidx.activity", name = "activity-ktx", version.ref = "activityKtx" }
+constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
+core = { group = "androidx.core", name = "core", version.ref = "core" }
+fragment = { group = "androidx.fragment", name = "fragment", version.ref = "fragment" }
+preference = { group = "androidx.preference", name = "preference", version.ref = "preference" }
+work = { group = "androidx.work", name = "work-runtime", version.ref = "work" }
+loader = { group = "androidx.loader", name = "loader", version.ref = "loader" }
+viewpager = { group = "androidx.viewpager", name = "viewpager", version.ref = "viewpager" }
+drawerlayout = { group = "androidx.drawerlayout", name = "drawerlayout", version.ref = "drawerlayout" }
+legacy-v4 = { group = "androidx.legacy", name = "legacy-support-v4", version.ref = "legacyV4" }
+interpolator = { group = "androidx.interpolator", name = "interpolator", version.ref = "interpolator" }
+vectordrawable = { group = "androidx.vectordrawable", name = "vectordrawable", version.ref = "vectordrawable" }
+lifecycle-runtime = { group = "androidx.lifecycle", name = "lifecycle-runtime", version.ref = "lifecycle" }
+guava = { group = "com.google.guava", name = "guava", version.ref = "guava" }
+volley = { group = "com.android.volley", name = "volley", version.ref = "volley" }
+play-services-maps = { group = "com.google.android.gms", name = "play-services-maps", version.ref = "playServicesMaps" }
+play-services-analytics = { group = "com.google.android.gms", name = "play-services-analytics", version.ref = "playServicesAnalytics" }
+play-services-tagmanager = { group = "com.google.android.gms", name = "play-services-tagmanager", version.ref = "playServicesTagmanager" }
+play-services-base = { group = "com.google.android.gms", name = "play-services-base", version.ref = "playServicesBase" }
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "agp" }

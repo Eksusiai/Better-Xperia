@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="agenda_margin_L_R">10dp</dimen>
+    <dimen name="month_box_margin">0dp</dimen>
+    <dimen name="split_bar_height">48dp</dimen>
+    <dimen name="split_bar_offset">12px</dimen>
+    <dimen name="split_bar_offset_bidi">42px</dimen>
+</resources>

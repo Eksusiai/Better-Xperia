@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/agenda_month_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.sonymobile.calendar.WeekdayLabelsView
+        android:id="@+id/weekdays_label"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/month_view_grid_padding"/>
+    <com.sonymobile.calendar.MonthView
+        android:id="@+id/month_view"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    <com.sonymobile.calendar.MonthWeekView
+        android:id="@+id/month_week_view"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

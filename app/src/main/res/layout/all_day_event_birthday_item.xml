@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:gravity="bottom"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:gravity="center_vertical"
+            android:id="@+id/event_icon"
+            android:layout_width="@dimen/all_day_event_icon_height_width"
+            android:layout_height="@dimen/all_day_event_icon_height_width"
+            android:layout_marginStart="4dp"/>
+        <TextView
+            android:textSize="14dp"
+            android:textColor="@android:color/white"
+            android:gravity="bottom"
+            android:id="@+id/event_title"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:singleLine="true"
+            android:textDirection="locale"
+            android:textAlignment="viewStart"
+            android:layout_marginStart="3dp"
+            android:layout_marginEnd="3dp"/>
+    </LinearLayout>
+</merge>

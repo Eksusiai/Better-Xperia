@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<searchable xmlns:android="http://schemas.android.com/apk/res/android"
+    android:label="@string/app_label"
+    android:value="com.sonymobile.calendar.SearchActivity"
+    android:hint="@string/clr_strings_search_calendar_txt"
+    android:searchSuggestAuthority="com.sonymobile.calendar.CalendarRecentSuggestionsProvider"
+    android:searchButtonText="@string/app_label"/>

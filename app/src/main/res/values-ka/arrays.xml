@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="accepted_items">
+        <item>მიღებულია</item>
+        <item>საცდელი</item>
+        <item>უარყოფილი</item>
+    </array>
+    <array name="accessibility_event_color_picker_colors">
+        <item>ყვითელი</item>
+        <item>ნარინჯისფერი</item>
+        <item>წითელი</item>
+        <item>ბორდოსფერი</item>
+        <item>ვარდისფერი</item>
+        <item>მეწამული</item>
+        <item>ყავისფერი</item>
+        <item>ღია მწვანე</item>
+        <item>მწვანე</item>
+        <item>ფირუზის ფერი</item>
+        <item>ღია ცისფერი</item>
+        <item>ლურჯი</item>
+    </array>
+    <array name="availability">
+        <item>დაკავებულია</item>
+        <item>ხელმისაწვდომია</item>
+        <item>საცდელი</item>
+    </array>
+    <array name="change_response_labels">
+        <item>მხოლოდ ამ მომენტში</item>
+        <item>ყველა მოვლენა სერიაში</item>
+    </array>
+    <array name="month_view_day_labels">
+        <item>ორშ</item>
+        <item>სამ</item>
+        <item>ოთხ</item>
+        <item>ხუთ</item>
+        <item>პარ</item>
+        <item>შაბ</item>
+        <item>კვი</item>
+    </array>
+    <array name="ordinal_labels">
+        <item>პირველი</item>
+        <item>მეორე</item>
+        <item>მესამე</item>
+        <item>მეოთხე</item>
+        <item>ბოლო</item>
+    </array>
+    <array name="prefEntries_alerts_vibrateWhen">
+        <item>ყოველთვის</item>
+        <item>რეჟიმში „არ შემაწუხო“</item>
+        <item>არასოდეს</item>
+    </array>
+    <array name="preferences_alert_type_labels">
+        <item>განგაში</item>
+        <item>სტატ სტრიქ შეტყ</item>
+        <item>გათიშულია</item>
+    </array>
+    <array name="preferences_default_reminder_labels">
+        <item>არცერთი</item>
+        <item>5 წუთი</item>
+        <item>10 წუთი</item>
+        <item>15 წუთი</item>
+        <item>20 წუთი</item>
+        <item>25 წუთი</item>
+        <item>30 წუთი</item>
+        <item>45 წუთი</item>
+        <item>1 საათი</item>
+        <item>2 საათი</item>
+        <item>3 საათი</item>
+        <item>12 საათი</item>
+        <item>24 საათი</item>
+        <item>2 დღე</item>
+        <item>1 კვირა</item>
+    </array>
+    <array name="preferences_week_days_labels">
+        <item>მხოლოდ სამუშაო დღეები</item>
+        <item>7 დღე</item>
+    </array>
+    <array name="quick_response_defaults">
+        <item>გაშვება რამოდენიმე წუთის დაიგვიანებს.</item>
+        <item>იყოს იქ დაახლოებით 10 წუთის განმავლობაში.</item>
+        <item>წადით და დაიწყეთ ჩემს გარეშე.</item>
+        <item>ამის გაკეთება შეუძლებ.უნდა შევცვალოთ თარიღი.</item>
+    </array>
+    <array name="reminder_minutes_labels">
+        <item>5 წუთი</item>
+        <item>10 წუთი</item>
+        <item>15 წუთი</item>
+        <item>20 წუთი</item>
+        <item>25 წუთი</item>
+        <item>30 წუთი</item>
+        <item>45 წუთი</item>
+        <item>1 საათი</item>
+        <item>2 საათი</item>
+        <item>3 საათი</item>
+        <item>12 საათი</item>
+        <item>24 საათი</item>
+        <item>2 დღე</item>
+        <item>1 კვირა</item>
+    </array>
+    <array name="repeats_pattern">
+        <item>ყოველდღიური</item>
+        <item>ყოველკვირეული</item>
+        <item>ყოველთვიური</item>
+        <item>ყოველწლიური</item>
+    </array>
+    <array name="repeats_weekdays_no">
+        <item>პირველი</item>
+        <item>მეორე</item>
+        <item>მესამე</item>
+        <item>მეოთხე</item>
+        <item>მეხუთე</item>
+    </array>
+    <array name="reply_items">
+        <item>პასუხი</item>
+        <item>პას ყვ</item>
+        <item>წინ</item>
+    </array>
+    <array name="response_labels1">
+        <item>(არ არის პასუხი)</item>
+        <item>კი</item>
+        <item>შესაძლებელია</item>
+        <item>არა</item>
+    </array>
+    <array name="response_labels2">
+        <item>კი</item>
+        <item>შესაძლებელია</item>
+        <item>არა</item>
+    </array>
+    <array name="timezone_labels">
+        <item>მარშალის კუნძ.</item>
+        <item>მიდუეის კუძულები</item>
+        <item>ჰავაი</item>
+        <item>ალასკა</item>
+        <item>წყნაროკეანური დრო</item>
+        <item>ტიჰუანა</item>
+        <item>არიზონა</item>
+        <item>ჩიჰუაჰუა</item>
+        <item>ზამთრ დრო</item>
+        <item>ცენტრ. ამერიკა</item>
+        <item>ცენტრალური დრო</item>
+        <item>მექსიკო სიტი</item>
+        <item>სასკაჩევანი</item>
+        <item>ბოგოტა</item>
+        <item>აღმოსავლეთის დრო</item>
+        <item>ვენესუელა</item>
+        <item>ატლანტიკური დრო</item>
+        <item>მანაუსი</item>
+        <item>სანტიაგო</item>
+        <item>ნიუფაუნდლენდი</item>
+        <item>ბრაზილია</item>
+        <item>ბუენოს აირესი</item>
+        <item>გრინლენდი</item>
+        <item>მონტევიდეო</item>
+        <item>შუა-ატლანტიკური</item>
+        <item>აზორესი</item>
+        <item>კაბო-ვერდე</item>
+        <item>კასაბლანკა</item>
+        <item>ლონდონი, დუბლინი</item>
+        <item>ამსტერ., ბერლინი</item>
+        <item>ბელგრადი</item>
+        <item>ბრიუსელი</item>
+        <item>სარაიევო</item>
+        <item>ვინდჰოეკი</item>
+        <item>დას. აფრ. დრო</item>
+        <item>ამანი, ჯორდანი</item>
+        <item>ათენი, ისტანბული</item>
+        <item>ბეირუტი, ლებანონი</item>
+        <item>კაირო</item>
+        <item>ჰელსინკი</item>
+        <item>იერუსალიმი</item>
+        <item>მინსკი</item>
+        <item>ჰარარე</item>
+        <item>ბაგდადი</item>
+        <item>მოსკოვი</item>
+        <item>კუვეიტი</item>
+        <item>ნაირობი</item>
+        <item>თეირანი</item>
+        <item>ბაქო</item>
+        <item>თბილისი</item>
+        <item>ერევანი</item>
+        <item>დუბაი</item>
+        <item>კაბული</item>
+        <item>ისლამაბადი, კარაჩი</item>
+        <item>ურალსკი</item>
+        <item>ეკატირენბურგი</item>
+        <item>კოლკატა</item>
+        <item>სრი ლანკა</item>
+        <item>კატმანდუ</item>
+        <item>ასტანა</item>
+        <item>იანგონი</item>
+        <item>კრასნოიარსკი</item>
+        <item>ბანკოკი</item>
+        <item>ბეიჯინგი</item>
+        <item>ჰონგკონგი</item>
+        <item>ირკუტსკი</item>
+        <item>კუალა ლუმპური</item>
+        <item>პერფი</item>
+        <item>ტაიპეი</item>
+        <item>სეული</item>
+        <item>ტოკიო, ოსაკა</item>
+        <item>იაკუტსკი</item>
+        <item>ადელაიდ</item>
+        <item>დარვინი</item>
+        <item>ბრისბეინი</item>
+        <item>ჰობარტი</item>
+        <item>სიდნეი, კანბერა</item>
+        <item>ვლადივასტოკი</item>
+        <item>გუამი</item>
+        <item>მაგადანი</item>
+        <item>ოკლანდი</item>
+        <item>ფიჯი</item>
+        <item>ტონგა</item>
+    </array>
+    <array name="visibility">
+        <item>საწყისი</item>
+        <item>პირადი</item>
+        <item>საჯარო</item>
+    </array>
+</resources>

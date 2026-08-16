@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" style="@style/MatchParent">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/edit_event_toolbar"
+        style="@style/ToolbarDark"/>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:id="@+id/event_view_container"
+        android:background="@color/calendar_content_background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <FrameLayout
+            android:id="@+id/day_view_container"
+            android:layout_width="480dp"
+            android:layout_height="match_parent">
+            <FrameLayout
+                android:id="@+id/day_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+        </FrameLayout>
+        <RelativeLayout
+            android:background="@color/month_view_background_color"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <com.sonymobile.calendar.editevent.CreateEventView
+                android:orientation="vertical"
+                android:id="@+id/create_event_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+            <com.sonymobile.calendar.FABFrameLayout
+                android:id="@+id/fab_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentEnd="true"
+                style="@style/FAB"/>
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

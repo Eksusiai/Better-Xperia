@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: gl (Galician)
+ * Region: ES (Spain)
+ *********************************************************************
+--><calendar language="gl" region="ES" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day (Año Nuevo)] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Aninovo</holiday>
+        <!--[Epiphany (Epifanía del Señor)] - [epiphany]-->
+        <holiday endDate="2017-01-06" startDate="2017-01-06" workingday="false">Epifanía</holiday>
+        <!--[Maundy Thursday (except CT)] - [maundy_thursday__except_ct_]-->
+        <holiday endDate="2017-04-13" startDate="2017-04-13" workingday="false">Xoves santo</holiday>
+        <!--[Good Friday (Viernes Santo)] - [good_friday]-->
+        <holiday endDate="2017-04-14" startDate="2017-04-14" workingday="false">Venres santo</holiday>
+        <!--[Labour Day (Fiesta del Trabajo)] - [labor_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Día do traballo</holiday>
+        <!--[Assumption (Asunción de la Virgen)] - [assumption__asunci_n_de_la_virgen_]-->
+        <holiday endDate="2017-08-15" startDate="2017-08-15" workingday="false">Asunción</holiday>
+        <!--[Fiesta Nacional de España (National Day)] - [fiesta_nacional_de_espa_a__national_day_]-->
+        <holiday endDate="2017-10-12" startDate="2017-10-12" workingday="false">Festa Nacional de España</holiday>
+        <!--[All Saints' Day (Todos los Santos)] - [all_saints__day__todos_los_santos_]-->
+        <holiday endDate="2017-11-01" startDate="2017-11-01" workingday="false">Día de Todos os Santos</holiday>
+        <!--[Constitution Day (Día de la Constitución Española)] - [constitution_day__d_a_de_la_constituci_n_espa_ola_]-->
+        <holiday endDate="2017-12-06" startDate="2017-12-06" workingday="false">Día da Constitución</holiday>
+        <!--[Immaculate Conception (Inmaculada Concepción)] - [immaculate_conception]-->
+        <holiday endDate="2017-12-08" startDate="2017-12-08" workingday="false">Día da Inmaculada Concepción</holiday>
+        <!--[Christmas (Natividad de Nuestro Señor)] - [christmas__natividad_de_nuestro_se_or_]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Nadal</holiday>
+        <!--[New Year's Day (Año Nuevo)] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Aninovo</holiday>
+        <!--[Epiphany (Epifanía del Señor)] - [epiphany]-->
+        <holiday endDate="2016-01-06" startDate="2016-01-06" workingday="false">Epifanía</holiday>
+        <!--[Maundy Thursday (except CT)] - [maundy_thursday__except_ct_]-->
+        <holiday endDate="2016-03-24" startDate="2016-03-24" workingday="false">Xoves santo</holiday>
+        <!--[Good Friday (Viernes Santo)] - [good_friday]-->
+        <holiday endDate="2016-03-25" startDate="2016-03-25" workingday="false">Venres santo</holiday>
+        <!--[Labour Day (Fiesta del Trabajo)] - [labor_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Día do traballo</holiday>
+        <!--[Assumption (Asunción de la Virgen)] - [assumption__asunci_n_de_la_virgen_]-->
+        <holiday endDate="2016-08-15" startDate="2016-08-15" workingday="false">Asunción</holiday>
+        <!--[Fiesta Nacional de España (National Day)] - [fiesta_nacional_de_espa_a__national_day_]-->
+        <holiday endDate="2016-10-12" startDate="2016-10-12" workingday="false">Festa Nacional de España</holiday>
+        <!--[All Saints' Day (Todos los Santos)] - [all_saints__day__todos_los_santos_]-->
+        <holiday endDate="2016-11-01" startDate="2016-11-01" workingday="false">Día de Todos os Santos</holiday>
+        <!--[Constitution Day (Día de la Constitución Española)] - [constitution_day__d_a_de_la_constituci_n_espa_ola_]-->
+        <holiday endDate="2016-12-06" startDate="2016-12-06" workingday="false">Día da Constitución</holiday>
+        <!--[Immaculate Conception (Inmaculada Concepción)] - [immaculate_conception]-->
+        <holiday endDate="2016-12-08" startDate="2016-12-08" workingday="false">Día da Inmaculada Concepción</holiday>
+        <!--[Christmas (Natividad de Nuestro Señor)] - [christmas__natividad_de_nuestro_se_or_]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Nadal</holiday>
+    </holidays>
+</calendar>
+

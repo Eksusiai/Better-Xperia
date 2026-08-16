@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: en (English)
+ * Region: IE (Ireland)
+ *********************************************************************
+--><calendar language="en" region="IE" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">New Year's Day</holiday>
+        <!--[Saint Patrick's Day] - [saint_patrick_s_day]-->
+        <holiday endDate="2017-03-17" startDate="2017-03-17" workingday="false">Saint Patrick's Day</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">Easter Monday</holiday>
+        <!--[May Bank Holiday] - [may_bank_holiday]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">May Bank Holiday</holiday>
+        <!--[June Bank Holiday] - [june_bank_holiday]-->
+        <holiday endDate="2017-06-05" startDate="2017-06-05" workingday="false">June Bank Holiday</holiday>
+        <!--[August Bank Holiday] - [august_bank_holiday]-->
+        <holiday endDate="2017-08-07" startDate="2017-08-07" workingday="false">August Bank Holiday</holiday>
+        <!--[October Bank Holiday] - [october_bank_holiday]-->
+        <holiday endDate="2017-10-30" startDate="2017-10-30" workingday="false">October Bank Holiday</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Christmas Day</holiday>
+        <!--[Saint Stephen's Day] - [saint_stephen_s_day]-->
+        <holiday endDate="2017-12-26" startDate="2017-12-26" workingday="false">Saint Stephen's Day</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">New Year's Day</holiday>
+        <!--[Saint Patrick's Day] - [saint_patrick_s_day]-->
+        <holiday endDate="2016-03-17" startDate="2016-03-17" workingday="false">Saint Patrick's Day</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2016-03-28" startDate="2016-03-28" workingday="false">Easter Monday</holiday>
+        <!--[May Bank Holiday] - [may_bank_holiday]-->
+        <holiday endDate="2016-05-02" startDate="2016-05-02" workingday="false">May Bank Holiday</holiday>
+        <!--[June Bank Holiday] - [june_bank_holiday]-->
+        <holiday endDate="2016-06-06" startDate="2016-06-06" workingday="false">June Bank Holiday</holiday>
+        <!--[August Bank Holiday] - [august_bank_holiday]-->
+        <holiday endDate="2016-08-01" startDate="2016-08-01" workingday="false">August Bank Holiday</holiday>
+        <!--[October Bank Holiday] - [october_bank_holiday]-->
+        <holiday endDate="2016-10-31" startDate="2016-10-31" workingday="false">October Bank Holiday</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Christmas Day</holiday>
+        <!--[Saint Stephen's Day] - [saint_stephen_s_day]-->
+        <holiday endDate="2016-12-26" startDate="2016-12-26" workingday="false">Saint Stephen's Day</holiday>
+    </holidays>
+</calendar>
+

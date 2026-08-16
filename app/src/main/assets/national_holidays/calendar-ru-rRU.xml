@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: ru (Russian)
+ * Region: RU (Russian Federation)
+ *********************************************************************
+--><calendar language="ru" region="RU" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day (celebration)] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Новый год</holiday>
+        <!--[New Year's Day (day in lieu)] - [new_year_s_day]-->
+        <holiday endDate="2017-01-02" startDate="2017-01-02" workingday="false">Новый год</holiday>
+        <!--[New Year's Holiday] - [new_year_s_holiday]-->
+        <holiday endDate="2017-01-03" startDate="2017-01-03" workingday="false">Новогодние каникулы</holiday>
+        <!--[New Year's Holiday] - [new_year_s_holiday]-->
+        <holiday endDate="2017-01-04" startDate="2017-01-04" workingday="false">Новогодние каникулы</holiday>
+        <!--[New Year's Holiday] - [new_year_s_holiday]-->
+        <holiday endDate="2017-01-05" startDate="2017-01-05" workingday="false">Новогодние каникулы</holiday>
+        <!--[New Year's Holiday] - [new_year_s_holiday]-->
+        <holiday endDate="2017-01-06" startDate="2017-01-06" workingday="false">Новогодние каникулы</holiday>
+        <!--[Orthodox Christmas Day (celebration)] - [orthodox_christmas_day__celebration_]-->
+        <holiday endDate="2017-01-07" startDate="2017-01-07" workingday="false">Православное Рождество (праздничный день)</holiday>
+        <!--[Orthodox Christmas Holiday (day in lieu)] - [orthodox_christmas_holiday__day_in_lieu_]-->
+        <holiday endDate="2017-01-09" startDate="2017-01-09" workingday="false">Православное Рождество (компенсационный день)</holiday>
+        <!--[Motherland Defenders' Day] - [motherland_defenders__day]-->
+        <holiday endDate="2017-02-23" startDate="2017-02-23" workingday="false">День защитника отечества</holiday>
+        <!--[Women's Day] - [women_s_day]-->
+        <holiday endDate="2017-03-08" startDate="2017-03-08" workingday="false">Международный женский день</holiday>
+        <!--[Labor Day] - [labor_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">День труда</holiday>
+        <!--[Victory Day] - [victory_day]-->
+        <holiday endDate="2017-05-09" startDate="2017-05-09" workingday="false">День победы</holiday>
+        <!--[Russia Day] - [russia_day]-->
+        <holiday endDate="2017-06-12" startDate="2017-06-12" workingday="false">День России</holiday>
+        <!--[Unity Day (celebration)] - [unity_day__celebration_]-->
+        <holiday endDate="2017-11-04" startDate="2017-11-04" workingday="false">День народного единства (праздник)</holiday>
+        <!--[Unity Day Holiday (day in lieu)] - [unity_day_holiday__day_in_lieu_]-->
+        <holiday endDate="2017-11-06" startDate="2017-11-06" workingday="false">День народного единства (выходной)</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Новый год</holiday>
+        <!--[New Year's Holiday] - [new_year_s_holiday]-->
+        <holiday endDate="2016-01-04" startDate="2016-01-04" workingday="false">Новогодние каникулы</holiday>
+        <!--[New Year's Holiday] - [new_year_s_holiday]-->
+        <holiday endDate="2016-01-05" startDate="2016-01-05" workingday="false">Новогодние каникулы</holiday>
+        <!--[New Year's Holiday] - [new_year_s_holiday]-->
+        <holiday endDate="2016-01-06" startDate="2016-01-06" workingday="false">Новогодние каникулы</holiday>
+        <!--[Orthodox Christmas Day] - [orthodox_christmas_day]-->
+        <holiday endDate="2016-01-07" startDate="2016-01-07" workingday="false">Православное рождество</holiday>
+        <!--[New Year's Holiday] - [new_year_s_holiday]-->
+        <holiday endDate="2016-01-08" startDate="2016-01-08" workingday="false">Новогодние каникулы</holiday>
+        <!--[Public Holiday (workday moved to Sat. Feb. 20)] - [public_holiday__workday_moved_to_sat__feb__20_]-->
+        <holiday endDate="2016-02-22" startDate="2016-02-22" workingday="false">Государственный праздник (рабочий день переносится на субботу, 20 февраля)</holiday>
+        <!--[Motherland Defenders' Day] - [motherland_defenders__day]-->
+        <holiday endDate="2016-02-23" startDate="2016-02-23" workingday="false">День защитника отечества</holiday>
+        <!--[Public Holiday] - [public_holiday]-->
+        <holiday endDate="2016-03-07" startDate="2016-03-07" workingday="false">Выходной</holiday>
+        <!--[Women's Day] - [women_s_day]-->
+        <holiday endDate="2016-03-08" startDate="2016-03-08" workingday="false">Международный женский день</holiday>
+        <!--[Labor Day (celebration)] - [labor_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">День труда</holiday>
+        <!--[Labor Day Holiday (day in lieu)] - [labor_day]-->
+        <holiday endDate="2016-05-02" startDate="2016-05-02" workingday="false">День труда</holiday>
+        <!--[Public Holiday] - [public_holiday]-->
+        <holiday endDate="2016-05-03" startDate="2016-05-03" workingday="false">Выходной</holiday>
+        <!--[Victory Day] - [victory_day]-->
+        <holiday endDate="2016-05-09" startDate="2016-05-09" workingday="false">День победы</holiday>
+        <!--[Russia Day (celebration)] - [russia_day__celebration_]-->
+        <holiday endDate="2016-06-12" startDate="2016-06-12" workingday="false">День России (праздник)</holiday>
+        <!--[Russia Day Holiday (day in lieu)] - [russia_day_holiday__day_in_lieu_]-->
+        <holiday endDate="2016-06-13" startDate="2016-06-13" workingday="false">День России (выходной)</holiday>
+        <!--[Unity Day] - [unity_day]-->
+        <holiday endDate="2016-11-04" startDate="2016-11-04" workingday="false">День народного единства</holiday>
+    </holidays>
+</calendar>
+

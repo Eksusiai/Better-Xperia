@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: bs (Bosnian)
+ * Region: BA (Bosnia and Herzegovina)
+ *********************************************************************
+--><calendar language="bs" region="BA" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Nova Godina</holiday>
+        <!--[New Year Holiday] - [new_year_holiday]-->
+        <holiday endDate="2017-01-02" startDate="2017-01-02" workingday="false">Novogodišnji praznici</holiday>
+        <!--[Labour Day] - [labor_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Dan rada</holiday>
+        <!--[Labour Day Holiday] - [labor_day]-->
+        <holiday endDate="2017-05-02" startDate="2017-05-02" workingday="false">Dan rada</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Nova Godina</holiday>
+        <!--[New Year Holiday] - [new_year_holiday]-->
+        <holiday endDate="2016-01-02" startDate="2016-01-02" workingday="false">Novogodišnji praznici</holiday>
+        <!--[Labour Day (celebration)] - [labor_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Dan rada</holiday>
+        <!--[Labour Day Holiday (day in lieu)] - [labor_day]-->
+        <holiday endDate="2016-05-02" startDate="2016-05-02" workingday="false">Dan rada</holiday>
+        <!--[Labour Day Holiday] - [labor_day]-->
+        <holiday endDate="2016-05-03" startDate="2016-05-03" workingday="false">Dan rada</holiday>
+    </holidays>
+</calendar>
+

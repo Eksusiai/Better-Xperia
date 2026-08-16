@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">Jedan dan</item>
+        <item quantity="other">Broj dana: %d</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 događaj</item>
+        <item quantity="other">Broj događaja: %d</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">Jedan sat</item>
+        <item quantity="other">%d h</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">Jedna minuta</item>
+        <item quantity="other">%d min</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">Jedna minuta</item>
+        <item quantity="other">%d min</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">stupanj</item>
+        <item quantity="other">stupnjeva</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">Starost: %d god.</item>
+        <item quantity="other">Starost: %d god.</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 zadatak</item>
+        <item quantity="other">Zadaci: %d</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">događaj</item>
+        <item quantity="other">događaji</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">Događaj je dodan</item>
+        <item quantity="other">Događaji su dodani</item>
+    </plurals>
+</resources>

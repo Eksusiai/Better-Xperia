@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 ദിവസം</item>
+        <item quantity="other">%d ദിവസം</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 സംഭവം</item>
+        <item quantity="other">%dസംഭവ.</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 മണിക്കൂര്‍</item>
+        <item quantity="other">%d മണിക്കൂര്‍</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 മിനിറ്റ്</item>
+        <item quantity="other">%d മിനിറ്റ്</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 മിനിറ്റ്</item>
+        <item quantity="other">%d മിനിറ്റ്</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">ഡിഗ്രി</item>
+        <item quantity="other">ഡിഗ്രികൾ</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d വയസ്സ്</item>
+        <item quantity="other">%d വർഷങ്ങൾ മുമ്പ്</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 ദൌ.</item>
+        <item quantity="other">%d ദൌ.</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">സംഭവം</item>
+        <item quantity="other">സംഭവങ്ങൾ</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">സംഭവം കൂട്ടിച്ചേർത്തു</item>
+        <item quantity="other">സംഭവങ്ങൾ കൂട്ടിച്ചേർത്തു</item>
+    </plurals>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 diena</item>
+        <item quantity="other">%d dienas</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 notikums</item>
+        <item quantity="other">%d notikumi</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 stunda</item>
+        <item quantity="other">%d stundas</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 min</item>
+        <item quantity="other">%d min</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 minūte</item>
+        <item quantity="other">%d minūtes</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">grāds</item>
+        <item quantity="other">grādi</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">Vecums: %d gads</item>
+        <item quantity="other">Vecums: %d gadi</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 uzdevums</item>
+        <item quantity="other">%d uzdevumi</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">notikums</item>
+        <item quantity="other">notikumi</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">Notikums pievienots</item>
+        <item quantity="other">Notikumi pievienoti</item>
+    </plurals>
+</resources>

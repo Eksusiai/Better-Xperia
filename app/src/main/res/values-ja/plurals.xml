@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1日前</item>
+        <item quantity="other">%d日前</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">予定1件</item>
+        <item quantity="other">予定%d件</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1時間前</item>
+        <item quantity="other">%d時間前</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1分前</item>
+        <item quantity="other">%d分前</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1分前</item>
+        <item quantity="other">%d分前</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">度</item>
+        <item quantity="other">度</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d歳</item>
+        <item quantity="other">%d歳</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1件のタスク</item>
+        <item quantity="other">%d件のタスク</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">予定</item>
+        <item quantity="other">予定</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">予定が追加されました</item>
+        <item quantity="other">予定が追加されました</item>
+    </plurals>
+</resources>

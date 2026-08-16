@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 deň</item>
+        <item quantity="other">Dní: %d</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 udalosť</item>
+        <item quantity="other">Počet udalostí: %d</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 hodina</item>
+        <item quantity="other">%d hod.</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 min</item>
+        <item quantity="other">%d min.</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 minúta</item>
+        <item quantity="other">%d min.</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">stupeň</item>
+        <item quantity="other">stupňov</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d rok</item>
+        <item quantity="other">%d rok.</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 úloha</item>
+        <item quantity="other">Úlohy: %d</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">udalosť</item>
+        <item quantity="other">udalosti</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">Udalosť pridaná</item>
+        <item quantity="other">Udalosti pridané</item>
+    </plurals>
+</resources>

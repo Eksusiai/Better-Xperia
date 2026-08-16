@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: es (Spanish; Castilian)
+ * Region: US (United States)
+ *********************************************************************
+--><calendar language="es" region="US" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Día de Año nuevo</holiday>
+        <!--[Martin Luther King Jr Day] - [martin_luther_king_jr_day]-->
+        <holiday endDate="2017-01-16" startDate="2017-01-16" workingday="false">Día de Martin Luther King Jr</holiday>
+        <!--[Memorial Day Holiday] - [memorial_day_holiday]-->
+        <holiday endDate="2017-05-29" startDate="2017-05-29" workingday="false">Feriado por el Día de la Conmemoración</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2017-07-04" startDate="2017-07-04" workingday="false">Día de la independencia</holiday>
+        <!--[Labor Day] - [labor_day]-->
+        <holiday endDate="2017-09-04" startDate="2017-09-04" workingday="false">Día del trabajador</holiday>
+        <!--[Thanksgiving Day] - [thanksgiving_day]-->
+        <holiday endDate="2017-11-23" startDate="2017-11-23" workingday="false">Día de Acción de Gracias</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Día de Navidad</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Día de Año nuevo</holiday>
+        <!--[Martin Luther King Jr Day] - [martin_luther_king_jr_day]-->
+        <holiday endDate="2016-01-18" startDate="2016-01-18" workingday="false">Día de Martin Luther King Jr</holiday>
+        <!--[Memorial Day] - [memorial_day]-->
+        <holiday endDate="2016-05-30" startDate="2016-05-30" workingday="false">Día de los Caídos</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2016-07-04" startDate="2016-07-04" workingday="false">Día de la independencia</holiday>
+        <!--[Labor Day] - [labor_day]-->
+        <holiday endDate="2016-09-05" startDate="2016-09-05" workingday="false">Día del trabajador</holiday>
+        <!--[Thanksgiving Day] - [thanksgiving_day]-->
+        <holiday endDate="2016-11-24" startDate="2016-11-24" workingday="false">Día de Acción de Gracias</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Día de Navidad</holiday>
+    </holidays>
+</calendar>
+

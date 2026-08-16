@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference
+        android:title="@string/preferences_weather_home_location"
+        android:key="preferences_weather_location"
+        android:summary="@string/preferences_weather_current_location_description"/>
+    <ListPreference
+        android:entries="@array/preferences_weather_unit"
+        android:title="@string/clr_strings_weather_unit_settings"
+        android:key="preferences_weather_unit"
+        android:defaultValue="@string/preferences_default_weather_unit"
+        android:dialogTitle="@string/clr_strings_weather_unit_settings"
+        android:entryValues="@array/preferences_weather_units"/>
+    <ListPreference
+        android:entries="@array/preferences_weather_update_interval"
+        android:title="@string/clr_strings_weather_update_settings"
+        android:key="preferences_weather_update"
+        android:defaultValue="@string/preferences_default_weather_update"
+        android:dialogTitle="@string/clr_strings_weather_update_settings"
+        android:entryValues="@array/preferences_weather_update_values"/>
+</PreferenceScreen>

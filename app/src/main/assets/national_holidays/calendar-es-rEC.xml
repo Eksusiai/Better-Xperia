@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: es (Spanish; Castilian)
+ * Region: EC (Ecuador)
+ *********************************************************************
+--><calendar language="es" region="EC" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Día de Año nuevo</holiday>
+        <!--[Carnaval (workday moved to Sat. Mar. 4)] - [carnaval__workday_moved_to_sat__mar__4_]-->
+        <holiday endDate="2017-02-27" startDate="2017-02-27" workingday="false">Carnaval (día laboral trasladado al sábado 4 de marzo)</holiday>
+        <!--[Carnaval (workday moved to Sat. Mar. 11)] - [carnaval__workday_moved_to_sat__mar__11_]-->
+        <holiday endDate="2017-02-28" startDate="2017-02-28" workingday="false">Carnaval (día laboral trasladado al sábado 11 de marzo)</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2017-04-14" startDate="2017-04-14" workingday="false">Viernes Santo</holiday>
+        <!--[Labor Day] - [labor_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Día del trabajador</holiday>
+        <!--[Battle of Pichincha Holiday] - [battle_of_pichincha_holiday]-->
+        <holiday endDate="2017-05-26" startDate="2017-05-26" workingday="false">Feriado de la Batalla de Pichincha</holiday>
+        <!--[National Day Holiday] - [national_day_holiday]-->
+        <holiday endDate="2017-08-11" startDate="2017-08-11" workingday="false">Día de asueto nacional</holiday>
+        <!--[Guayaquil Independence Day] - [guayaquil_independence_day]-->
+        <holiday endDate="2017-10-09" startDate="2017-10-09" workingday="false">Día de la Independencia de Guayaquil</holiday>
+        <!--[All Souls' Day] - [all_souls__day]-->
+        <holiday endDate="2017-11-02" startDate="2017-11-02" workingday="false">Día de Todas los Santos</holiday>
+        <!--[Cuenca Independence Day] - [cuenca_independence_day]-->
+        <holiday endDate="2017-11-03" startDate="2017-11-03" workingday="false">Día de la Independencia de Cuenca</holiday>
+        <!--[Christmas] - [christmas]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Navidad</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Día de Año nuevo</holiday>
+        <!--[Carnaval (workday moved to Sat. Feb. 13)] - [carnaval__workday_moved_to_sat__feb__13_]-->
+        <holiday endDate="2016-02-08" startDate="2016-02-08" workingday="false">Carnaval (el día laboral se trasladó al sábado 13 de febrero)</holiday>
+        <!--[Carnaval (workday moved to Sat. Feb. 20)] - [carnaval__workday_moved_to_sat__feb__20_]-->
+        <holiday endDate="2016-02-09" startDate="2016-02-09" workingday="false">Carnaval (el día laboral se trasladó al sábado 20 de febrero)</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2016-03-25" startDate="2016-03-25" workingday="false">Viernes Santo</holiday>
+        <!--[Labor Day] - [labor_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Día del trabajador</holiday>
+        <!--[Battle of Pichincha Holiday] - [battle_of_pichincha_holiday]-->
+        <holiday endDate="2016-05-27" startDate="2016-05-27" workingday="false">Feriado de la Batalla de Pichincha</holiday>
+        <!--[National Day Holiday] - [national_day_holiday]-->
+        <holiday endDate="2016-08-12" startDate="2016-08-12" workingday="false">Día de asueto nacional</holiday>
+        <!--[Guayaquil Independence Day] - [guayaquil_independence_day]-->
+        <holiday endDate="2016-10-09" startDate="2016-10-09" workingday="false">Día de la Independencia de Guayaquil</holiday>
+        <!--[All Souls' Day] - [all_souls__day]-->
+        <holiday endDate="2016-11-02" startDate="2016-11-02" workingday="false">Día de Todas los Santos</holiday>
+        <!--[Cuenca Independence Day] - [cuenca_independence_day]-->
+        <holiday endDate="2016-11-03" startDate="2016-11-03" workingday="false">Día de la Independencia de Cuenca</holiday>
+        <!--[Public Holiday] - [public_holiday]-->
+        <holiday endDate="2016-11-04" startDate="2016-11-04" workingday="false">Feriado público</holiday>
+        <!--[Christmas] - [christmas]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Navidad</holiday>
+    </holidays>
+</calendar>
+

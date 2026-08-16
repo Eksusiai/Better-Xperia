@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<overlay-resources>
+    <filter-group group="color">
+        <filter
+            type="type"
+            value="color"/>
+    </filter-group>
+    <overlay
+        filters="color"
+        id="@color/local_accent_color_light"/>
+    <overlay
+        filters="color"
+        id="@color/local_primary_color_light"/>
+    <overlay
+        filters="color"
+        id="@color/local_primarydark_color_light"/>
+    <overlay
+        filters="color"
+        id="@color/local_accent_color_dark"/>
+    <overlay
+        filters="color"
+        id="@color/local_primary_color_dark"/>
+    <overlay
+        filters="color"
+        id="@color/local_primarydark_color_dark"/>
+    <overlay id="@bool/local_boolean_app_draws_system_bar_backgrounds"/>
+</overlay-resources>

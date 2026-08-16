@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingStart="@dimen/calendar_left_panel_width"
+    android:paddingEnd="@dimen/month_margin">
+    <ViewSwitcher
+        android:id="@+id/switcher"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/header_margin_top"/>
+    <include
+        android:id="@+id/refresh_bar"
+        android:visibility="gone"
+        layout="@layout/refresh_bar"/>
+</FrameLayout>

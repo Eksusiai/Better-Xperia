@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:gravity="center"
+        android:id="@+id/today_icon_background"
+        android:drawable="@drawable/ic_menu_today_dynamic"
+        android:right="5dp"/>
+    <item
+        android:gravity="center"
+        android:id="@+id/today_icon_day"
+        android:drawable="@drawable/ic_menu_today_dynamic"
+        android:right="5dp"/>
+</layer-list>

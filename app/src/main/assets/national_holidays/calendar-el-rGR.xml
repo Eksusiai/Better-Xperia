@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: el (Greek, Modern)
+ * Region: GR (Greece)
+ *********************************************************************
+--><calendar language="el" region="GR" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Πρωτοχρονιά</holiday>
+        <!--[Epiphany] - [epiphany]-->
+        <holiday endDate="2017-01-06" startDate="2017-01-06" workingday="false">Θεοφάνεια</holiday>
+        <!--[Ash Monday / Clean Monday (Kathara Deftera)] - [ash_monday___clean_monday__kathara_deftera_]-->
+        <holiday endDate="2017-02-27" startDate="2017-02-27" workingday="false">Καθαρά Δευτέρα</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2017-03-25" startDate="2017-03-25" workingday="false">Ημέρα Ανεξαρτησίας</holiday>
+        <!--[Orthodox Good Friday] - [orthodox_good_friday]-->
+        <holiday endDate="2017-04-14" startDate="2017-04-14" workingday="false">Μεγάλη Παρασκευή</holiday>
+        <!--[Orthodox Easter (Pascha)] - [orthodox_easter__pascha_]-->
+        <holiday endDate="2017-04-16" startDate="2017-04-16" workingday="false">Κυριακή του Πάσχα</holiday>
+        <!--[Orthodox Easter Monday] - [orthodox_easter_monday]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">Δευτέρα του Πάσχα</holiday>
+        <!--[May Day] - [may_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Πρωτομαγιά</holiday>
+        <!--[Orthodox Whit Sunday] - [orthodox_whit_sunday]-->
+        <holiday endDate="2017-06-04" startDate="2017-06-04" workingday="false">Πεντηκοστή</holiday>
+        <!--[Orthodox Whit Monday] - [orthodox_whit_monday]-->
+        <holiday endDate="2017-06-05" startDate="2017-06-05" workingday="false">Αγίου Πνεύματος</holiday>
+        <!--[Assumption Day (Dormition)] - [assumption_day__dormition_]-->
+        <holiday endDate="2017-08-15" startDate="2017-08-15" workingday="false">Κοίμηση της Θεοτόκου</holiday>
+        <!--[Ochi Day (National Day)] - [ochi_day__national_day_]-->
+        <holiday endDate="2017-10-28" startDate="2017-10-28" workingday="false">Επέτειος του "Όχι"</holiday>
+        <!--[Christmas Day (Christougenna)] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Χριστούγεννα</holiday>
+        <!--[Second Day of Christmas] - [second_day_of_christmas]-->
+        <holiday endDate="2017-12-26" startDate="2017-12-26" workingday="false">Δεύτερη ημέρα των Χριστουγέννων</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Πρωτοχρονιά</holiday>
+        <!--[Epiphany] - [epiphany]-->
+        <holiday endDate="2016-01-06" startDate="2016-01-06" workingday="false">Θεοφάνεια</holiday>
+        <!--[Ash Monday / Clean Monday (Kathara Deftera)] - [ash_monday___clean_monday__kathara_deftera_]-->
+        <holiday endDate="2016-03-14" startDate="2016-03-14" workingday="false">Καθαρά Δευτέρα</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2016-03-25" startDate="2016-03-25" workingday="false">Ημέρα Ανεξαρτησίας</holiday>
+        <!--[Orthodox Good Friday] - [orthodox_good_friday]-->
+        <holiday endDate="2016-04-29" startDate="2016-04-29" workingday="false">Μεγάλη Παρασκευή</holiday>
+        <!--[May Day (may move to May 3rd)] - [may_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Πρωτομαγιά</holiday>
+        <!--[Orthodox Easter (Pascha)] - [orthodox_easter__pascha_]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Κυριακή του Πάσχα</holiday>
+        <!--[Orthodox Easter Monday] - [orthodox_easter_monday]-->
+        <holiday endDate="2016-05-02" startDate="2016-05-02" workingday="false">Δευτέρα του Πάσχα</holiday>
+        <!--[Orthodox Whit Sunday] - [orthodox_whit_sunday]-->
+        <holiday endDate="2016-06-19" startDate="2016-06-19" workingday="false">Πεντηκοστή</holiday>
+        <!--[Orthodox Whit Monday] - [orthodox_whit_monday]-->
+        <holiday endDate="2016-06-20" startDate="2016-06-20" workingday="false">Αγίου Πνεύματος</holiday>
+        <!--[Assumption Day (Dormition)] - [assumption_day__dormition_]-->
+        <holiday endDate="2016-08-15" startDate="2016-08-15" workingday="false">Κοίμηση της Θεοτόκου</holiday>
+        <!--[Ochi Day (National Day)] - [ochi_day__national_day_]-->
+        <holiday endDate="2016-10-28" startDate="2016-10-28" workingday="false">Επέτειος του "Όχι"</holiday>
+        <!--[Christmas Day (Christougenna)] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Χριστούγεννα</holiday>
+        <!--[Second Day of Christmas] - [second_day_of_christmas]-->
+        <holiday endDate="2016-12-26" startDate="2016-12-26" workingday="false">Δεύτερη ημέρα των Χριστουγέννων</holiday>
+    </holidays>
+</calendar>
+

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: cs (Czech)
+ * Region: CZ (Czech Republic)
+ *********************************************************************
+--><calendar language="cs" region="CZ" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Nový Rok</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2017-04-14" startDate="2017-04-14" workingday="false">Velký pátek</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2017-04-17" startDate="2017-04-17" workingday="false">Velikonoční pondělí</holiday>
+        <!--[May Day] - [may_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Svátek práce</holiday>
+        <!--[Liberation Day] - [liberation_day]-->
+        <holiday endDate="2017-05-08" startDate="2017-05-08" workingday="false">Den osvobození</holiday>
+        <!--[Saints Cyril and Methodius' Day] - [saints_cyril_and_methodius__day]-->
+        <holiday endDate="2017-07-05" startDate="2017-07-05" workingday="false">Den slovanských věrozvěstů Cyrila a Metoděje</holiday>
+        <!--[Jan Hus Day] - [jan_hus_day]-->
+        <holiday endDate="2017-07-06" startDate="2017-07-06" workingday="false">Den upálení mistra Jana Husa</holiday>
+        <!--[Czech Statehood Day] - [czech_statehood_day]-->
+        <holiday endDate="2017-09-28" startDate="2017-09-28" workingday="false">Den české státnosti</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2017-10-28" startDate="2017-10-28" workingday="false">Den nezávislosti</holiday>
+        <!--[Freedom and Democracy Day] - [freedom_and_democracy_day]-->
+        <holiday endDate="2017-11-17" startDate="2017-11-17" workingday="false">Den boje za svobodu a demokracii</holiday>
+        <!--[Christmas Eve] - [christmas_eve]-->
+        <holiday endDate="2017-12-24" startDate="2017-12-24" workingday="false">Štědrý den</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">1.svátek vánoční</holiday>
+        <!--[Second Day of Christmas] - [second_day_of_christmas]-->
+        <holiday endDate="2017-12-26" startDate="2017-12-26" workingday="false">2.svátek vánoční</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Nový Rok</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2016-03-25" startDate="2016-03-25" workingday="false">Velký pátek</holiday>
+        <!--[Easter Monday] - [easter_monday]-->
+        <holiday endDate="2016-03-28" startDate="2016-03-28" workingday="false">Velikonoční pondělí</holiday>
+        <!--[May Day] - [may_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Svátek práce</holiday>
+        <!--[Liberation Day] - [liberation_day]-->
+        <holiday endDate="2016-05-08" startDate="2016-05-08" workingday="false">Den osvobození</holiday>
+        <!--[Saints Cyril and Methodius' Day] - [saints_cyril_and_methodius__day]-->
+        <holiday endDate="2016-07-05" startDate="2016-07-05" workingday="false">Den slovanských věrozvěstů Cyrila a Metoděje</holiday>
+        <!--[Jan Hus Day] - [jan_hus_day]-->
+        <holiday endDate="2016-07-06" startDate="2016-07-06" workingday="false">Den upálení mistra Jana Husa</holiday>
+        <!--[Czech Statehood Day] - [czech_statehood_day]-->
+        <holiday endDate="2016-09-28" startDate="2016-09-28" workingday="false">Den české státnosti</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2016-10-28" startDate="2016-10-28" workingday="false">Den nezávislosti</holiday>
+        <!--[Freedom and Democracy Day] - [freedom_and_democracy_day]-->
+        <holiday endDate="2016-11-17" startDate="2016-11-17" workingday="false">Den boje za svobodu a demokracii</holiday>
+        <!--[Christmas Eve] - [christmas_eve]-->
+        <holiday endDate="2016-12-24" startDate="2016-12-24" workingday="false">Štědrý den</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">1.svátek vánoční</holiday>
+        <!--[Second Day of Christmas] - [second_day_of_christmas]-->
+        <holiday endDate="2016-12-26" startDate="2016-12-26" workingday="false">2.svátek vánoční</holiday>
+    </holidays>
+</calendar>
+

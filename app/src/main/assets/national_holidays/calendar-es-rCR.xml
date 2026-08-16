@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+/*********************************************************************
+ * © 2021 Sony Corporation                *
+ * All rights, including trade secret rights, reserved.              *
+
+ * Language: es (Spanish; Castilian)
+ * Region: CR (Costa Rica)
+ *********************************************************************
+--><calendar language="es" region="CR" xmlns="http://update.sonymobile.com/l10n/calendar_1.0">
+    <holidays>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2017-01-01" startDate="2017-01-01" workingday="false">Día de Año nuevo</holiday>
+        <!--[Juan Santamaria Day] - [juan_santamaria_day]-->
+        <holiday endDate="2017-04-11" startDate="2017-04-11" workingday="false">Día de Juan Santamaria</holiday>
+        <!--[Maundy Thursday] - [maundy_thursday]-->
+        <holiday endDate="2017-04-13" startDate="2017-04-13" workingday="false">Jueves Santo</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2017-04-14" startDate="2017-04-14" workingday="false">Viernes Santo</holiday>
+        <!--[Labor Day] - [labor_day]-->
+        <holiday endDate="2017-05-01" startDate="2017-05-01" workingday="false">Día del trabajador</holiday>
+        <!--[Guanacaste Day] - [guanacaste_day]-->
+        <holiday endDate="2017-07-25" startDate="2017-07-25" workingday="false">Día de Guanacaste</holiday>
+        <!--[Lady of the Angels' Day] - [lady_of_the_angels__day]-->
+        <holiday endDate="2017-08-02" startDate="2017-08-02" workingday="false">Día de Nuestra Señora de los Ángeles</holiday>
+        <!--[Mothers' Day / Assumption] - [mothers__day___assumption]-->
+        <holiday endDate="2017-08-15" startDate="2017-08-15" workingday="false">Día de la Madre/Asunción</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2017-09-15" startDate="2017-09-15" workingday="false">Día de la independencia</holiday>
+        <!--[Feriado del Encuentro de las Culturas] - [feriado_del_encuentro_de_las_culturas]-->
+        <holiday endDate="2017-10-16" startDate="2017-10-16" workingday="false">Feriado del encuentro de las culturas</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2017-12-25" startDate="2017-12-25" workingday="false">Día de Navidad</holiday>
+        <!--[New Year's Day] - [new_year_s_day]-->
+        <holiday endDate="2016-01-01" startDate="2016-01-01" workingday="false">Día de Año nuevo</holiday>
+        <!--[Maundy Thursday] - [maundy_thursday]-->
+        <holiday endDate="2016-03-24" startDate="2016-03-24" workingday="false">Jueves Santo</holiday>
+        <!--[Good Friday] - [good_friday]-->
+        <holiday endDate="2016-03-25" startDate="2016-03-25" workingday="false">Viernes Santo</holiday>
+        <!--[Juan Santamaria Day] - [juan_santamaria_day]-->
+        <holiday endDate="2016-04-11" startDate="2016-04-11" workingday="false">Día de Juan Santamaria</holiday>
+        <!--[Labor Day] - [labor_day]-->
+        <holiday endDate="2016-05-01" startDate="2016-05-01" workingday="false">Día del trabajador</holiday>
+        <!--[Guanacaste Day] - [guanacaste_day]-->
+        <holiday endDate="2016-07-25" startDate="2016-07-25" workingday="false">Día de Guanacaste</holiday>
+        <!--[Lady of the Angels' Day] - [lady_of_the_angels__day]-->
+        <holiday endDate="2016-08-02" startDate="2016-08-02" workingday="false">Día de Nuestra Señora de los Ángeles</holiday>
+        <!--[Mothers' Day / Assumption] - [mothers__day___assumption]-->
+        <holiday endDate="2016-08-15" startDate="2016-08-15" workingday="false">Día de la Madre/Asunción</holiday>
+        <!--[Independence Day] - [independence_day]-->
+        <holiday endDate="2016-09-15" startDate="2016-09-15" workingday="false">Día de la independencia</holiday>
+        <!--[Feriado del Encuentro de las Culturas] - [feriado_del_encuentro_de_las_culturas]-->
+        <holiday endDate="2016-10-17" startDate="2016-10-17" workingday="false">Feriado del encuentro de las culturas</holiday>
+        <!--[Christmas Day] - [christmas_day]-->
+        <holiday endDate="2016-12-25" startDate="2016-12-25" workingday="false">Día de Navidad</holiday>
+    </holidays>
+</calendar>
+

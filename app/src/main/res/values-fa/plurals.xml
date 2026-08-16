@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 روز</item>
+        <item quantity="other">%d روز</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 رویداد</item>
+        <item quantity="other">%d رویداد</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 ساعت</item>
+        <item quantity="other">%d ساعت</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 دقیقه</item>
+        <item quantity="other">%d دقیقه</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 دقیقه</item>
+        <item quantity="other">%d دقیقه</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">درجه</item>
+        <item quantity="other">درجه</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d سال</item>
+        <item quantity="other">%d سال</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 کار</item>
+        <item quantity="other">%d کار</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">رویداد</item>
+        <item quantity="other">رویداد</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">رویداد اضافه شد</item>
+        <item quantity="other">رویدادها اضافه شدند</item>
+    </plurals>
+</resources>

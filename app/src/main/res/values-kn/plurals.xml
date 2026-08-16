@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 ದಿನ</item>
+        <item quantity="other">%d ದಿನಗಳು</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 ಈವೆಂಟ್</item>
+        <item quantity="other">%d ಈವೆಂಟ್‌ಗಳು</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 ಗಂಟೆ</item>
+        <item quantity="other">%d ಗಂಟೆಗಳು</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 ನಿ</item>
+        <item quantity="other">%d ನಿಮಿಷಗಳು</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 ನಿಮಿಷ</item>
+        <item quantity="other">%d ನಿಮಿಷಗಳು</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">ಡಿಗ್ರಿ</item>
+        <item quantity="other">ಡಿಗ್ರಿಗಳು</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d ವರ್ಷ ವಯಸ್ಸು</item>
+        <item quantity="other">%d ವರ್ಷಗಳಷ್ಟು ವಯಸ್ಸು</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 ಕೆಲಸ</item>
+        <item quantity="other">%d ಕೆಲಸಗಳು</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">ಈವೆಂಟ್</item>
+        <item quantity="other">ಈವೆಂಟ್‌ಗಳು</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">ಈವೆಂಟ್ ಸೇರಿಸಲಾಗಿದೆ</item>
+        <item quantity="other">ಈವೆಂಟ್‌ಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ</item>
+    </plurals>
+</resources>

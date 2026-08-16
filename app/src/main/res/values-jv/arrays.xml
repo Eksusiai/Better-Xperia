@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="accepted_items">
+        <item>Bisa</item>
+        <item>Bokmenawa</item>
+        <item>Ora bisa</item>
+    </array>
+    <array name="accessibility_event_color_picker_colors">
+        <item>Kuning</item>
+        <item>Oranye</item>
+        <item>Abang</item>
+        <item>Burgundi</item>
+        <item>Jambon</item>
+        <item>Wungu</item>
+        <item>Soklat</item>
+        <item>Ijo nom</item>
+        <item>Ijo</item>
+        <item>Biru-ijo</item>
+        <item>Biru nom</item>
+        <item>Biru</item>
+    </array>
+    <array name="availability">
+        <item>Sibuk</item>
+        <item>Kasedhiya</item>
+        <item>Durung mesthi</item>
+    </array>
+    <array name="change_response_labels">
+        <item>Mung conto iki</item>
+        <item>Kabeh acara ing rangkean</item>
+    </array>
+    <array name="month_view_day_labels">
+        <item>S</item>
+        <item>S</item>
+        <item>R</item>
+        <item>K</item>
+        <item>J</item>
+        <item>S</item>
+        <item>M</item>
+    </array>
+    <array name="ordinal_labels">
+        <item>pertama</item>
+        <item>detik</item>
+        <item>katelu</item>
+        <item>kaping papat</item>
+        <item>termburi</item>
+    </array>
+    <array name="prefEntries_alerts_vibrateWhen">
+        <item>Mesthi</item>
+        <item>Mung ing mode Aja ganggu</item>
+        <item>Ora tau</item>
+    </array>
+    <array name="preferences_alert_type_labels">
+        <item>Tandha</item>
+        <item>Kabar baris status</item>
+        <item>Mati</item>
+    </array>
+    <array name="preferences_default_reminder_labels">
+        <item>Ora ana</item>
+        <item>5 menit</item>
+        <item>10 menit</item>
+        <item>15 menit</item>
+        <item>20 menit</item>
+        <item>25 menit</item>
+        <item>30 menit</item>
+        <item>45 menit</item>
+        <item>1 jam</item>
+        <item>2 jam</item>
+        <item>3 jam</item>
+        <item>12 jam</item>
+        <item>24 jam</item>
+        <item>2 dina</item>
+        <item>1 minggu</item>
+    </array>
+    <array name="preferences_week_days_labels">
+        <item>Mung dina kerja</item>
+        <item>7 dina</item>
+    </array>
+    <array name="quick_response_defaults">
+        <item>Mbukak sawise telat sawetara menit.</item>
+        <item>Enteni udakara 10 menit nganti aku tekan.</item>
+        <item>Mangga terusake lan wiwiti tanpa aku.</item>
+        <item>Nuwun sewu, aku ora bisa. Jadwal kudu diowahi maneh.</item>
+    </array>
+    <array name="reminder_minutes_labels">
+        <item>5 menit</item>
+        <item>10 menit</item>
+        <item>15 menit</item>
+        <item>20 menit</item>
+        <item>25 menit</item>
+        <item>30 menit</item>
+        <item>45 menit</item>
+        <item>1 jam</item>
+        <item>2 jam</item>
+        <item>3 jam</item>
+        <item>12 jam</item>
+        <item>24 jam</item>
+        <item>2 dina</item>
+        <item>1 minggu</item>
+    </array>
+    <array name="repeats_pattern">
+        <item>Padinan</item>
+        <item>Minggon</item>
+        <item>Wulanan</item>
+        <item>Taunan</item>
+    </array>
+    <array name="repeats_weekdays_no">
+        <item>Kaping pisanan</item>
+        <item>Detik</item>
+        <item>Kaping telu</item>
+        <item>Kaping papat</item>
+        <item>Kaping lima</item>
+    </array>
+    <array name="reply_items">
+        <item>Wales</item>
+        <item>Wales kabeh</item>
+        <item>Terusake</item>
+    </array>
+    <array name="response_labels1">
+        <item>(Ora ana respons)</item>
+        <item>Ya</item>
+        <item>Mungkin</item>
+        <item>Ora</item>
+    </array>
+    <array name="response_labels2">
+        <item>Ya</item>
+        <item>Mungkin</item>
+        <item>Ora</item>
+    </array>
+    <array name="timezone_labels">
+        <item>Kepulauan Marshall</item>
+        <item>Kepulauan Midway</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Wektu Pasifik</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Wektu Pegunungan</item>
+        <item>Amerika Tengah</item>
+        <item>Wektu Pusat</item>
+        <item>Kutha Meksiko</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>Wektu bag Timur</item>
+        <item>Venezuela</item>
+        <item>Wektu Atlantik</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Newfoundland</item>
+        <item>Brasil</item>
+        <item>Buenos Aires</item>
+        <item>Greenland</item>
+        <item>Montevideo</item>
+        <item>Atlantik Tengah</item>
+        <item>Azores</item>
+        <item>Kepulauan Cape Verde</item>
+        <item>Casablanca</item>
+        <item>London, Dublin</item>
+        <item>Amsterdam, Berlin</item>
+        <item>Belgrade</item>
+        <item>Brussels</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>Wektu Afrika Barat</item>
+        <item>Amman, Yordania</item>
+        <item>Athens, Istambul</item>
+        <item>Beirut, Lebanon</item>
+        <item>Kairo</item>
+        <item>Helsinki</item>
+        <item>Yerusalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Baghdad</item>
+        <item>Moskow</item>
+        <item>Kuwait</item>
+        <item>Nairobi</item>
+        <item>Teheran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Yerevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karachi</item>
+        <item>Uralsk</item>
+        <item>Yekaterinburg</item>
+        <item>Kolkata</item>
+        <item>Sri Lanka</item>
+        <item>Kathmandu</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Beijing</item>
+        <item>Hong Kong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Seoul</item>
+        <item>Tokyo, Osaka</item>
+        <item>Yakutsk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney, Canberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Tonga</item>
+    </array>
+    <array name="visibility">
+        <item>Gawan</item>
+        <item>Pribadi</item>
+        <item>Publik</item>
+    </array>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="one">1 დღე</item>
+        <item quantity="other">%dდღეები</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="one">1 მოვლენა</item>
+        <item quantity="other">%dმოვლენები</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 საათი</item>
+        <item quantity="other">%d საათები</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 წუთი</item>
+        <item quantity="other">%dწუთები</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="one">1 წუთი</item>
+        <item quantity="other">%dწუთები</item>
+    </plurals>
+    <plurals name="accessibility_degree_plural">
+        <item quantity="one">გრადუსი</item>
+        <item quantity="other">გრადუსები</item>
+    </plurals>
+    <plurals name="birthday_age">
+        <item quantity="one">%d წლის</item>
+        <item quantity="other">%d წლის</item>
+    </plurals>
+    <plurals name="number_tasks">
+        <item quantity="one">1 დავალება</item>
+        <item quantity="other">%dდავალებები</item>
+    </plurals>
+    <plurals name="plural_events">
+        <item quantity="one">მოვლენა</item>
+        <item quantity="other">მოვლენები</item>
+    </plurals>
+    <plurals name="vCal_toast_add_success">
+        <item quantity="one">მოვლენა დამატებულია</item>
+        <item quantity="other">მოვლენები დამატებულია</item>
+    </plurals>
+</resources>
