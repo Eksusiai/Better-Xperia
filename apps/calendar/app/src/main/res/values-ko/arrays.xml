@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="reminder_methods_labels">
+    <item msgid="5172236776878811487">"알림"</item>
+    <item msgid="1751151680520784746">"이메일"</item>
+    <item msgid="2658001219380695677">"SMS"</item>
+    <item msgid="7926918288165444873">"알람"</item>
+  </string-array>
+  <string-array name="availability">
+    <item msgid="454869065893453189">"바쁨"</item>
+    <item msgid="6228387173725732140">"한가함"</item>
+    <item msgid="2064426942462573474">"미정"</item>
+  </string-array>
+  <string-array name="response_labels1">
+    <item msgid="5605392595848194997">"응답 없음"</item>
+    <item msgid="3724434080904437698">"예"</item>
+    <item msgid="8854145743148992583">"미정"</item>
+    <item msgid="6174292185978948873">"아니요"</item>
+  </string-array>
+  <string-array name="delete_repeating_labels">
+    <item msgid="4208432367651646938">"이 일정만"</item>
+    <item msgid="1536401639805370405">"이번 및 향후 일정"</item>
+    <item msgid="7833229563617435430">"모든 일정"</item>
+  </string-array>
+  <string-array name="change_response_labels">
+    <item msgid="3466644709343519437">"이번 일정만"</item>
+    <item msgid="140670561403965380">"모든 반복 일정"</item>
+  </string-array>
+  <string-array name="buttons_list">
+    <item msgid="5917946202321434335">"일"</item>
+    <item msgid="6248480754959562740">"주"</item>
+    <item msgid="4298472806133153766">"월"</item>
+    <item msgid="5033084974413793845">"일정목록"</item>
+  </string-array>
+  <string-array name="preferences_skip_reminders_labels">
+    <item msgid="2285927842308686988">"거부한 경우에만 해당"</item>
+    <item msgid="6367412240524984286">"거부했거나 응답이 없는 경우만 해당"</item>
+  </string-array>
+  <string-array name="recurrence_freq">
+    <item msgid="3388478383574917007">"매일 반복"</item>
+    <item msgid="6300824484048337842">"매주 반복"</item>
+    <item msgid="189361731610816256">"매월 반복"</item>
+    <item msgid="8714177874112569158">"매년 반복"</item>
+  </string-array>
+  <string-array name="repeat_by_nth_sun">
+    <item msgid="143841313172233420">"매월 첫 번째 일요일"</item>
+    <item msgid="2557379346106451363">"매월 두 번째 일요일"</item>
+    <item msgid="7622144489915654132">"매월 세 번째 일요일"</item>
+    <item msgid="527152448137686021">"매월 네 번째 일요일"</item>
+    <item msgid="5057483608824759350">"매월 마지막 일요일"</item>
+  </string-array>
+  <string-array name="repeat_by_nth_mon">
+    <item msgid="7539974918997689048">"매월 첫 번째 월요일"</item>
+    <item msgid="4484275849072423978">"매월 두 번째 월요일"</item>
+    <item msgid="8956169860824371383">"매월 세 번째 월요일"</item>
+    <item msgid="6924403357659569326">"매월 네 번째 월요일"</item>
+    <item msgid="1379608815263472161">"매월 마지막 월요일"</item>
+  </string-array>
+  <string-array name="repeat_by_nth_tues">
+    <item msgid="8690802834039790777">"매월 첫 번째 화요일"</item>
+    <item msgid="9063613547307760928">"매월 두 번째 화요일"</item>
+    <item msgid="6688603328729208168">"매월 세 번째 화요일"</item>
+    <item msgid="6695206006961533357">"매월 네 번째 화요일"</item>
+    <item msgid="8619069174889809914">"매월 마지막 화요일"</item>
+  </string-array>
+  <string-array name="repeat_by_nth_wed">
+    <item msgid="3233850232075584386">"매월 첫 번째 수요일"</item>
+    <item msgid="5059722045367799217">"매월 두 번째 수요일"</item>
+    <item msgid="7986246648229272275">"매월 세 번째 수요일"</item>
+    <item msgid="9068566169348980801">"매월 네 번째 수요일"</item>
+    <item msgid="7976866743069062134">"매월 마지막 수요일"</item>
+  </string-array>
+  <string-array name="repeat_by_nth_thurs">
+    <item msgid="920673677566009313">"매월 첫 번째 목요일"</item>
+    <item msgid="4857419136007543270">"매월 두 번째 목요일"</item>
+    <item msgid="222044587450564839">"매월 세 번째 목요일"</item>
+    <item msgid="6197927556533030945">"매월 네 번째 목요일"</item>
+    <item msgid="1023326923033436905">"매월 마지막 목요일"</item>
+  </string-array>
+  <string-array name="repeat_by_nth_fri">
+    <item msgid="6534500380525126157">"매월 첫 번째 금요일"</item>
+    <item msgid="1935608297230506940">"매월 두 번째 금요일"</item>
+    <item msgid="4061877662049317599">"매월 세 번째 금요일"</item>
+    <item msgid="6856646749131820614">"매월 네 번째 금요일"</item>
+    <item msgid="6533513913914859794">"매월 마지막 금요일"</item>
+  </string-array>
+  <string-array name="repeat_by_nth_sat">
+    <item msgid="3556369572649948699">"매월 첫 번째 토요일"</item>
+    <item msgid="9130198690512925355">"매월 두 번째 토요일"</item>
+    <item msgid="4525736070844032405">"매월 세 번째 토요일"</item>
+    <item msgid="422053689531707709">"매월 네 번째 토요일"</item>
+    <item msgid="5499975799312474425">"매월 마지막 토요일"</item>
+  </string-array>
+
+  <string-array name="timezone_rename_labels">
+    <item msgid="4609638052107641231">"호주 중부 - NT"</item>
+    <item msgid="4345275500159159867">"호주 중부 - SA"</item>
+    <item msgid="6771274300523132094">"호주 동부 - QLD"</item>
+    <item msgid="4685547681424666687">"호주 동부 - NSW"</item>
+    <item msgid="5259393186526893961">"산지 표준시 - 도슨 크리크"</item>
+    <item msgid="5984634754870859705">"중앙 표준시 - 서스케처원"</item>
+    <item msgid="5340374311583423836">"동부 표준시 - 아티코칸"</item>
+    <item msgid="8922086438245451625">"대서양 표준시 - 퀘벡"</item>
+    <item msgid="8353677384517034413">"하와이 알류샨 - 하와이"</item>
+    <item msgid="6426791761018806420">"하와이 알류샨 - 알래스카"</item>
+    <item msgid="7076353182411415610">"태평양 표준시 - 메틀라카틀라"</item>
+    <item msgid="373990592918179890">"산지 표준시 - 애리조나"</item>
+    <item msgid="353899326999279114">"태평양 - 바하 칼리포니아"</item>
+    <item msgid="6432134534714673873">"산지 - 치와와"</item>
+    <item msgid="7629345735485663968">"중앙 - 타마울리파스"</item>
+    <item msgid="3874729044260979505">"산지 - 소노라"</item>
+    <item msgid="1106209575683600471">"동아프리카 시간"</item>
+    <item msgid="6538017087072480128">"대서양 표준시"</item>
+    <item msgid="6758957851822881177">"대서양 표준시"</item>
+    <item msgid="2477556470536619081">"동유럽 시간"</item>
+    <item msgid="7328461310893621937">"칼리닌그라드 시간"</item>
+    <item msgid="4212642599758736931">"아마존 - 혼도니아"</item>
+    <item msgid="2370319280810537375">"브라질리아 - 파라"</item>
+  </string-array>
+  <string-array name="backup_country_names">
+    <item msgid="9141777876082196578">"신트마르턴"</item>
+    <item msgid="5330962017221568054">"네덜란드령 카리브"</item>
+    <item msgid="1465164631761814300">"퀴라소"</item>
+    <item msgid="8972081011408691260">"남수단"</item>
+  </string-array>
+</resources>

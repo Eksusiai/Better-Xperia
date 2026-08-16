@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="BaseTheme" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorPrimary">@color/colorAccent</item>
+        <item name="colorSecondaryContainer">@color/colorSecondaryContainer</item>
+        <item name="android:statusBarColor">?android:colorBackground</item>
+        <item name="android:navigationBarColor">?android:colorBackground</item>
+    </style>
+
+    <!-- Inherit base theme to allow overriding Light Theme as per API levels -->
+    <style name="Theme.Etar" parent="BaseTheme">
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="CalendarAppThemeLightTeal" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:itemBackground">@android:color/white</item>
+        <item name="autoCompleteTextViewStyle">@style/actionbar_cursor</item>
+        <item name="calendarSpinnerDisabledTextColor">@color/calendar_item_disabled</item>
+    </style>
+
+    <style name="CalendarAppThemeDarkTeal" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/bg_dark</item>
+        <item name="actionBarPopupTheme">@style/ThemeOverlay.AppCompat.Dark</item>
+        <item name="android:itemBackground">@color/bg_dark</item>
+        <item name="calendarSpinnerDisabledTextColor">@color/calendar_item_disabled_dark</item>
+    </style>
+
+    <style name="CalendarAppThemeBlackTeal" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/bg_black</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/bg_black</item>
+        <item name="android:itemBackground">@color/bg_black</item>
+        <item name="calendarSpinnerDisabledTextColor">@color/calendar_item_disabled_black</item>
+    </style>
+
+</resources>

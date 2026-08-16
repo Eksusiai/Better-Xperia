@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="when_label">कहिले</string>
+    <string name="day_view">दिन</string>
+    <string name="week_view">हप्ता</string>
+    <string name="month_view">महिना</string>
+    <string name="event_create">नयाँ घटना</string>
+    <string name="event_delete">घटना मेट्नुहोस्</string>
+    <string name="calendar_refresh">ताजा पार्नुहोस्</string>
+    <string name="goto_today">आज</string>
+    <string name="today_at_time_fmt">आज &lt;xliff:g xmlns:xliff=\"urn:oasis:names:tc:xliff:document:1.2\" id=\"time_interval\"&gt;</string>
+    <string name="no_title_label">(शीर्षक छैन)</string>
+    <plurals name="Nminutes">
+        <item quantity="one">१ मिनेट</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> मिनेट</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="one">१ हप्ता</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> हप्ताहरु</item>
+    </plurals>
+    <string name="agenda_view">गर्नुपर्ने कार्य</string>
+    <string name="event_edit">घटना सम्पादन गर्नुहोस्</string>
+    <string name="share_label">सेयर्</string>
+    <string name="search">खोज्नुहोस्</string>
+    <string name="hide_controls">कन्ट्रोल लुकाउनुहोस्</string>
+    <string name="hint_what">घटनाको नाम</string>
+    <string name="hint_where">स्थान</string>
+    <string name="hint_attendees">पहुनाहरु</string>
+    <string name="alert_title">पात्रोको सुचनाहरु</string>
+    <string name="event_info_title">घटना हेर्नुहोस्</string>
+    <string name="event_info_title_invite">भेटघातको निम्तो</string>
+    <string name="edit_event_all_day_label">पुरा दिन</string>
+    <string name="edit_event_calendar_label">पात्रो</string>
+    <string name="privacy_label">गोपनीयता</string>
+    <string name="menu_preferences">सेटिङ्गस्</string>
+    <string name="view_settings">सेटिङ्गस् हेर्नुहोस्</string>
+    <string name="creating_event">घटना सिर्जना भयो ।</string>
+    <string name="saving_event">घटना बचत भयो ।</string>
+    <string name="offline_account_name">अफ्लाइन पात्रो</string>
+    <string name="preferences_menu_about">इटारको बारेमा</string>
+    <string name="preferences_list_add_offline_cancel">रद्द गर्नुहोस्</string>
+    <string name="preferences_list_add_offline_name">नाम</string>
+    <string name="preferences_list_add_offline_button">पात्रो थप्नुहोस्</string>
+    <string name="preferences_list_add_offline_message">अफ्लाइन पात्रो क्लाउडमा समक्रमण भएको छैन र तपाईको फोनमा मात्र उपलब्ध छ ।</string>
+    <string name="preferences_list_add_offline_error_empty">पात्रोको नाम हाल्नुहोस् !</string>
+    <string name="preferences_list_general">सामान्य सेटिङस्</string>
+    <string name="preferences_calendar_delete_cancel">रद्द गर्नुहोस्</string>
+    <string name="preferences_calendar_color_warning_title">चेतावनी</string>
+    <string name="preferences_calendar_color">रङ्ग</string>
+    <string name="preferences_calendar_display_name">नाम बदल्नुहोस्</string>
+    <string name="today">आज</string>
+    <string name="app_label">पात्रो</string>
+    <string name="tomorrow">भोलि</string>
+    <string name="calendar_color_picker_dialog_title">पात्रोको रङ्ग</string>
+    <string name="hint_description">विवरण</string>
+    <string name="choose_event_color_label">घटनाको लागि रङ्ग छान्नुहोस्</string>
+    <string name="tomorrow_at_time_fmt">भोलि <xliff:g id="time_interval">%s</xliff:g></string>
+    <plurals name="Ndays">
+        <item quantity="one">१ दिन</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> दिनहरु</item>
+    </plurals>
+    <string name="hint_time_zone_search" msgid="804776560897143016">"देशको नाम लेख्नुहोस्"</string>
+    <string name="searchview_description_clear" msgid="1603860069305867810">"प्रश्‍न हटाउनुहोस्"</string>
+    <string name="no_results_found" msgid="5475293015394772651">"कुनै परिणामहरू फेला परेन।"</string>
+    <string name="palestine_display_name" msgid="3485026339977302148">"प्यालेस्टाइन"</string>
+
+    <string name="more_string" msgid="643992135011109762">"+<xliff:g id="COUNT">%1$d</xliff:g>"</string>
+    <string name="copy_email" msgid="1084563757174121331">"इमेल ठेगाना कपी गर्नुहोस्"</string>
+    <string name="copy_number" msgid="8860802152973030914">"फोन नम्बरको कपी गर्नुहोस्"</string>
+    <string name="action_label" msgid="7172664623795021857">"फर्कनुहोस्"</string>
+    <string name="accessbility_suggestion_dropdown_opened" msgid="9015267358421989409">"सम्पर्क सुझाव खोलियो"</string>
+    <string name="accessbility_suggestion_dropdown_closed" msgid="91481373431329121">"कुनै पनि सुझाव उपलब्ध छैन"</string>
+    <string name="dropdown_delete_button_desc" msgid="4359394656487762022">"प्राप्तकर्ताहरूबाट <xliff:g id="CONTACT">%s</xliff:g> हटाउनुहोस्"</string>
+    <string name="chips_action_copy" msgid="6984158516334578792">"कपी गर्नुहोस्"</string>
+    <string name="chips_action_cancel" msgid="2582257014578396781">"रद्द गर्नुहोस्"</string>
+    <string name="chips_permission_text" msgid="5601284803674008863">"सम्पर्क सुझावहरूलाई अनुमति दिनुहोस्"</string>
+</resources>

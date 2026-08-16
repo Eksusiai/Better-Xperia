@@ -1,0 +1,13 @@
+Features:
+- Month view.
+- Week, day and agenda view.
+- Uses Android calendar storage to show all synchronized calendars.
+- Material Design.
+- Dark and light theme.
+- Support offline calendar.
+- Agenda widget.
+- Support sharing calendars via ICS and the ability to import/export from SD card.
+- Multilingual UI.
+
+Bugs and feedback: https://github.com/Etar-Group/Etar-Calendar/issues
+Source code: https://github.com/Etar-Group/Etar-Calendar

@@ -1,0 +1,12 @@
+Caracteristici:
+- Vizualizare lunară.
+- Vizualizarea săptămânii, a zilei și a agendei.
+- Utilizează sincronizarea calendarului Android.
+- Material Design.
+- Temă întunecată și ușoară.
+- Gratuit, open source și absolut fără reclame.
+- Suportă partajarea calendarelor prin ICS și posibilitatea de a importa/exporta de pe cardul SD.
+- UI multilingvă.
+
+Bug-uri și feedback: https://github.com/Etar-Group/Etar-Calendar/issues
+Cod sursă: https://github.com/Etar-Group/Etar-Calendar

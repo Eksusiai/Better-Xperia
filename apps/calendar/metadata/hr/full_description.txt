@@ -1,0 +1,13 @@
+Funkcije:
+- Prikaz mjeseca.
+- Prikaz tjedna, dana i agende.
+- Koristi Androidovu sinkronizaciju kalendara.
+- Material dizajn.
+- Tamna i svijetla tema.
+- Podrška za neumrežni kalendar.
+- Widget za agendu.
+- Podržava dijeljenje kalendara putem ICS-a i omogućuje uvoz/izvoz na SD karticu.
+- Višejezično sučelje.
+
+Greške i povratne informacije: https://github.com/Etar-Group/Etar-Calendar/issues
+Izvorni kod: https://github.com/Etar-Group/Etar-Calendar
